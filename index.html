@@ -1,6 +1,28 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Links</title>
+<script>
+  // 카카오톡 인앱 브라우저는 target="_blank"를 무시하고 같은 화면에서 이동시켜, 상품 링크를
+  // 눌렀다 돌아오면 링크트리가 아니라 토스/쿠팡 중간 페이지가 남아있는 문제가 있음(인앱 브라우저
+  // 자체의 제약, target=_blank로는 해결 불가). 카톡 안에서 열렸으면 즉시 외부 브라우저로 이동시켜
+  // 우회 — 외부 브라우저에서는 상품 링크가 정상적으로 새 탭에서 열려 이 페이지가 그대로 유지됨.
+  (function () {
+    var ua = navigator.userAgent.toLowerCase();
+    if (ua.indexOf("kakaotalk") === -1) return;
+    var url = location.href;
+    if (/iphone|ipad|ipod/.test(ua)) {
+      location.href = "kakaotalk://web/openExternal?url=" + encodeURIComponent(url);
+    } else {
+      location.href = "intent://" + url.replace(/^https?:\/\//, "") + "#Intent;scheme=https;end";
+    }
+  })();
+</script>
+<title>핫딜요정</title>
+<meta name="description" content="오늘 소개된 핫딜 모음" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="핫딜요정" />
+<meta property="og:description" content="오늘 소개된 핫딜 모음" />
+<meta property="og:url" content="https://hotdeal-fairy.github.io/hotdeal/" />
+<meta property="og:image" content="https://hotdeal-fairy.github.io/hotdeal/images/profile.jpg" />
 <link rel="stylesheet" href="style.css" />
 
 <main>
