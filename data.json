@@ -26,18 +26,12 @@
       "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
       "products": [
         {
-          "name": "상품명 예시 1",
-          "price": "29,000원",
-          "priceAt": "07.19 19:00",
-          "image": "https://placehold.co/300x300?text=Coupang+1",
-          "url": "https://example.com/coupang/1"
-        },
-        {
-          "name": "상품명 예시 2",
-          "price": "15,000원",
-          "priceAt": "07.18 09:40",
-          "image": "https://placehold.co/300x300?text=Coupang+2",
-          "url": "https://example.com/coupang/2"
+          "name": "필립스 무선 블루투스 이어폰 커널형 TAT1108 블랙 15시간 방수가능",
+          "price": "11,890원",
+          "priceAt": "07.15 22:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2eb4/fed02f759b748bea1f754131c4898e8a9802716bef1ac93fcb262b664302.jpg",
+          "url": "https://link.coupang.com/a/fpfVZ5hvb2",
+          "_ts": 1784122677.0265632
         }
       ]
     },
@@ -45,22 +39,7 @@
       "id": "toss",
       "name": "토스쇼핑",
       "disclosure": "이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
-      "products": [
-        {
-          "name": "상품명 예시 3",
-          "price": "42,000원",
-          "priceAt": "07.19 08:05",
-          "image": "https://placehold.co/300x300?text=Gmarket+1",
-          "url": "https://example.com/gmarket/1"
-        },
-        {
-          "name": "상품명 예시 4",
-          "price": "8,900원",
-          "priceAt": "07.17 20:22",
-          "image": "https://placehold.co/300x300?text=Gmarket+2",
-          "url": "https://example.com/gmarket/2"
-        }
-      ]
+      "products": []
     }
   ]
 }
