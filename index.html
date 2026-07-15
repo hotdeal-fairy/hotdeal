@@ -1,0 +1,122 @@
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Links</title>
+<link rel="stylesheet" href="style.css" />
+
+<main>
+  <div class="profile" id="profile"></div>
+
+  <div id="openchat"></div>
+
+  <div id="banners"></div>
+
+  <div class="mall-tabs" id="mall-tabs"></div>
+  <p class="mall-disclosure" id="mall-disclosure"></p>
+  <div id="products"></div>
+
+  <p class="status" id="status" hidden>불러오는 중 문제가 발생했어요.</p>
+</main>
+
+<script>
+  fetch("data.json")
+    .then((res) => res.json())
+    .then(render)
+    .catch(() => {
+      document.getElementById("status").hidden = false;
+    });
+
+  function render(data) {
+    if (data.theme?.accent) {
+      document.documentElement.style.setProperty("--accent", data.theme.accent);
+    }
+
+    const p = data.profile ?? {};
+    document.getElementById("profile").innerHTML = `
+      ${
+        p.avatar
+          ? `<div class="profile-avatar"><img src="${p.avatar}" alt="${p.name ?? ""}" /></div>`
+          : ""
+      }
+      <div class="profile-text">
+        <h1>${p.name ?? ""}</h1>
+        <p>${p.bio ?? ""}</p>
+      </div>
+    `;
+
+    const oc = data.openChat ?? {};
+    document.getElementById("openchat").innerHTML = oc.url
+      ? `
+        <a class="openchat-button" href="${oc.url}" target="_blank" rel="noopener">
+          ${oc.icon ?? "💬"} ${oc.title ?? "오픈채팅방 참여하기"}
+        </a>
+      `
+      : "";
+
+    document.getElementById("banners").innerHTML = `
+      <div class="banner-list">
+        ${(data.banners ?? [])
+          .map(
+            (banner, i) => `
+              <a class="banner-card banner-c${(i % 3) + 1}" href="${banner.url}" target="_blank" rel="noopener">
+                <strong>${banner.title ?? ""}</strong>
+                <small>${banner.description ?? ""}</small>
+              </a>
+            `
+          )
+          .join("")}
+      </div>
+    `;
+
+    const malls = data.malls ?? [];
+
+    document.getElementById("mall-tabs").innerHTML = malls
+      .map(
+        (mall, i) => `
+          <button class="mall-tab-btn${i === 0 ? " active" : ""}" data-mall="${mall.id}">
+            ${mall.name}
+          </button>
+        `
+      )
+      .join("");
+
+    document.getElementById("mall-tabs").addEventListener("click", (e) => {
+      const btn = e.target.closest(".mall-tab-btn");
+      if (!btn) return;
+      document
+        .querySelectorAll(".mall-tab-btn")
+        .forEach((b) => b.classList.toggle("active", b === btn));
+      renderMall(malls.find((m) => m.id === btn.dataset.mall));
+    });
+
+    function renderMall(mall) {
+      if (!mall) return;
+      document.getElementById("mall-disclosure").textContent = mall.disclosure ?? "";
+      document.getElementById("products").innerHTML = `
+        <div class="products-grid">
+          ${(mall.products ?? [])
+            .map(
+              (product) => `
+              <div class="product-card">
+                <a href="${product.url}" target="_blank" rel="noopener">
+                  <img src="${product.image}" alt="${product.name}" loading="lazy" />
+                </a>
+                <p class="product-name">${product.name}</p>
+                <p class="product-price-row">
+                  <span class="product-price">${product.price}</span>
+                  ${
+                    product.priceAt
+                      ? `<span class="product-price-at">${product.priceAt}</span>`
+                      : ""
+                  }
+                </p>
+              </div>
+            `
+            )
+            .join("")}
+        </div>
+      `;
+    }
+
+    renderMall(malls[0]);
+  }
+</script>

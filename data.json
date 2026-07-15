@@ -1,0 +1,66 @@
+{
+  "profile": {
+    "name": "핫딜요정",
+    "bio": "오늘 소개된 핫딜 모음",
+    "avatar": "images/profile.jpg"
+  },
+  "theme": {
+    "accent": "#6B35C8"
+  },
+  "openChat": {
+    "icon": "🔥",
+    "title": "놓치면 품절! 실시간 알림 받기",
+    "url": "https://open.kakao.com/o/exampleroom"
+  },
+  "banners": [
+    {
+      "title": "🎉 오픈 기념 전상품 20% 할인",
+      "description": "7월 31일까지 진행되는 오픈 이벤트",
+      "url": "https://example.com/event1"
+    }
+  ],
+  "malls": [
+    {
+      "id": "coupang",
+      "name": "쿠팡",
+      "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+      "products": [
+        {
+          "name": "상품명 예시 1",
+          "price": "29,000원",
+          "priceAt": "07.19 19:00",
+          "image": "https://placehold.co/300x300?text=Coupang+1",
+          "url": "https://example.com/coupang/1"
+        },
+        {
+          "name": "상품명 예시 2",
+          "price": "15,000원",
+          "priceAt": "07.18 09:40",
+          "image": "https://placehold.co/300x300?text=Coupang+2",
+          "url": "https://example.com/coupang/2"
+        }
+      ]
+    },
+    {
+      "id": "toss",
+      "name": "토스쇼핑",
+      "disclosure": "이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+      "products": [
+        {
+          "name": "상품명 예시 3",
+          "price": "42,000원",
+          "priceAt": "07.19 08:05",
+          "image": "https://placehold.co/300x300?text=Gmarket+1",
+          "url": "https://example.com/gmarket/1"
+        },
+        {
+          "name": "상품명 예시 4",
+          "price": "8,900원",
+          "priceAt": "07.17 20:22",
+          "image": "https://placehold.co/300x300?text=Gmarket+2",
+          "url": "https://example.com/gmarket/2"
+        }
+      ]
+    }
+  ]
+}
