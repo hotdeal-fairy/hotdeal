@@ -80,19 +80,12 @@ main {
 }
 
 .profile h1 {
-  font-size: 14px;
-  margin: 0 0 2px;
+  font-size: 16px;
+  margin: 0;
   font-weight: 700;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-}
-
-.profile p {
-  margin: 0;
-  color: var(--text-muted);
-  font-size: 12px;
-  line-height: 1.4;
 }
 
 @keyframes cta-breathe {

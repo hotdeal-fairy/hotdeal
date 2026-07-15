@@ -60,8 +60,7 @@
           : ""
       }
       <div class="profile-text">
-        <h1>${p.name ?? ""}</h1>
-        <p>${p.bio ?? ""}</p>
+        <h1>${p.name ?? ""}${p.bio ? `| ${p.bio}` : ""}</h1>
       </div>
     `;
 
