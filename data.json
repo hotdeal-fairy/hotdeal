@@ -47,7 +47,16 @@
       "id": "toss",
       "name": "토스쇼핑",
       "disclosure": "이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
-      "products": []
+      "products": [
+        {
+          "name": "POLIIN 질레트 호환용 스윙면도기, 블랙주황, 1개 + 면도날, 12개입, 1세트",
+          "price": "9,900원",
+          "priceAt": "07.15 22:38",
+          "image": "https://shopping.toss.im/live/temp/2025-06-13/ee180954-b31d-4d98-a443-fc672297a642.png",
+          "url": "https://toss.im/_m/nUbSSvp3",
+          "_ts": 1784122716.2762802
+        }
+      ]
     }
   ]
 }
