@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "동원 개성 감자물만두 (냉동), 600g, 6개",
+          "price": "16,470원",
+          "discount_rate": 45,
+          "priceAt": "07.16 23:04",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/f4a78050-e8c0-4536-ae3e-f763dbb7ac138272200899443597587.png",
+          "url": "https://link.coupang.com/a/fq4g7SmVGe",
+          "_ts": 1784210687.1783838
+        },
+        {
           "name": "테스트상품 789",
           "price": "15,000원",
           "discount_rate": null,
