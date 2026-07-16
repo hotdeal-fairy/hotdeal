@@ -24,7 +24,7 @@
 <meta property="og:url" content="https://hotdeal-fairy.github.io/hotdeal/" />
 <meta property="og:image" content="https://hotdeal-fairy.github.io/hotdeal/images/profile.jpg" />
 <!-- style.css 수정 시마다 ?v= 뒤 숫자를 올려 브라우저 캐시 무효화 (별도 빌드 단계가 없는 정적 사이트라 수동 관리) -->
-<link rel="stylesheet" href="style.css?v=3" />
+<link rel="stylesheet" href="style.css?v=6" />
 
 <main>
   <div class="profile" id="profile"></div>
@@ -47,6 +47,15 @@
     .catch(() => {
       document.getElementById("status").hidden = false;
     });
+
+  function formatRelativeTime(ts) {
+    const diffMin = (Date.now() / 1000 - ts) / 60;
+    if (diffMin < 1) return "방금";
+    if (diffMin < 60) return `${Math.floor(diffMin)}분 전`;
+    const diffHour = diffMin / 60;
+    if (diffHour < 24) return `${Math.floor(diffHour)}시간 전`;
+    return `${Math.floor(diffHour / 24)}일 전`;
+  }
 
   function render(data) {
     if (data.theme?.accent) {
@@ -126,8 +135,13 @@
                 <p class="product-price-row">
                   <span class="product-price">${product.price}</span>
                   ${
+                    product.discount_rate != null
+                      ? `<span class="product-discount">▼${product.discount_rate}%</span>`
+                      : ""
+                  }
+                  ${
                     product.priceAt
-                      ? `<span class="product-price-at">${product.priceAt}</span>`
+                      ? `<span class="product-price-at">${formatRelativeTime(product._ts)}</span>`
                       : ""
                   }
                 </p>

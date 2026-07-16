@@ -13,6 +13,11 @@
   --banner-c1: #d97706;
   --banner-c2: #0d9488;
   --banner-c3: #db2777;
+  /* 가격은 theme.accent(브랜드색, 상품마다 달라질 수 있음)에 기대지 않고 --text를 그대로
+     써서 라이트/다크 어디서나 항상 고대비를 보장한다 — 할인율만 별도 강조색(--discount)을
+     쓴다. 라이트/다크 각각 배경 대비가 확보된 색을 별도로 지정(단일 색으로는 두 배경 모두
+     만족 못 함, 예: theme.accent #6B35C8는 어두운 카드 배경에서 거의 안 보였음) */
+  --discount: #e0392b;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -24,6 +29,7 @@
     --text-muted: #a1a1a6;
     --border: #2c2c2e;
     --card-shadow: 0 4px 20px rgba(0, 0, 0, 0.35), 0 1px 4px rgba(0, 0, 0, 0.2);
+    --discount: #ff6b5e;
   }
 }
 
@@ -252,8 +258,8 @@ main {
 .product-name {
   margin: 6px 2px 0;
   font-size: 13px;
-  font-weight: 600;
-  line-height: 1.3;
+  font-weight: 500;
+  line-height: 1.25;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
@@ -265,13 +271,20 @@ main {
   flex-wrap: wrap;
   align-items: baseline;
   gap: 2px 6px;
-  margin: 2px 2px 0;
+  margin: 4px 2px 0;
 }
 
 .product-price {
-  font-size: 12px;
-  color: var(--accent);
-  font-weight: 700;
+  font-size: 15px;
+  color: var(--text);
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.product-discount {
+  font-size: 13px;
+  color: var(--discount);
+  font-weight: 800;
   white-space: nowrap;
 }
 
@@ -280,7 +293,6 @@ main {
   color: var(--text-muted);
   font-weight: 400;
   white-space: nowrap;
-  margin-left: auto;
 }
 
 .status {
