@@ -80,7 +80,7 @@ main {
 }
 
 .profile h1 {
-  font-size: 14px;
+  font-size: 16px;
   margin: 0;
   font-weight: 700;
   white-space: nowrap;
@@ -213,7 +213,7 @@ main {
 }
 
 .mall-disclosure {
-  font-size: 12px;
+  font-size: 13px;
   line-height: 1.5;
   color: var(--text-muted);
   margin: 8px 2px 0;
