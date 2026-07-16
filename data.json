@@ -277,6 +277,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "전통압착 통참기름, 350ml, 4개",
+          "price": "20,800원",
+          "discount_rate": 78,
+          "priceAt": "07.16 15:02",
+          "image": "https://shopping.toss.im/live/temp/2026-06-12/7ce85be0-561e-4a98-a3e1-1584b4aae801.jpeg",
+          "url": "https://toss.im/_m/HV4paog8",
+          "_ts": 1784181740.5168052
+        },
+        {
           "name": "삼원농산 찰보리, 5kg, 1개",
           "price": "9,990원",
           "discount_rate": 47,
