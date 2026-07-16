@@ -385,6 +385,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "더맛 우삼겹, 250g, 4개",
+          "price": "15,900원",
+          "discount_rate": 50,
+          "priceAt": "07.16 21:04",
+          "image": "https://shopping.toss.im/live/temp/2026-06-26/140e417f-585f-482f-a337-a85a96cac0ac.jpeg",
+          "url": "https://toss.im/_m/xGC58thx",
+          "_ts": 1784203482.133312
+        },
+        {
           "name": "청우 옛날과자 10봉 세트, 1개",
           "price": "9,900원",
           "discount_rate": 37,
