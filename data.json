@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오리온 와우스낵 선물세트 16팩 1세트",
+          "price": "8,700원",
+          "discount_rate": null,
+          "priceAt": "07.17 07:04",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/192848786717785-a6b23921-78aa-45f2-adcb-0c6ff31a1b25.png",
+          "url": "https://link.coupang.com/a/frCz9OtdZs",
+          "_ts": 1784239490.311882
+        },
+        {
           "name": "동원 개성 감자물만두 (냉동), 600g, 6개",
           "price": "16,470원",
           "discount_rate": 45,
@@ -380,22 +389,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3410366628818350-609dc06b-96aa-4dfe-a623-d2522d742734.jpg",
           "url": "https://link.coupang.com/a/fpYelQooPk",
           "_ts": 1784153553.3098829
-        },
-        {
-          "name": "청정원 순창 양념듬뿍 쌈장, 200g, 1개",
-          "price": "850원",
-          "priceAt": "07.16 07:00",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/04/10/3/1bf22ce9-b162-4a04-8a7a-0e1693f119a3.jpg",
-          "url": "https://link.coupang.com/a/fpXlGgaLKu",
-          "_ts": 1784152819.1660311
-        },
-        {
-          "name": "깨끗한나라 아껴쓰는 천연펄프 키친타올, 140매, 8개",
-          "price": "4,400원",
-          "priceAt": "07.16 06:58",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/128725592798850-d7c9dded-a243-4965-9ae4-c31540633ea5.jpg",
-          "url": "https://link.coupang.com/a/fpXb1hgY1c",
-          "_ts": 1784152680.967016
         }
       ]
     },
