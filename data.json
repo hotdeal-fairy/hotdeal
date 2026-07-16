@@ -385,6 +385,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "청우 옛날과자 10봉 세트, 1개",
+          "price": "9,900원",
+          "discount_rate": 37,
+          "priceAt": "07.16 21:02",
+          "image": "https://shopping.toss.im/live/temp/2026-07-13/fb260732-997d-4519-a401-2569974762b1.jpeg",
+          "url": "https://toss.im/_m/5uGQ0zC5",
+          "_ts": 1784203362.813157
+        },
+        {
           "name": "썬키스트 사과 주스, 1.35L, 12개",
           "price": "11,900원",
           "discount_rate": 54,
