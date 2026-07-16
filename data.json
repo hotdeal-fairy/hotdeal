@@ -277,6 +277,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "삼원농산 찰보리, 5kg, 1개",
+          "price": "9,990원",
+          "discount_rate": 47,
+          "priceAt": "07.16 15:00",
+          "image": "https://shopping.toss.im/live/temp/2026-04-06/f2686c63-603c-46da-bbd7-b6fc643106a3.jpeg",
+          "url": "https://toss.im/_m/RRQdr5cC",
+          "_ts": 1784181634.042112
+        },
+        {
           "name": "집밥에 한우대창전골, 1kg, 1개",
           "price": "8,900원",
           "priceAt": "07.16 11:50",
