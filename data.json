@@ -385,6 +385,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "풀블랭크 멀티킵 스텐밀폐용기, 1.8L, 1개 + 2.3L, 1개",
+          "price": "10,500원",
+          "discount_rate": 70,
+          "priceAt": "07.16 21:00",
+          "image": "https://shopping.toss.im/live/temp/2025-12-16/88b40ff7-bbcb-48f8-97d6-a63ee19d9a8f.jpeg",
+          "url": "https://toss.im/_m/1M9P15qj",
+          "_ts": 1784203240.848715
+        },
+        {
           "name": "려 우아채 한방크림염색, 흑갈색3N, 120g, 2개",
           "price": "10,300원",
           "discount_rate": 57,
