@@ -384,22 +384,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/330231574507614-420f3446-6cfa-4451-9f77-465beaa1aff0.jpg",
           "url": "https://link.coupang.com/a/fp5Skf8oLI",
           "_ts": 1784159974.547477
-        },
-        {
-          "name": "자유시간 피스타치오 & 카다이프 초코바, 36g, 3개",
-          "price": "2,180원",
-          "priceAt": "07.16 08:27",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/03c1ff9c-da05-4f17-abe9-7ebbadce4bcf14610138339350989445.png",
-          "url": "https://link.coupang.com/a/fp3zmCDsWa",
-          "_ts": 1784158037.814925
-        },
-        {
-          "name": "소화가잘되는우유 오리지널 미니, 120ml, 24개",
-          "price": "8,460원",
-          "priceAt": "07.16 08:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/10/10/3/fef1e39c-62e7-4381-94f1-5c87e0a7ad51.jpg",
-          "url": "https://link.coupang.com/a/fp3pwzxlRs",
-          "_ts": 1784157905.99633
         }
       ]
     },
@@ -408,6 +392,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "세플로 헤어 집게 올블랙 볼륨, 블랙, 3종, 1세트",
+          "price": "5,900원",
+          "discount_rate": 74,
+          "priceAt": "07.17 08:30",
+          "image": "https://shopping.toss.im/live/temp/2026-07-11/b4f9a1d6-fdaf-4ab6-a975-ad8921482d42.png",
+          "url": "https://toss.im/_m/PvzMBU6v",
+          "_ts": 1784244630.086655
+        },
         {
           "name": "더맛 우삼겹, 250g, 4개",
           "price": "15,900원",
@@ -545,14 +538,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-05/a6d66c67-2461-4579-819c-0c12b86050fc.jpeg",
           "url": "https://toss.im/_m/PkOuyLUq",
           "_ts": 1784158352.53
-        },
-        {
-          "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-          "price": "6,900원",
-          "priceAt": "07.16 08:30",
-          "image": "https://shopping.toss.im/live/temp/2025-12-06/bc7b10ed-6617-4bbb-aa8e-c8f4b9bd9bd9.jpeg",
-          "url": "https://toss.im/_m/pNsa7x0g",
-          "_ts": 1784158228.32948
         },
         {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
