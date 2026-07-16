@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "삼양 임꺽정납작떡갈비 (냉동) 1kg",
+          "price": "10,700원",
+          "discount_rate": 28,
+          "priceAt": "07.17 07:57",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/423781998044610-f633976b-8938-4f0b-a0a1-de4982aef256.jpg",
+          "url": "https://link.coupang.com/a/frGmvBlPk4",
+          "_ts": 1784242665.1212
+        },
+        {
           "name": "첫맛 만능 비빔 무침 양념, 1.1kg, 1개",
           "price": "4,070원",
           "discount_rate": null,
@@ -344,38 +353,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/948214328978507-6c75d58d-05c4-480a-9e3c-037578cd34d7.jpg",
           "url": "https://link.coupang.com/a/fp1v7JWbqm",
           "_ts": 1784156314.9630039
-        },
-        {
-          "name": "데니그리스 유기농 사과 식초, 1L, 1개",
-          "price": "8,720원",
-          "priceAt": "07.16 07:56",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/45561989066597-47a4d20d-4337-4e2d-a3cb-e6dcd1e12206.jpg",
-          "url": "https://link.coupang.com/a/fp1mrbFY4W",
-          "_ts": 1784156183.8086221
-        },
-        {
-          "name": "누아트 에어릿 프로 쿨 급속 냉각 3in1 무선 휴대용 선풍기",
-          "price": "8,900원",
-          "priceAt": "07.16 07:44",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/144560576367189-c8c65889-f128-4558-bf3f-05c7708cb19b.jpg",
-          "url": "https://link.coupang.com/a/fp0tFkHKLc",
-          "_ts": 1784155442.6115782
-        },
-        {
-          "name": "2080 소프트 클린 초미세모 칫솔 20개입",
-          "price": "7,370원",
-          "priceAt": "07.16 07:43",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/110760806142644-dae581a7-6aee-4996-b648-ff80066c4227.png",
-          "url": "https://link.coupang.com/a/fp0sMt7Gsm",
-          "_ts": 1784155431.109296
-        },
-        {
-          "name": "하림 세마리 통닭 7호 (냉장)",
-          "price": "9,890원",
-          "priceAt": "07.16 07:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/06/07/18/1/77b03c0e-9f77-42ae-8b6f-1b6188d4535f.jpg",
-          "url": "https://link.coupang.com/a/fpZJwW13YW",
-          "_ts": 1784154814.871784
         }
       ]
     },
