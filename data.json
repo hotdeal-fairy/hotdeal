@@ -393,6 +393,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "내몸채움 블랙마카 2200, 120정, 1개",
+          "price": "9,900원",
+          "discount_rate": 76,
+          "priceAt": "07.17 08:32",
+          "image": "https://shopping.toss.im/live/temp/2025-11-21/92f6261c-5abd-46e9-a27f-f24f5280809d.jpeg",
+          "url": "https://toss.im/_m/Tm1Ji2T4",
+          "_ts": 1784244734.251227
+        },
+        {
           "name": "세플로 헤어 집게 올블랙 볼륨, 블랙, 3종, 1세트",
           "price": "5,900원",
           "discount_rate": 74,
