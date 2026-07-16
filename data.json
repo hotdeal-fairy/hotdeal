@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "첫맛 8배 고농축 냉면육수, 1.1kg, 1개",
+          "price": "3,950원",
+          "discount_rate": 48,
+          "priceAt": "07.17 08:55",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/14/10/3/bf652eb1-2aa6-4204-9306-c1ec57866e27.jpg",
+          "url": "https://link.coupang.com/a/frKuXgfklw",
+          "_ts": 1784246138.1873379
+        },
+        {
           "name": "닥터에이지 시카 리페어크림, 50ml, 4개",
           "price": "23,860원",
           "discount_rate": 32,
@@ -540,14 +549,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-03-21/161c42a6-6551-48b1-9d8c-2b81b13defb9.jpeg",
           "url": "https://toss.im/_m/vn51wfCo",
           "_ts": 1784169937.083394
-        },
-        {
-          "name": "인썸 2단 계란찜기, IEP-350, 1개",
-          "price": "8,900원",
-          "priceAt": "07.16 08:33",
-          "image": "https://shopping.toss.im/live/temp/2026-07-08/3b58646c-1ea3-4297-b6bb-4d7be0428fcc.jpeg",
-          "url": "https://toss.im/_m/baIgrSG",
-          "_ts": 1784158437.697948
         },
         {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
