@@ -385,6 +385,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "썬키스트 사과 주스, 1.35L, 12개",
+          "price": "11,900원",
+          "discount_rate": 54,
+          "priceAt": "07.16 21:01",
+          "image": "https://shopping.toss.im/live/temp/2026-05-15/7f359e04-222c-43ca-a228-2fc9315c6ed8.jpeg",
+          "url": "https://toss.im/_m/tEjSpgK3",
+          "_ts": 1784203302.5654778
+        },
+        {
           "name": "풀블랭크 멀티킵 스텐밀폐용기, 1.8L, 1개 + 2.3L, 1개",
           "price": "10,500원",
           "discount_rate": 70,
