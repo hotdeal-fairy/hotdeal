@@ -74,14 +74,19 @@
       </div>
     `;
 
+    // 오픈채팅방 공지/고정메시지에만 "?src=oc"가 붙은 링크를 걸어두면, 그 채팅방 안에서
+    // 들어온 방문자에게는 "이미 있는 채팅방 참여" 버튼을 다시 보여주지 않는다. 그 외
+    // 경로(인스타 프로필 등)는 표식 없는 기본 URL을 쓰므로 버튼이 그대로 노출된다.
+    const fromOpenChat = new URLSearchParams(location.search).get("src") === "oc";
     const oc = data.openChat ?? {};
-    document.getElementById("openchat").innerHTML = oc.url
-      ? `
+    document.getElementById("openchat").innerHTML =
+      oc.url && !fromOpenChat
+        ? `
         <a class="openchat-button" href="${oc.url}" target="_blank" rel="noopener">
           ${oc.icon ?? "💬"} ${oc.title ?? "오픈채팅방 참여하기"}
         </a>
       `
-      : "";
+        : "";
 
     document.getElementById("banners").innerHTML = `
       <div class="banner-list">
