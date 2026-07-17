@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "켈로그 저당 그래놀라, 300g, 2개",
+          "price": "6,720원",
+          "discount_rate": null,
+          "priceAt": "07.18 08:01",
+          "image": "images/placeholder.svg",
+          "url": "https://link.coupang.com/a/ftiuRnbqnY",
+          "_ts": 1784329294.214297
+        },
+        {
           "name": "팸퍼스 엔젤 에어차차 썸머 팬티형 기저귀 6p + 통잠 팬티형 기저귀 2p 낮밤패키지 세트, 5단계, 8매",
           "price": "1,900원",
           "discount_rate": 60,
@@ -764,15 +773,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dca6/e8339989dd84f3e80594fcadc26b64c97d4c9b2564666960357ef943d30c.jpg",
           "url": "https://link.coupang.com/a/ftjea1VFi8",
           "_ts": 1784327354.323235
-        },
-        {
-          "name": "켈로그 저당 그래놀라, 300g, 2개",
-          "price": "6,720원",
-          "discount_rate": 25,
-          "priceAt": "07.18 07:19",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8bf068ab-028c-4f83-a88d-2c20ca8acf4a4499195917812430370.png",
-          "url": "https://link.coupang.com/a/ftiuRnbqnY",
-          "_ts": 1784326741.2616801
         },
         {
           "name": "자연은 더말린 제로 복숭아 음료, 500ml, 20개",
