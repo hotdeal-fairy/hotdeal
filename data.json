@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "락피도 철분 키즈, 90g, 1개",
+          "price": "10,730원",
+          "discount_rate": 28,
+          "priceAt": "07.17 15:06",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/111758015791215-99bfd330-3e99-4ba6-8e04-beab7db8547b.png",
+          "url": "https://link.coupang.com/a/fsaX8ThvIy",
+          "_ts": 1784268363.63634
+        },
+        {
           "name": "양반 명품김 식탁 8매 x 20p, 80g, 1개",
           "price": "4,730원",
           "discount_rate": 38,
@@ -553,15 +562,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-26/9baedb91-ff8e-4dd1-9463-6fe12da4091a.jpeg",
           "url": "https://toss.im/_m/DOwCTlxC",
           "_ts": 1784193633.55684
-        },
-        {
-          "name": "쥬르본 종합 모나카, 550g, 1박스",
-          "price": "9,800원",
-          "discount_rate": 45,
-          "priceAt": "07.16 15:04",
-          "image": "https://shopping.toss.im/live/temp/2025-01-13/b7174eb1-2a90-45d1-a980-ed7a588fe161.jpeg",
-          "url": "https://toss.im/_m/VXeYVMHz",
-          "_ts": 1784181842.1946108
         },
         {
           "name": "삼육김 들기름으로 구운 광천김 도시락김, 4g, 32봉",
