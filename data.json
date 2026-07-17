@@ -393,6 +393,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "이롬 유기농 ABC주스, 140ml, 20개입, 1박스",
+          "price": "11,900원",
+          "discount_rate": 65,
+          "priceAt": "07.17 21:04",
+          "image": "https://shopping.toss.im/live/temp/2026-04-30/60385400-1303-4d25-9dd3-7288522c6c13.png",
+          "url": "https://toss.im/_m/DAijaxT6",
+          "_ts": 1784289866.701987
+        },
+        {
           "name": "신선하랑 한돈 돼지 등뼈, 4kg, 1박스",
           "price": "9,900원",
           "discount_rate": 54,
