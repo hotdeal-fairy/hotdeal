@@ -755,7 +755,17 @@
       "id": "coupang_more",
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
-      "products": []
+      "products": [
+        {
+          "name": "비피아이스포츠 아이소 HD 퓨어 아이솔레이트 프로틴 초콜릿 브라우니 2.208kg*1개",
+          "price": "70,430원",
+          "discount_rate": 17,
+          "priceAt": "07.18 07:04",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8c75/88f32b3dfb87fb4ecea31ed432c1a14524761d4083f46061ba48a791f571.jpg",
+          "url": "https://link.coupang.com/a/fthrdd0nue",
+          "_ts": 1784325850.282201
+        }
+      ]
     }
   ]
 }
