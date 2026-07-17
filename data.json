@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "쿠라콘 시오콘부 염장 다시마, 130g, 1개",
+          "price": "6,930원",
+          "discount_rate": 32,
+          "priceAt": "07.17 16:16",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2cbf/03ff9efdf588dbb9734e6881b84650bdc716e5db05b7e41b96be7ff58504.jpg",
+          "url": "https://link.coupang.com/a/fsf0XLVZXE",
+          "_ts": 1784272599.508053
+        },
+        {
           "name": "락피도 철분 키즈, 90g, 1개",
           "price": "10,730원",
           "discount_rate": 28,
@@ -366,42 +375,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1147310876361-66d4b381-bf7a-4d98-b28a-007daaf78c51.jpg",
           "url": "https://link.coupang.com/a/fqCf1kbsE8",
           "_ts": 1784187165.064458
-        },
-        {
-          "name": "그룹세브코리아 테팔 익스프레스 스타일 헤어 드라이어 1600W",
-          "price": "14,780원",
-          "discount_rate": 54,
-          "priceAt": "07.16 16:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/04/25/15/4/c127e41f-3d98-451e-a7ee-5cc0035e4989.png",
-          "url": "https://link.coupang.com/a/fqAeQOfWeW",
-          "_ts": 1784185473.0827122
-        },
-        {
-          "name": "디벨라 토마토퓨레, 680g, 2개",
-          "price": "5,290원",
-          "discount_rate": null,
-          "priceAt": "07.16 16:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/24165184108826-9b6ecca7-5b71-4fc0-8de7-56c050bd7866.jpg",
-          "url": "https://link.coupang.com/a/fqAdUOIBDE",
-          "_ts": 1784185456.11074
-        },
-        {
-          "name": "쿠라콘 시오콘부 염장 다시마, 130g, 1개",
-          "price": "6,930원",
-          "discount_rate": 32,
-          "priceAt": "07.16 15:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2cbf/03ff9efdf588dbb9734e6881b84650bdc716e5db05b7e41b96be7ff58504.jpg",
-          "url": "https://link.coupang.com/a/fqxtiEuGqG",
-          "_ts": 1784183146.99412
-        },
-        {
-          "name": "라운드랩 1025 독도 패드 120g, 70매입, 2개",
-          "price": "18,100원",
-          "discount_rate": 33,
-          "priceAt": "07.16 15:13",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/744146802996709-394a8343-0e58-42b4-a2d0-3fea9e05ef35.jpg",
-          "url": "https://link.coupang.com/a/fqwA0VET24",
-          "_ts": 1784182409.954151
         }
       ]
     },
