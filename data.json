@@ -402,6 +402,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
+          "price": "5,900원",
+          "discount_rate": 62,
+          "priceAt": "07.17 15:02",
+          "image": "https://shopping.toss.im/live/temp/2026-07-09/e57076fd-010b-40ca-9945-50f1c7759e58.jpeg",
+          "url": "https://toss.im/_m/HmWSU9gi",
+          "_ts": 1784268178.936524
+        },
+        {
           "name": "살림백서 퓨어 마이크로 휩 클렌징폼, 230ml, 4개",
           "price": "10,900원",
           "discount_rate": 63,
@@ -555,15 +564,6 @@
           "_ts": 1784181842.1946108
         },
         {
-          "name": "전통압착 통참기름, 350ml, 4개",
-          "price": "20,800원",
-          "discount_rate": 78,
-          "priceAt": "07.16 15:02",
-          "image": "https://shopping.toss.im/live/temp/2026-06-12/7ce85be0-561e-4a98-a3e1-1584b4aae801.jpeg",
-          "url": "https://toss.im/_m/HV4paog8",
-          "_ts": 1784181740.5168052
-        },
-        {
           "name": "삼육김 들기름으로 구운 광천김 도시락김, 4g, 32봉",
           "price": "4,900원",
           "discount_rate": 69,
@@ -591,16 +591,6 @@
           "url": "https://toss.im/_m/DiFTIObn",
           "_rank": 4,
           "_product_id": "10143179",
-          "_ts": 1784264458.225787
-        },
-        {
-          "name": "하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
-          "price": "5,900원",
-          "discount_rate": 62,
-          "image": "https://shopping.toss.im/live/temp/2026-07-09/e57076fd-010b-40ca-9945-50f1c7759e58.jpeg",
-          "url": "https://toss.im/_m/HmWSU9gi",
-          "_rank": 5,
-          "_product_id": "2450913223",
           "_ts": 1784264458.225787
         },
         {
