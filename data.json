@@ -375,6 +375,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "퓨어스트 라이트 초순수 플레인 아기물티슈 캡형, 100매, 10팩",
+          "price": "4,700원",
+          "discount_rate": 60,
+          "priceAt": "07.17 18:23",
+          "image": "https://shopping.toss.im/live/temp/2026-01-16/e7778601-d6a5-4390-ba58-4e286b0ced0e.jpeg",
+          "url": "https://toss.im/_m/ZhKS6rh3",
+          "_ts": 1784280195.3866959
+        },
+        {
           "name": "바른 전라도 열무자박이, 2kg, 1박스",
           "price": "9,900원",
           "discount_rate": 77,
@@ -583,16 +592,6 @@
           "url": "https://toss.im/_m/l2TTnNWo",
           "_rank": 5,
           "_product_id": "183855123",
-          "_ts": 1784275217.274452
-        },
-        {
-          "name": "퓨어스트 라이트 초순수 플레인 아기물티슈 캡형, 100매, 10팩",
-          "price": "4,700원",
-          "discount_rate": 60,
-          "image": "https://shopping.toss.im/live/temp/2026-01-16/e7778601-d6a5-4390-ba58-4e286b0ced0e.jpeg",
-          "url": "https://toss.im/_m/ZhKS6rh3",
-          "_rank": 7,
-          "_product_id": "651373711",
           "_ts": 1784275217.274452
         },
         {
