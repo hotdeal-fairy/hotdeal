@@ -402,6 +402,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "유러피안 샐러드 쌈채소, 1kg, 1박스",
+          "price": "8,500원",
+          "discount_rate": 46,
+          "priceAt": "07.17 15:00",
+          "image": "https://shopping.toss.im/live/temp/2025-12-26/4d0a8574-d6bb-421a-9021-224a4eddd51b.jpeg",
+          "url": "https://toss.im/_m/lMGMxiTp",
+          "_ts": 1784268027.0027149
+        },
+        {
           "name": "이롬 황성주 박사의 국산콩 두유 무가당, 190ml, 16팩",
           "price": "4,900원",
           "discount_rate": 70,
