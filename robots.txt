@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hotdeal-fairy.github.io/hotdeal/sitemap.xml
