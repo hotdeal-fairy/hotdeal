@@ -375,6 +375,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "올챌린지 뽑아쓰는 3겹 키친타월 그레이, 100매, 9개",
+          "price": "7,900원",
+          "discount_rate": 60,
+          "priceAt": "07.17 18:20",
+          "image": "https://shopping.toss.im/live/temp/2026-02-05/d4dce3bb-869b-4c61-9087-9fe0e55da81f.jpeg",
+          "url": "https://toss.im/_m/HPepPOF3",
+          "_ts": 1784280023.587971
+        },
+        {
           "name": "하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
           "price": "5,900원",
           "discount_rate": 62,
