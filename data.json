@@ -276,6 +276,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "맥콜 제로, 250ml, 30개",
+          "price": "7,600원",
+          "discount_rate": 57,
+          "priceAt": "07.18 08:45",
+          "image": "https://shopping.toss.im/live/temp/2025-05-29/22146b52-6c9e-45ad-98f5-1970df704069.jpeg",
+          "url": "https://toss.im/_m/nuGqGHcg",
+          "_ts": 1784331938.295912
+        },
+        {
           "name": "슈퍼딥큐 캡슐세제 플라워코튼향, 8g, 100개입, 1개",
           "price": "6,900원",
           "discount_rate": 68,
@@ -418,16 +427,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-20/759fe1fc-e89d-4c2b-a7ca-4c16acd86e6d.jpeg",
           "url": "https://toss.im/_m/xPAhufG3",
           "_ts": 1784256332.784275
-        },
-        {
-          "name": "맥콜 제로, 250ml, 30개",
-          "price": "7,600원",
-          "discount_rate": 57,
-          "image": "https://shopping.toss.im/live/temp/2025-05-29/22146b52-6c9e-45ad-98f5-1970df704069.jpeg",
-          "url": "https://toss.im/_m/nuGqGHcg",
-          "_rank": 1,
-          "_product_id": "7882389",
-          "_ts": 1784329264.162741
         },
         {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
