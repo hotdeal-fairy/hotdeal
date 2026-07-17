@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "왕뚜껑 김치 컵라면 110g, 4개",
+          "price": "3,570원",
+          "discount_rate": 34,
+          "priceAt": "07.17 09:22",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/237245189197707-86feed34-4a00-4624-8950-b7c628d430fc.jpg",
+          "url": "https://link.coupang.com/a/frMqQ7JBYG",
+          "_ts": 1784247763.542132
+        },
+        {
           "name": "휠라 RGB 퓨즈 운동화",
           "price": "28,550원",
           "discount_rate": 35,
@@ -396,14 +405,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6bd6/d8f8cac537ff43fa11ba3b4c1306f9ac28a8c10c10da266127effb49b7ae.jpg",
           "url": "https://link.coupang.com/a/fp7DB1ZuNM",
           "_ts": 1784161455.4619079
-        },
-        {
-          "name": "밀크바오밥 샴푸 화이트머스크향, 1L, 1개",
-          "price": "8,330원",
-          "priceAt": "07.16 09:14",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/87362996435625-04e3bc87-9f58-473a-bda3-45baccfeb203.jpg",
-          "url": "https://link.coupang.com/a/fp6UfW48Tk",
-          "_ts": 1784160840.8966248
         }
       ]
     },
