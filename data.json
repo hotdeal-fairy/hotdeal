@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "만토바 비보 유기농 오가닉 엑스트라버진 오리지날 올리브유, 200ml, 2개",
+          "price": "15,800원",
+          "discount_rate": 37,
+          "priceAt": "07.17 13:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/95171916540956-d17c950c-9594-40aa-b1dc-7570fe9fd688.jpg",
+          "url": "https://link.coupang.com/a/fr41ucZtwy",
+          "_ts": 1784263369.974815
+        },
+        {
           "name": "베키아에누보 비프치즈 치아바타 샌드위치 (냉동), 195g, 3개입, 2개",
           "price": "15,400원",
           "discount_rate": 31,
@@ -375,24 +384,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/707012363520065-99e527c5-b57c-464e-b72f-69bfca889252.jpg",
           "url": "https://link.coupang.com/a/fqsPwLwllk",
           "_ts": 1784179250.095605
-        },
-        {
-          "name": "요플레 플레인 멀티, 85g, 8개",
-          "price": "2,980원",
-          "discount_rate": null,
-          "priceAt": "07.16 13:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/122658913825991-6a8648be-e268-497a-b983-597033b0e550.png",
-          "url": "https://link.coupang.com/a/fqpm9TFinc",
-          "_ts": 1784176346.011368
-        },
-        {
-          "name": "오뚜기 제주담음 제주청귤 갈치구이 (냉동) 222g*2개",
-          "price": "7,960원",
-          "discount_rate": 34,
-          "priceAt": "07.16 12:29",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/922eb757-a33b-496c-bb5e-8b450097e7264779128572210634688.png",
-          "url": "https://link.coupang.com/a/fqkTbDu6pM",
-          "_ts": 1784172582.198261
         }
       ]
     },
@@ -553,14 +544,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-06/f2686c63-603c-46da-bbd7-b6fc643106a3.jpeg",
           "url": "https://toss.im/_m/RRQdr5cC",
           "_ts": 1784181634.042112
-        },
-        {
-          "name": "집밥에 한우대창전골, 1kg, 1개",
-          "price": "8,900원",
-          "priceAt": "07.16 11:50",
-          "image": "https://shopping.toss.im/live/temp/2025-07-03/b0ece6bc-5a01-4ce4-82c6-e43102e9d51d.jpeg",
-          "url": "https://toss.im/_m/t1VUi6HC",
-          "_ts": 1784170258.941261
         },
         {
           "name": "삼육김 들기름으로 구운 광천김 도시락김, 4g, 32봉",
