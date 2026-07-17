@@ -402,6 +402,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오쿡 닭가슴살 소시지 핫바 6종, 70g, 12개",
+          "price": "9,900원",
+          "discount_rate": 56,
+          "priceAt": "07.17 11:47",
+          "image": "https://shopping.toss.im/live/temp/2025-05-19/3b2bf6f4-e157-4a4f-b842-40e3ad348a29.png",
+          "url": "https://toss.im/_m/56JS7XUj",
+          "_ts": 1784256442.2319832
+        },
+        {
           "name": "디지지 차량용 35W 2포트 고속 충전기, 블랙, 1개",
           "price": "5,500원",
           "discount_rate": 57,
@@ -542,22 +551,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-14/8cd4b76a-c682-4186-a10c-6ed0b18630db.jpeg",
           "url": "https://toss.im/_m/jTqYGvXj",
           "_ts": 1784170138.640862
-        },
-        {
-          "name": "파워풀 세탁조 클리너, 60g, 20팩",
-          "price": "9,025원",
-          "priceAt": "07.16 11:47",
-          "image": "https://shopping.toss.im/live/temp/2026-07-14/d3f81ac7-f749-4707-89ab-d507b104effe.jpeg",
-          "url": "https://toss.im/_m/TP437Wc6",
-          "_ts": 1784170023.563992
-        },
-        {
-          "name": "대한민국농수산 우거지 뼈해장국, 1kg, 1개",
-          "price": "7,970원",
-          "priceAt": "07.16 11:45",
-          "image": "https://shopping.toss.im/live/temp/2025-03-21/161c42a6-6551-48b1-9d8c-2b81b13defb9.jpeg",
-          "url": "https://toss.im/_m/vn51wfCo",
-          "_ts": 1784169937.083394
         },
         {
           "name": "삼육김 들기름으로 구운 광천김 도시락김, 4g, 32봉",
