@@ -339,42 +339,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/144977521896095-d62e7614-6def-4ba6-aef8-02736f2f3bfa.jpg",
           "url": "https://link.coupang.com/a/fqLv5DTZ2y",
           "_ts": 1784194936.568158
-        },
-        {
-          "name": "돌 후룻볼 복숭아 4개입 2개",
-          "price": "6,550원",
-          "discount_rate": 33,
-          "priceAt": "07.16 16:37",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/48776630696253-f13affb6-87e8-4f16-8abb-9de0eac928bb.jpg",
-          "url": "https://link.coupang.com/a/fqCAU3lLFs",
-          "_ts": 1784187449.6731
-        },
-        {
-          "name": "롯데햄 의성마늘 비엔나 소시지, 500g, 2개",
-          "price": "8,990원",
-          "discount_rate": 42,
-          "priceAt": "07.16 16:35",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/13003283583098-42a57bea-6c0a-48fb-b944-0a41354a24d1.jpg",
-          "url": "https://link.coupang.com/a/fqCq0fTjwG",
-          "_ts": 1784187314.092684
-        },
-        {
-          "name": "삼양1963 큰컵 우지 파개장 라면 115g, 6개",
-          "price": "6,000원",
-          "discount_rate": 38,
-          "priceAt": "07.16 16:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/265619162620308-19582319-7750-4bb2-88b1-72e168755a9b.jpg",
-          "url": "https://link.coupang.com/a/fqCg17NbR6",
-          "_ts": 1784187177.7729669
-        },
-        {
-          "name": "곰곰 촉촉 반숙란 (냉장), 30구, 1개",
-          "price": "11,400원",
-          "discount_rate": 28,
-          "priceAt": "07.16 16:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1147310876361-66d4b381-bf7a-4d98-b28a-007daaf78c51.jpg",
-          "url": "https://link.coupang.com/a/fqCf1kbsE8",
-          "_ts": 1784187165.064458
         }
       ]
     },
@@ -544,7 +508,7 @@
           "url": "https://toss.im/_m/FWMGPuCk",
           "_rank": 1,
           "_product_id": "176088899",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "맥콜 제로, 250ml, 30개",
@@ -554,7 +518,7 @@
           "url": "https://toss.im/_m/nuGqGHcg",
           "_rank": 3,
           "_product_id": "7882389",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
@@ -564,7 +528,7 @@
           "url": "https://toss.im/_m/DiFTIObn",
           "_rank": 4,
           "_product_id": "10143179",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "올바른 슈퍼 프로바이오틱스 생유산균 19 비타민D, 30포, 2박스",
@@ -572,9 +536,9 @@
           "discount_rate": 87,
           "image": "https://shopping.toss.im/live/temp/2025-08-11/61535351-7e00-43fe-beda-ae65d776c7de.png",
           "url": "https://toss.im/_m/l2TTnNWo",
-          "_rank": 6,
+          "_rank": 5,
           "_product_id": "183855123",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "퓨어스트 라이트 초순수 플레인 아기물티슈 캡형, 100매, 10팩",
@@ -584,7 +548,7 @@
           "url": "https://toss.im/_m/ZhKS6rh3",
           "_rank": 7,
           "_product_id": "651373711",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "에뛰드 베이킹 파우더 모공 클렌징폼, 160g, 1개",
@@ -594,7 +558,7 @@
           "url": "https://toss.im/_m/lxGIOK8v",
           "_rank": 8,
           "_product_id": "2421955233",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "일양약품 눈건강 루테인 골드, 500mg, 30캡슐, 6박스",
@@ -604,7 +568,7 @@
           "url": "https://toss.im/_m/pJg81Wmo",
           "_rank": 9,
           "_product_id": "7707001",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입",
@@ -614,7 +578,7 @@
           "url": "https://toss.im/_m/1JGAXtnt",
           "_rank": 10,
           "_product_id": "102193743",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
@@ -624,7 +588,7 @@
           "url": "https://toss.im/_m/JSoQFq7g",
           "_rank": 11,
           "_product_id": "2334877747",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "랜선식당 연탄불고기, 250g, 4개",
@@ -634,7 +598,7 @@
           "url": "https://toss.im/_m/zaKyWLHn",
           "_rank": 12,
           "_product_id": "2278446229",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "순수식품 칼슘 마그네슘 비타민D 아연 망간, 90정, 1박스",
@@ -644,7 +608,7 @@
           "url": "https://toss.im/_m/FQFr0pHj",
           "_rank": 13,
           "_product_id": "11681645",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "일화 초정 탄산수 플레인, 250ml, 30개",
@@ -654,7 +618,7 @@
           "url": "https://toss.im/_m/h1DEebS6",
           "_rank": 14,
           "_product_id": "48217065",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         },
         {
           "name": "유한메디카 징코 플러스엔탑 혈행 기억력 케어, 60정, 1개",
@@ -664,7 +628,7 @@
           "url": "https://toss.im/_m/xHzs7BRy",
           "_rank": 15,
           "_product_id": "37386349",
-          "_ts": 1784264458.225787
+          "_ts": 1784275217.274452
         }
       ]
     }
