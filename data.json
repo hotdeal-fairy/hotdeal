@@ -267,69 +267,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/14/10/3/bf652eb1-2aa6-4204-9306-c1ec57866e27.jpg",
           "url": "https://link.coupang.com/a/frKuXgfklw",
           "_ts": 1784246138.1873379
-        },
-        {
-          "name": "닥터에이지 시카 리페어크림, 50ml, 4개",
-          "price": "23,860원",
-          "discount_rate": 32,
-          "priceAt": "07.17 08:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1058061684845229-de40e45f-2699-449b-b516-297dcf750ed6.jpg",
-          "url": "https://link.coupang.com/a/frHaUqePls",
-          "_ts": 1784243349.150957
-        },
-        {
-          "name": "가그린 스탠다드 와이드 미세모 칫솔 10개입",
-          "price": "3,870원",
-          "discount_rate": 36,
-          "priceAt": "07.17 08:08",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/68875368092575-4301a5c6-fa36-4c40-8c4d-acbdabe110b4.jpg",
-          "url": "https://link.coupang.com/a/frG99RnSEK",
-          "_ts": 1784243337.1297889
-        },
-        {
-          "name": "페어리테이블 국내생산 뽑아 쓰는 요정 비닐봉투, 40L, 200개",
-          "price": "8,800원",
-          "discount_rate": 38,
-          "priceAt": "07.17 08:06",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/631f/23a11e6a4f04492e509966a2697a3ad9a62273c064936f09167a5cb11965.jpg",
-          "url": "https://link.coupang.com/a/frG0aQRbSm",
-          "_ts": 1784243206.062
-        },
-        {
-          "name": "디벨라 홀 토마토 통조림, 400g, 2개",
-          "price": "2,980원",
-          "discount_rate": 38,
-          "priceAt": "07.17 08:06",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1148847518717209-5e04c77b-531c-4246-80ee-83a0fd6a295d.jpg",
-          "url": "https://link.coupang.com/a/frGZgj3u1c",
-          "_ts": 1784243191.7553332
-        },
-        {
-          "name": "스카치브라이트 클린컷 테이프 클리너 세트 리필 8개입",
-          "price": "15,770원",
-          "discount_rate": 41,
-          "priceAt": "07.17 08:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5031796078387155-66e2ea63-d641-416c-af5f-9afc9ae937eb.jpg",
-          "url": "https://link.coupang.com/a/frGPq5PZ4C",
-          "_ts": 1784243058.297942
-        },
-        {
-          "name": "오슬로 브리오슈 푸드자, 아이보리, 300ml, 1개",
-          "price": "24,000원",
-          "discount_rate": 52,
-          "priceAt": "07.17 08:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2974180589173103-d9d4c3e4-7557-4c61-9772-dbc8e42c83bc.jpg",
-          "url": "https://link.coupang.com/a/frGFSg5CKa",
-          "_ts": 1784242933.154616
-        },
-        {
-          "name": "티젠 애사비소다 오리지널, 24개, 500ml",
-          "price": "11,450원",
-          "discount_rate": 43,
-          "priceAt": "07.17 08:01",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/110110115034875-1adb5052-d2f8-46eb-a77a-1920aa5c56ec.jpg",
-          "url": "https://link.coupang.com/a/frGE5idHWu",
-          "_ts": 1784242916.2948759
         }
       ]
     },
@@ -338,6 +275,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "MACCI 로카 쿨 반팔, 블랙, L, 1개",
+          "price": "7,700원",
+          "discount_rate": 74,
+          "priceAt": "07.18 08:45",
+          "image": "https://shopping.toss.im/live/temp/2025-07-01/b1b78709-d42d-4d4b-8abf-bfd713828947.jpeg",
+          "url": "https://toss.im/_m/BsaQci6A",
+          "_ts": 1784331933.078377
+        },
         {
           "name": "유한메디카 징코 플러스엔탑 혈행 기억력 케어, 60정, 1개",
           "price": "4,500원",
@@ -463,33 +409,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-20/759fe1fc-e89d-4c2b-a7ca-4c16acd86e6d.jpeg",
           "url": "https://toss.im/_m/xPAhufG3",
           "_ts": 1784256332.784275
-        },
-        {
-          "name": "해피달링 마사지 필터 샤워기 헤드+필터 5개 세트, 그레이, 1개",
-          "price": "6,000원",
-          "discount_rate": 57,
-          "priceAt": "07.17 08:33",
-          "image": "https://shopping.toss.im/live/temp/2026-01-29/03991358-b75d-4421-84b2-7fb3416aac49.jpeg",
-          "url": "https://toss.im/_m/3JUH7Fq9",
-          "_ts": 1784244810.470612
-        },
-        {
-          "name": "내몸채움 블랙마카 2200, 120정, 1개",
-          "price": "9,900원",
-          "discount_rate": 76,
-          "priceAt": "07.17 08:32",
-          "image": "https://shopping.toss.im/live/temp/2025-11-21/92f6261c-5abd-46e9-a27f-f24f5280809d.jpeg",
-          "url": "https://toss.im/_m/Tm1Ji2T4",
-          "_ts": 1784244734.251227
-        },
-        {
-          "name": "세플로 헤어 집게 올블랙 볼륨, 블랙, 3종, 1세트",
-          "price": "5,900원",
-          "discount_rate": 74,
-          "priceAt": "07.17 08:30",
-          "image": "https://shopping.toss.im/live/temp/2026-07-11/b4f9a1d6-fdaf-4ab6-a975-ad8921482d42.png",
-          "url": "https://toss.im/_m/PvzMBU6v",
-          "_ts": 1784244630.086655
         },
         {
           "name": "맥콜 제로, 250ml, 30개",
