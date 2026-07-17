@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 가격이 다르면 핫딜 종료입니다. 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "제니베이커리 4믹스 쿠키 L, 640g, 1개",
+          "price": "32,240원",
+          "discount_rate": 24,
+          "priceAt": "07.17 09:04",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/deyh1ojj/320f04b244544a2c95a9c788a47c1f35.jpg",
+          "url": "https://link.coupang.com/a/frK63cKgjA",
+          "_ts": 1784246655.432178
+        },
+        {
           "name": "닥터자르트 시카페어 인텐시브 수딩 리페어 크림, 50ml, 1개",
           "price": "11,870원",
           "discount_rate": 37,
@@ -386,22 +395,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/87362996435625-04e3bc87-9f58-473a-bda3-45baccfeb203.jpg",
           "url": "https://link.coupang.com/a/fp6UfW48Tk",
           "_ts": 1784160840.8966248
-        },
-        {
-          "name": "오뚜기 로열라면 120g, 32개",
-          "price": "17,510원",
-          "priceAt": "07.16 09:03",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/14/11/6/7989f955-d7cc-41fd-a844-9d49eeadbafd.png",
-          "url": "https://link.coupang.com/a/fp6aZCNysC",
-          "_ts": 1784160225.907413
-        },
-        {
-          "name": "더미식 메밀 비빔면 121g, 12개",
-          "price": "8,750원",
-          "priceAt": "07.16 08:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/330231574507614-420f3446-6cfa-4451-9f77-465beaa1aff0.jpg",
-          "url": "https://link.coupang.com/a/fp5Skf8oLI",
-          "_ts": 1784159974.547477
         }
       ]
     },
