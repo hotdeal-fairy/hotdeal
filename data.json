@@ -393,6 +393,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "유한메디카 징코 플러스엔탑 혈행 기억력 케어, 60정, 1개",
+          "price": "4,500원",
+          "discount_rate": 90,
+          "priceAt": "07.17 21:06",
+          "image": "https://shopping.toss.im/live/temp/2026-07-01/d5028dc4-5249-47c9-96b2-23db09472f21.jpeg",
+          "url": "https://toss.im/_m/xHzs7BRy",
+          "_ts": 1784289987.1541
+        },
+        {
           "name": "이롬 유기농 ABC주스, 140ml, 20개입, 1박스",
           "price": "11,900원",
           "discount_rate": 65,
@@ -707,16 +716,6 @@
           "url": "https://toss.im/_m/h1DEebS6",
           "_rank": 14,
           "_product_id": "48217065",
-          "_ts": 1784286158.041884
-        },
-        {
-          "name": "유한메디카 징코 플러스엔탑 혈행 기억력 케어, 60정, 1개",
-          "price": "4,500원",
-          "discount_rate": 90,
-          "image": "https://shopping.toss.im/live/temp/2026-07-01/d5028dc4-5249-47c9-96b2-23db09472f21.jpeg",
-          "url": "https://toss.im/_m/xHzs7BRy",
-          "_rank": 15,
-          "_product_id": "37386349",
           "_ts": 1784286158.041884
         },
         {
