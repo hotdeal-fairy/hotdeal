@@ -348,15 +348,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/337182350587062-edc4c025-7552-40b1-92bf-4a03adc1eedb.jpg",
           "url": "https://link.coupang.com/a/frDaycsyZ2",
           "_ts": 1784239989.03867
-        },
-        {
-          "name": "오리온 와우스낵 선물세트 16팩 1세트",
-          "price": "8,700원",
-          "discount_rate": null,
-          "priceAt": "07.17 07:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/192848786717785-a6b23921-78aa-45f2-adcb-0c6ff31a1b25.png",
-          "url": "https://link.coupang.com/a/frCz9OtdZs",
-          "_ts": 1784239490.311882
         }
       ]
     },
@@ -765,6 +756,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "자연은 더말린 제로 복숭아 음료, 500ml, 20개",
+          "price": "12,240원",
+          "discount_rate": 18,
+          "priceAt": "07.18 07:10",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2577478947818461-4abf07a1-843f-4043-a0b7-fc65b47bca5c.jpg",
+          "url": "https://link.coupang.com/a/fthTXB9hNk",
+          "_ts": 1784326240.022285
+        },
         {
           "name": "비피아이스포츠 아이소 HD 퓨어 아이솔레이트 프로틴 초콜릿 브라우니 2.208kg*1개",
           "price": "70,430원",
