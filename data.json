@@ -393,6 +393,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "신선하랑 한돈 돼지 등뼈, 4kg, 1박스",
+          "price": "9,900원",
+          "discount_rate": 54,
+          "priceAt": "07.17 21:02",
+          "image": "https://shopping.toss.im/live/temp/2025-12-03/8e057ebe-66ce-4d34-b54d-7db0174faa8f.jpeg",
+          "url": "https://toss.im/_m/BVpJhils",
+          "_ts": 1784289742.483705
+        },
+        {
           "name": "메르헨트 퍼퓸 대용량 바디워시, 베이비파우더향, 1L, 2개",
           "price": "9,500원",
           "discount_rate": 68,
