@@ -452,6 +452,15 @@
           "discount_rate": null,
           "priceAt": "07.18 22:54",
           "image": "https://img/x.jpg",
+          "url": "https://link.coupang.com/a/n",
+          "_ts": 1784382880.2662568
+        },
+        {
+          "name": "곰곰 촉촉 반숙란 (냉장) 30구*1개",
+          "price": "11,400원",
+          "discount_rate": null,
+          "priceAt": "07.18 22:54",
+          "image": "https://img/x.jpg",
           "url": "https://link.coupang.com/a/deeplinked",
           "_ts": 1784382861.3545861
         },
