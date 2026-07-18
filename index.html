@@ -54,6 +54,16 @@
       document.getElementById("status").hidden = false;
     });
 
+  // data.json의 상품명 등은 카카오톡 채팅 원문에서 그대로 파싱된 값이라(운영자가 직접
+  // 입력하는 값이 아님) 악의적인 참여자가 "<img src=x onerror=...>" 같은 마크업을 상품명에
+  // 섞어 넣으면 그대로 innerHTML에 꽂혀 실행될 수 있었다(저장형 XSS) — 텍스트로 렌더링하는
+  // 모든 사용자 유래 필드는 이 함수로 이스케이프한다.
+  function escapeHtml(str) {
+    return String(str ?? "").replace(/[&<>"']/g, (c) => (
+      { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]
+    ));
+  }
+
   function formatRelativeTime(ts) {
     const diffMin = (Date.now() / 1000 - ts) / 60;
     if (diffMin < 1) return "방금";
@@ -72,11 +82,11 @@
     document.getElementById("profile").innerHTML = `
       ${
         p.avatar
-          ? `<div class="profile-avatar"><img src="${p.avatar}" alt="${p.name ?? ""}" /></div>`
+          ? `<div class="profile-avatar"><img src="${p.avatar}" alt="${escapeHtml(p.name)}" /></div>`
           : ""
       }
       <div class="profile-text">
-        <h1>${p.name ?? ""}${p.bio ? ` | ${p.bio}` : ""}</h1>
+        <h1>${escapeHtml(p.name)}${p.bio ? ` | ${escapeHtml(p.bio)}` : ""}</h1>
       </div>
     `;
 
@@ -89,7 +99,7 @@
       oc.url && !fromOpenChat
         ? `
         <a class="openchat-button" href="${oc.url}" target="_blank" rel="noopener">
-          ${oc.icon ?? "💬"} ${oc.title ?? "오픈채팅방 참여하기"}
+          ${escapeHtml(oc.icon ?? "💬")} ${escapeHtml(oc.title ?? "오픈채팅방 참여하기")}
         </a>
       `
         : "";
@@ -100,8 +110,8 @@
           .map(
             (banner, i) => `
               <a class="banner-card banner-c${(i % 3) + 1}" href="${banner.url}" target="_blank" rel="noopener">
-                <strong>${banner.title ?? ""}</strong>
-                <small>${banner.description ?? ""}</small>
+                <strong>${escapeHtml(banner.title)}</strong>
+                <small>${escapeHtml(banner.description)}</small>
               </a>
             `
           )
@@ -115,7 +125,7 @@
       .map(
         (mall, i) => `
           <button class="mall-tab-btn${i === 0 ? " active" : ""}" data-mall="${mall.id}">
-            ${mall.name}
+            ${escapeHtml(mall.name)}
           </button>
         `
       )
@@ -140,14 +150,14 @@
               (product) => `
               <div class="product-card">
                 <a href="${product.url}" target="_blank" rel="noopener">
-                  <img src="${product.image}" alt="${product.name}" loading="lazy" referrerpolicy="no-referrer" />
+                  <img src="${product.image}" alt="${escapeHtml(product.name)}" loading="lazy" referrerpolicy="no-referrer" />
                 </a>
-                <p class="product-name">${product.name}</p>
+                <p class="product-name">${escapeHtml(product.name)}</p>
                 <p class="product-price-row">
-                  <span class="product-price">${product.price}</span>
+                  <span class="product-price">${escapeHtml(product.price)}</span>
                   ${
                     product.discount_rate != null
-                      ? `<span class="product-discount">▼${product.discount_rate}%</span>`
+                      ? `<span class="product-discount">▼${escapeHtml(product.discount_rate)}%</span>`
                       : ""
                   }
                   ${
