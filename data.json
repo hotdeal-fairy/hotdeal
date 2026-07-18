@@ -240,33 +240,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/hxg8ar3j/1cae4b0ea7324cca858783a21c680112.jpg",
           "url": "https://link.coupang.com/a/frLyCSTCYC",
           "_ts": 1784247028.647097
-        },
-        {
-          "name": "제니베이커리 4믹스 쿠키 L, 640g, 1개",
-          "price": "32,240원",
-          "discount_rate": 24,
-          "priceAt": "07.17 09:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/deyh1ojj/320f04b244544a2c95a9c788a47c1f35.jpg",
-          "url": "https://link.coupang.com/a/frK63cKgjA",
-          "_ts": 1784246655.432178
-        },
-        {
-          "name": "닥터자르트 시카페어 인텐시브 수딩 리페어 크림, 50ml, 1개",
-          "price": "11,870원",
-          "discount_rate": 37,
-          "priceAt": "07.17 08:57",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/559f/ac89de40c3f734873afb0f7f4f8e03bd9dcca048ff6e3fd0456966e811de.jpg",
-          "url": "https://link.coupang.com/a/frKEFxUaMS",
-          "_ts": 1784246270.016285
-        },
-        {
-          "name": "첫맛 8배 고농축 냉면육수, 1.1kg, 1개",
-          "price": "3,950원",
-          "discount_rate": 48,
-          "priceAt": "07.17 08:55",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/14/10/3/bf652eb1-2aa6-4204-9306-c1ec57866e27.jpg",
-          "url": "https://link.coupang.com/a/frKuXgfklw",
-          "_ts": 1784246138.1873379
         }
       ]
     },
@@ -665,6 +638,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "한성기업 콤비부어스트 파티 후랑크 소시지, 330g, 3개",
+          "price": "9,950원",
+          "discount_rate": 29,
+          "priceAt": "07.18 09:08",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8a27c175-74e3-4ef4-a03f-d88988f95f276745479876273613876.png",
+          "url": "https://link.coupang.com/a/ftqiJBb39w",
+          "_ts": 1784333300.69578
+        },
         {
           "name": "비비고 얇은피 큰 채소가득 고기만두 고기 & 양배추 (냉동), 1kg, 1개",
           "price": "9,980원",
