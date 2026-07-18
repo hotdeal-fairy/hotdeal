@@ -168,24 +168,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/026f377d-dcc4-4429-ab2c-30955ff8e5f31168737188315736310.png",
           "url": "https://link.coupang.com/a/fsrdmopzZA",
           "_ts": 1784282009.931263
-        },
-        {
-          "name": "컵누들 오리지널 1박스(20개입), 20개",
-          "price": "30,300원",
-          "discount_rate": 33,
-          "priceAt": "07.17 18:17",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e07f/2c0117f53b169206d58ac0b698329f74dba9025a04f850b63c326fc28708.jpg",
-          "url": "https://link.coupang.com/a/fsoB5XW4K4",
-          "_ts": 1784279821.0965278
-        },
-        {
-          "name": "모리나가 초이스 비스킷 14개입, 3개",
-          "price": "5,860원",
-          "discount_rate": 41,
-          "priceAt": "07.17 18:06",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c9d8/9160f9a6a988af1a393f920f4437c5c05dff0c8333c4d5e369831f6690df.jpg",
-          "url": "https://link.coupang.com/a/fsnSYy3q0G",
-          "_ts": 1784279212.981215
         }
       ]
     },
@@ -194,6 +176,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "허블리 여성 냉감 플리츠 와이드 팬츠, 옵션6, free, 1장",
+          "price": "5,723원",
+          "discount_rate": 64,
+          "priceAt": "07.18 18:20",
+          "image": "https://shopping.toss.im/live/temp/2026-05-26/f33dde15-d475-4436-a737-ea09652aecb8.jpeg",
+          "url": "https://toss.im/_m/FZJ1eEVa",
+          "_ts": 1784366430.04413
+        },
         {
           "name": "올바른 슈퍼 프로바이오틱스 생유산균 19 비타민D, 30포, 2박스",
           "price": "5,100원",
@@ -328,15 +319,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-05-07/c45f70b1-b6d3-4419-b34d-2e729ecc77be.jpeg",
           "url": "https://toss.im/_m/1FMYirwD",
           "_ts": 1784280077.635581
-        },
-        {
-          "name": "올챌린지 뽑아쓰는 3겹 키친타월 그레이, 100매, 9개",
-          "price": "7,900원",
-          "discount_rate": 60,
-          "priceAt": "07.17 18:20",
-          "image": "https://shopping.toss.im/live/temp/2026-02-05/d4dce3bb-869b-4c61-9087-9fe0e55da81f.jpeg",
-          "url": "https://toss.im/_m/HPepPOF3",
-          "_ts": 1784280023.587971
         },
         {
           "name": "삼육김 들기름으로 구운 광천김 도시락김, 4g, 32봉",
