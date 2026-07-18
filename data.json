@@ -177,24 +177,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c9d8/9160f9a6a988af1a393f920f4437c5c05dff0c8333c4d5e369831f6690df.jpg",
           "url": "https://link.coupang.com/a/fsnSYy3q0G",
           "_ts": 1784279212.981215
-        },
-        {
-          "name": "대림선 어묵 진종합, 205g, 4개",
-          "price": "6,780원",
-          "discount_rate": 32,
-          "priceAt": "07.17 17:05",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/208b8df9-3c15-4b28-b323-fc796b7a12353656008294123421775.png",
-          "url": "https://link.coupang.com/a/fsjtlYkgjk",
-          "_ts": 1784275506.2265542
-        },
-        {
-          "name": "쿠라콘 시오콘부 염장 다시마, 130g, 1개",
-          "price": "6,930원",
-          "discount_rate": 32,
-          "priceAt": "07.17 16:16",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2cbf/03ff9efdf588dbb9734e6881b84650bdc716e5db05b7e41b96be7ff58504.jpg",
-          "url": "https://link.coupang.com/a/fsf0XLVZXE",
-          "_ts": 1784272599.508053
         }
       ]
     },
@@ -554,6 +536,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "AHC 마스터즈 멜라 프로텍트 워터풀 선크림 SPF50+ PA++++, 40ml, 2개",
+          "price": "8,800원",
+          "discount_rate": 36,
+          "priceAt": "07.18 17:15",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3eea47b7-28e9-4c25-9fb6-bb6bb16f4ded7406309591297614751.png",
+          "url": "https://link.coupang.com/a/ftY80mSczk",
+          "_ts": 1784362545.6999948
+        },
         {
           "name": "코디 뉴플라워 천연펄프 미용티슈 2겹, 250매, 6개",
           "price": "7,190원",
