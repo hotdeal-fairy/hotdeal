@@ -123,6 +123,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "푸드앳홈 냉동 생선까스, 1kg, 1팩",
+          "price": "7,500원",
+          "discount_rate": 62,
+          "priceAt": "07.19 08:45",
+          "image": "https://shopping.toss.im/live/temp/2025-06-12/30d62d22-99a6-4b38-a9a0-76c0bf832dce.jpeg",
+          "url": "https://toss.im/_m/hz9BPosd",
+          "_ts": 1784418333.852303
+        },
+        {
           "name": "경추 안마기, 가성비 저주파 마사지기, 블루블랙, 1개",
           "price": "7,900원",
           "discount_rate": 47,
@@ -229,15 +238,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-29/7aa7e734-ed76-4c7b-85ba-a25377db080e.jpeg",
           "url": "https://toss.im/_m/v3iO6hc2",
           "_ts": 1784331935.724906
-        },
-        {
-          "name": "MACCI 로카 쿨 반팔, 블랙, L, 1개",
-          "price": "7,700원",
-          "discount_rate": 74,
-          "priceAt": "07.18 08:45",
-          "image": "https://shopping.toss.im/live/temp/2025-07-01/b1b78709-d42d-4d4b-8abf-bfd713828947.jpeg",
-          "url": "https://toss.im/_m/BsaQci6A",
-          "_ts": 1784331933.078377
         },
         {
           "name": "이롬 황성주 박사의 국산콩 두유 무가당, 190ml, 16팩",
