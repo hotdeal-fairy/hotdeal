@@ -213,6 +213,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "올바른 슈퍼 프로바이오틱스 생유산균 19 비타민D, 30포, 2박스",
+          "price": "5,100원",
+          "discount_rate": 87,
+          "priceAt": "07.18 15:00",
+          "image": "https://shopping.toss.im/live/temp/2025-08-11/61535351-7e00-43fe-beda-ae65d776c7de.png",
+          "url": "https://toss.im/_m/l2TTnNWo",
+          "_ts": 1784354429.545198
+        },
+        {
           "name": "세제의기본 과탄산소다, 2kg, 1개",
           "price": "8,900원",
           "discount_rate": 57,
@@ -366,15 +375,6 @@
           "_ts": 1784268093.338979
         },
         {
-          "name": "유러피안 샐러드 쌈채소, 1kg, 1박스",
-          "price": "8,500원",
-          "discount_rate": 46,
-          "priceAt": "07.17 15:00",
-          "image": "https://shopping.toss.im/live/temp/2025-12-26/4d0a8574-d6bb-421a-9021-224a4eddd51b.jpeg",
-          "url": "https://toss.im/_m/lMGMxiTp",
-          "_ts": 1784268027.0027149
-        },
-        {
           "name": "삼육김 들기름으로 구운 광천김 도시락김, 4g, 32봉",
           "price": "4,900원",
           "discount_rate": 69,
@@ -382,16 +382,6 @@
           "url": "https://toss.im/_m/FWMGPuCk",
           "_rank": 1,
           "_product_id": "176088899",
-          "_ts": 1784343668.373827
-        },
-        {
-          "name": "올바른 슈퍼 프로바이오틱스 생유산균 19 비타민D, 30포, 2박스",
-          "price": "5,100원",
-          "discount_rate": 87,
-          "image": "https://shopping.toss.im/live/temp/2025-08-11/61535351-7e00-43fe-beda-ae65d776c7de.png",
-          "url": "https://toss.im/_m/l2TTnNWo",
-          "_rank": 5,
-          "_product_id": "183855123",
           "_ts": 1784343668.373827
         },
         {
