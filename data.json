@@ -485,6 +485,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "코카콜라 제로 무라벨, 370ml, 24개",
+          "price": "16,980원",
+          "discount_rate": 15,
+          "priceAt": "07.19 07:04",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/357307576315419-db13617b-51b2-47fd-b370-1d6cc70dc5c2.jpg",
+          "url": "https://link.coupang.com/a/fuWlfKujm0",
+          "_ts": 1784412254.776663
+        },
+        {
           "name": "헤드앤숄더 2in1 쿨멘솔 샴푸 겸 컨디셔너 프루티향, 800ml, 1개",
           "price": "13,400원",
           "discount_rate": 29,
