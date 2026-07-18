@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "곰곰 촉촉 반숙란 (냉장) 30구*1개",
+          "price": "11,400원",
+          "discount_rate": null,
+          "priceAt": "07.18 13:45",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1147310876361-66d4b381-bf7a-4d98-b28a-007daaf78c51.jpg",
+          "url": "https://link.coupang.com/a/ftHprQWusu",
+          "_ts": 1784349946.500572
+        },
+        {
           "name": "델몬트 베트남산 바나나, 800g 내외, 1개",
           "price": "2,200원",
           "discount_rate": null,
@@ -222,15 +231,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/03ae/38603ee275be0ea0c88d2d3414c7c6802eb2a7a6c765e9ec78c668c76ebc.jpg",
           "url": "https://link.coupang.com/a/fr6T18WXU4",
           "_ts": 1784264951.107671
-        },
-        {
-          "name": "만토바 비보 유기농 오가닉 엑스트라버진 오리지날 올리브유, 200ml, 2개",
-          "price": "15,800원",
-          "discount_rate": 37,
-          "priceAt": "07.17 13:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/95171916540956-d17c950c-9594-40aa-b1dc-7570fe9fd688.jpg",
-          "url": "https://link.coupang.com/a/fr41ucZtwy",
-          "_ts": 1784263369.974815
         }
       ]
     },
@@ -590,15 +590,6 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
-        {
-          "name": "곰곰 촉촉 반숙란 (냉장) 30구*1개",
-          "price": "11,400원",
-          "discount_rate": 24,
-          "priceAt": "07.18 13:07",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1147310876361-66d4b381-bf7a-4d98-b28a-007daaf78c51.jpg",
-          "url": "https://link.coupang.com/a/ftHprQWusu",
-          "_ts": 1784347656.9185221
-        },
         {
           "name": "이자녹스 테르비나 어드밴스드 리제너레이팅 2종 세트",
           "price": "58,680원",
