@@ -114,42 +114,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/87362996435625-04e3bc87-9f58-473a-bda3-45baccfeb203.jpg",
           "url": "https://link.coupang.com/a/fthrXlKA7E",
           "_ts": 1784325866.737659
-        },
-        {
-          "name": "루나 롱래스팅 팁컨실러 픽싱 핏 7.5g, 2호 베이지, 1개",
-          "price": "5,860원",
-          "discount_rate": 36,
-          "priceAt": "07.17 21:26",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3842090163432-a052d8de-afd0-482f-8e60-12d89673e259.jpg",
-          "url": "https://link.coupang.com/a/fsCbdcxi4i",
-          "_ts": 1784291218.468268
-        },
-        {
-          "name": "다향 엄선된 원료육으로 만든 다향훈제오리",
-          "price": "8,790원",
-          "discount_rate": 22,
-          "priceAt": "07.17 21:24",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/58427174791412-42db8f96-b764-4656-8bd9-712ac95e57bf.jpg",
-          "url": "https://link.coupang.com/a/fsB099ioAm",
-          "_ts": 1784291078.1576982
-        },
-        {
-          "name": "베지밀 검은콩 아몬드 앤 호두 두유, 190ml, 16개",
-          "price": "8,190원",
-          "discount_rate": 33,
-          "priceAt": "07.17 21:18",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/430e/5ba5d1c60a263bb19cec27c88354c546496928c86c1864cc95d273d7acc3.jpg",
-          "url": "https://link.coupang.com/a/fsBzFxOkdo",
-          "_ts": 1784290701.666912
-        },
-        {
-          "name": "그릭슈바인 닭가슴살 비엔나 소시지, 400g, 1개",
-          "price": "5,980원",
-          "discount_rate": 36,
-          "priceAt": "07.17 21:16",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/8dkth24v/a42917994d78472e8590f7a6790d819b.jpg",
-          "url": "https://link.coupang.com/a/fsBp5Wznsy",
-          "_ts": 1784290577.808474
         }
       ]
     },
@@ -274,42 +238,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-07-01/b1b78709-d42d-4d4b-8abf-bfd713828947.jpeg",
           "url": "https://toss.im/_m/BsaQci6A",
           "_ts": 1784331933.078377
-        },
-        {
-          "name": "유한메디카 징코 플러스엔탑 혈행 기억력 케어, 60정, 1개",
-          "price": "4,500원",
-          "discount_rate": 90,
-          "priceAt": "07.17 21:06",
-          "image": "https://shopping.toss.im/live/temp/2026-07-01/d5028dc4-5249-47c9-96b2-23db09472f21.jpeg",
-          "url": "https://toss.im/_m/xHzs7BRy",
-          "_ts": 1784289987.1541
-        },
-        {
-          "name": "이롬 유기농 ABC주스, 140ml, 20개입, 1박스",
-          "price": "11,900원",
-          "discount_rate": 65,
-          "priceAt": "07.17 21:04",
-          "image": "https://shopping.toss.im/live/temp/2026-04-30/60385400-1303-4d25-9dd3-7288522c6c13.png",
-          "url": "https://toss.im/_m/DAijaxT6",
-          "_ts": 1784289866.701987
-        },
-        {
-          "name": "신선하랑 한돈 돼지 등뼈, 4kg, 1박스",
-          "price": "9,900원",
-          "discount_rate": 54,
-          "priceAt": "07.17 21:02",
-          "image": "https://shopping.toss.im/live/temp/2025-12-03/8e057ebe-66ce-4d34-b54d-7db0174faa8f.jpeg",
-          "url": "https://toss.im/_m/BVpJhils",
-          "_ts": 1784289742.483705
-        },
-        {
-          "name": "메르헨트 퍼퓸 대용량 바디워시, 베이비파우더향, 1L, 2개",
-          "price": "9,500원",
-          "discount_rate": 68,
-          "priceAt": "07.17 21:00",
-          "image": "https://shopping.toss.im/live/temp/2026-06-17/157da1ff-efe8-472f-bbd1-4b4b2c1c1448.jpeg",
-          "url": "https://toss.im/_m/bDZIbWHp",
-          "_ts": 1784289629.2489998
         },
         {
           "name": "이롬 황성주 박사의 국산콩 두유 무가당, 190ml, 16팩",
@@ -518,6 +446,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "곰곰 촉촉 반숙란 (냉장) 30구*1개",
+          "price": "11,400원",
+          "discount_rate": null,
+          "priceAt": "07.18 22:48",
+          "image": "https://img/x.jpg",
+          "url": "https://link.coupang.com/a/deeplinked",
+          "_ts": 1784382539.138057
+        },
         {
           "name": "하이디라오 마라샹궈 소스, 220g, 1개",
           "price": "2,580원",
