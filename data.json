@@ -222,24 +222,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/95171916540956-d17c950c-9594-40aa-b1dc-7570fe9fd688.jpg",
           "url": "https://link.coupang.com/a/fr41ucZtwy",
           "_ts": 1784263369.974815
-        },
-        {
-          "name": "베키아에누보 비프치즈 치아바타 샌드위치 (냉동), 195g, 3개입, 2개",
-          "price": "15,400원",
-          "discount_rate": 31,
-          "priceAt": "07.17 11:29",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6ffbd440-e529-432c-a706-d3513c092fce17272992553109078290.png",
-          "url": "https://link.coupang.com/a/frVwYe3Cfs",
-          "_ts": 1784255399.270087
-        },
-        {
-          "name": "사옹원 부침명장 담백하게 부쳐나온 깻잎전 (냉동), 400g, 1개",
-          "price": "5,800원",
-          "discount_rate": 37,
-          "priceAt": "07.17 11:27",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/02/20/16/3/d306d721-c549-4170-9adb-1aa23655ade2.jpg",
-          "url": "https://link.coupang.com/a/frVnejhRSu",
-          "_ts": 1784255265.1620128
         }
       ]
     },
@@ -248,6 +230,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "광동 썬키스트 피스타치오 언스위트, 190ml, 24개",
+          "price": "9,900원",
+          "discount_rate": 64,
+          "priceAt": "07.18 11:45",
+          "image": "https://shopping.toss.im/live/temp/2026-07-14/0d13fed7-2412-4e44-9845-50e4fef41e0c.jpeg",
+          "url": "https://toss.im/_m/5YlziOIk",
+          "_ts": 1784342721.4255831
+        },
         {
           "name": "맥콜 제로, 250ml, 30개",
           "price": "7,600원",
