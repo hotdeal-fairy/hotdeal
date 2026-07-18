@@ -357,24 +357,6 @@
           "_ts": 1784280023.587971
         },
         {
-          "name": "하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
-          "price": "5,900원",
-          "discount_rate": 62,
-          "priceAt": "07.17 15:02",
-          "image": "https://shopping.toss.im/live/temp/2026-07-09/e57076fd-010b-40ca-9945-50f1c7759e58.jpeg",
-          "url": "https://toss.im/_m/HmWSU9gi",
-          "_ts": 1784268178.936524
-        },
-        {
-          "name": "살림백서 퓨어 마이크로 휩 클렌징폼, 230ml, 4개",
-          "price": "10,900원",
-          "discount_rate": 63,
-          "priceAt": "07.17 15:01",
-          "image": "https://shopping.toss.im/live/product/2291937/38d24e46-2bc5-4aa4-b91d-b07f73f7325b.jpeg",
-          "url": "https://toss.im/_m/FeTtDRCD",
-          "_ts": 1784268093.338979
-        },
-        {
           "name": "삼육김 들기름으로 구운 광천김 도시락김, 4g, 32봉",
           "price": "4,900원",
           "discount_rate": 69,
@@ -571,6 +553,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "소미 시오다래, 320g, 1개",
+          "price": "5,470원",
+          "discount_rate": 22,
+          "priceAt": "07.18 15:04",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1769763913803137-e8b0d540-a76c-4965-8415-eaf23262cc4c.jpg",
+          "url": "https://link.coupang.com/a/ftPKQskRUG",
+          "_ts": 1784354660.497441
+        },
         {
           "name": "이자녹스 테르비나 어드밴스드 리제너레이팅 2종 세트",
           "price": "58,680원",
