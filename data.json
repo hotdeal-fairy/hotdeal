@@ -177,6 +177,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "광천김 곱창김 도시락김, 5g, 27개, 1세트",
+          "price": "9,900원",
+          "discount_rate": 50,
+          "priceAt": "07.18 18:20",
+          "image": "https://shopping.toss.im/live/temp/2025-11-19/7b33a77a-96e1-4ed7-a640-4d26cef896dd.jpeg",
+          "url": "https://toss.im/_m/roSpDwqi",
+          "_ts": 1784366433.4190972
+        },
+        {
           "name": "허블리 여성 냉감 플리츠 와이드 팬츠, 옵션6, free, 1장",
           "price": "5,723원",
           "discount_rate": 64,
