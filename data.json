@@ -231,15 +231,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/237245189197707-86feed34-4a00-4624-8950-b7c628d430fc.jpg",
           "url": "https://link.coupang.com/a/frMqQ7JBYG",
           "_ts": 1784247763.542132
-        },
-        {
-          "name": "휠라 RGB 퓨즈 운동화",
-          "price": "28,550원",
-          "discount_rate": 35,
-          "priceAt": "07.17 09:10",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/hxg8ar3j/1cae4b0ea7324cca858783a21c680112.jpg",
-          "url": "https://link.coupang.com/a/frLyCSTCYC",
-          "_ts": 1784247028.647097
         }
       ]
     },
@@ -638,6 +629,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "크리넥스 알러지 케어 로션 천연펄프 각티슈 3겹, 150매입, 3개",
+          "price": "9,400원",
+          "discount_rate": 35,
+          "priceAt": "07.18 09:10",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/225511600992669-1ddaff19-9da3-4956-a51f-bb9daf0e0bcc.jpg",
+          "url": "https://link.coupang.com/a/ftqs2IRh7s",
+          "_ts": 1784333433.3158772
+        },
         {
           "name": "한성기업 콤비부어스트 파티 후랑크 소시지, 330g, 3개",
           "price": "9,950원",
