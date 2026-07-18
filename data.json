@@ -231,6 +231,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스테이퍼퓸 밤쉘, 80ml, 1개",
+          "price": "7,900원",
+          "discount_rate": 75,
+          "priceAt": "07.18 11:45",
+          "image": "https://shopping.toss.im/live/temp/2025-10-21/2949603d-2b8a-44c9-a4d3-3ea6e24efd64.jpeg",
+          "url": "https://toss.im/_m/HUEpWD9w",
+          "_ts": 1784342726.700448
+        },
+        {
           "name": "위니즈 질레트 호환용 퓨전 프로쉴드 5중 면도날, 12개 + 면도기, 1개",
           "price": "9,506원",
           "discount_rate": 60,
