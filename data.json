@@ -195,6 +195,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "백도복숭아, 2kg, 1개",
+          "price": "9,990원",
+          "discount_rate": 61,
+          "priceAt": "07.20 08:45",
+          "image": "https://shopping.toss.im/live/temp/2026-07-06/12b25ac6-80a0-4e53-b4f2-2b248c0f0466.png",
+          "url": "https://toss.im/_m/phnGqWsj",
+          "_ts": 1784504718.195585
+        },
+        {
           "name": "세척사과, 최대15brix, 마트납품용, 꿀사과, 2kg, 1박스",
           "price": "9,900원",
           "discount_rate": 75,
@@ -507,16 +516,6 @@
           "url": "https://toss.im/_m/pKAO8Cir",
           "_rank": 20,
           "_product_id": "86166697",
-          "_ts": 1784502148.837857
-        },
-        {
-          "name": "백도복숭아, 2kg, 1개",
-          "price": "9,990원",
-          "discount_rate": 61,
-          "image": "https://shopping.toss.im/live/temp/2026-07-06/12b25ac6-80a0-4e53-b4f2-2b248c0f0466.png",
-          "url": "https://toss.im/_m/phnGqWsj",
-          "_rank": 21,
-          "_product_id": "2423245175",
           "_ts": 1784502148.837857
         },
         {
