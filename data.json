@@ -96,6 +96,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "터치 라이트 아토캡 고농축 캡슐세제, 8g, 120개입, 1개",
+          "price": "4,500원",
+          "discount_rate": 71,
+          "priceAt": "07.19 11:45",
+          "image": "https://shopping.toss.im/live/temp/2026-06-24/34d2976a-b1b3-45aa-a4d1-0c5f0d7c1fc6.jpeg",
+          "url": "https://toss.im/_m/PPxtyam7",
+          "_ts": 1784429128.221579
+        },
+        {
           "name": "쉬블림로브 3피스 반팔 반바지 긴바지 여성 홈웨어 곰 패턴 잠옷 세트, 원컬러, FREE",
           "price": "7,900원",
           "discount_rate": 75,
@@ -202,15 +211,6 @@
           "image": "https://shopping.toss.im/live/product/4624931/ce7a899a-7b7b-410a-8452-d52c92bb9b65.jpeg",
           "url": "https://toss.im/_m/f4CfU5BC",
           "_ts": 1784354423.964739
-        },
-        {
-          "name": "스테이퍼퓸 밤쉘, 80ml, 1개",
-          "price": "7,900원",
-          "discount_rate": 75,
-          "priceAt": "07.18 11:45",
-          "image": "https://shopping.toss.im/live/temp/2025-10-21/2949603d-2b8a-44c9-a4d3-3ea6e24efd64.jpeg",
-          "url": "https://toss.im/_m/HUEpWD9w",
-          "_ts": 1784342726.700448
         },
         {
           "name": "이롬 황성주 박사의 국산콩 두유 무가당, 190ml, 16팩",
@@ -330,16 +330,6 @@
           "url": "https://toss.im/_m/3hZwEQdh",
           "_rank": 14,
           "_product_id": "2494791539",
-          "_ts": 1784415712.6415098
-        },
-        {
-          "name": "터치 라이트 아토캡 고농축 캡슐세제, 8g, 120개입, 1개",
-          "price": "4,500원",
-          "discount_rate": 71,
-          "image": "https://shopping.toss.im/live/temp/2026-06-24/34d2976a-b1b3-45aa-a4d1-0c5f0d7c1fc6.jpeg",
-          "url": "https://toss.im/_m/PPxtyam7",
-          "_rank": 15,
-          "_product_id": "2316069149",
           "_ts": 1784415712.6415098
         },
         {
