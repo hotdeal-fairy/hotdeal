@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "투데이넛 너트한줌 요거트 견과세트 600g",
+          "price": "15,820원",
+          "discount_rate": null,
+          "priceAt": "07.19 11:27",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/308513359822038-d05e9981-3c5a-45b3-bbd1-55eb16ef51e4.jpg",
+          "url": "https://link.coupang.com/a/fve977miWq",
+          "_ts": 1784428060.62603
+        },
+        {
           "name": "크리넥스 수프림 소프트 천연펄프 3겹 화장지 27m*30롤*1개",
           "price": "14,830원",
           "discount_rate": 29,
@@ -78,15 +87,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/141492625439443-a7bf5387-044b-4bb5-964d-a3d7d28de7bb.jpg",
           "url": "https://link.coupang.com/a/ftEeRRWdHM",
           "_ts": 1784345022.811616
-        },
-        {
-          "name": "디유 울트라 텀블러 900ml*2세트",
-          "price": "9,900원",
-          "discount_rate": 45,
-          "priceAt": "07.18 11:20",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37072971791259-c4261024-7b9b-42b1-9dcd-70970c6a64c8.jpg",
-          "url": "https://link.coupang.com/a/ftzLb38v3Q",
-          "_ts": 1784341240.724583
         }
       ]
     },
