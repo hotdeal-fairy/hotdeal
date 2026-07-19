@@ -96,6 +96,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "성심닭갈비, 500g, 2개",
+          "price": "9,900원",
+          "discount_rate": 72,
+          "priceAt": "07.19 11:45",
+          "image": "https://shopping.toss.im/live/temp/2026-06-09/c8f82812-8c8c-43c8-a2ef-b4862a3a612d.jpeg",
+          "url": "https://toss.im/_m/nglVhxSe",
+          "_ts": 1784429122.697886
+        },
+        {
           "name": "전남 무안 양파, 중, 5kg, 1개",
           "price": "6,755원",
           "discount_rate": 75,
@@ -202,15 +211,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-05/a58d1887-f8ec-41eb-9f33-6545a2ca7167.jpeg",
           "url": "https://toss.im/_m/dpC8eeWp",
           "_ts": 1784342724.118571
-        },
-        {
-          "name": "광동 썬키스트 피스타치오 언스위트, 190ml, 24개",
-          "price": "9,900원",
-          "discount_rate": 64,
-          "priceAt": "07.18 11:45",
-          "image": "https://shopping.toss.im/live/temp/2026-07-14/0d13fed7-2412-4e44-9845-50e4fef41e0c.jpeg",
-          "url": "https://toss.im/_m/5YlziOIk",
-          "_ts": 1784342721.4255831
         },
         {
           "name": "이롬 황성주 박사의 국산콩 두유 무가당, 190ml, 16팩",
