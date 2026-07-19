@@ -87,33 +87,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37072971791259-c4261024-7b9b-42b1-9dcd-70970c6a64c8.jpg",
           "url": "https://link.coupang.com/a/ftzLb38v3Q",
           "_ts": 1784341240.724583
-        },
-        {
-          "name": "폰타나 발사믹 글레이즈, 250ml, 2개",
-          "price": "10,870원",
-          "discount_rate": 28,
-          "priceAt": "07.18 10:42",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/890444865790989-120d22dd-ce96-4783-a3a0-f3a81f585d2b.jpg",
-          "url": "https://link.coupang.com/a/ftwJuREGE8",
-          "_ts": 1784338926.463089
-        },
-        {
-          "name": "후아유 유니 카라 바시티 패딩 자켓 M95",
-          "price": "17,520원",
-          "discount_rate": 44,
-          "priceAt": "07.18 09:47",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/85cdwqjb/4329a9e1652141a5a4eb0175596b1f63.jpg",
-          "url": "https://link.coupang.com/a/ftsW9dLU9A",
-          "_ts": 1784335651.007621
-        },
-        {
-          "name": "한성기업 콤비부어스트 파티 후랑크 소시지, 330g, 3개",
-          "price": "9,950원",
-          "discount_rate": 29,
-          "priceAt": "07.18 09:12",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8a27c175-74e3-4ef4-a03f-d88988f95f276745479876273613876.png",
-          "url": "https://link.coupang.com/a/ftqiJBb39w",
-          "_ts": 1784333576.345342
         }
       ]
     },
@@ -466,6 +439,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "센토 주니어 세이프 딥클린 초미세모 어린이 칫솔 스텝3, 혼합색상, 12개입, 1세트",
+          "price": "6,960원",
+          "discount_rate": 36,
+          "priceAt": "07.19 10:59",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37416361570926-2764848c-4ea3-4ea8-a9e1-a3734e913438.png",
+          "url": "https://link.coupang.com/a/fvdbWEzAOq",
+          "_ts": 1784426399.840717
+        },
         {
           "name": "닥터스베스트 마그네슘, 240정, 2개",
           "price": "38,780원",
