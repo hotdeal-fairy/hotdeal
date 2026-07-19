@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "풀무원 들기름 메밀막국수 2인분, 391.4g, 2개",
+          "price": "0원",
+          "discount_rate": 100,
+          "priceAt": "07.20 07:09",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c69681f4-4dfc-43b4-8c1c-641dab1e3ba74718989684408752959.png",
+          "url": "https://link.coupang.com/a/fwBDvkJn2q",
+          "_ts": 1784498984.3657238
+        },
+        {
           "name": "에이플러스랩 맥주효모 탈모증상완화 샴푸 화이트 스웨이드향, 480ml, 1개",
           "price": "4,850원",
           "discount_rate": 46,
@@ -123,15 +132,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/58433474886307-4c55277d-90c9-41a4-80d0-8ab14328b8d8.jpg",
           "url": "https://link.coupang.com/a/fuWNKWaxZk",
           "_ts": 1784412640.786272
-        },
-        {
-          "name": "앨리쉬 자외선차단 양산 우산 초경량 암막",
-          "price": "3,700원",
-          "discount_rate": 81,
-          "priceAt": "07.19 07:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5c05/a8999e47c6c030827c303b2cbe77784fc308b26c1bccc84e139186f69638.png",
-          "url": "https://link.coupang.com/a/fuWkJifUhE",
-          "_ts": 1784412248.0158231
         }
       ]
     },
