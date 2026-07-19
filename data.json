@@ -141,6 +141,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "산지로드 시원한 배 무생채, 2kg, 1개",
+          "price": "8,900원",
+          "discount_rate": 52,
+          "priceAt": "07.19 21:01",
+          "image": "https://shopping.toss.im/live/temp/2026-02-12/f9b46ae5-15c5-42a5-a5bc-422caf4d3d66.jpeg",
+          "url": "https://toss.im/_m/xZvcF2Su",
+          "_ts": 1784462496.4473941
+        },
+        {
           "name": "에브리워터 무라벨, 500ml, 60개",
           "price": "9,690원",
           "discount_rate": 53,
