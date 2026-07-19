@@ -114,6 +114,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "플라워 양우산, 화이트, 2개",
+          "price": "9,800원",
+          "discount_rate": 67,
+          "priceAt": "07.19 15:00",
+          "image": "https://shopping.toss.im/live/temp/2026-01-22/352cb760-f054-4dd2-ab8b-b6e6a8e49ff8.jpeg",
+          "url": "https://toss.im/_m/VNR39eUA",
+          "_ts": 1784440827.643132
+        },
+        {
           "name": "이모뜰 국내산 수미 햇감자, 대, 3kg, 1박스",
           "price": "6,900원",
           "discount_rate": 61,
@@ -220,15 +229,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-08-11/61535351-7e00-43fe-beda-ae65d776c7de.png",
           "url": "https://toss.im/_m/l2TTnNWo",
           "_ts": 1784354429.545198
-        },
-        {
-          "name": "세제의기본 과탄산소다, 2kg, 1개",
-          "price": "8,900원",
-          "discount_rate": 57,
-          "priceAt": "07.18 15:00",
-          "image": "https://shopping.toss.im/live/temp/2025-06-29/ee9f4526-984e-421b-96f5-cdc9eb0a2a8d.jpeg",
-          "url": "https://toss.im/_m/DKDtJB31",
-          "_ts": 1784354426.752566
         },
         {
           "name": "이롬 황성주 박사의 국산콩 두유 무가당, 190ml, 16팩",
