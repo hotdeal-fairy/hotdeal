@@ -267,15 +267,6 @@
           "_ts": 1784504718.195585
         },
         {
-          "name": "세척사과, 최대15brix, 마트납품용, 꿀사과, 2kg, 1박스",
-          "price": "9,900원",
-          "discount_rate": 75,
-          "priceAt": "07.19 21:02",
-          "image": "https://shopping.toss.im/live/temp/2026-06-10/60d9ae23-f103-497f-8dbc-6ed8f947dced.png",
-          "url": "https://toss.im/_m/H7GwEm9w",
-          "_ts": 1784462536.8325388
-        },
-        {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
           "price": "8,000원",
           "discount_rate": 79,
@@ -542,6 +533,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "InLoop 인기많은 고양이 키캡 키링 9구",
+          "price": "3,900원",
+          "discount_rate": 33,
+          "priceAt": "07.20 21:04",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d0dd/13a2deb7b430645bf1ccff4a77aba5176b0355dda6bd75d854eeab3bdb1c.png",
+          "url": "https://link.coupang.com/a/fxzhkuMyZ2",
+          "_ts": 1784549057.570166
+        },
         {
           "name": "오뚜기옛날 구수한 끓여먹는 누룽지, 3kg, 1개",
           "price": "15,900원",
