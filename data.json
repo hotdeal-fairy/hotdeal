@@ -213,6 +213,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "뉴리스 발바닥 발패치, 50매",
+          "price": "8,900원",
+          "discount_rate": 55,
+          "priceAt": "07.20 11:46",
+          "image": "https://shopping.toss.im/live/temp/2026-03-26/7563c02f-a6cc-4cea-8b4b-3377f3be22db.jpeg",
+          "url": "https://toss.im/_m/z1xmL3m3",
+          "_ts": 1784515615.650877
+        },
+        {
           "name": "파스쿠치 굿페이스 마스크팩, 랜덤, 40개",
           "price": "9,900원",
           "discount_rate": 87,
@@ -310,33 +319,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-10-28/bf5479dd-6413-412b-b940-ad3a25f6b256.png",
           "url": "https://toss.im/_m/RGd3nvWq",
           "_ts": 1784440824.895017
-        },
-        {
-          "name": "터치 라이트 아토캡 고농축 캡슐세제, 8g, 120개입, 1개",
-          "price": "4,500원",
-          "discount_rate": 71,
-          "priceAt": "07.19 11:45",
-          "image": "https://shopping.toss.im/live/temp/2026-06-24/34d2976a-b1b3-45aa-a4d1-0c5f0d7c1fc6.jpeg",
-          "url": "https://toss.im/_m/PPxtyam7",
-          "_ts": 1784429128.221579
-        },
-        {
-          "name": "쉬블림로브 3피스 반팔 반바지 긴바지 여성 홈웨어 곰 패턴 잠옷 세트, 원컬러, FREE",
-          "price": "7,900원",
-          "discount_rate": 75,
-          "priceAt": "07.19 11:45",
-          "image": "https://shopping.toss.im/live/temp/2026-07-15/e3f455a5-8ccd-47dc-9738-e55a08e425f1.jpeg",
-          "url": "https://toss.im/_m/BIwEGp5v",
-          "_ts": 1784429125.558105
-        },
-        {
-          "name": "성심닭갈비, 500g, 2개",
-          "price": "9,900원",
-          "discount_rate": 72,
-          "priceAt": "07.19 11:45",
-          "image": "https://shopping.toss.im/live/temp/2026-06-09/c8f82812-8c8c-43c8-a2ef-b4862a3a612d.jpeg",
-          "url": "https://toss.im/_m/nglVhxSe",
-          "_ts": 1784429122.697886
         },
         {
           "name": "맥콜 제로, 250ml, 30개",
