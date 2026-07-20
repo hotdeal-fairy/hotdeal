@@ -312,33 +312,6 @@
           "_ts": 1784429122.697886
         },
         {
-          "name": "전남 무안 양파, 중, 5kg, 1개",
-          "price": "6,755원",
-          "discount_rate": 75,
-          "priceAt": "07.19 08:45",
-          "image": "https://shopping.toss.im/live/temp/2025-04-22/a651c74c-be3b-406d-9c63-6b02d1c2cbe2.jpeg",
-          "url": "https://toss.im/_m/b0hTpoEt",
-          "_ts": 1784418339.4424808
-        },
-        {
-          "name": "순수식품 300달톤 저분자 피쉬 콜라겐, 90정, 3박스",
-          "price": "9,900원",
-          "discount_rate": 78,
-          "priceAt": "07.19 08:45",
-          "image": "https://shopping.toss.im/live/temp/2026-07-03/739e0b9e-df5c-475e-8da3-8e340a3b938e.jpeg",
-          "url": "https://toss.im/_m/50fEzOn2",
-          "_ts": 1784418336.781205
-        },
-        {
-          "name": "푸드앳홈 냉동 생선까스, 1kg, 1팩",
-          "price": "7,500원",
-          "discount_rate": 62,
-          "priceAt": "07.19 08:45",
-          "image": "https://shopping.toss.im/live/temp/2025-06-12/30d62d22-99a6-4b38-a9a0-76c0bf832dce.jpeg",
-          "url": "https://toss.im/_m/hz9BPosd",
-          "_ts": 1784418333.852303
-        },
-        {
           "name": "맥콜 제로, 250ml, 30개",
           "price": "7,600원",
           "discount_rate": 57,
@@ -605,6 +578,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "엠앤엠즈 미니스 튜브 초콜릿, 35g, 24개",
+          "price": "16,970원",
+          "discount_rate": 32,
+          "priceAt": "07.20 09:41",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1e43/198ff5f7099345a74d42578f831544993543681f0bb4d5516b9b9a71f1c4.jpg",
+          "url": "https://link.coupang.com/a/fwMswf6KYu",
+          "_ts": 1784508066.151316
+        },
         {
           "name": "피노 프리미엄 터치 헤어 마스크, 230g [6개]",
           "price": "36,520원",
