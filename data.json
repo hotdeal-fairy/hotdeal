@@ -535,6 +535,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "해태제과 맛동산, 38g, 20개",
+          "price": "7,710원",
+          "discount_rate": 23,
+          "priceAt": "07.21 07:09",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/410429236197103-55ac2abd-46cb-4ddd-ada2-f97c8359c263.jpg",
+          "url": "https://link.coupang.com/a/fygxZ3i1RY",
+          "_ts": 1784585384.040122
+        },
+        {
           "name": "쿠쿠 포터블 제빙기",
           "price": "99,000원",
           "discount_rate": 34,
@@ -1091,15 +1100,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2577478947818461-4abf07a1-843f-4043-a0b7-fc65b47bca5c.jpg",
           "url": "https://link.coupang.com/a/fthTXB9hNk",
           "_ts": 1784326240.022285
-        },
-        {
-          "name": "비피아이스포츠 아이소 HD 퓨어 아이솔레이트 프로틴 초콜릿 브라우니 2.208kg*1개",
-          "price": "70,430원",
-          "discount_rate": 17,
-          "priceAt": "07.18 07:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8c75/88f32b3dfb87fb4ecea31ed432c1a14524761d4083f46061ba48a791f571.jpg",
-          "url": "https://link.coupang.com/a/fthrdd0nue",
-          "_ts": 1784325850.282201
         }
       ]
     }
