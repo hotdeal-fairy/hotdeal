@@ -186,6 +186,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "고궁 통참깨 참기름, 350ml, 3개",
+          "price": "9,900원",
+          "discount_rate": 78,
+          "priceAt": "07.20 21:01",
+          "image": "https://shopping.toss.im/live/temp/2026-07-10/0fc37972-1722-4e92-b1ba-fe3fa0feb826.png",
+          "url": "https://toss.im/_m/HMHKpPzj",
+          "_ts": 1784548910.4824588
+        },
+        {
           "name": "듀라텍스 냉감 베개 커버 밴드형, 화이트, 40x60cm, 2개",
           "price": "9,700원",
           "discount_rate": 57,
@@ -267,24 +276,6 @@
           "_ts": 1784462536.8325388
         },
         {
-          "name": "산지로드 시원한 배 무생채, 2kg, 1개",
-          "price": "8,900원",
-          "discount_rate": 52,
-          "priceAt": "07.19 21:01",
-          "image": "https://shopping.toss.im/live/temp/2026-02-12/f9b46ae5-15c5-42a5-a5bc-422caf4d3d66.jpeg",
-          "url": "https://toss.im/_m/xZvcF2Su",
-          "_ts": 1784462496.4473941
-        },
-        {
-          "name": "에브리워터 무라벨, 500ml, 60개",
-          "price": "9,690원",
-          "discount_rate": 53,
-          "priceAt": "07.19 21:00",
-          "image": "https://shopping.toss.im/live/temp/2026-05-21/9291aa66-01ed-4c06-94a1-faa11dab636c.jpeg",
-          "url": "https://toss.im/_m/ThFj6ctc",
-          "_ts": 1784462431.978053
-        },
-        {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
           "price": "8,000원",
           "discount_rate": 79,
@@ -292,16 +283,6 @@
           "url": "https://toss.im/_m/3ufOIpDz",
           "_rank": 1,
           "_product_id": "106741127",
-          "_ts": 1784539546.016547
-        },
-        {
-          "name": "고궁 통참깨 참기름, 350ml, 3개",
-          "price": "9,900원",
-          "discount_rate": 78,
-          "image": "https://shopping.toss.im/live/temp/2026-07-10/0fc37972-1722-4e92-b1ba-fe3fa0feb826.png",
-          "url": "https://toss.im/_m/HMHKpPzj",
-          "_rank": 2,
-          "_product_id": "383195203",
           "_ts": 1784539546.016547
         },
         {
