@@ -159,15 +159,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/109121238662549-7274c502-c9a7-43db-bcd6-441fec3c38cd.jpg",
           "url": "https://link.coupang.com/a/fwCfb0LZ5U",
           "_ts": 1784499494.1673212
-        },
-        {
-          "name": "풀무원 들기름 메밀막국수 2인분, 391.4g, 2개",
-          "price": "0원",
-          "discount_rate": 100,
-          "priceAt": "07.20 07:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c69681f4-4dfc-43b4-8c1c-641dab1e3ba74718989684408752959.png",
-          "url": "https://link.coupang.com/a/fwBDvkJn2q",
-          "_ts": 1784498984.3657238
         }
       ]
     },
@@ -534,6 +525,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "락앤락 하드앤라이트 웍, 28cm, 1개",
+          "price": "18,760원",
+          "discount_rate": 28,
+          "priceAt": "07.21 07:11",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/39246375850527-bd096be4-5c99-4f8a-9b77-72f857638621.jpg",
+          "url": "https://link.coupang.com/a/fygHEiDfCm",
+          "_ts": 1784585516.6469471
+        },
         {
           "name": "해태제과 맛동산, 38g, 20개",
           "price": "7,710원",
@@ -1091,15 +1091,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dca6/e8339989dd84f3e80594fcadc26b64c97d4c9b2564666960357ef943d30c.jpg",
           "url": "https://link.coupang.com/a/ftjea1VFi8",
           "_ts": 1784327354.323235
-        },
-        {
-          "name": "자연은 더말린 제로 복숭아 음료, 500ml, 20개",
-          "price": "12,240원",
-          "discount_rate": 18,
-          "priceAt": "07.18 07:10",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2577478947818461-4abf07a1-843f-4043-a0b7-fc65b47bca5c.jpg",
-          "url": "https://link.coupang.com/a/fthTXB9hNk",
-          "_ts": 1784326240.022285
         }
       ]
     }
