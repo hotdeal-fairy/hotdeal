@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "쿠쿠 인스퓨어 필터 정수기 X3 CPWP-C3801W 필터3개포함, 고객직접설치 화이트 3.8L",
+          "price": "19,900원",
+          "discount_rate": 43,
+          "priceAt": "07.21 07:35",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/25/17/3/56a9133a-0ac1-4abc-ac05-ee33bbd9c133.jpg",
+          "url": "https://link.coupang.com/a/fyilFemHF6",
+          "_ts": 1784586903.1951392
+        },
+        {
           "name": "완도맘 산지직송 활전복 (냉장), 500g 내외(왕특, 4마리), 2개",
           "price": "14,750원",
           "discount_rate": 51,
@@ -1073,24 +1082,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/0cdd/ee3fbe90a34f86cc9a124702e58bdda1d899ebb05468bc75b975d2ced720.jpg",
           "url": "https://link.coupang.com/a/ftjGD7i6Kq",
           "_ts": 1784327738.974369
-        },
-        {
-          "name": "글래드 매직랩 미니 20cm*40m*40m*1개",
-          "price": "9,030원",
-          "discount_rate": 25,
-          "priceAt": "07.18 07:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/26/15/6/8e3ddb0e-375a-4a5d-88da-66e2a5a3710d.jpg",
-          "url": "https://link.coupang.com/a/ftjwO3eKDA",
-          "_ts": 1784327608.036003
-        },
-        {
-          "name": "르샤트라1802 건조기 시트 섬유유연제 클린코튼향 본품 140매*1개",
-          "price": "8,770원",
-          "discount_rate": 27,
-          "priceAt": "07.18 07:29",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dca6/e8339989dd84f3e80594fcadc26b64c97d4c9b2564666960357ef943d30c.jpg",
-          "url": "https://link.coupang.com/a/ftjea1VFi8",
-          "_ts": 1784327354.323235
         }
       ]
     }
