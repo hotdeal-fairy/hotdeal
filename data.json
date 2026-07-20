@@ -508,6 +508,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "자연은 더말린 제로 애플망고, 500ml, 20개",
+          "price": "13,110원",
+          "discount_rate": 18,
+          "priceAt": "07.21 07:57",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2577436651362385-e482d36c-9eae-4aa3-92f8-8da6d40b0f05.jpg",
+          "url": "https://link.coupang.com/a/fyjWP0RybA",
+          "_ts": 1784588239.236085
+        },
+        {
           "name": "해태에이스 바스크치즈케이크맛, 364g, 4개",
           "price": "10,730원",
           "discount_rate": 18,
@@ -1064,15 +1073,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/225511600992669-1ddaff19-9da3-4956-a51f-bb9daf0e0bcc.jpg",
           "url": "https://link.coupang.com/a/ftqs2IRh7s",
           "_ts": 1784333433.3158772
-        },
-        {
-          "name": "비비고 얇은피 큰 채소가득 고기만두 고기 & 양배추 (냉동), 1kg, 1개",
-          "price": "9,980원",
-          "discount_rate": 24,
-          "priceAt": "07.18 07:45",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/xw2ew7hw/73b08a8fc09740dda9f64d997b878f2d.jpg",
-          "url": "https://link.coupang.com/a/ftkpSjjTB6",
-          "_ts": 1784328353.872931
         }
       ]
     }
