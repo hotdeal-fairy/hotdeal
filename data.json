@@ -186,6 +186,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "지티팜 무농약 샐러드 채소 모듬, 랜덤 3종, 1kg, 1박스",
+          "price": "7,900원",
+          "discount_rate": 50,
+          "priceAt": "07.20 15:01",
+          "image": "https://shopping.toss.im/live/temp/2025-06-16/5c12499d-391f-47f1-8cf4-eba13a32ff8d.png",
+          "url": "https://toss.im/_m/LtLAhAb3",
+          "_ts": 1784527304.874259
+        },
+        {
           "name": "리버티 입는 오버나이트 코튼커버 생리대 팬티형, 대형, 4매, 5팩",
           "price": "9,900원",
           "discount_rate": 60,
@@ -274,33 +283,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-11-17/04642822-9bef-4d5f-b5b9-b4a6e7be8f6c.jpeg",
           "url": "https://toss.im/_m/V5HHvDzC",
           "_ts": 1784452828.6292071
-        },
-        {
-          "name": "크리스찬딘 포 옴므 오드퍼퓸, 어반시크, 50ml, 1개",
-          "price": "8,880원",
-          "discount_rate": 85,
-          "priceAt": "07.19 15:00",
-          "image": "https://shopping.toss.im/live/temp/2026-04-24/9661f493-690c-43e1-884c-f2d05659d8c6.png",
-          "url": "https://toss.im/_m/1S0K0sun",
-          "_ts": 1784440830.362268
-        },
-        {
-          "name": "플라워 양우산, 화이트, 2개",
-          "price": "9,800원",
-          "discount_rate": 67,
-          "priceAt": "07.19 15:00",
-          "image": "https://shopping.toss.im/live/temp/2026-01-22/352cb760-f054-4dd2-ab8b-b6e6a8e49ff8.jpeg",
-          "url": "https://toss.im/_m/VNR39eUA",
-          "_ts": 1784440827.643132
-        },
-        {
-          "name": "이모뜰 국내산 수미 햇감자, 대, 3kg, 1박스",
-          "price": "6,900원",
-          "discount_rate": 61,
-          "priceAt": "07.19 15:00",
-          "image": "https://shopping.toss.im/live/temp/2025-10-28/bf5479dd-6413-412b-b940-ad3a25f6b256.png",
-          "url": "https://toss.im/_m/RGd3nvWq",
-          "_ts": 1784440824.895017
         },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
