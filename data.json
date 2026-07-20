@@ -204,15 +204,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1385273029617773-9aa479cc-9029-473c-bcf4-26dd02e2b2fc.jpg",
           "url": "https://link.coupang.com/a/fvhjKThCBU",
           "_ts": 1784429865.780524
-        },
-        {
-          "name": "투데이넛 너트한줌 요거트 견과세트 600g",
-          "price": "15,820원",
-          "discount_rate": null,
-          "priceAt": "07.19 11:27",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/308513359822038-d05e9981-3c5a-45b3-bbd1-55eb16ef51e4.jpg",
-          "url": "https://link.coupang.com/a/fve977miWq",
-          "_ts": 1784428060.62603
         }
       ]
     },
@@ -221,6 +212,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "파스쿠치 굿페이스 마스크팩, 랜덤, 40개",
+          "price": "9,900원",
+          "discount_rate": 87,
+          "priceAt": "07.20 11:45",
+          "image": "https://shopping.toss.im/live/temp/2025-04-08/48f76e9a-f789-453d-ac1b-fedd6205a4ea.jpeg",
+          "url": "https://toss.im/_m/vuMifflc",
+          "_ts": 1784515522.413729
+        },
         {
           "name": "백도복숭아, 2kg, 1개",
           "price": "9,990원",
