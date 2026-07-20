@@ -141,15 +141,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/11/15/4/6fc99a4b-a124-4b30-9e57-9b58c688486b.jpg",
           "url": "https://link.coupang.com/a/fwFdzDJaaO",
           "_ts": 1784501991.642849
-        },
-        {
-          "name": "베이비도브 유아용 바디워시 리치모이스처 베이비향, 400ml, 1개",
-          "price": "5,380원",
-          "discount_rate": 46,
-          "priceAt": "07.20 07:39",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/06/24/14/3/d9309e0f-ba76-400b-9fdb-768524051737.jpg",
-          "url": "https://link.coupang.com/a/fwDKtBJejk",
-          "_ts": 1784500756.9828181
         }
       ]
     },
@@ -516,6 +507,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "해태에이스 바스크치즈케이크맛, 364g, 4개",
+          "price": "10,730원",
+          "discount_rate": 18,
+          "priceAt": "07.21 07:41",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0d2f51d2-6904-4de0-b7ba-9ea0706b0cd43994885351910973500.png",
+          "url": "https://link.coupang.com/a/fyiM0eTxpQ",
+          "_ts": 1784587266.8427362
+        },
         {
           "name": "오뚜기 실쏙 토마토 스파게티소스 2kg*1개",
           "price": "7,980원",
@@ -1073,15 +1073,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/xw2ew7hw/73b08a8fc09740dda9f64d997b878f2d.jpg",
           "url": "https://link.coupang.com/a/ftkpSjjTB6",
           "_ts": 1784328353.872931
-        },
-        {
-          "name": "롯데웰푸드 칙촉, 168g, 4개",
-          "price": "8,410원",
-          "discount_rate": 16,
-          "priceAt": "07.18 07:35",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/0cdd/ee3fbe90a34f86cc9a124702e58bdda1d899ebb05468bc75b975d2ced720.jpg",
-          "url": "https://link.coupang.com/a/ftjGD7i6Kq",
-          "_ts": 1784327738.974369
         }
       ]
     }
