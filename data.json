@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "완도맘 산지직송 활전복 (냉장), 500g 내외(왕특, 4마리), 2개",
+          "price": "14,750원",
+          "discount_rate": 51,
+          "priceAt": "07.21 07:24",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/98494069078620-e666a9a2-e7b2-4453-b90c-4d141105a216.jpg",
+          "url": "https://link.coupang.com/a/fyhCDFhlQq",
+          "_ts": 1784586292.153307
+        },
+        {
           "name": "포트메리온 보타닉가든 사각 미니접시 4종 세트 1세트",
           "price": "11,690원",
           "discount_rate": 31,
@@ -132,24 +141,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/06/24/14/3/d9309e0f-ba76-400b-9fdb-768524051737.jpg",
           "url": "https://link.coupang.com/a/fwDKtBJejk",
           "_ts": 1784500756.9828181
-        },
-        {
-          "name": "더미식 육즙새우교자 (냉동), 315g, 6개",
-          "price": "12,140원",
-          "discount_rate": 43,
-          "priceAt": "07.20 07:22",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/19b28477-9724-42c7-9283-ed1ae079d4081715012947568483737.png",
-          "url": "https://link.coupang.com/a/fwCAcS1PXM",
-          "_ts": 1784499778.3611531
-        },
-        {
-          "name": "풀무원 속초식 코다리 냉면, 504g, 3개",
-          "price": "0원",
-          "discount_rate": 100,
-          "priceAt": "07.20 07:20",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/30994611771560-60326cf4-b6fb-4950-9e4a-ff9b2b6e2958.jpg",
-          "url": "https://link.coupang.com/a/fwCpCzW8tM",
-          "_ts": 1784499635.450232
         }
       ]
     },
