@@ -82,7 +82,7 @@
     document.getElementById("profile").innerHTML = `
       ${
         p.avatar
-          ? `<div class="profile-avatar"><img src="${p.avatar}" alt="${escapeHtml(p.name)}" /></div>`
+          ? `<div class="profile-avatar"><img src="${escapeHtml(p.avatar)}" alt="${escapeHtml(p.name)}" /></div>`
           : ""
       }
       <div class="profile-text">
@@ -98,7 +98,7 @@
     document.getElementById("openchat").innerHTML =
       oc.url && !fromOpenChat
         ? `
-        <a class="openchat-button" href="${oc.url}" target="_blank" rel="noopener">
+        <a class="openchat-button" href="${escapeHtml(oc.url)}" target="_blank" rel="noopener">
           ${escapeHtml(oc.icon ?? "💬")} ${escapeHtml(oc.title ?? "오픈채팅방 참여하기")}
         </a>
       `
@@ -109,7 +109,7 @@
         ${(data.banners ?? [])
           .map(
             (banner, i) => `
-              <a class="banner-card banner-c${(i % 3) + 1}" href="${banner.url}" target="_blank" rel="noopener">
+              <a class="banner-card banner-c${(i % 3) + 1}" href="${escapeHtml(banner.url)}" target="_blank" rel="noopener">
                 <strong>${escapeHtml(banner.title)}</strong>
                 <small>${escapeHtml(banner.description)}</small>
               </a>
@@ -149,8 +149,8 @@
             .map(
               (product) => `
               <div class="product-card">
-                <a href="${product.url}" target="_blank" rel="noopener">
-                  <img src="${product.image}" alt="${escapeHtml(product.name)}" loading="lazy" referrerpolicy="no-referrer" />
+                <a href="${escapeHtml(product.url)}" target="_blank" rel="noopener">
+                  <img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.name)}" loading="lazy" referrerpolicy="no-referrer" />
                 </a>
                 <p class="product-name">${escapeHtml(product.name)}</p>
                 <p class="product-price-row">
