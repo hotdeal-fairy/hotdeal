@@ -177,15 +177,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/2023/09/14/11/2/a1afde00-3d4d-452e-bad8-d8ff766f23fe.jpg",
           "url": "https://link.coupang.com/a/fv2O4G8cSW",
           "_ts": 1784469754.2104058
-        },
-        {
-          "name": "아삭오이, 5개입, 1개",
-          "price": "1,690원",
-          "discount_rate": null,
-          "priceAt": "07.19 20:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1175200293095749-20101ce6-6ee1-405d-b490-484a00eec847.jpg",
-          "url": "https://link.coupang.com/a/fvP7x2mVKS",
-          "_ts": 1784459395.14253
         }
       ]
     },
@@ -561,6 +552,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "오뚜기옛날 구수한 끓여먹는 누룽지, 3kg, 1개",
+          "price": "15,900원",
+          "discount_rate": 20,
+          "priceAt": "07.20 20:29",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1736/0714e167d245a6cafd2b3053a3e9e96896544b04bc671f810a6ac57bc620.jpg",
+          "url": "https://link.coupang.com/a/fxwPn6rge4",
+          "_ts": 1784546998.6507788
+        },
         {
           "name": "피지오겔 데일리 모이스쳐 UV 패밀리 썬 로션 SPF50+ PA+++, 100ml, 1개",
           "price": "9,900원",
