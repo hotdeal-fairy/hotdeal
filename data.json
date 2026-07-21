@@ -547,6 +547,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "양반 100밥 현미밥, 130g, 24개",
+          "price": "16,500원",
+          "discount_rate": 8,
+          "priceAt": "07.22 07:10",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/544519158980276-08d69373-76d0-4534-8f8b-762c10540a8f.jpg",
+          "url": "https://link.coupang.com/a/fzVxafBGOy",
+          "_ts": 1784671854.053914
+        },
+        {
           "name": "포트메리온 보타닉가든 스타터 2인 세트 5p 2p + 대접 2p*1세트",
           "price": "45,990원",
           "discount_rate": 29,
