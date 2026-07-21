@@ -204,24 +204,6 @@
           "_ts": 1784527219.658988
         },
         {
-          "name": "뉴리스 발바닥 발패치, 50매",
-          "price": "8,900원",
-          "discount_rate": 55,
-          "priceAt": "07.20 11:46",
-          "image": "https://shopping.toss.im/live/temp/2026-03-26/7563c02f-a6cc-4cea-8b4b-3377f3be22db.jpeg",
-          "url": "https://toss.im/_m/z1xmL3m3",
-          "_ts": 1784515615.650877
-        },
-        {
-          "name": "파스쿠치 굿페이스 마스크팩, 랜덤, 40개",
-          "price": "9,900원",
-          "discount_rate": 87,
-          "priceAt": "07.20 11:45",
-          "image": "https://shopping.toss.im/live/temp/2025-04-08/48f76e9a-f789-453d-ac1b-fedd6205a4ea.jpeg",
-          "url": "https://toss.im/_m/vuMifflc",
-          "_ts": 1784515522.413729
-        },
-        {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
           "price": "7,840원",
           "discount_rate": 67,
@@ -528,6 +510,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "어부심 국내산 활전복 왕특대 (냉장), 500g 내외(4미), 2개",
+          "price": "15,750원",
+          "discount_rate": 48,
+          "priceAt": "07.21 12:30",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/280328791606282-0efbedff-50be-4a7e-98f1-288c22fc6590.jpg",
+          "url": "https://link.coupang.com/a/fyDseh9F3Q",
+          "_ts": 1784604620.8804212
+        },
         {
           "name": "프로그 파우더프리 3.0 니트릴장갑 100개입 *2개",
           "price": "11,580원",
