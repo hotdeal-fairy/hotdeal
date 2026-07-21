@@ -132,15 +132,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/25/17/3/56a9133a-0ac1-4abc-ac05-ee33bbd9c133.jpg",
           "url": "https://link.coupang.com/a/fyilFemHF6",
           "_ts": 1784586903.1951392
-        },
-        {
-          "name": "완도맘 산지직송 활전복 (냉장), 500g 내외(왕특, 4마리), 2개",
-          "price": "14,750원",
-          "discount_rate": 51,
-          "priceAt": "07.21 07:24",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/98494069078620-e666a9a2-e7b2-4453-b90c-4d141105a216.jpg",
-          "url": "https://link.coupang.com/a/fyhCDFhlQq",
-          "_ts": 1784586292.153307
         }
       ]
     },
@@ -537,6 +528,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "동원 개성 왕만두 (냉동), 2.24kg, 1개",
+          "price": "13,900원",
+          "discount_rate": 18,
+          "priceAt": "07.22 07:29",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2243241394103477-4e35beb2-c107-4212-8da3-1a910a06fcc8.JPG",
+          "url": "https://link.coupang.com/a/fzWRyp4uxU",
+          "_ts": 1784672967.966528
+        },
         {
           "name": "나우푸드 프로바이오틱-10 유산균 250억 베지 캡슐, 100정, 3개",
           "price": "76,990원",
@@ -1094,15 +1094,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/05/13/6/8a95bc3b-fde2-4c30-976f-dfc03804bfef.jpg",
           "url": "https://link.coupang.com/a/fuYHum6kzA",
           "_ts": 1784414230.5315351
-        },
-        {
-          "name": "알텐바흐 인덕션 헥사 통5중 프라이팬세트 2종, 프라이팬30cm+ 궁중팬30cm+ 유리커버30cm",
-          "price": "78,900원",
-          "discount_rate": 21,
-          "priceAt": "07.19 07:24",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/103418620557218-242b0ed4-c483-4639-824c-035ecd26323d.png",
-          "url": "https://link.coupang.com/a/fuXPemoFK8",
-          "_ts": 1784413497.91377
         }
       ]
     }
