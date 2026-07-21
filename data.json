@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "동원 개성 왕만두 (냉동), 2.24kg, 1개",
+          "price": "13,900원",
+          "discount_rate": 18,
+          "priceAt": "07.22 08:00",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2243241394103477-4e35beb2-c107-4212-8da3-1a910a06fcc8.JPG",
+          "url": "https://link.coupang.com/a/fzWRyp4uxU",
+          "_ts": 1784674801.959554
+        },
+        {
           "name": "세브란스에이투 전용목장 단백우유, 240ml, 16개",
           "price": "14,630원",
           "discount_rate": 27,
@@ -547,15 +556,6 @@
           "_ts": 1784673221.614986
         },
         {
-          "name": "동원 개성 왕만두 (냉동), 2.24kg, 1개",
-          "price": "13,900원",
-          "discount_rate": 18,
-          "priceAt": "07.22 07:29",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2243241394103477-4e35beb2-c107-4212-8da3-1a910a06fcc8.JPG",
-          "url": "https://link.coupang.com/a/fzWRyp4uxU",
-          "_ts": 1784672967.966528
-        },
-        {
           "name": "나우푸드 프로바이오틱-10 유산균 250억 베지 캡슐, 100정, 3개",
           "price": "76,990원",
           "discount_rate": 16,
@@ -1058,24 +1058,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/12/15/7/039af8bb-336b-4ec5-abed-b1baba66f95b.jpg",
           "url": "https://link.coupang.com/a/fu1DhsBitE",
           "_ts": 1784416689.484928
-        },
-        {
-          "name": "DDJJ 3in1 자동 손톱깎이 충전식 전동 손톱깎이 손톱 정리 도구 네일 그라인더 led 조명, 그레이, ",
-          "price": "15,350원",
-          "discount_rate": 34,
-          "priceAt": "07.19 07:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/cb76a4fd552ec73e4002725fe8e10b9288d12c857051ab3b26b8912707a1_1781589506256.jpg",
-          "url": "https://link.coupang.com/a/fu0kkEfqx2",
-          "_ts": 1784415595.092555
-        },
-        {
-          "name": "스카치브라이트 제로 스크래치 도트 수세미 10개입",
-          "price": "7,190원",
-          "discount_rate": 35,
-          "priceAt": "07.19 07:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/378388040087512-4768b756-ec77-4d9e-8dda-5e1e14fc2006.jpg",
-          "url": "https://link.coupang.com/a/fu0jv8jKfI",
-          "_ts": 1784415582.374905
         }
       ]
     }
