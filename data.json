@@ -529,6 +529,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "코베아 와일드 델타 텐트",
+          "price": "537,520원",
+          "discount_rate": 40,
+          "priceAt": "07.21 10:35",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/491a/4f3b8418c8af17b1662bedbc838d8e7402911f007b58910f3fd0c39b66b9.jpg",
+          "url": "https://link.coupang.com/a/fyveEy0Nhs",
+          "_ts": 1784597717.7027268
+        },
+        {
           "name": "해나루 삼광 백미 특등급*20kg",
           "price": "45,190원",
           "discount_rate": 38,
@@ -1067,15 +1076,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/6998/02c61d50cda1fc35e266f692329e81b635b2d2bf4518468203a91eccc864.jpg",
           "url": "https://link.coupang.com/a/ftwzM3AOD6",
           "_ts": 1784338560.978233
-        },
-        {
-          "name": "질레트 정품 퓨전 프로글라이드 센서티브 2 in 1 퓨어스포츠 쉐이빙 젤, 170g, 2개",
-          "price": "7,900원",
-          "discount_rate": 21,
-          "priceAt": "07.18 10:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/791219214434627-dc51c017-a1e6-4bf1-9ec8-806b5e6d98c8.jpg",
-          "url": "https://link.coupang.com/a/ftuPB2shYy",
-          "_ts": 1784337095.9023628
         }
       ]
     }
