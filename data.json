@@ -538,6 +538,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "아이깨끗해 항균 폼 핸드솝 순 보송보송 파우더향, 490ml, 3개",
+          "price": "11,280원",
+          "discount_rate": 19,
+          "priceAt": "07.22 07:04",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1010065041965310-ad4c8906-4bcc-44e9-b345-eaf7b7a40c45.jpg",
+          "url": "https://link.coupang.com/a/fzU4ofoBZA",
+          "_ts": 1784671462.4652328
+        },
+        {
           "name": "베지밀 에이 담백한 두유, 190ml, 16개",
           "price": "7,810원",
           "discount_rate": 29,
@@ -1076,15 +1085,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/86795193934867-6f4bfc2c-de28-4fb8-9e98-f45434c6bab7.jpg",
           "url": "https://link.coupang.com/a/fuWD7gGctE",
           "_ts": 1784412505.963996
-        },
-        {
-          "name": "코카콜라 제로 무라벨, 370ml, 24개",
-          "price": "16,980원",
-          "discount_rate": 15,
-          "priceAt": "07.19 07:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/357307576315419-db13617b-51b2-47fd-b370-1d6cc70dc5c2.jpg",
-          "url": "https://link.coupang.com/a/fuWlfKujm0",
-          "_ts": 1784412254.776663
         }
       ]
     }
