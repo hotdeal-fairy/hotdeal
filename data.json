@@ -132,24 +132,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/38e1/e6f689224c24326b0c253ec16235de969ece57349729f6cd7b6fada7b6f1.jpg",
           "url": "https://link.coupang.com/a/fw8OUPXmw0",
           "_ts": 1784526847.560183
-        },
-        {
-          "name": "오리온 태양의 맛 썬 갈릭바게트맛, 80g, 12개",
-          "price": "9,830원",
-          "discount_rate": 45,
-          "priceAt": "07.20 11:20",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10539542484300-074c90a9-85a1-4727-b9cc-3c8db63f7efc.jpg",
-          "url": "https://link.coupang.com/a/fwTyLWj48a",
-          "_ts": 1784514031.2022479
-        },
-        {
-          "name": "티젠 콤부차 스타터팩",
-          "price": "5,580원",
-          "discount_rate": 62,
-          "priceAt": "07.20 11:10",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/19/17/8/fff6fbbb-1731-47ea-9f85-da256deff353.jpg",
-          "url": "https://link.coupang.com/a/fwSPHcXKhg",
-          "_ts": 1784513421.448859
         }
       ]
     },
@@ -537,6 +519,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "프로그 파우더프리 3.0 니트릴장갑 100개입 *2개",
+          "price": "11,580원",
+          "discount_rate": 28,
+          "priceAt": "07.21 11:43",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2987172210777393-56b434f6-c120-402b-9c87-cf1479e9c24f.jpg",
+          "url": "https://link.coupang.com/a/fyz8OzYIG4",
+          "_ts": 1784601837.141216
+        },
         {
           "name": "코베아 와일드 델타 텐트",
           "price": "537,520원",
@@ -1067,15 +1058,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1769763913803137-e8b0d540-a76c-4965-8415-eaf23262cc4c.jpg",
           "url": "https://link.coupang.com/a/ftPKQskRUG",
           "_ts": 1784354660.497441
-        },
-        {
-          "name": "이자녹스 테르비나 어드밴스드 리제너레이팅 2종 세트",
-          "price": "58,680원",
-          "discount_rate": 31,
-          "priceAt": "07.18 11:22",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/76dab027-0c41-40a3-b908-131981189382_fixing_v2.png",
-          "url": "https://link.coupang.com/a/ftzUNksGQK",
-          "_ts": 1784341367.0935419
         }
       ]
     }
