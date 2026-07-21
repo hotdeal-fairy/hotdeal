@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "로아커 베스트 600g 과자세트, 토르티나미니 2종 + 파티세리 4종 + 웨하스미니스 3종 + 가데나미니 3",
+          "price": "14,720원",
+          "discount_rate": 41,
+          "priceAt": "07.21 09:08",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2516750883293226-88cf3029-8f0b-4728-a5ab-a9e425f2aaf8.jpg",
+          "url": "https://link.coupang.com/a/fyo160ZuqO",
+          "_ts": 1784592517.063442
+        },
+        {
           "name": "쿠쿠 인스퓨어 필터 정수기 X3 CPWP-C3801W 필터3개포함, 고객직접설치 화이트 3.8L",
           "price": "19,900원",
           "discount_rate": 43,
@@ -123,15 +132,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f18f/2c90f864fc7b0411f7498d44257cabaea218e05e5c9c08d108f38f0faef5.png",
           "url": "https://link.coupang.com/a/fwNLGl4HpQ",
           "_ts": 1784509195.089665
-        },
-        {
-          "name": "삼립 초코블랑 쿠키, 14g, 60개",
-          "price": "7,090원",
-          "discount_rate": 56,
-          "priceAt": "07.20 08:26",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/46974516175404-023d71a0-60e3-47da-a8a3-a9d688c9370c.png",
-          "url": "https://link.coupang.com/a/fwG8yeIk0q",
-          "_ts": 1784503602.2354681
         }
       ]
     },
@@ -211,15 +211,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-04-08/48f76e9a-f789-453d-ac1b-fedd6205a4ea.jpeg",
           "url": "https://toss.im/_m/vuMifflc",
           "_ts": 1784515522.413729
-        },
-        {
-          "name": "백도복숭아, 2kg, 1개",
-          "price": "9,990원",
-          "discount_rate": 61,
-          "priceAt": "07.20 08:45",
-          "image": "https://shopping.toss.im/live/temp/2026-07-06/12b25ac6-80a0-4e53-b4f2-2b248c0f0466.png",
-          "url": "https://toss.im/_m/phnGqWsj",
-          "_ts": 1784504718.195585
         },
         {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
