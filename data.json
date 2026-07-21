@@ -150,6 +150,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "맛팜 옛고을 찰순대, 400g, 1개 + 푸짐한 내장 모둠, 500g, 1개",
+          "price": "7,900원",
+          "discount_rate": 59,
+          "priceAt": "07.21 21:20",
+          "image": "https://shopping.toss.im/live/temp/2026-02-03/34c623c6-7d78-47ff-8170-65ddc7af7a42.jpeg",
+          "url": "https://toss.im/_m/bxf89B57",
+          "_ts": 1784636424.211484
+        },
+        {
           "name": "아이스 쿨패치, 5x12cm, 2매입, 30팩",
           "price": "8,900원",
           "discount_rate": 64,
@@ -211,24 +220,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-01-07/c4efa185-5b09-467a-b5d9-9eecf9ce16e9.jpeg",
           "url": "https://toss.im/_m/H1G67iye",
           "_ts": 1784601914.7646809
-        },
-        {
-          "name": "고궁 통참깨 참기름, 350ml, 3개",
-          "price": "9,900원",
-          "discount_rate": 78,
-          "priceAt": "07.20 21:01",
-          "image": "https://shopping.toss.im/live/temp/2026-07-10/0fc37972-1722-4e92-b1ba-fe3fa0feb826.png",
-          "url": "https://toss.im/_m/HMHKpPzj",
-          "_ts": 1784548910.4824588
-        },
-        {
-          "name": "듀라텍스 냉감 베개 커버 밴드형, 화이트, 40x60cm, 2개",
-          "price": "9,700원",
-          "discount_rate": 57,
-          "priceAt": "07.20 21:00",
-          "image": "https://shopping.toss.im/live/temp/2026-04-23/ec09340f-542c-40c6-a43f-05f65d4a9069.jpeg",
-          "url": "https://toss.im/_m/bwwiZKI9",
-          "_ts": 1784548826.094
         },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
