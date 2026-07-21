@@ -538,6 +538,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "나우푸드 프로바이오틱-10 유산균 250억 베지 캡슐, 100정, 3개",
+          "price": "76,990원",
+          "discount_rate": 16,
+          "priceAt": "07.22 07:23",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d3fa/fec656ec254ec10aaa04ae4b511bcced8f6e34f6438489b5f5665f0267a1.jpg",
+          "url": "https://link.coupang.com/a/fzWp23MzbE",
+          "_ts": 1784672595.674836
+        },
+        {
           "name": "세브란스에이투 전용목장 단백우유, 240ml, 16개",
           "price": "14,630원",
           "discount_rate": 27,
@@ -1094,15 +1103,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/103418620557218-242b0ed4-c483-4639-824c-035ecd26323d.png",
           "url": "https://link.coupang.com/a/fuXPemoFK8",
           "_ts": 1784413497.91377
-        },
-        {
-          "name": "투데이넛 너트한줌 요거트 견과세트 600g 1세트",
-          "price": "15,820원",
-          "discount_rate": 12,
-          "priceAt": "07.19 07:22",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/308513359822038-d05e9981-3c5a-45b3-bbd1-55eb16ef51e4.jpg",
-          "url": "https://link.coupang.com/a/fuXFC9b5oW",
-          "_ts": 1784413365.3964841
         }
       ]
     }
