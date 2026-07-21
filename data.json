@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "[공식] 아라 분수물총 회오리 물꽃놀이 불꽃놀이물총 주사기물총, 1개",
+          "price": "1,990원",
+          "discount_rate": 66,
+          "priceAt": "07.21 19:02",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/af2b/7063d6fc7134f4b11f9a4c7ccc6253e11a2d72c08ff93728be445fa8c752.png",
+          "url": "https://link.coupang.com/a/fy5sSeIOg8",
+          "_ts": 1784628142.936539
+        },
+        {
           "name": "닥터지 레드 블레미쉬 시카 토너 200ml + 로션 150ml 2종 세트, 1세트",
           "price": "24,300원",
           "discount_rate": 59,
@@ -132,15 +141,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ad8a/186c44d6cf3ecc4e3d9745768d5eeef24e25c01ce5ce19434f3853780731.jpg",
           "url": "https://link.coupang.com/a/fygRoLR5i0",
           "_ts": 1784585653.368119
-        },
-        {
-          "name": "무항생제 신선한 특란 30구",
-          "price": "7,990원",
-          "discount_rate": null,
-          "priceAt": "07.20 18:54",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1514727169265142-4b059cab-0f22-4862-8a47-d3fac940a8d1.jpg",
-          "url": "https://link.coupang.com/a/fxpViSV6RM",
-          "_ts": 1784541247.599751
         }
       ]
     },
@@ -211,24 +211,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-23/ec09340f-542c-40c6-a43f-05f65d4a9069.jpeg",
           "url": "https://toss.im/_m/bwwiZKI9",
           "_ts": 1784548826.094
-        },
-        {
-          "name": "살림백서 하루세번 덴탈 케어 구강 스프레이, 14ml, 3개",
-          "price": "7,900원",
-          "discount_rate": 58,
-          "priceAt": "07.20 18:51",
-          "image": "https://shopping.toss.im/live/temp/2025-10-14/adabeb5b-5566-4c4e-b48d-525b9f6977b0.jpeg",
-          "url": "https://toss.im/_m/P7kuw59B",
-          "_ts": 1784541068.816192
-        },
-        {
-          "name": "보라톡스 보라효소101 곡물발효효소 프로바이오틱스, 30포, 1개",
-          "price": "9,000원",
-          "discount_rate": 85,
-          "priceAt": "07.20 18:50",
-          "image": "https://shopping.toss.im/live/temp/2026-06-16/93f9aba3-b2d6-4833-ac5f-1610c4ad81f1.jpeg",
-          "url": "https://toss.im/_m/NL9uKoYa",
-          "_ts": 1784541005.337538
         },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
