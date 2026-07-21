@@ -123,15 +123,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2516750883293226-88cf3029-8f0b-4728-a5ab-a9e425f2aaf8.jpg",
           "url": "https://link.coupang.com/a/fyo160ZuqO",
           "_ts": 1784592517.063442
-        },
-        {
-          "name": "쿠쿠 인스퓨어 필터 정수기 X3 CPWP-C3801W 필터3개포함, 고객직접설치 화이트 3.8L",
-          "price": "19,900원",
-          "discount_rate": 43,
-          "priceAt": "07.21 07:35",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/25/17/3/56a9133a-0ac1-4abc-ac05-ee33bbd9c133.jpg",
-          "url": "https://link.coupang.com/a/fyilFemHF6",
-          "_ts": 1784586903.1951392
         }
       ]
     },
@@ -528,6 +519,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "복음자리 캐치티니핑 당 줄인 딸기잼 490g*1개",
+          "price": "5,130원",
+          "discount_rate": 36,
+          "priceAt": "07.22 07:43",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/06/16/6/5625f81b-826d-4d50-abb6-80bbfec0e0e3.png",
+          "url": "https://link.coupang.com/a/fzXTxD0cma",
+          "_ts": 1784673835.590535
+        },
         {
           "name": "켈로그 콘푸레이크 시리얼, 530g, 2개",
           "price": "6,010원",
@@ -1085,24 +1085,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/01/16/5/74ab69b6-1c37-4931-b932-ad15f50a9c12.png",
           "url": "https://link.coupang.com/a/fuZ9OnEMKq",
           "_ts": 1784415450.900332
-        },
-        {
-          "name": "블랙야크 S-매쉬햇 모자 캡모자 낚시모자 땀방지 메쉬햇 블랙",
-          "price": "17,440원",
-          "discount_rate": 24,
-          "priceAt": "07.19 07:41",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/72d6/f6881134783caef8c34b8a45c7a49d97a8c202ccfe93d17204346fcc4720.jpg",
-          "url": "https://link.coupang.com/a/fuYZZTJEES",
-          "_ts": 1784414480.4118621
-        },
-        {
-          "name": "콘티고 바이론 2.0 텀블러 470ml*1개",
-          "price": "9,990원",
-          "discount_rate": 55,
-          "priceAt": "07.19 07:37",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/05/13/6/8a95bc3b-fde2-4c30-976f-dfc03804bfef.jpg",
-          "url": "https://link.coupang.com/a/fuYHum6kzA",
-          "_ts": 1784414230.5315351
         }
       ]
     }
