@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "베이비도브 유아용 바디워시 카밍모이스처 카모마일향, 400ml",
+          "price": "5,370원",
+          "discount_rate": 66,
+          "priceAt": "07.21 15:18",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5285/654323a9a0f2dbe653371cfe462c3b785812e6a52c4b20a0d2062120e744.jpg",
+          "url": "https://link.coupang.com/a/fyPshj0uFE",
+          "_ts": 1784614701.059962
+        },
+        {
           "name": "닥터지 레드 블레미쉬 쿨 수딩 마스크, 10개입, 1개",
           "price": "11,000원",
           "discount_rate": 72,
@@ -132,15 +141,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ecf8/90a216aecb7b9d61386d42ebd782057e75d9a6db167e30f82f3c51db805c.jpg",
           "url": "https://link.coupang.com/a/fxaHOl5gpE",
           "_ts": 1784528429.23321
-        },
-        {
-          "name": "다향 훈제오리 슬라이스, 400g",
-          "price": "6,250원",
-          "discount_rate": 51,
-          "priceAt": "07.20 15:18",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/423454296051743-bbf59560-0dc5-4637-915f-f58174acafd7.jpg",
-          "url": "https://link.coupang.com/a/fxaygYOWT6",
-          "_ts": 1784528300.6521878
         }
       ]
     },
@@ -211,15 +211,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-16/93f9aba3-b2d6-4833-ac5f-1610c4ad81f1.jpeg",
           "url": "https://toss.im/_m/NL9uKoYa",
           "_ts": 1784541005.337538
-        },
-        {
-          "name": "지티팜 무농약 샐러드 채소 모듬, 랜덤 3종, 1kg, 1박스",
-          "price": "7,900원",
-          "discount_rate": 50,
-          "priceAt": "07.20 15:01",
-          "image": "https://shopping.toss.im/live/temp/2025-06-16/5c12499d-391f-47f1-8cf4-eba13a32ff8d.png",
-          "url": "https://toss.im/_m/LtLAhAb3",
-          "_ts": 1784527304.874259
         },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
@@ -1084,24 +1075,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/456801513087351-aff9606f-9e64-429a-bde0-9fba88244385.jpg",
           "url": "https://link.coupang.com/a/ftTfhE7iG4",
           "_ts": 1784357593.758232
-        },
-        {
-          "name": "블라우풍트 슬림 아이오닉 미니 뿌리 볼륨 고데기",
-          "price": "19,930원",
-          "discount_rate": 40,
-          "priceAt": "07.18 15:12",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/40229990191585-9eb3e77b-082b-4ef5-b51a-e767285d3bac.jpg",
-          "url": "https://link.coupang.com/a/ftQk7na7zw",
-          "_ts": 1784355152.28976
-        },
-        {
-          "name": "소미 시오다래, 320g, 1개",
-          "price": "5,470원",
-          "discount_rate": 22,
-          "priceAt": "07.18 15:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1769763913803137-e8b0d540-a76c-4965-8415-eaf23262cc4c.jpg",
-          "url": "https://link.coupang.com/a/ftPKQskRUG",
-          "_ts": 1784354660.497441
         }
       ]
     }
