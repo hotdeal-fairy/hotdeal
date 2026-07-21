@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "닥터지 레드 블레미쉬 시카 토너 200ml + 로션 150ml 2종 세트, 1세트",
+          "price": "24,300원",
+          "discount_rate": 59,
+          "priceAt": "07.21 17:23",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1744031709479371-388c2cf6-d62f-4a9e-8584-837c704a4001.jpg",
+          "url": "https://link.coupang.com/a/fyYoA7ly56",
+          "_ts": 1784622205.780641
+        },
+        {
           "name": "양지 샤브샤브 (냉동), 1kg, 1개",
           "price": "16,370원",
           "discount_rate": 26,
@@ -132,15 +141,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1514727169265142-4b059cab-0f22-4862-8a47-d3fac940a8d1.jpg",
           "url": "https://link.coupang.com/a/fxpViSV6RM",
           "_ts": 1784541247.599751
-        },
-        {
-          "name": "아몬드브리즈 언스위트, 190ml, 24개",
-          "price": "13,670원",
-          "discount_rate": 48,
-          "priceAt": "07.20 17:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/33739762071374-f0ceb817-af77-422f-999a-d48753efd5ae.png",
-          "url": "https://link.coupang.com/a/fxh0zyIjTM",
-          "_ts": 1784534557.3193998
         }
       ]
     },
@@ -1066,15 +1066,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bef1/982196f16d1564cb0878dff2126fba9a21bc81ff4f3528dd92d0a881fa42.jpg",
           "url": "https://link.coupang.com/a/ft1jRytlNA",
           "_ts": 1784364374.2025862
-        },
-        {
-          "name": "AHC 마스터즈 멜라 프로텍트 워터풀 선크림 SPF50+ PA++++, 40ml, 2개",
-          "price": "8,800원",
-          "discount_rate": 36,
-          "priceAt": "07.18 17:15",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3eea47b7-28e9-4c25-9fb6-bb6bb16f4ded7406309591297614751.png",
-          "url": "https://link.coupang.com/a/ftY80mSczk",
-          "_ts": 1784362545.6999948
         }
       ]
     }
