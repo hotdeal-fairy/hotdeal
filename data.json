@@ -529,6 +529,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "닥터지 브라이트닝 필링 젤, 80g, 1개",
+          "price": "8,500원",
+          "discount_rate": 29,
+          "priceAt": "07.21 10:47",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1751262800706474-ce81525d-a9be-45ef-9633-a620ecc59edd.jpg",
+          "url": "https://link.coupang.com/a/fyv6QIqBrw",
+          "_ts": 1784598452.350286
+        },
+        {
           "name": "코베아 와일드 델타 텐트",
           "price": "537,520원",
           "discount_rate": 40,
@@ -1067,15 +1076,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/76dab027-0c41-40a3-b908-131981189382_fixing_v2.png",
           "url": "https://link.coupang.com/a/ftzUNksGQK",
           "_ts": 1784341367.0935419
-        },
-        {
-          "name": "클라렌 화이트나우 치아 미백제 8p, 8g, 1개",
-          "price": "5,850원",
-          "discount_rate": 16,
-          "priceAt": "07.18 10:36",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/6998/02c61d50cda1fc35e266f692329e81b635b2d2bf4518468203a91eccc864.jpg",
-          "url": "https://link.coupang.com/a/ftwzM3AOD6",
-          "_ts": 1784338560.978233
         }
       ]
     }
