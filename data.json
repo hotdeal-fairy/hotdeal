@@ -159,6 +159,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "산지농수산 메밀소바 세트, 생메밀국수 1kg + 메밀장 6개, 1세트",
+          "price": "7,500원",
+          "discount_rate": 58,
+          "priceAt": "07.22 18:22",
+          "image": "https://shopping.toss.im/live/temp/2025-06-22/36710bbf-ed57-4790-935a-90199f817e31.jpeg",
+          "url": "https://toss.im/_m/9MOZCuH8",
+          "_ts": 1784712123.1058922
+        },
+        {
           "name": "로에드 아이스 쿨 젤리방석, 720g, 1개",
           "price": "7,500원",
           "discount_rate": 62,
@@ -229,24 +238,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-06-20/67ece6af-e043-4ba4-902c-56bc592387e3.jpeg",
           "url": "https://toss.im/_m/9mhZKLJy",
           "_ts": 1784631624.537468
-        },
-        {
-          "name": "바세린 아쿠아 에센스 선크림, 50ml, 2개",
-          "price": "9,800원",
-          "discount_rate": 62,
-          "priceAt": "07.21 18:21",
-          "image": "https://shopping.toss.im/live/temp/2026-03-16/a4595841-ed08-4743-b87a-e9ededcbbe2f.jpeg",
-          "url": "https://toss.im/_m/Pk6He0E9",
-          "_ts": 1784625663.839948
-        },
-        {
-          "name": "살림시대 버블 톡 변기 클리너, 40g, 4포, 2개",
-          "price": "8,900원",
-          "discount_rate": 82,
-          "priceAt": "07.21 18:20",
-          "image": "https://shopping.toss.im/live/temp/2025-09-18/efdc90b9-e9ae-424b-a356-336e9b817fa3.jpeg",
-          "url": "https://toss.im/_m/xmwmg7VD",
-          "_ts": 1784625618.5855281
         },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
