@@ -150,6 +150,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "마주 총각김치, 2kg, 1박스",
+          "price": "8,200원",
+          "discount_rate": 52,
+          "priceAt": "07.22 21:20",
+          "image": "https://shopping.toss.im/live/temp/2026-01-21/c87e2087-7d81-4056-9865-b50766606f60.png",
+          "url": "https://toss.im/_m/DmGScAn8",
+          "_ts": 1784722823.761933
+        },
+        {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
           "price": "8,000원",
           "discount_rate": 79,
@@ -993,33 +1002,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/27351687679308-95d4c851-0ef2-468f-b3b8-77aa5cf91bd9.jpg",
           "url": "https://link.coupang.com/a/fwBb7t1Vsa",
           "_ts": 1784498606.936172
-        },
-        {
-          "name": "고래밥 볶음양념맛 미니사이즈, 200g, 2개",
-          "price": "6,660원",
-          "discount_rate": 26,
-          "priceAt": "07.19 21:03",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/87a5/4f97818224b53e3c207326e88123c10f472e6c10dbdd30ff59e058fb2027.jpg",
-          "url": "https://link.coupang.com/a/fvUjW72LHU",
-          "_ts": 1784462613.059822
-        },
-        {
-          "name": "템테이션 고양이 메가팩 스낵 3종 세트, 혼합맛(닭고기/참치..., 450g, 1세트",
-          "price": "12,540원",
-          "discount_rate": 29,
-          "priceAt": "07.19 20:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/42ac/2d5c8e532fee11975ec98b9a4b92ce49f7bbeb93a46fa56f4d4053556290.jpg",
-          "url": "https://link.coupang.com/a/fvRAfhjfj2",
-          "_ts": 1784460311.73454
-        },
-        {
-          "name": "하리보 스위트 러브 젤리, 760g, 1개",
-          "price": "7,050원",
-          "discount_rate": 15,
-          "priceAt": "07.19 20:21",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/525718431391032-8dfd9d1b-d95d-488b-ac61-c7a7a38b5dd3.jpg",
-          "url": "https://link.coupang.com/a/fvRhI3SUrA",
-          "_ts": 1784460060.3055182
         }
       ]
     }
