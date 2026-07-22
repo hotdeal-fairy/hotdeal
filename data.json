@@ -238,6 +238,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "웅진빅토리아 더 빅토리아 플레인 탄산수, 500ml, 20개",
+          "price": "8,920원",
+          "discount_rate": 55,
+          "priceAt": "07.23 07:11",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/e549/f08adff32d07619eec4befc1e1f81d88ebceaa5a57ceec7b20577963ffa9.jpg",
+          "url": "https://link.coupang.com/a/fBAu78KeFU",
+          "_ts": 1784758306.371897
+        },
+        {
           "name": "펩시 제로슈거 라임향 무라벨, 300ml, 20개",
           "price": "12,000원",
           "discount_rate": 20,
