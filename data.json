@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "쿤달 에어리퍼퓸 데오드란트 스프레이 베이비파우더향, 150ml, 2개",
+          "price": "8,320원",
+          "discount_rate": 51,
+          "priceAt": "07.22 09:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/173956123818751-8cee0138-3b77-4e50-a848-5d757f241060.jpg",
+          "url": "https://link.coupang.com/a/fz4FRjENoa",
+          "_ts": 1784679534.268781
+        },
+        {
           "name": "동원 개성 왕만두 (냉동), 2.24kg, 1개",
           "price": "13,900원",
           "discount_rate": 18,
@@ -132,15 +141,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/11/15/10/7/a7e94c07-b4f8-4547-aff5-156e58fd0119.jpg",
           "url": "https://link.coupang.com/a/fyscsHSLZI",
           "_ts": 1784595174.324221
-        },
-        {
-          "name": "로아커 베스트 600g 과자세트, 토르티나미니 2종 + 파티세리 4종 + 웨하스미니스 3종 + 가데나미니 3",
-          "price": "14,720원",
-          "discount_rate": 41,
-          "priceAt": "07.21 09:08",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2516750883293226-88cf3029-8f0b-4728-a5ab-a9e425f2aaf8.jpg",
-          "url": "https://link.coupang.com/a/fyo160ZuqO",
-          "_ts": 1784592517.063442
         }
       ]
     },
@@ -1012,15 +1012,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37416361570926-2764848c-4ea3-4ea8-a9e1-a3734e913438.png",
           "url": "https://link.coupang.com/a/fvdbWEzAOq",
           "_ts": 1784426399.840717
-        },
-        {
-          "name": "닥터스베스트 마그네슘, 240정, 2개",
-          "price": "38,780원",
-          "discount_rate": 17,
-          "priceAt": "07.19 08:51",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f733/897821b60a9cfefec999bbbaefc5a099664458b86686ae9699bb8e0686db.png",
-          "url": "https://link.coupang.com/a/fu3ZClhOi4",
-          "_ts": 1784418672.250637
         }
       ]
     }
