@@ -150,6 +150,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "할리스 시그니처 아메리카노, 550ml, 12개",
+          "price": "8,000원",
+          "discount_rate": 79,
+          "priceAt": "07.22 20:02",
+          "image": "https://shopping.toss.im/live/temp/2025-12-03/e7e48f59-f51d-441e-8709-5c0bd47d62d1.jpeg",
+          "url": "https://toss.im/_m/3ufOIpDz",
+          "_ts": 1784718132.429266
+        },
+        {
           "name": "일화 초정 탄산수 플레인, 250ml, 30개",
           "price": "6,900원",
           "discount_rate": 50,
@@ -220,34 +229,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-03/34c623c6-7d78-47ff-8170-65ddc7af7a42.jpeg",
           "url": "https://toss.im/_m/bxf89B57",
           "_ts": 1784636424.211484
-        },
-        {
-          "name": "아이스 쿨패치, 5x12cm, 2매입, 30팩",
-          "price": "8,900원",
-          "discount_rate": 64,
-          "priceAt": "07.21 20:02",
-          "image": "https://shopping.toss.im/live/temp/2026-06-05/dd25ae51-c169-4c3e-b555-482510b65a17.jpeg",
-          "url": "https://toss.im/_m/FwVAYAwC",
-          "_ts": 1784631725.856947
-        },
-        {
-          "name": "초강력 끈끈이 트랩볼, 노랑, 8개",
-          "price": "9,900원",
-          "discount_rate": 67,
-          "priceAt": "07.21 20:00",
-          "image": "https://shopping.toss.im/live/temp/2025-06-20/67ece6af-e043-4ba4-902c-56bc592387e3.jpeg",
-          "url": "https://toss.im/_m/9mhZKLJy",
-          "_ts": 1784631624.537468
-        },
-        {
-          "name": "할리스 시그니처 아메리카노, 550ml, 12개",
-          "price": "8,000원",
-          "discount_rate": 79,
-          "image": "https://shopping.toss.im/live/temp/2025-12-03/e7e48f59-f51d-441e-8709-5c0bd47d62d1.jpeg",
-          "url": "https://toss.im/_m/3ufOIpDz",
-          "_rank": 1,
-          "_product_id": "106741127",
-          "_ts": 1784710861.3460522
         },
         {
           "name": "고궁 통참깨 참기름, 350ml, 3개",
