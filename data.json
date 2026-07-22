@@ -141,15 +141,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/506610762404576-7ccf2e1a-6d85-456a-8fdc-b7b91c97e70d.jpg",
           "url": "https://link.coupang.com/a/fzVYziwGKz",
           "_ts": 1784674781.104554
-        },
-        {
-          "name": "더페이스샵 허브데이 클렌징 티슈, 70매입, 2개",
-          "price": "5,320원",
-          "discount_rate": 41,
-          "priceAt": "07.22 07:08",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/25464702641583-016a3978-28dd-4413-ae5a-c81da290a317.jpg",
-          "url": "https://link.coupang.com/a/fzVnFTYehE",
-          "_ts": 1784671730.850589
         }
       ]
     },
@@ -246,6 +237,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "펩시 제로슈거 라임향 무라벨, 300ml, 20개",
+          "price": "12,000원",
+          "discount_rate": 20,
+          "priceAt": "07.23 07:11",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/196725783672193-4b8f890d-37ef-4e82-bda9-3ed3d6b77b41.jpg",
+          "url": "https://link.coupang.com/a/fBAukyK2Ls",
+          "_ts": 1784758296.027143
+        },
         {
           "name": "리큐 진한겔 꿉꿉한 냄새 원인물질 싹 일반드럼겸용 프레시 런드리향 액상세제 리필, 2.1L, 6개",
           "price": "19,940원",
