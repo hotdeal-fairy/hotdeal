@@ -231,15 +231,6 @@
           "_ts": 1784613619.383339
         },
         {
-          "name": "쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
-          "price": "8,900원",
-          "discount_rate": 64,
-          "priceAt": "07.21 11:45",
-          "image": "https://shopping.toss.im/live/temp/2026-01-07/c4efa185-5b09-467a-b5d9-9eecf9ce16e9.jpeg",
-          "url": "https://toss.im/_m/H1G67iye",
-          "_ts": 1784601914.7646809
-        },
-        {
           "name": "이롬 황성주 박사의 국산콩 두유 무가당, 190ml, 16팩",
           "price": "4,900원",
           "discount_rate": 70,
@@ -536,6 +527,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "웅진 생차 녹차, 500ml, 20개",
+          "price": "10,900원",
+          "discount_rate": 43,
+          "priceAt": "07.22 12:09",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/07/11/1/fa12adfe-8433-43ef-adeb-eda4d40104a9.jpg",
+          "url": "https://link.coupang.com/a/fAgPXu834u",
+          "_ts": 1784689740.487087
+        },
         {
           "name": "롯데웰푸드 제크 오리지날, 100g, 4개",
           "price": "3,480원",
@@ -1021,15 +1021,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/19163683420542-026fe8c2-3a35-402e-b54b-e25c21f90ac4.jpg",
           "url": "https://link.coupang.com/a/fvlO55geQe",
           "_ts": 1784433645.838258
-        },
-        {
-          "name": "롯데웰푸드 구구 크러스터 아이스크림 (냉동) 2개",
-          "price": "8,800원",
-          "discount_rate": 12,
-          "priceAt": "07.19 11:52",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/188e6866-ae70-4d0a-8465-66737a3412818506616835392935742.png",
-          "url": "https://link.coupang.com/a/fvgV0SAeB2",
-          "_ts": 1784429539.802058
         }
       ]
     }
