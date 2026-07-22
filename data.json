@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "준성 멀티고리 파스텔 자동 장우산 자외선 차단 UV 차단, 색상선택",
+          "price": "5,900원",
+          "discount_rate": 41,
+          "priceAt": "07.23 08:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/157157613790666-d20d57c1-f337-4027-85ea-f7812d02cd91.jpg",
+          "url": "https://link.coupang.com/a/fBDBqm3MPY",
+          "_ts": 1784761944.818677
+        },
+        {
           "name": "깨끗한나라 아껴쓰는 천연펄프 키친타올, 140매, 8개",
           "price": "4,350원",
           "discount_rate": 33,
@@ -1002,15 +1011,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1e43/198ff5f7099345a74d42578f831544993543681f0bb4d5516b9b9a71f1c4.jpg",
           "url": "https://link.coupang.com/a/fwMswf6KYu",
           "_ts": 1784508066.151316
-        },
-        {
-          "name": "피노 프리미엄 터치 헤어 마스크, 230g [6개]",
-          "price": "36,520원",
-          "discount_rate": 23,
-          "priceAt": "07.20 08:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/28b7/9a8ae0fdd78b93c211453bef42970ddf79408669ae9dfe8d702b047015d6.png",
-          "url": "https://link.coupang.com/a/fwFWDlWn0K",
-          "_ts": 1784502597.7505548
         }
       ]
     }
