@@ -547,6 +547,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "농협 EPC 무항생제 인증 특란 1.8kg, 30구, 1개",
+          "price": "7,990원",
+          "discount_rate": null,
+          "priceAt": "07.22 18:49",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/1qabcbar/1823f1871ee4484f86f774b1bd0575c0.jpg",
+          "url": "https://link.coupang.com/a/fAJsz1Je1c",
+          "_ts": 1784713773.618064
+        },
+        {
           "name": "비오비타 배배 유산균 60p, 90g, 1개",
           "price": "17,760원",
           "discount_rate": 15,
@@ -1022,15 +1031,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/291105927881740-0b99b96f-22bc-4e21-94c1-3fd3c019885b.JPG",
           "url": "https://link.coupang.com/a/fvOLXWa7K8",
           "_ts": 1784457952.017941
-        },
-        {
-          "name": "청정원 저당 스위트 칠리소스, 250g, 2개",
-          "price": "4,520원",
-          "discount_rate": 27,
-          "priceAt": "07.19 18:35",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/584c39c9-f19d-4719-86a1-fafd0e8824604659092979913786801.png",
-          "url": "https://link.coupang.com/a/fvJJ3iMWBg",
-          "_ts": 1784453725.0141509
         }
       ]
     }
