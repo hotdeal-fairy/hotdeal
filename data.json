@@ -247,6 +247,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "베지밀 비 달콤한 두유, 190ml, 16개",
+          "price": "8,030원",
+          "discount_rate": 27,
+          "priceAt": "07.23 07:22",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/467c/d98f87655151e0ff230c6f6fdbb2d3603a41ac0b34dce5c139376ce8c971.jpg",
+          "url": "https://link.coupang.com/a/fBBfKXDhwO",
+          "_ts": 1784758937.6918762
+        },
+        {
           "name": "어메이징오트 오리지널 혼합음료, 190ml, 24개",
           "price": "10,650원",
           "discount_rate": 24,
@@ -731,15 +740,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/e2f3251a-5dea-4cb8-aaf2-f5f906c0ebc66906587084167122624.png",
           "url": "https://link.coupang.com/a/fwET7zaye4",
           "_ts": 1784501723.501441
-        },
-        {
-          "name": "풀무원 매콤불냉면 2인분, 403g, 2개",
-          "price": "0원",
-          "discount_rate": 100,
-          "priceAt": "07.20 07:20",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/66239333275307-fcc475f5-beae-4061-a6a1-2f8fa7591ec2.png",
-          "url": "https://link.coupang.com/a/fwCqd7K4mi",
-          "_ts": 1784499643.078888
         }
       ]
     }
