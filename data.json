@@ -141,15 +141,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/25464702641583-016a3978-28dd-4413-ae5a-c81da290a317.jpg",
           "url": "https://link.coupang.com/a/fzVnFTYehE",
           "_ts": 1784671730.850589
-        },
-        {
-          "name": "[공식] 아라 분수물총 회오리 물꽃놀이 불꽃놀이물총 주사기물총, 1개",
-          "price": "1,990원",
-          "discount_rate": 66,
-          "priceAt": "07.21 19:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/af2b/7063d6fc7134f4b11f9a4c7ccc6253e11a2d72c08ff93728be445fa8c752.png",
-          "url": "https://link.coupang.com/a/fy5sSeIOg8",
-          "_ts": 1784628142.936539
         }
       ]
     },
@@ -158,6 +149,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "일화 초정 탄산수 플레인, 250ml, 30개",
+          "price": "6,900원",
+          "discount_rate": 50,
+          "priceAt": "07.22 20:00",
+          "image": "https://shopping.toss.im/live/temp/2025-07-30/cad91a6f-29f0-4798-8417-c55c7e069d75.jpeg",
+          "url": "https://toss.im/_m/h1DEebS6",
+          "_ts": 1784718021.9411042
+        },
         {
           "name": "산지농수산 메밀소바 세트, 생메밀국수 1kg + 메밀장 6개, 1세트",
           "price": "7,500원",
@@ -367,16 +367,6 @@
           "url": "https://toss.im/_m/lSGsYvVz",
           "_rank": 13,
           "_product_id": "106565105",
-          "_ts": 1784710861.3460522
-        },
-        {
-          "name": "일화 초정 탄산수 플레인, 250ml, 30개",
-          "price": "6,900원",
-          "discount_rate": 50,
-          "image": "https://shopping.toss.im/live/temp/2025-07-30/cad91a6f-29f0-4798-8417-c55c7e069d75.jpeg",
-          "url": "https://toss.im/_m/h1DEebS6",
-          "_rank": 14,
-          "_product_id": "48217065",
           "_ts": 1784710861.3460522
         },
         {
@@ -1049,24 +1039,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/525718431391032-8dfd9d1b-d95d-488b-ac61-c7a7a38b5dd3.jpg",
           "url": "https://link.coupang.com/a/fvRhI3SUrA",
           "_ts": 1784460060.3055182
-        },
-        {
-          "name": "슈펜키즈 아동용 WARM UP 벨크로 패딩 부츠",
-          "price": "7,010원",
-          "discount_rate": 85,
-          "priceAt": "07.19 19:58",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/09/25/10/4/e1a11788-a17d-42c5-bbeb-232fafaaf8bf.jpg",
-          "url": "https://link.coupang.com/a/fvPFXDqGPI",
-          "_ts": 1784458712.423017
-        },
-        {
-          "name": "반찬단지 깻잎무침, 1kg, 1개",
-          "price": "6,100원",
-          "discount_rate": 32,
-          "priceAt": "07.19 19:45",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/291105927881740-0b99b96f-22bc-4e21-94c1-3fd3c019885b.JPG",
-          "url": "https://link.coupang.com/a/fvOLXWa7K8",
-          "_ts": 1784457952.017941
         }
       ]
     }
