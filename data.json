@@ -150,6 +150,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "크리스탈 생수, 무라벨, 2L, 12개",
+          "price": "6,090원",
+          "discount_rate": 66,
+          "priceAt": "07.22 15:01",
+          "image": "https://shopping.toss.im/live/temp/2026-04-16/39f0e5c6-d997-4dbd-98ae-e1e42dcf1181.jpeg",
+          "url": "https://toss.im/_m/deE7XIhh",
+          "_ts": 1784700107.6415749
+        },
+        {
           "name": "뉴리스 5단 온오프 녹물제거 샤워기 헤드, 블랙, 1개 + 필터, 5개, 1세트",
           "price": "6,900원",
           "discount_rate": 72,
@@ -220,15 +229,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-09-18/efdc90b9-e9ae-424b-a356-336e9b817fa3.jpeg",
           "url": "https://toss.im/_m/xmwmg7VD",
           "_ts": 1784625618.5855281
-        },
-        {
-          "name": "센토 프라임 바이브 딥클린 듀얼 초미세 탄력모 칫솔, 20개입, 1개",
-          "price": "9,900원",
-          "discount_rate": 62,
-          "priceAt": "07.21 15:01",
-          "image": "https://shopping.toss.im/live/temp/2026-03-31/f7f894ce-1445-4f91-b94a-b3ebbce34835.png",
-          "url": "https://toss.im/_m/ZUl2B0Z9",
-          "_ts": 1784613695.781837
         },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
