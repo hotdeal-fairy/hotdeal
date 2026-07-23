@@ -159,6 +159,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
+          "price": "10,790원",
+          "discount_rate": 73,
+          "priceAt": "07.23 18:20",
+          "image": "https://shopping.toss.im/live/temp/2026-07-14/26d21fa5-b884-434a-9fe8-f571cd72703e.jpeg",
+          "url": "https://toss.im/_m/NR8WRrkx",
+          "_ts": 1784798427.056211
+        },
+        {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
           "price": "7,840원",
           "discount_rate": 67,
@@ -231,15 +240,6 @@
           "_ts": 1784712123.1058922
         },
         {
-          "name": "로에드 아이스 쿨 젤리방석, 720g, 1개",
-          "price": "7,500원",
-          "discount_rate": 62,
-          "priceAt": "07.22 18:20",
-          "image": "https://shopping.toss.im/live/temp/2026-03-13/093e52d4-1fac-498e-8858-44aacf51830a.jpeg",
-          "url": "https://toss.im/_m/Dj7EE3TD",
-          "_ts": 1784712017.021046
-        },
-        {
           "name": "고궁 통참깨 참기름, 350ml, 3개",
           "price": "9,900원",
           "discount_rate": 78,
@@ -247,16 +247,6 @@
           "url": "https://toss.im/_m/HMHKpPzj",
           "_rank": 2,
           "_product_id": "383195203",
-          "_ts": 1784797325.393918
-        },
-        {
-          "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
-          "price": "10,790원",
-          "discount_rate": 73,
-          "image": "https://shopping.toss.im/live/temp/2026-07-14/26d21fa5-b884-434a-9fe8-f571cd72703e.jpeg",
-          "url": "https://toss.im/_m/NR8WRrkx",
-          "_rank": 3,
-          "_product_id": "110224187",
           "_ts": 1784797325.393918
         },
         {
