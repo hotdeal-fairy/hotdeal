@@ -150,15 +150,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/82270797678387-7abb442b-279e-4588-a6d0-cecfe2f30db9.jpg",
           "url": "https://link.coupang.com/a/fACJ6jjPNI",
           "_ts": 1784708137.3009121
-        },
-        {
-          "name": "더미식 한우두부 강된장 덮밥소스, 150g, 6개",
-          "price": "9,630원",
-          "discount_rate": 40,
-          "priceAt": "07.22 15:43",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5124770965838-8b3de62d-bf08-47d3-88c7-14906320ff1e.jpg",
-          "url": "https://link.coupang.com/a/fAv8t1Edb2",
-          "_ts": 1784702592.840694
         }
       ]
     },
@@ -495,6 +486,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "양반 볶음김치, 160g, 8개",
+          "price": "9,980원",
+          "discount_rate": 23,
+          "priceAt": "07.23 15:49",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/1158/3de7f16d46d646a3cb2d55bd3336482d4cfd435549b3a5352018f7d23d4f.jpg",
+          "url": "https://link.coupang.com/a/fCbvLjDzpY",
+          "_ts": 1784789381.3279638
+        },
         {
           "name": "오리온 초코칩쿠키 미니, 90g, 6개",
           "price": "5,050원",
@@ -944,15 +944,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/216254714392621-0a2c0212-78c5-46f9-b256-a6399f8a1870.jpg",
           "url": "https://link.coupang.com/a/fxtv7NJ0ou",
           "_ts": 1784544218.7682629
-        },
-        {
-          "name": "꾸이맨 어포스낵, 30g, 10개",
-          "price": "11,920원",
-          "discount_rate": 40,
-          "priceAt": "07.20 15:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/a711/d31ce4f0fa5b21c21ce05c6ddd43974966ec1304d9bc1f287c3c5cd5639b.jpg",
-          "url": "https://link.coupang.com/a/fxb0r41Q2m",
-          "_ts": 1784529514.827095
         }
       ]
     }
