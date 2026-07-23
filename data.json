@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "유니레버 썬 식기세척기용 타블렛 세제 레몬 50개입, 500g, 2개",
+          "price": "12,500원",
+          "discount_rate": 38,
+          "priceAt": "07.24 07:06",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/420567766753307-f354a549-3ebb-4879-8699-f542d40cd05b.png",
+          "url": "https://link.coupang.com/a/fDe2ckKq5Y",
+          "_ts": 1784844400.9577448
+        },
+        {
           "name": "스카치브라이트 베이직 고무장갑 5개",
           "price": "7,000원",
           "discount_rate": 50,
@@ -914,15 +923,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/410429236197103-55ac2abd-46cb-4ddd-ada2-f97c8359c263.jpg",
           "url": "https://link.coupang.com/a/fygxZ3i1RY",
           "_ts": 1784585384.040122
-        },
-        {
-          "name": "쿠쿠 포터블 제빙기",
-          "price": "99,000원",
-          "discount_rate": 34,
-          "priceAt": "07.21 07:03",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2348881132754-3d2aa323-f783-44c2-b838-bf0d5706ecd0.jpg",
-          "url": "https://link.coupang.com/a/fyf5YlQIcC",
-          "_ts": 1784585003.286486
         }
       ]
     }
