@@ -186,6 +186,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "세척사과, 최대15brix, 마트납품용, 꿀사과, 3kg, 1박스",
+          "price": "10,900원",
+          "discount_rate": 75,
+          "priceAt": "07.23 21:21",
+          "image": "https://shopping.toss.im/live/temp/2026-06-10/60d9ae23-f103-497f-8dbc-6ed8f947dced.png",
+          "url": "https://toss.im/_m/hkInSJ1r",
+          "_ts": 1784809284.935654
+        },
+        {
           "name": "방울 토마토, 2kg, 1개",
           "price": "7,821원",
           "discount_rate": 58,
@@ -258,24 +267,6 @@
           "_ts": 1784774717.518134
         },
         {
-          "name": "코코팜 네이처바이 알로에 에센스 마스크팩, 23ml, 100개입, 1세트",
-          "price": "10,000원",
-          "discount_rate": 80,
-          "priceAt": "07.22 21:21",
-          "image": "https://shopping.toss.im/live/temp/2026-01-02/387be3ab-6425-4464-8b70-d7431389b44c.jpeg",
-          "url": "https://toss.im/_m/LwBk8am8",
-          "_ts": 1784722869.170974
-        },
-        {
-          "name": "마주 총각김치, 2kg, 1박스",
-          "price": "8,200원",
-          "discount_rate": 52,
-          "priceAt": "07.22 21:20",
-          "image": "https://shopping.toss.im/live/temp/2026-01-21/c87e2087-7d81-4056-9865-b50766606f60.png",
-          "url": "https://toss.im/_m/DmGScAn8",
-          "_ts": 1784722823.761933
-        },
-        {
           "name": "고궁 통참깨 참기름, 350ml, 3개",
           "price": "9,900원",
           "discount_rate": 78,
@@ -343,16 +334,6 @@
           "url": "https://toss.im/_m/ZlRsOGH8",
           "_rank": 16,
           "_product_id": "1961550371",
-          "_ts": 1784797325.393918
-        },
-        {
-          "name": "세척사과, 최대15brix, 마트납품용, 꿀사과, 3kg, 1박스",
-          "price": "10,900원",
-          "discount_rate": 75,
-          "image": "https://shopping.toss.im/live/temp/2026-06-10/60d9ae23-f103-497f-8dbc-6ed8f947dced.png",
-          "url": "https://toss.im/_m/hkInSJ1r",
-          "_rank": 17,
-          "_product_id": "2226153335",
           "_ts": 1784797325.393918
         },
         {
