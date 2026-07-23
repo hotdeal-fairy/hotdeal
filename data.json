@@ -498,6 +498,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "테이크핏 맥스 초코맛 프로틴, 250ml, 24개",
+          "price": "26,500원",
+          "discount_rate": 5,
+          "priceAt": "07.23 13:36",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242262245684442-43dfbf94-932c-42d4-9f76-b806d96bfd2c.jpg",
+          "url": "https://link.coupang.com/a/fB1YUCpzu8",
+          "_ts": 1784781381.981045
+        },
+        {
           "name": "못말리는신짱, 73g, 10개",
           "price": "6,400원",
           "discount_rate": 20,
