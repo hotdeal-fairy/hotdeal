@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "리더스인팜 캐치티니핑 썸머 쿨링액, 5개, 50ml 50ml*5개",
+          "price": "5,070원",
+          "discount_rate": 32,
+          "priceAt": "07.23 12:33",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/43670016246473-8c46b574-58f9-40ab-99bc-936e7f63f537.jpg",
+          "url": "https://link.coupang.com/a/fBXvPF7FKu",
+          "_ts": 1784777631.664194
+        },
+        {
           "name": "베베숲 클린비데 화장실용 물티슈 캡형 55g*48매*10개",
           "price": "8,240원",
           "discount_rate": 41,
@@ -123,24 +132,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/968164644755723-c4b0632b-b730-467c-bf13-0b6017488a8b.jpg",
           "url": "https://link.coupang.com/a/fAteBiCs5Q",
           "_ts": 1784700152.9288971
-        },
-        {
-          "name": "익스트림 트리플 아르기닌 5000, 300g, 3개",
-          "price": "28,180원",
-          "discount_rate": 69,
-          "priceAt": "07.22 12:31",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/40565340129294-263f566b-3939-4ae4-ae4d-8a745b9f1047.jpg",
-          "url": "https://link.coupang.com/a/fAiqDn4V9q",
-          "_ts": 1784691083.2043772
-        },
-        {
-          "name": "웅진 생차 녹차, 500ml, 20개",
-          "price": "10,900원",
-          "discount_rate": 43,
-          "priceAt": "07.22 12:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/07/11/1/fa12adfe-8433-43ef-adeb-eda4d40104a9.jpg",
-          "url": "https://link.coupang.com/a/fAgPXu834u",
-          "_ts": 1784689907.7855418
         }
       ]
     },
