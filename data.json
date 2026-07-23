@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "펩시 제로슈거 라임향 무라벨, 300ml, 20개",
+          "price": "12,000원",
+          "discount_rate": 20,
+          "priceAt": "07.23 10:45",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/196725783672193-4b8f890d-37ef-4e82-bda9-3ed3d6b77b41.jpg",
+          "url": "https://link.coupang.com/a/fBJx04Wp52",
+          "_ts": 1784771148.20929
+        },
+        {
           "name": "위칙 소독 섬유유연제 리필, 1.2L, 2개",
           "price": "11,320원",
           "discount_rate": 29,
@@ -516,15 +525,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/44328055861681-a4eda3c2-d4d5-4ed8-a0aa-aa9189f9402d.jpg",
           "url": "https://link.coupang.com/a/fBOra3p1To",
           "_ts": 1784770006.407286
-        },
-        {
-          "name": "펩시 제로슈거 라임향 무라벨, 300ml, 20개",
-          "price": "12,000원",
-          "discount_rate": 20,
-          "priceAt": "07.23 09:18",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/196725783672193-4b8f890d-37ef-4e82-bda9-3ed3d6b77b41.jpg",
-          "url": "https://link.coupang.com/a/fBJx04Wp52",
-          "_ts": 1784765903.453717
         },
         {
           "name": "배홍동 비빔면 137g, 8개",
