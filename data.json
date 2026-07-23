@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "비비고 사골곰탕, 10개, 500g",
+          "price": "9,690원",
+          "discount_rate": 42,
+          "priceAt": "07.23 18:43",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/61470343623239-c84aa482-5ee8-4203-b18d-c5dc9dacfd3c.jpg",
+          "url": "https://link.coupang.com/a/fCnVuoJMGG",
+          "_ts": 1784799807.952589
+        },
+        {
           "name": "에브리봇 엣지 윈도우 창문로봇청소기",
           "price": "99,000원",
           "discount_rate": 34,
@@ -247,15 +256,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-07-30/cad91a6f-29f0-4798-8417-c55c7e069d75.jpeg",
           "url": "https://toss.im/_m/h1DEebS6",
           "_ts": 1784718021.9411042
-        },
-        {
-          "name": "산지농수산 메밀소바 세트, 생메밀국수 1kg + 메밀장 6개, 1세트",
-          "price": "7,500원",
-          "discount_rate": 58,
-          "priceAt": "07.22 18:22",
-          "image": "https://shopping.toss.im/live/temp/2025-06-22/36710bbf-ed57-4790-935a-90199f817e31.jpeg",
-          "url": "https://toss.im/_m/9MOZCuH8",
-          "_ts": 1784712123.1058922
         },
         {
           "name": "고궁 통참깨 참기름, 350ml, 3개",
