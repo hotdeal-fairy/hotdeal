@@ -502,6 +502,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "크라운 버터와플, 237g, 2개",
+          "price": "4,800원",
+          "discount_rate": 20,
+          "priceAt": "07.24 07:12",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/69d1/f09a566f112a1cfa029c194b7c842f040748ff7f9595c953ed220ceadd1a.jpg",
+          "url": "https://link.coupang.com/a/fDft0EMQGO",
+          "_ts": 1784844772.0934799
+        },
+        {
           "name": "천수만 간척지쌀 백미 상등급 20kg*상등급*1개",
           "price": "55,690원",
           "discount_rate": null,
@@ -914,24 +923,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7497/876c1d55ebb69cfa173e334b453101393f20b03595afeb29bf85e3058914.jpg",
           "url": "https://link.coupang.com/a/fyg1r4PcR2",
           "_ts": 1784585784.1959171
-        },
-        {
-          "name": "락앤락 하드앤라이트 웍, 28cm, 1개",
-          "price": "18,760원",
-          "discount_rate": 28,
-          "priceAt": "07.21 07:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/39246375850527-bd096be4-5c99-4f8a-9b77-72f857638621.jpg",
-          "url": "https://link.coupang.com/a/fygHEiDfCm",
-          "_ts": 1784585516.6469471
-        },
-        {
-          "name": "해태제과 맛동산, 38g, 20개",
-          "price": "7,710원",
-          "discount_rate": 23,
-          "priceAt": "07.21 07:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/410429236197103-55ac2abd-46cb-4ddd-ada2-f97c8359c263.jpg",
-          "url": "https://link.coupang.com/a/fygxZ3i1RY",
-          "_ts": 1784585384.040122
         }
       ]
     }
