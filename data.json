@@ -132,24 +132,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/17/15/1/f76f7cb1-b826-4d48-b9b6-4e0c938d8d3b.jpg",
           "url": "https://link.coupang.com/a/fAakPSVo6u",
           "_ts": 1784684287.5007958
-        },
-        {
-          "name": "백설 카놀라유, 500ml, 2개",
-          "price": "3,700원",
-          "discount_rate": 26,
-          "priceAt": "07.22 10:24",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/138449751463355-06d5edf4-d20d-4e8a-b7ce-9d86e897bea0.jpg",
-          "url": "https://link.coupang.com/a/fz9jxAfl7Y",
-          "_ts": 1784683497.80595
-        },
-        {
-          "name": "쿤달 에어리퍼퓸 데오드란트 스프레이 베이비파우더향, 150ml, 2개",
-          "price": "8,320원",
-          "discount_rate": 51,
-          "priceAt": "07.22 09:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/173956123818751-8cee0138-3b77-4e50-a848-5d757f241060.jpg",
-          "url": "https://link.coupang.com/a/fz4FRjENoa",
-          "_ts": 1784679534.268781
         }
       ]
     },
@@ -526,6 +508,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "못말리는신짱, 73g, 10개",
+          "price": "6,400원",
+          "discount_rate": 20,
+          "priceAt": "07.23 10:26",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/44328055861681-a4eda3c2-d4d5-4ed8-a0aa-aa9189f9402d.jpg",
+          "url": "https://link.coupang.com/a/fBOra3p1To",
+          "_ts": 1784770006.407286
+        },
         {
           "name": "펩시 제로슈거 라임향 무라벨, 300ml, 20개",
           "price": "12,000원",
@@ -1011,24 +1002,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a43d/db6fd88e5233b2b2f25b4a9ae36a3194d4c8ba874cb97019300def8553b0.jpg",
           "url": "https://link.coupang.com/a/fwROfvxdgi",
           "_ts": 1784512556.1719198
-        },
-        {
-          "name": "쉬즈홈 국내 제조 듀라론 냉감매트 SS 110*200 cm*1개",
-          "price": "29,900원",
-          "discount_rate": 40,
-          "priceAt": "07.20 10:21",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/86758789139892-b5422c31-9cbd-4dac-84b6-ce640b0d862f.jpg",
-          "url": "https://link.coupang.com/a/fwPmiEWRb2",
-          "_ts": 1784510499.301671
-        },
-        {
-          "name": "엠앤엠즈 미니스 튜브 초콜릿, 35g, 24개",
-          "price": "16,970원",
-          "discount_rate": 32,
-          "priceAt": "07.20 09:41",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1e43/198ff5f7099345a74d42578f831544993543681f0bb4d5516b9b9a71f1c4.jpg",
-          "url": "https://link.coupang.com/a/fwMswf6KYu",
-          "_ts": 1784508066.151316
         }
       ]
     }
