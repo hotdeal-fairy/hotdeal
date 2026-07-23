@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "베베숲 클린비데 화장실용 물티슈 캡형 55g*48매*10개",
+          "price": "8,240원",
+          "discount_rate": 41,
+          "priceAt": "07.23 11:13",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/987005489441097-aad61a63-07b4-47bf-9713-c7d35848ded7.jpg",
+          "url": "https://link.coupang.com/a/fBRLtVycfY",
+          "_ts": 1784772808.7861829
+        },
+        {
           "name": "펩시 제로슈거 라임향 무라벨, 300ml, 20개",
           "price": "12,000원",
           "discount_rate": 20,
@@ -993,15 +1002,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/12/18/18/5/13d8791a-61bd-4789-a0ea-ad780ab512a4.png",
           "url": "https://link.coupang.com/a/fw3KtarIXc",
           "_ts": 1784522579.573744
-        },
-        {
-          "name": "오뚜기 참깨라면 컵 65g, 12개",
-          "price": "8,540원",
-          "discount_rate": 22,
-          "priceAt": "07.20 10:55",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a43d/db6fd88e5233b2b2f25b4a9ae36a3194d4c8ba874cb97019300def8553b0.jpg",
-          "url": "https://link.coupang.com/a/fwROfvxdgi",
-          "_ts": 1784512556.1719198
         }
       ]
     }
