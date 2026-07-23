@@ -186,15 +186,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/157157613790666-d20d57c1-f337-4027-85ea-f7812d02cd91.jpg",
           "url": "https://link.coupang.com/a/fBDBqm3MPY",
           "_ts": 1784761944.818677
-        },
-        {
-          "name": "깨끗한나라 아껴쓰는 천연펄프 키친타올, 140매, 8개",
-          "price": "4,350원",
-          "discount_rate": 33,
-          "priceAt": "07.23 07:14",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/128725592798850-d7c9dded-a243-4965-9ae4-c31540633ea5.jpg",
-          "url": "https://link.coupang.com/a/fBAEMBpBxk",
-          "_ts": 1784758443.823467
         }
       ]
     },
@@ -501,6 +492,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "초록매실 스파클링 제로 캔, 350ml, 24개",
+          "price": "10,720원",
+          "discount_rate": 20,
+          "priceAt": "07.24 07:17",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/24/15/2/e4b67a2d-3a58-4ae1-8012-479631edb40d.png",
+          "url": "https://link.coupang.com/a/fDfMCS2MW4",
+          "_ts": 1784845025.426049
+        },
         {
           "name": "크라운 버터와플, 237g, 2개",
           "price": "4,800원",
@@ -914,15 +914,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/57a0/9b640b057f72888f05d97407f70dc99b307199b8ab2ba964b09b12b93f8f.jpg",
           "url": "https://link.coupang.com/a/fyha96quOa",
           "_ts": 1784585915.761312
-        },
-        {
-          "name": "머슬팜 컴뱃 울트라 웨이 프로틴 파우더 드링크 믹스 단백질 보충제 카푸치노 2.269kg",
-          "price": "64,240원",
-          "discount_rate": 29,
-          "priceAt": "07.21 07:16",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7497/876c1d55ebb69cfa173e334b453101393f20b03595afeb29bf85e3058914.jpg",
-          "url": "https://link.coupang.com/a/fyg1r4PcR2",
-          "_ts": 1784585784.1959171
         }
       ]
     }
