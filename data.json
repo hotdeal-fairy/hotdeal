@@ -141,15 +141,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5124770965838-8b3de62d-bf08-47d3-88c7-14906320ff1e.jpg",
           "url": "https://link.coupang.com/a/fAv8t1Edb2",
           "_ts": 1784702592.840694
-        },
-        {
-          "name": "더페이스샵 미감수 브라이트 클렌징 크림 대용량, 400ml, 1개",
-          "price": "5,510원",
-          "discount_rate": 39,
-          "priceAt": "07.22 15:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/968164644755723-c4b0632b-b730-467c-bf13-0b6017488a8b.jpg",
-          "url": "https://link.coupang.com/a/fAteBiCs5Q",
-          "_ts": 1784700152.9288971
         }
       ]
     },
@@ -158,6 +149,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "스파클 생수, 무라벨, 500ml, 80개",
+          "price": "7,840원",
+          "discount_rate": 67,
+          "priceAt": "07.23 15:02",
+          "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
+          "url": "https://toss.im/_m/DiFTIObn",
+          "_ts": 1784786553.719667
+        },
         {
           "name": "올리 베이비파우더 섬유유연제, 2.5L, 4개",
           "price": "4,400원",
@@ -231,15 +231,6 @@
           "_ts": 1784712017.021046
         },
         {
-          "name": "크리스탈 생수, 무라벨, 2L, 12개",
-          "price": "6,090원",
-          "discount_rate": 66,
-          "priceAt": "07.22 15:01",
-          "image": "https://shopping.toss.im/live/temp/2026-04-16/39f0e5c6-d997-4dbd-98ae-e1e42dcf1181.jpeg",
-          "url": "https://toss.im/_m/deE7XIhh",
-          "_ts": 1784700107.6415749
-        },
-        {
           "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
           "price": "10,790원",
           "discount_rate": 73,
@@ -257,16 +248,6 @@
           "url": "https://toss.im/_m/HMHKpPzj",
           "_rank": 3,
           "_product_id": "383195203",
-          "_ts": 1784779341.519234
-        },
-        {
-          "name": "스파클 생수, 무라벨, 500ml, 80개",
-          "price": "7,840원",
-          "discount_rate": 67,
-          "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
-          "url": "https://toss.im/_m/DiFTIObn",
-          "_rank": 6,
-          "_product_id": "10143179",
           "_ts": 1784779341.519234
         },
         {
