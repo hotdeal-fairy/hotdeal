@@ -502,6 +502,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "신라면 120g, 15개",
+          "price": "9,940원",
+          "discount_rate": 19,
+          "priceAt": "07.24 07:27",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/177371624961544-9c3eac69-bed3-43a1-b290-0ef01f5b134c.jpg",
+          "url": "https://link.coupang.com/a/fDgyleEVr2",
+          "_ts": 1784845671.887159
+        },
+        {
           "name": "롯데웰푸드 월드콘 + 구구콘 세트 (냉동) 8개입",
           "price": "7,290원",
           "discount_rate": 34,
