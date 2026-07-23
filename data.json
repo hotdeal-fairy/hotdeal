@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "샘표 쇠고기 진한 다시 조미료, 1kg, 1개",
+          "price": "5,000원",
+          "discount_rate": 28,
+          "priceAt": "07.23 17:43",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/326656504632009-d8ee9534-dd3c-496f-a6fc-d88a3b316f58.jpg",
+          "url": "https://link.coupang.com/a/fCjAg2gSS4",
+          "_ts": 1784796226.402878
+        },
+        {
           "name": "양반 볶음김치, 160g, 8개",
           "price": "9,980원",
           "discount_rate": 23,
@@ -477,15 +486,6 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
-        {
-          "name": "샘표 쇠고기 진한 다시 조미료, 1kg, 1개",
-          "price": "5,000원",
-          "discount_rate": 28,
-          "priceAt": "07.23 17:42",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/326656504632009-d8ee9534-dd3c-496f-a6fc-d88a3b316f58.jpg",
-          "url": "https://link.coupang.com/a/fCjAg2gSS4",
-          "_ts": 1784796158.1056151
-        },
         {
           "name": "오뚜기 메밀소바 2인분, 612g, 2개",
           "price": "6,980원",
