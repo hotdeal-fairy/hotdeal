@@ -502,6 +502,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "롯데웰푸드 월드콘 + 구구콘 세트 (냉동) 8개입",
+          "price": "7,290원",
+          "discount_rate": 34,
+          "priceAt": "07.24 07:23",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/985133115146452-ee8c41e7-4ab7-4c59-bb2d-39afc574450b.jpg",
+          "url": "https://link.coupang.com/a/fDgfFy2UiO",
+          "_ts": 1784845418.900193
+        },
+        {
           "name": "파워에이드 마운틴 블라스트, 900ml, 12개",
           "price": "10,880원",
           "discount_rate": 36,
@@ -923,15 +932,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0d2f51d2-6904-4de0-b7ba-9ea0706b0cd43994885351910973500.png",
           "url": "https://link.coupang.com/a/fyiM0eTxpQ",
           "_ts": 1784587266.8427362
-        },
-        {
-          "name": "오뚜기 실쏙 토마토 스파게티소스 2kg*1개",
-          "price": "7,980원",
-          "discount_rate": 27,
-          "priceAt": "07.21 07:18",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/57a0/9b640b057f72888f05d97407f70dc99b307199b8ab2ba964b09b12b93f8f.jpg",
-          "url": "https://link.coupang.com/a/fyha96quOa",
-          "_ts": 1784585915.761312
         }
       ]
     }
