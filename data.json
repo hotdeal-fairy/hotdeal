@@ -186,6 +186,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "방울 토마토, 2kg, 1개",
+          "price": "7,821원",
+          "discount_rate": 58,
+          "priceAt": "07.23 21:20",
+          "image": "https://shopping.toss.im/live/temp/2026-04-26/c37680fb-0a5a-430d-a956-2489be03a39d.png",
+          "url": "https://toss.im/_m/XcYtzSVl",
+          "_ts": 1784809221.617784
+        },
+        {
           "name": "갓성비 스포츠 단목양말 대용량세트, 10켤레, FREE(250mm-275mm)",
           "price": "8,790원",
           "discount_rate": 67,
@@ -913,24 +922,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2348881132754-3d2aa323-f783-44c2-b838-bf0d5706ecd0.jpg",
           "url": "https://link.coupang.com/a/fyf5YlQIcC",
           "_ts": 1784585003.286486
-        },
-        {
-          "name": "InLoop 인기많은 고양이 키캡 키링 9구",
-          "price": "3,900원",
-          "discount_rate": 33,
-          "priceAt": "07.20 21:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d0dd/13a2deb7b430645bf1ccff4a77aba5176b0355dda6bd75d854eeab3bdb1c.png",
-          "url": "https://link.coupang.com/a/fxzhkuMyZ2",
-          "_ts": 1784549057.570166
-        },
-        {
-          "name": "오뚜기옛날 구수한 끓여먹는 누룽지, 3kg, 1개",
-          "price": "15,900원",
-          "discount_rate": 20,
-          "priceAt": "07.20 20:29",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1736/0714e167d245a6cafd2b3053a3e9e96896544b04bc671f810a6ac57bc620.jpg",
-          "url": "https://link.coupang.com/a/fxwPn6rge4",
-          "_ts": 1784546998.6507788
         }
       ]
     }
