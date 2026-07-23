@@ -186,6 +186,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "아스파시아 퍼퓸 샤워 코롱 돌체베르, 150ml, 2개",
+          "price": "9,100원",
+          "discount_rate": 81,
+          "priceAt": "07.23 20:00",
+          "image": "https://shopping.toss.im/live/temp/2026-06-12/0c393c2e-e105-4074-a069-8785e2277831.png",
+          "url": "https://toss.im/_m/RTFzypWe",
+          "_ts": 1784804424.274921
+        },
+        {
           "name": "무쿠 BLDC 휴대용 초소형 급속 냉각 손 선풍기 3단 미니 NCFA-2KC-12-SQ, 그린",
           "price": "9,900원",
           "discount_rate": 61,
@@ -256,15 +265,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-12-03/e7e48f59-f51d-441e-8709-5c0bd47d62d1.jpeg",
           "url": "https://toss.im/_m/3ufOIpDz",
           "_ts": 1784718132.429266
-        },
-        {
-          "name": "일화 초정 탄산수 플레인, 250ml, 30개",
-          "price": "6,900원",
-          "discount_rate": 50,
-          "priceAt": "07.22 20:00",
-          "image": "https://shopping.toss.im/live/temp/2025-07-30/cad91a6f-29f0-4798-8417-c55c7e069d75.jpeg",
-          "url": "https://toss.im/_m/h1DEebS6",
-          "_ts": 1784718021.9411042
         },
         {
           "name": "고궁 통참깨 참기름, 350ml, 3개",
