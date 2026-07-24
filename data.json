@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "궁중비책 마일드 선 클렌징 티슈, 10매입, 6개",
+          "price": "5,440원",
+          "discount_rate": 32,
+          "priceAt": "07.24 11:06",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e603/e4a7963d5c9db0871287195a571cd0a2fe0387178ac4a2022a90b982fd0e.jpg",
+          "url": "https://link.coupang.com/a/fDwaTi4MIm",
+          "_ts": 1784858793.334382
+        },
+        {
           "name": "한솔템 대용량 패브릭 이불 의류정리함 180L*2개, 베이지",
           "price": "5,800원",
           "discount_rate": 88,
@@ -195,24 +204,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/987005489441097-aad61a63-07b4-47bf-9713-c7d35848ded7.jpg",
           "url": "https://link.coupang.com/a/fBRLtVycfY",
           "_ts": 1784772808.7861829
-        },
-        {
-          "name": "펩시 제로슈거 라임향 무라벨, 300ml, 20개",
-          "price": "12,000원",
-          "discount_rate": 20,
-          "priceAt": "07.23 10:45",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/196725783672193-4b8f890d-37ef-4e82-bda9-3ed3d6b77b41.jpg",
-          "url": "https://link.coupang.com/a/fBJx04Wp52",
-          "_ts": 1784771148.20929
-        },
-        {
-          "name": "위칙 소독 섬유유연제 리필, 1.2L, 2개",
-          "price": "11,320원",
-          "discount_rate": 29,
-          "priceAt": "07.23 10:45",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/22/11/0/edd1e109-7615-4c38-bfb8-4e8b398b1508.jpg",
-          "url": "https://link.coupang.com/a/fBPJXQzIgm",
-          "_ts": 1784771127.879085
         }
       ]
     },
@@ -1010,15 +1001,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2987172210777393-56b434f6-c120-402b-9c87-cf1479e9c24f.jpg",
           "url": "https://link.coupang.com/a/fyz8OzYIG4",
           "_ts": 1784601837.141216
-        },
-        {
-          "name": "코베아 와일드 델타 텐트",
-          "price": "537,520원",
-          "discount_rate": 40,
-          "priceAt": "07.21 10:35",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/491a/4f3b8418c8af17b1662bedbc838d8e7402911f007b58910f3fd0c39b66b9.jpg",
-          "url": "https://link.coupang.com/a/fyveEy0Nhs",
-          "_ts": 1784597717.7027268
         }
       ]
     }
