@@ -570,6 +570,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "상품X",
+          "price": "9,900원",
+          "discount_rate": 67,
+          "priceAt": "07.24 14:39",
+          "image": "http://img",
+          "url": "https://link.coupang.com/a/deeplinked",
+          "_ts": 1784871572.363536
+        },
+        {
           "name": "토들러하우스 휴대용 여행용 접이식 유아침대",
           "price": "57,000원",
           "discount_rate": 48,
@@ -577,15 +586,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/23/14/7/4423b864-c9fb-4845-ad83-628aba5ed3e5.png",
           "url": "https://link.coupang.com/a/fDJK5XcvYW",
           "_ts": 1784870193.167698
-        },
-        {
-          "name": "상품X",
-          "price": "9,900원",
-          "discount_rate": 67,
-          "priceAt": "07.24 14:03",
-          "image": "http://img",
-          "url": "https://link.coupang.com/a/deeplinked",
-          "_ts": 1784869388.737878
         },
         {
           "name": "신라면 120g, 15개, (5개입 X 3팩)",
