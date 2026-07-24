@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "클룹 애사비소다 오리지널 제로, 250ml, 24개",
+          "price": "12,530원",
+          "discount_rate": 26,
+          "priceAt": "07.25 07:11",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/24599234155900-6a7bf1be-daaf-432d-aa63-4f375a18225f.png",
+          "url": "https://link.coupang.com/a/fEUgZ3AYsC",
+          "_ts": 1784931083.531222
+        },
+        {
           "name": "트레비 레몬 ECO 탄산음료 무라벨, 350ml, 20개",
           "price": "8,920원",
           "discount_rate": 25,
@@ -150,24 +159,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/09/20/15/8/2295f701-710b-41e3-b44e-0f3a545dbfdc.png",
           "url": "https://link.coupang.com/a/fDfOkGUiXY",
           "_ts": 1784845054.110955
-        },
-        {
-          "name": "삼립 크레프트 진한 크림치즈 휘낭시에 45g*8개입*3개",
-          "price": "8,010원",
-          "discount_rate": 32,
-          "priceAt": "07.24 07:08",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/291396948547266-a9a72f74-d437-4557-8903-f11dc7b22e6e.jpg",
-          "url": "https://link.coupang.com/a/fDfbEElZSe",
-          "_ts": 1784844528.476713
-        },
-        {
-          "name": "유니레버 썬 식기세척기용 타블렛 세제 레몬 50개입, 500g, 2개",
-          "price": "12,500원",
-          "discount_rate": 38,
-          "priceAt": "07.24 07:06",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/420567766753307-f354a549-3ebb-4879-8699-f542d40cd05b.png",
-          "url": "https://link.coupang.com/a/fDe2ckKq5Y",
-          "_ts": 1784844400.9577448
         }
       ]
     },
@@ -938,24 +929,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d3fa/fec656ec254ec10aaa04ae4b511bcced8f6e34f6438489b5f5665f0267a1.jpg",
           "url": "https://link.coupang.com/a/fzWp23MzbE",
           "_ts": 1784672595.674836
-        },
-        {
-          "name": "양반 100밥 현미밥, 130g, 24개",
-          "price": "16,500원",
-          "discount_rate": 8,
-          "priceAt": "07.22 07:10",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/544519158980276-08d69373-76d0-4534-8f8b-762c10540a8f.jpg",
-          "url": "https://link.coupang.com/a/fzVxafBGOy",
-          "_ts": 1784671854.053914
-        },
-        {
-          "name": "포트메리온 보타닉가든 스타터 2인 세트 5p 2p + 대접 2p*1세트",
-          "price": "45,990원",
-          "discount_rate": 29,
-          "priceAt": "07.22 07:08",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/123437279567042-f0e6fdcf-134b-4672-9a4b-d726f8b41bf2.jpg",
-          "url": "https://link.coupang.com/a/fzVmVxZBLM",
-          "_ts": 1784671714.433455
         }
       ]
     }
