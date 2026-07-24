@@ -570,15 +570,6 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
-          "name": "상품X",
-          "price": "9,900원",
-          "discount_rate": 67,
-          "priceAt": "07.24 14:39",
-          "image": "http://img",
-          "url": "https://link.coupang.com/a/deeplinked",
-          "_ts": 1784871572.363536
-        },
-        {
           "name": "토들러하우스 휴대용 여행용 접이식 유아침대",
           "price": "57,000원",
           "discount_rate": 48,
@@ -604,15 +595,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/185805806716668-96c76b0b-c1d6-4997-844b-4ea76a580c31.jpg",
           "url": "https://link.coupang.com/a/fDC6xsEtXg",
           "_ts": 1784864604.1641622
-        },
-        {
-          "name": "한솔템 대용량 패브릭 이불 의류정리함 180L*2개, 베이지",
-          "price": "5,800원",
-          "discount_rate": 88,
-          "priceAt": "07.24 11:43",
-          "image": "http://img",
-          "url": "https://link.coupang.com/a/deeplinked",
-          "_ts": 1784861038.927294
         },
         {
           "name": "나라홈데코 코지엔 오코텍스 3중직 냉감 여름 쿨 베개커버* 2개",
