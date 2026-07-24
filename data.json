@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "팬톤 멀티페어링 블루투스 무선 마우스",
+          "price": "6,650원",
+          "discount_rate": 56,
+          "priceAt": "07.24 19:02",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1768637619414256-a4be401b-4f18-468c-9c2d-0b525c0e82cd.jpg",
+          "url": "https://link.coupang.com/a/fD4bR9toWq",
+          "_ts": 1784887353.862119
+        },
+        {
           "name": "뷰카 클래식 딥 퍼퓸 골드 리페어 탈모 샴푸 화이트머스크향, 1.05L, 2개",
           "price": "11,340원",
           "discount_rate": 43,
@@ -159,24 +168,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2723815918306023-555f96be-5682-42d1-b71a-76e0b7b0570b.jpg",
           "url": "https://link.coupang.com/a/fCs6plAyaG",
           "_ts": 1784804154.1818821
-        },
-        {
-          "name": "비비고 사골곰탕, 10개, 500g",
-          "price": "9,690원",
-          "discount_rate": 42,
-          "priceAt": "07.23 18:43",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/61470343623239-c84aa482-5ee8-4203-b18d-c5dc9dacfd3c.jpg",
-          "url": "https://link.coupang.com/a/fCnVuoJMGG",
-          "_ts": 1784799807.952589
-        },
-        {
-          "name": "에브리봇 엣지 윈도우 창문로봇청소기",
-          "price": "99,000원",
-          "discount_rate": 34,
-          "priceAt": "07.23 18:21",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8a9b/b0856e918a96a3aa0e46ba7038650b448b2bc53e032823b17680e938cb1b.jpg",
-          "url": "https://link.coupang.com/a/fCmk36I89A",
-          "_ts": 1784798492.666898
         }
       ]
     },
@@ -265,15 +256,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-12/0c393c2e-e105-4074-a069-8785e2277831.png",
           "url": "https://toss.im/_m/RTFzypWe",
           "_ts": 1784804424.274921
-        },
-        {
-          "name": "무쿠 BLDC 휴대용 초소형 급속 냉각 손 선풍기 3단 미니 NCFA-2KC-12-SQ, 그린",
-          "price": "9,900원",
-          "discount_rate": 61,
-          "priceAt": "07.23 18:21",
-          "image": "https://shopping.toss.im/live/temp/2026-06-18/e69efcbd-c0f3-44df-84b0-71c20a7cf926.jpeg",
-          "url": "https://toss.im/_m/jLkg0END",
-          "_ts": 1784798483.405637
         },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
