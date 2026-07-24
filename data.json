@@ -177,6 +177,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "바른 전라도 열무자박이, 2kg, 1박스",
+          "price": "9,900원",
+          "discount_rate": 77,
+          "priceAt": "07.24 21:21",
+          "image": "https://shopping.toss.im/live/temp/2025-05-07/c45f70b1-b6d3-4419-b34d-2e729ecc77be.jpeg",
+          "url": "https://toss.im/_m/1FMYirwD",
+          "_ts": 1784895712.651478
+        },
+        {
           "name": "하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
           "price": "8,900원",
           "discount_rate": 44,
@@ -247,15 +256,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-20/a2ea9d13-4b9d-4efb-94a0-6dbc8b5668b6.jpeg",
           "url": "https://toss.im/_m/j0z3QmiB",
           "_ts": 1784861113.3573
-        },
-        {
-          "name": "세척사과, 최대15brix, 마트납품용, 꿀사과, 3kg, 1박스",
-          "price": "10,900원",
-          "discount_rate": 75,
-          "priceAt": "07.23 21:21",
-          "image": "https://shopping.toss.im/live/temp/2026-06-10/60d9ae23-f103-497f-8dbc-6ed8f947dced.png",
-          "url": "https://toss.im/_m/hkInSJ1r",
-          "_ts": 1784809284.935654
         },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
