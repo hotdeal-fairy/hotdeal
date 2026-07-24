@@ -186,15 +186,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/6nfywiqf/5146dd9f896a41409d0153edcecf7c91.jpg",
           "url": "https://link.coupang.com/a/fB2hAmv0Fw",
           "_ts": 1784786052.675122
-        },
-        {
-          "name": "엠비코 국내산 다용도 팬트리 정리함 15*30*14 cm*화이트*4개",
-          "price": "5,010원",
-          "discount_rate": 44,
-          "priceAt": "07.23 13:12",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/385698572403693-9f03c8be-7a1f-43fb-bff4-22009a130530.png",
-          "url": "https://link.coupang.com/a/fBZ6rdadl6",
-          "_ts": 1784779926.4276469
         }
       ]
     },
@@ -551,6 +542,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "스타벅스 셀렉트 카페 라떼, 300ml, 24개",
+          "price": "38,930원",
+          "discount_rate": 17,
+          "priceAt": "07.24 13:52",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/13/14/2/94a3ab17-13e6-4482-8f37-2d2b3a4b3d81.jpg",
+          "url": "https://link.coupang.com/a/fDH0KjRI60",
+          "_ts": 1784868724.228052
+        },
         {
           "name": "신라면 120g, 15개, (5개입 X 3팩)",
           "price": "9,940원",
@@ -982,24 +982,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/23504653050986-152d849a-a130-4f2b-91ac-2e5167d797fa.png",
           "url": "https://link.coupang.com/a/fyKoROGL00",
           "_ts": 1784610450.778369
-        },
-        {
-          "name": "웰치스 제로 그레이프맛, 355ml, 12개",
-          "price": "6,960원",
-          "discount_rate": 23,
-          "priceAt": "07.21 13:39",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/88737969263487-1ee2e358-a1d2-4d9c-af61-32ea379a1e28.png",
-          "url": "https://link.coupang.com/a/fyInDH7sGG",
-          "_ts": 1784608754.324469
-        },
-        {
-          "name": "해태제과 구운감자, 27g, 1개",
-          "price": "790원",
-          "discount_rate": null,
-          "priceAt": "07.21 13:20",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/171858344390030-938b4265-09ef-4cf1-a551-169cfe32b620.jpg",
-          "url": "https://link.coupang.com/a/fyG4Oi45QW",
-          "_ts": 1784607659.946687
         }
       ]
     }
