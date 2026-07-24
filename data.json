@@ -561,6 +561,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "토들러하우스 휴대용 여행용 접이식 유아침대",
+          "price": "57,000원",
+          "discount_rate": 48,
+          "priceAt": "07.24 14:16",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/23/14/7/4423b864-c9fb-4845-ad83-628aba5ed3e5.png",
+          "url": "https://link.coupang.com/a/fDJK5XcvYW",
+          "_ts": 1784870193.167698
+        },
+        {
           "name": "상품X",
           "price": "9,900원",
           "discount_rate": 67,
@@ -982,24 +991,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/185417224910007-f4257c1d-63f3-41ad-bff7-460862237be0.jpg",
           "url": "https://link.coupang.com/a/fyQkjNB1Uq",
           "_ts": 1784615425.490276
-        },
-        {
-          "name": "해태제과 계란 과자, 45g, 1개",
-          "price": "910원",
-          "discount_rate": 15,
-          "priceAt": "07.21 14:07",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3897578798709558-ccf4967a-4124-408f-a31c-65b0efb2fe4a.jpg",
-          "url": "https://link.coupang.com/a/fyKpIQEMzQ",
-          "_ts": 1784610461.310878
-        },
-        {
-          "name": "도리토스 나쵸치즈맛 소, 84g, 1개",
-          "price": "850원",
-          "discount_rate": null,
-          "priceAt": "07.21 14:07",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/23504653050986-152d849a-a130-4f2b-91ac-2e5167d797fa.png",
-          "url": "https://link.coupang.com/a/fyKoROGL00",
-          "_ts": 1784610450.778369
         }
       ]
     }
