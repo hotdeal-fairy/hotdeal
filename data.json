@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "엠앤엠즈 밀크 픽앤믹스 초콜릿, 337.5g, 1개",
+          "price": "7,700원",
+          "discount_rate": 52,
+          "priceAt": "07.25 07:32",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/0ebd/baa69dcd5dc1731003c7f1ecdfabc812f3d5e8525f76ae52d382d3783158.jpg",
+          "url": "https://link.coupang.com/a/fEVMe6Pa2u",
+          "_ts": 1784932347.649798
+        },
+        {
           "name": "더미식 비빔면 138g, 8개",
           "price": "5,600원",
           "discount_rate": 25,
@@ -947,15 +956,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/585452177903660-7eef26cb-522b-43c9-876e-b75bca55a5ca.jpg",
           "url": "https://link.coupang.com/a/fzXafUbSV2",
           "_ts": 1784673221.614986
-        },
-        {
-          "name": "나우푸드 프로바이오틱-10 유산균 250억 베지 캡슐, 100정, 3개",
-          "price": "76,990원",
-          "discount_rate": 16,
-          "priceAt": "07.22 07:23",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d3fa/fec656ec254ec10aaa04ae4b511bcced8f6e34f6438489b5f5665f0267a1.jpg",
-          "url": "https://link.coupang.com/a/fzWp23MzbE",
-          "_ts": 1784672595.674836
         }
       ]
     }
