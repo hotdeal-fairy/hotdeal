@@ -177,6 +177,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
+          "price": "8,900원",
+          "discount_rate": 44,
+          "priceAt": "07.24 21:20",
+          "image": "https://shopping.toss.im/live/temp/2026-07-09/e57076fd-010b-40ca-9945-50f1c7759e58.jpeg",
+          "url": "https://toss.im/_m/HmWSU9gi",
+          "_ts": 1784895624.1120052
+        },
+        {
           "name": "한예지 가든 플라워 롤 화장지, 3겹, 30m, 30롤, 2팩",
           "price": "11,900원",
           "discount_rate": 68,
@@ -247,15 +256,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-10/60d9ae23-f103-497f-8dbc-6ed8f947dced.png",
           "url": "https://toss.im/_m/hkInSJ1r",
           "_ts": 1784809284.935654
-        },
-        {
-          "name": "방울 토마토, 2kg, 1개",
-          "price": "7,821원",
-          "discount_rate": 58,
-          "priceAt": "07.23 21:20",
-          "image": "https://shopping.toss.im/live/temp/2026-04-26/c37680fb-0a5a-430d-a956-2489be03a39d.png",
-          "url": "https://toss.im/_m/XcYtzSVl",
-          "_ts": 1784809221.617784
         },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
@@ -485,16 +485,6 @@
           "url": "https://toss.im/_m/xHzs7BRy",
           "_rank": 27,
           "_product_id": "37386349",
-          "_ts": 1784883691.98661
-        },
-        {
-          "name": "하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
-          "price": "8,900원",
-          "discount_rate": 44,
-          "image": "https://shopping.toss.im/live/temp/2026-07-09/e57076fd-010b-40ca-9945-50f1c7759e58.jpeg",
-          "url": "https://toss.im/_m/HmWSU9gi",
-          "_rank": 28,
-          "_product_id": "2450913223",
           "_ts": 1784883691.98661
         },
         {
