@@ -168,15 +168,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/985133115146452-ee8c41e7-4ab7-4c59-bb2d-39afc574450b.jpg",
           "url": "https://link.coupang.com/a/fDgfFy2UiO",
           "_ts": 1784849811.608478
-        },
-        {
-          "name": "풀무원다논 그릭 설탕무첨가 플레인 요거트, 400g, 2개",
-          "price": "4,580원",
-          "discount_rate": 33,
-          "priceAt": "07.24 07:38",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/25676612165285-f9c52a92-2428-4c8a-862b-cdf578383ab8.jpg",
-          "url": "https://link.coupang.com/a/fDhiDdzLaK",
-          "_ts": 1784846303.0678349
         }
       ]
     },
@@ -543,6 +534,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "하우스클래스 자연주의 일회용 수세미 80개입*3개",
+          "price": "5,390원",
+          "discount_rate": 23,
+          "priceAt": "07.25 07:38",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/439454780872569-3238ba59-a96c-4399-b95d-b8ef624c97c7.jpg",
+          "url": "https://link.coupang.com/a/fEWdI0V6OG",
+          "_ts": 1784932714.675544
+        },
         {
           "name": "토레타 이온음료, 1.5L, 12개",
           "price": "15,170원",
@@ -947,15 +947,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fdeb/7e238062e64672f604ef15b898d5e47603872b7fdf53b0f3af50e1458422.jpg",
           "url": "https://link.coupang.com/a/fz1lFWllGm",
           "_ts": 1784676737.033068
-        },
-        {
-          "name": "켈로그 콘푸레이크 시리얼, 530g, 2개",
-          "price": "6,010원",
-          "discount_rate": 29,
-          "priceAt": "07.22 07:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/585452177903660-7eef26cb-522b-43c9-876e-b75bca55a5ca.jpg",
-          "url": "https://link.coupang.com/a/fzXafUbSV2",
-          "_ts": 1784673221.614986
         }
       ]
     }
