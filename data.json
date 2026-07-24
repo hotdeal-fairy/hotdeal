@@ -159,15 +159,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c333/5a921e77f9940c3a67c6e7a0946f003828c7a088f833e3f830213b52681c.jpg",
           "url": "https://link.coupang.com/a/fCAZZm0X4S",
           "_ts": 1784810786.778055
-        },
-        {
-          "name": "풀무원 모짜렐라 치즈볼 (냉동), 360g, 2개",
-          "price": "7,980원",
-          "discount_rate": 50,
-          "priceAt": "07.23 19:55",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2723815918306023-555f96be-5682-42d1-b71a-76e0b7b0570b.jpg",
-          "url": "https://link.coupang.com/a/fCs6plAyaG",
-          "_ts": 1784804154.1818821
         }
       ]
     },
@@ -176,6 +167,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
+          "price": "6,500원",
+          "discount_rate": 60,
+          "priceAt": "07.24 20:00",
+          "image": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
+          "url": "https://toss.im/_m/jDZgUhRv",
+          "_ts": 1784890822.7438679
+        },
         {
           "name": "제이킨 피부괄사 3종, 전신괄사 + 문어괄사 + 하트괄사, 1세트",
           "price": "6,150원",
@@ -285,16 +285,6 @@
           "url": "https://toss.im/_m/Pp9GX8z3",
           "_rank": 3,
           "_product_id": "1536550523",
-          "_ts": 1784883691.98661
-        },
-        {
-          "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
-          "price": "6,500원",
-          "discount_rate": 60,
-          "image": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
-          "url": "https://toss.im/_m/jDZgUhRv",
-          "_rank": 4,
-          "_product_id": "8834733",
           "_ts": 1784883691.98661
         },
         {
