@@ -159,15 +159,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/420567766753307-f354a549-3ebb-4879-8699-f542d40cd05b.png",
           "url": "https://link.coupang.com/a/fDe2ckKq5Y",
           "_ts": 1784844400.9577448
-        },
-        {
-          "name": "스카치브라이트 베이직 고무장갑 5개",
-          "price": "7,000원",
-          "discount_rate": 50,
-          "priceAt": "07.23 21:46",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c333/5a921e77f9940c3a67c6e7a0946f003828c7a088f833e3f830213b52681c.jpg",
-          "url": "https://link.coupang.com/a/fCAZZm0X4S",
-          "_ts": 1784810786.778055
         }
       ]
     },
@@ -514,6 +505,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "곰곰 맛있는 자두(후무사), 300g(4~6입), 1팩",
+          "price": "2,070원",
+          "discount_rate": 10,
+          "priceAt": "07.24 22:51",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/555216429115492-05c52716-1e8c-4656-ba9d-8f3a438694d2.png",
+          "url": "https://link.coupang.com/a/fEkzytrGgK",
+          "_ts": 1784901101.962556
+        },
         {
           "name": "닛신 돈베이 키츠네 우동 컵라면 동일본 한정 12개입, 96g, 12개",
           "price": "21,850원",
@@ -927,15 +927,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1010065041965310-ad4c8906-4bcc-44e9-b345-eaf7b7a40c45.jpg",
           "url": "https://link.coupang.com/a/fzU4ofoBZA",
           "_ts": 1784671462.4652328
-        },
-        {
-          "name": "베지밀 에이 담백한 두유, 190ml, 16개",
-          "price": "7,810원",
-          "discount_rate": 29,
-          "priceAt": "07.21 21:44",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/54963044850088-70114c0d-b9fb-4e14-bb7e-800692398de9.png",
-          "url": "https://link.coupang.com/a/fzg52FuW7M",
-          "_ts": 1784637899.79789
         }
       ]
     }
