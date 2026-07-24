@@ -168,15 +168,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/448c/99a2ea999a9536d9612a6e9184e2bf629d25dd6e424e07bf215776446ab6.jpg",
           "url": "https://link.coupang.com/a/fDpOdkB1jw",
           "_ts": 1784853449.395531
-        },
-        {
-          "name": "롯데웰푸드 월드콘 + 구구콘 세트 (냉동) 8개입",
-          "price": "7,290원",
-          "discount_rate": 34,
-          "priceAt": "07.24 08:36",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/985133115146452-ee8c41e7-4ab7-4c59-bb2d-39afc574450b.jpg",
-          "url": "https://link.coupang.com/a/fDgfFy2UiO",
-          "_ts": 1784849811.608478
         }
       ]
     },
@@ -185,6 +176,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "국내산 미니밤호박 보우짱, 4-18수 내외, 3kg, 1박스",
+          "price": "7,900원",
+          "discount_rate": 78,
+          "priceAt": "07.25 08:45",
+          "image": "https://shopping.toss.im/live/temp/2026-02-27/b71d606e-740e-4455-a7b5-04d31fd8ca11.jpeg",
+          "url": "https://toss.im/_m/b0wxJDJD",
+          "_ts": 1784936725.230009
+        },
         {
           "name": "바른 전라도 열무자박이, 2kg, 1박스",
           "price": "9,900원",
