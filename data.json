@@ -168,6 +168,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "한예지 가든 플라워 롤 화장지, 3겹, 30m, 30롤, 2팩",
+          "price": "11,900원",
+          "discount_rate": 68,
+          "priceAt": "07.24 20:02",
+          "image": "https://shopping.toss.im/live/temp/2025-12-02/5e5f2029-7f7c-4511-bbc1-606a56a117b1.jpeg",
+          "url": "https://toss.im/_m/lqS07rCp",
+          "_ts": 1784890942.8994749
+        },
+        {
           "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
           "price": "6,500원",
           "discount_rate": 60,
@@ -249,15 +258,6 @@
           "_ts": 1784804548.5453389
         },
         {
-          "name": "아스파시아 퍼퓸 샤워 코롱 돌체베르, 150ml, 2개",
-          "price": "9,100원",
-          "discount_rate": 81,
-          "priceAt": "07.23 20:00",
-          "image": "https://shopping.toss.im/live/temp/2026-06-12/0c393c2e-e105-4074-a069-8785e2277831.png",
-          "url": "https://toss.im/_m/RTFzypWe",
-          "_ts": 1784804424.274921
-        },
-        {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
           "price": "8,000원",
           "discount_rate": 79,
@@ -295,16 +295,6 @@
           "url": "https://toss.im/_m/7KdZUUC3",
           "_rank": 5,
           "_product_id": "803146745",
-          "_ts": 1784883691.98661
-        },
-        {
-          "name": "한예지 가든 플라워 롤 화장지, 3겹, 30m, 30롤, 2팩",
-          "price": "11,900원",
-          "discount_rate": 68,
-          "image": "https://shopping.toss.im/live/temp/2025-12-02/5e5f2029-7f7c-4511-bbc1-606a56a117b1.jpeg",
-          "url": "https://toss.im/_m/lqS07rCp",
-          "_rank": 6,
-          "_product_id": "379824037",
           "_ts": 1784883691.98661
         },
         {
