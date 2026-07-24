@@ -204,15 +204,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/21277189016965-db954ae6-8e79-4770-a33c-f4dac957c06c.jpg",
           "url": "https://link.coupang.com/a/fB72JS0zlZ",
           "_ts": 1784786563.1827211
-        },
-        {
-          "name": "풀무원 평양왕만두 (냉동), 490g, 2개",
-          "price": "6,170원",
-          "discount_rate": 35,
-          "priceAt": "07.23 14:54",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/6nfywiqf/5146dd9f896a41409d0153edcecf7c91.jpg",
-          "url": "https://link.coupang.com/a/fB2hAmv0Fw",
-          "_ts": 1784786052.675122
         }
       ]
     },
@@ -221,6 +212,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "플리츠 상하의 세트, 블랙, FREE, 1개",
+          "price": "8,450원",
+          "discount_rate": 74,
+          "priceAt": "07.24 15:00",
+          "image": "https://shopping.toss.im/live/temp/2026-05-19/372d2414-962f-40d5-bc28-891c0b5913ab.jpeg",
+          "url": "https://toss.im/_m/fvvn6z8s",
+          "_ts": 1784872819.4710379
+        },
         {
           "name": "탐나유 수미 햇감자, 중, 3kg, 1개",
           "price": "5,400원",
