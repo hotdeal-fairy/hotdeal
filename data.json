@@ -195,15 +195,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/385698572403693-9f03c8be-7a1f-43fb-bff4-22009a130530.png",
           "url": "https://link.coupang.com/a/fBZ6rdadl6",
           "_ts": 1784779926.4276469
-        },
-        {
-          "name": "리더스인팜 캐치티니핑 썸머 쿨링액, 5개, 50ml 50ml*5개",
-          "price": "5,070원",
-          "discount_rate": 32,
-          "priceAt": "07.23 12:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/43670016246473-8c46b574-58f9-40ab-99bc-936e7f63f537.jpg",
-          "url": "https://link.coupang.com/a/fBXvPF7FKu",
-          "_ts": 1784777631.664194
         }
       ]
     },
@@ -292,15 +283,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-04-17/fcba031e-d0e3-4311-b191-f52454e04fc4.jpeg",
           "url": "https://toss.im/_m/nIREINot",
           "_ts": 1784786426.583925
-        },
-        {
-          "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입",
-          "price": "5,700원",
-          "discount_rate": 71,
-          "priceAt": "07.23 11:45",
-          "image": "https://shopping.toss.im/live/temp/2025-05-14/52c78bea-ea6e-40df-92a3-fca69d1d7141.jpeg",
-          "url": "https://toss.im/_m/1JGAXtnt",
-          "_ts": 1784774717.518134
         },
         {
           "name": "코코팜 네이처바이 알로에 에센스 마스크팩, 23ml, 100개입, 1세트",
@@ -579,6 +561,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "맥스봉 치즈, 27g, 40개",
+          "price": "10,900원",
+          "discount_rate": 22,
+          "priceAt": "07.24 12:43",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/185805806716668-96c76b0b-c1d6-4997-844b-4ea76a580c31.jpg",
+          "url": "https://link.coupang.com/a/fDC6xsEtXg",
+          "_ts": 1784864604.1641622
+        },
         {
           "name": "한솔템 대용량 패브릭 이불 의류정리함 180L*2개, 베이지",
           "price": "5,800원",
@@ -1010,15 +1001,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/171858344390030-938b4265-09ef-4cf1-a551-169cfe32b620.jpg",
           "url": "https://link.coupang.com/a/fyG4Oi45QW",
           "_ts": 1784607659.946687
-        },
-        {
-          "name": "어부심 국내산 활전복 왕특대 (냉장), 500g 내외(4미), 2개",
-          "price": "15,750원",
-          "discount_rate": 48,
-          "priceAt": "07.21 12:30",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/280328791606282-0efbedff-50be-4a7e-98f1-288c22fc6590.jpg",
-          "url": "https://link.coupang.com/a/fyDseh9F3Q",
-          "_ts": 1784604620.8804212
         }
       ]
     }
