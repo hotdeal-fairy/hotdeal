@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "뷰카 클래식 딥 퍼퓸 골드 리페어 탈모 샴푸 화이트머스크향, 1.05L, 2개",
+          "price": "11,340원",
+          "discount_rate": 43,
+          "priceAt": "07.24 15:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/f40a/e4f5d5ede956fb7714b0e0d2367c4e3f04382c8b28f3d2ac1d8712e6e7af.jpg",
+          "url": "https://link.coupang.com/a/fDP56VxC9s",
+          "_ts": 1784875520.319995
+        },
+        {
           "name": "인더스 에어라이트 BLDC 저소음 탁상용 사무실 무선 선풍기",
           "price": "10,570원",
           "discount_rate": 59,
@@ -186,24 +195,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/1158/3de7f16d46d646a3cb2d55bd3336482d4cfd435549b3a5352018f7d23d4f.jpg",
           "url": "https://link.coupang.com/a/fCbvLjDzpY",
           "_ts": 1784792100.534121
-        },
-        {
-          "name": "잘풀리는집 세이브 천연펄프 2겹 키친타올 150매*2롤, 4개",
-          "price": "5,920원",
-          "discount_rate": 15,
-          "priceAt": "07.23 15:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/333149757773766-11f9c851-388c-45f7-8aec-f6d7c048dda7.jpg",
-          "url": "https://link.coupang.com/a/fB9UZ39ipw",
-          "_ts": 1784788387.298805
-        },
-        {
-          "name": "착한습관 견과 앤 건과일 5종 선물세트 1.02kg, 1세트",
-          "price": "14,280원",
-          "discount_rate": 70,
-          "priceAt": "07.23 15:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/21277189016965-db954ae6-8e79-4770-a33c-f4dac957c06c.jpg",
-          "url": "https://link.coupang.com/a/fB72JS0zlZ",
-          "_ts": 1784786563.1827211
         }
       ]
     },
@@ -292,15 +283,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-14/26d21fa5-b884-434a-9fe8-f571cd72703e.jpeg",
           "url": "https://toss.im/_m/NR8WRrkx",
           "_ts": 1784798427.056211
-        },
-        {
-          "name": "스파클 생수, 무라벨, 500ml, 80개",
-          "price": "7,840원",
-          "discount_rate": 67,
-          "priceAt": "07.23 15:02",
-          "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
-          "url": "https://toss.im/_m/DiFTIObn",
-          "_ts": 1784786553.719667
         },
         {
           "name": "모나리자 스마트 다용도 키친타올, 250매, 12롤, 1팩",
@@ -973,15 +955,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/54963044850088-70114c0d-b9fb-4e14-bb7e-800692398de9.png",
           "url": "https://link.coupang.com/a/fzg52FuW7M",
           "_ts": 1784637899.79789
-        },
-        {
-          "name": "폰타나 카르니아 베이컨 앤 머쉬룸 크림 파스타 소스, 430g, 2개",
-          "price": "9,990원",
-          "discount_rate": 23,
-          "priceAt": "07.21 15:30",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/185417224910007-f4257c1d-63f3-41ad-bff7-460862237be0.jpg",
-          "url": "https://link.coupang.com/a/fyQkjNB1Uq",
-          "_ts": 1784615425.490276
         }
       ]
     }
