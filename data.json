@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "베베쿡 쌀쿵 쌀과자 15g*20개",
+          "price": "14,520원",
+          "discount_rate": 31,
+          "priceAt": "07.25 08:33",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/960127909021242-4e4fecbc-3918-4101-9afc-9cd0b37b857b.png",
+          "url": "https://link.coupang.com/a/fEZ6PGJfm8",
+          "_ts": 1784935986.759257
+        },
+        {
           "name": "엠앤엠즈 밀크 픽앤믹스 초콜릿, 337.5g, 1개",
           "price": "7,700원",
           "discount_rate": 52,
@@ -938,15 +947,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/312155490495377-1aef1935-1e37-4e6c-9553-f67816f00c21.jpg",
           "url": "https://link.coupang.com/a/fz2vCH2rcG",
           "_ts": 1784677710.515778
-        },
-        {
-          "name": "AOC 3면 마이크로에지 E1 시리즈 오피스 모니터 21.5형",
-          "price": "41,960원",
-          "discount_rate": 53,
-          "priceAt": "07.22 08:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fdeb/7e238062e64672f604ef15b898d5e47603872b7fdf53b0f3af50e1458422.jpg",
-          "url": "https://link.coupang.com/a/fz1lFWllGm",
-          "_ts": 1784676737.033068
         }
       ]
     }
