@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "다향 무항생제 인증 우리땅 오리 다리살 슬라이스 (냉장), 500g, 2개",
+          "price": "11,370원",
+          "discount_rate": 43,
+          "priceAt": "07.25 09:55",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1704483599186658-f4178678-cc03-4d77-86b1-22dcc06017bd.jpg",
+          "url": "https://link.coupang.com/a/fE51eSYIy4",
+          "_ts": 1784940943.470457
+        },
+        {
           "name": "베베쿡 쌀쿵 쌀과자 15g*20개",
           "price": "14,520원",
           "discount_rate": 31,
@@ -150,24 +159,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e603/e4a7963d5c9db0871287195a571cd0a2fe0387178ac4a2022a90b982fd0e.jpg",
           "url": "https://link.coupang.com/a/fDwaTi4MIm",
           "_ts": 1784858793.334382
-        },
-        {
-          "name": "한솔템 대용량 패브릭 이불 의류정리함 180L*2개, 베이지",
-          "price": "5,800원",
-          "discount_rate": 88,
-          "priceAt": "07.24 09:37",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/476c/54316c7df59c26893e733e8f9f00eb8fd1b5e8204086ec755834590b1e33.jpg",
-          "url": "https://link.coupang.com/a/fDpOTKUT4m",
-          "_ts": 1784853462.62214
-        },
-        {
-          "name": "한솔템 대용량 패브릭 이불 의류정리함 180L*2개, 그레이",
-          "price": "5,800원",
-          "discount_rate": 88,
-          "priceAt": "07.24 09:37",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/448c/99a2ea999a9536d9612a6e9184e2bf629d25dd6e424e07bf215776446ab6.jpg",
-          "url": "https://link.coupang.com/a/fDpOdkB1jw",
-          "_ts": 1784853449.395531
         }
       ]
     },
@@ -947,24 +938,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1022155618832797-752b0a34-3f98-4b90-9e75-008e085a67e2.png",
           "url": "https://link.coupang.com/a/fz7qaEr1QO",
           "_ts": 1784681832.305503
-        },
-        {
-          "name": "마이비데 센서티브케어 비데티슈 캡형 [9개]",
-          "price": "10,940원",
-          "discount_rate": 29,
-          "priceAt": "07.22 09:38",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/71b0/df21c798d5adeb3bb1b5226ba4a494c78296b7e7618e6e229a6ae6215427.jpg",
-          "url": "https://link.coupang.com/a/fz57qSJSfY",
-          "_ts": 1784680739.531395
-        },
-        {
-          "name": "프로그 라텍스 컴포트 고무장갑 5세트",
-          "price": "7,510원",
-          "discount_rate": 25,
-          "priceAt": "07.22 08:48",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/312155490495377-1aef1935-1e37-4e6c-9553-f67816f00c21.jpg",
-          "url": "https://link.coupang.com/a/fz2vCH2rcG",
-          "_ts": 1784677710.515778
         }
       ]
     }
