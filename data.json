@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "건강하닭 천하장사 더 불닭 소시지, 448g, 3개",
+          "price": "10,180원",
+          "discount_rate": 35,
+          "priceAt": "07.25 19:12",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3cde312e-59a4-4e97-a6c9-e91919d5e05c3583204030039067460.png",
+          "url": "https://link.coupang.com/a/fFJLPQ9Kay",
+          "_ts": 1784974323.932241
+        },
+        {
           "name": "데톨 향균비누 데일리케어, 100g, 8개입",
           "price": "4,750원",
           "discount_rate": 47,
@@ -141,15 +150,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/413972425324222-31e2718e-0524-4393-8e5c-67a2a56e6191.png",
           "url": "https://link.coupang.com/a/fD8vmni8ho",
           "_ts": 1784890974.24652
-        },
-        {
-          "name": "팬톤 멀티페어링 블루투스 무선 마우스",
-          "price": "6,650원",
-          "discount_rate": 56,
-          "priceAt": "07.24 19:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1768637619414256-a4be401b-4f18-468c-9c2d-0b525c0e82cd.jpg",
-          "url": "https://link.coupang.com/a/fD4bR9toWq",
-          "_ts": 1784887353.862119
         }
       ]
     },
@@ -873,51 +873,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/427559201056781-303a8151-9ac2-45a2-a159-38452bacd5a5.jpg",
           "url": "https://link.coupang.com/a/fByrv99xT2",
           "_ts": 1784756577.584654
-        },
-        {
-          "name": "웰키커 비타민C 아연 어린이 구미 영양제, 150g, 60정, 2개",
-          "price": "20,900원",
-          "discount_rate": 56,
-          "priceAt": "07.22 19:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/d5cd76c9-cd5d-417a-ba07-e0ba0367d72c8795498540667168512.png",
-          "url": "https://link.coupang.com/a/fAKnc5zuuq",
-          "_ts": 1784714540.722156
-        },
-        {
-          "name": "조인 무항생제 백색대란, 30구, 1개",
-          "price": "7,990원",
-          "discount_rate": null,
-          "priceAt": "07.22 18:50",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/3899/10447e1b7627b524f0b1b2b4b48dd5e50fdab58c65a952be45bf27cbc6e5.jpg",
-          "url": "https://link.coupang.com/a/fAJu1vQIRU",
-          "_ts": 1784713805.823692
-        },
-        {
-          "name": "곰곰 무항생제 신선한 특란, 30구, 1개",
-          "price": "7,990원",
-          "discount_rate": null,
-          "priceAt": "07.22 18:49",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/129407817975093-3f9348a3-4def-41a8-90d7-5750e75b2ef0.jpg",
-          "url": "https://link.coupang.com/a/fAJuf8q8d2",
-          "_ts": 1784713795.836208
-        },
-        {
-          "name": "조인 무항생제 인증 백색 특란 1.8kg, 1개, 30구",
-          "price": "7,990원",
-          "discount_rate": null,
-          "priceAt": "07.22 18:49",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/357221514373440-8637c57f-f99f-4b61-9a09-ced29be86e06.jpg",
-          "url": "https://link.coupang.com/a/fAJtoBrNdc",
-          "_ts": 1784713785.485431
-        },
-        {
-          "name": "농협 EPC 무항생제 인증 특란 1.8kg, 30구, 1개",
-          "price": "7,990원",
-          "discount_rate": null,
-          "priceAt": "07.22 18:49",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/1qabcbar/1823f1871ee4484f86f774b1bd0575c0.jpg",
-          "url": "https://link.coupang.com/a/fAJsz1Je1c",
-          "_ts": 1784713773.618064
         }
       ]
     }
