@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "2080 퓨어 핑크마운틴 펌프 치약, 325g, 2개",
+          "price": "7,180원",
+          "discount_rate": 28,
+          "priceAt": "07.25 20:34",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4f10/211d1fb4a9a0442720187af2d1f3311d2072efb55d58819cbf05c921c499.jpg",
+          "url": "https://link.coupang.com/a/fFPFAT06CG",
+          "_ts": 1784979272.279191
+        },
+        {
           "name": "건강하닭 천하장사 더 불닭 소시지, 448g, 3개",
           "price": "10,180원",
           "discount_rate": 35,
@@ -141,15 +150,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/461f/bbca715130c5ee0e9ab9ef635b63efbcd0fd3bc3c66484c2e2cbb2f653b9.jpg",
           "url": "https://link.coupang.com/a/fETPE4u52O",
           "_ts": 1784930712.8993258
-        },
-        {
-          "name": "마녀공장 비피다 바이옴 컨센트레이트 세럼, 35ml, 1개",
-          "price": "8,300원",
-          "discount_rate": 36,
-          "priceAt": "07.24 20:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/413972425324222-31e2718e-0524-4393-8e5c-67a2a56e6191.png",
-          "url": "https://link.coupang.com/a/fD8vmni8ho",
-          "_ts": 1784890974.24652
         }
       ]
     },
@@ -256,24 +256,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-09/e57076fd-010b-40ca-9945-50f1c7759e58.jpeg",
           "url": "https://toss.im/_m/HmWSU9gi",
           "_ts": 1784895624.1120052
-        },
-        {
-          "name": "한예지 가든 플라워 롤 화장지, 3겹, 30m, 30롤, 2팩",
-          "price": "11,900원",
-          "discount_rate": 68,
-          "priceAt": "07.24 20:02",
-          "image": "https://shopping.toss.im/live/temp/2025-12-02/5e5f2029-7f7c-4511-bbc1-606a56a117b1.jpeg",
-          "url": "https://toss.im/_m/lqS07rCp",
-          "_ts": 1784890942.8994749
-        },
-        {
-          "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
-          "price": "6,500원",
-          "discount_rate": 60,
-          "priceAt": "07.24 20:00",
-          "image": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
-          "url": "https://toss.im/_m/jDZgUhRv",
-          "_ts": 1784890822.7438679
         },
         {
           "name": "시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",
