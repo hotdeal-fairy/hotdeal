@@ -123,33 +123,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/f40a/e4f5d5ede956fb7714b0e0d2367c4e3f04382c8b28f3d2ac1d8712e6e7af.jpg",
           "url": "https://link.coupang.com/a/fDP56VxC9s",
           "_ts": 1784875520.319995
-        },
-        {
-          "name": "인더스 에어라이트 BLDC 저소음 탁상용 사무실 무선 선풍기",
-          "price": "10,570원",
-          "discount_rate": 59,
-          "priceAt": "07.24 14:21",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/10/10/7/d2c4dfcb-5b42-4d24-8f40-cc8943ea2613.jpg",
-          "url": "https://link.coupang.com/a/fDJ3JKGAge",
-          "_ts": 1784870473.88357
-        },
-        {
-          "name": "투명창 서랍 다용도 펜트리 수납 정리함 리빙박스 서랍 정리함 수납함 팬트리 정리함 *4개",
-          "price": "5,000원",
-          "discount_rate": 50,
-          "priceAt": "07.24 14:01",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6579/29b82a6bc54ca1f15fdf75d28f7b695730c54c7e7269fbfef839fa375972.jpg",
-          "url": "https://link.coupang.com/a/fDIsbkm93A",
-          "_ts": 1784869294.19028
-        },
-        {
-          "name": "스타벅스 셀렉트 카페 라떼, 300ml, 24개",
-          "price": "38,930원",
-          "discount_rate": 17,
-          "priceAt": "07.24 13:52",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/13/14/2/94a3ab17-13e6-4482-8f37-2d2b3a4b3d81.jpg",
-          "url": "https://link.coupang.com/a/fDH0KjRI60",
-          "_ts": 1784868749.263104
         }
       ]
     },
@@ -158,6 +131,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "싱싱탱글 유럽종 완숙토마토, 로얄과, 5kg, 1개",
+          "price": "12,500원",
+          "discount_rate": 78,
+          "priceAt": "07.25 15:00",
+          "image": "https://shopping.toss.im/live/temp/2026-05-03/2f1650ea-252b-4a0b-baee-b1b83450de34.png",
+          "url": "https://toss.im/_m/h6GwWRh3",
+          "_ts": 1784959226.059071
+        },
         {
           "name": "백도 딱딱이 복숭아, 4kg, 1박스, 산지직송",
           "price": "16,900원",
@@ -256,15 +238,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-01-16/45ff3f03-1857-42e8-ae61-79e995c3d602.jpeg",
           "url": "https://toss.im/_m/rqHxCvhi",
           "_ts": 1784872924.570952
-        },
-        {
-          "name": "플리츠 상하의 세트, 블랙, FREE, 1개",
-          "price": "8,450원",
-          "discount_rate": 74,
-          "priceAt": "07.24 15:00",
-          "image": "https://shopping.toss.im/live/temp/2026-05-19/372d2414-962f-40d5-bc28-891c0b5913ab.jpeg",
-          "url": "https://toss.im/_m/fvvn6z8s",
-          "_ts": 1784872819.4710379
         },
         {
           "name": "시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",
@@ -927,15 +900,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/06/27/14/6/8703a61d-2a84-4f7b-9123-8105b79a7391.png",
           "url": "https://link.coupang.com/a/fAuobhim60",
           "_ts": 1784701118.326708
-        },
-        {
-          "name": "필라델피아 치즈케익 플레인 (냉동), 794g, 2개",
-          "price": "35,930원",
-          "discount_rate": 22,
-          "priceAt": "07.22 13:29",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5dbde46a-b9cc-4812-ba5e-62fbcbadcf818123224122175116213.png",
-          "url": "https://link.coupang.com/a/fAmCzL4gou",
-          "_ts": 1784694597.193137
         }
       ]
     }
