@@ -150,15 +150,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1704483599186658-f4178678-cc03-4d77-86b1-22dcc06017bd.jpg",
           "url": "https://link.coupang.com/a/fE51eSYIy4",
           "_ts": 1784940943.470457
-        },
-        {
-          "name": "베베쿡 쌀쿵 쌀과자 15g*20개",
-          "price": "14,520원",
-          "discount_rate": 31,
-          "priceAt": "07.25 08:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/960127909021242-4e4fecbc-3918-4101-9afc-9cd0b37b857b.png",
-          "url": "https://link.coupang.com/a/fEZ6PGJfm8",
-          "_ts": 1784935986.759257
         }
       ]
     },
@@ -167,6 +158,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "모카 카페마일드 커피믹스, 12g, 330개입, 1개",
+          "price": "31,300원",
+          "discount_rate": 24,
+          "priceAt": "07.26 08:45",
+          "image": "https://shopping.toss.im/live/temp/2026-03-24/c1c89706-7266-4ec2-adb1-96b03785fa4b.jpeg",
+          "url": "https://toss.im/_m/xJjHl3pr",
+          "_ts": 1785023127.073028
+        },
         {
           "name": "시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",
           "price": "5,000원",
@@ -265,15 +265,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-01-27/174eb908-8b28-4f4e-b0f2-82b13fb140f0.jpeg",
           "url": "https://toss.im/_m/DoZrr0VA",
           "_ts": 1784936839.709558
-        },
-        {
-          "name": "국내산 미니밤호박 보우짱, 4-18수 내외, 3kg, 1박스",
-          "price": "7,900원",
-          "discount_rate": 78,
-          "priceAt": "07.25 08:45",
-          "image": "https://shopping.toss.im/live/temp/2026-02-27/b71d606e-740e-4455-a7b5-04d31fd8ca11.jpeg",
-          "url": "https://toss.im/_m/b0wxJDJD",
-          "_ts": 1784936725.230009
         },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
@@ -858,15 +849,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/44328055861681-a4eda3c2-d4d5-4ed8-a0aa-aa9189f9402d.jpg",
           "url": "https://link.coupang.com/a/fBOra3p1To",
           "_ts": 1784770006.407286
-        },
-        {
-          "name": "배홍동 비빔면 137g, 8개",
-          "price": "4,560원",
-          "discount_rate": 22,
-          "priceAt": "07.23 08:39",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/92f1/cb5eb542b089c18fe052a8b47a11c3b185d04b4f629febc9107211660a06.jpg",
-          "url": "https://link.coupang.com/a/fBGMD8QwQS",
-          "_ts": 1784763581.781098
         }
       ]
     }
