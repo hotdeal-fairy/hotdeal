@@ -150,6 +150,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "국내산 표고버섯, 중품, 1kg, 1개",
+          "price": "8,090원",
+          "discount_rate": 45,
+          "priceAt": "07.25 18:22",
+          "image": "https://shopping.toss.im/live/temp/2025-10-23/a90393d1-d752-4dc3-8e91-aae360a235bf.jpeg",
+          "url": "https://toss.im/_m/zwPWkxGo",
+          "_ts": 1784971349.57302
+        },
+        {
           "name": "위니즈 퓨전 프로쉴드 5중날 질레트 호환용 면도기날 세트, 면도기 1개 + 면도날 12개입",
           "price": "9,700원",
           "discount_rate": 72,
@@ -247,15 +256,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
           "url": "https://toss.im/_m/jDZgUhRv",
           "_ts": 1784890822.7438679
-        },
-        {
-          "name": "제이킨 피부괄사 3종, 전신괄사 + 문어괄사 + 하트괄사, 1세트",
-          "price": "6,150원",
-          "discount_rate": 58,
-          "priceAt": "07.24 18:21",
-          "image": "https://shopping.toss.im/live/temp/2025-10-10/570bcfb4-2e22-421c-be55-06690eebea69.jpeg",
-          "url": "https://toss.im/_m/vZvjPdLp",
-          "_ts": 1784884882.866094
         },
         {
           "name": "시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",
