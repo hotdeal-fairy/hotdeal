@@ -524,6 +524,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "삼성전자 갤럭시 링",
+          "price": "215,000원",
+          "discount_rate": null,
+          "priceAt": "07.25 13:05",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6235/f6b34ee4798c21c2a4c31d75486b609bb9b21f06c5c5a05ebb85059a5523.jpg",
+          "url": "https://link.coupang.com/a/fFjypeiSlg",
+          "_ts": 1784952303.896874
+        },
+        {
           "name": "풀무원 고단백 넛츠바사삭, 20g, 10개",
           "price": "9,500원",
           "discount_rate": 5,
