@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "올리타리아 유기농 엑스트라버진 올리브유, 500ml, 1개",
+          "price": "7,510원",
+          "discount_rate": 50,
+          "priceAt": "07.26 08:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/1649/7649ba8e7c7efc220108e05a284c21d12457220687d99314585d9db8c66f.jpg",
+          "url": "https://link.coupang.com/a/fGEkgw1yHQ",
+          "_ts": 1785021806.9261749
+        },
+        {
           "name": "푸마 남녀공용 시부이 뮬 샌들_SHIBUI MUL_39488301, 블랙 230",
           "price": "16,520원",
           "discount_rate": 43,
@@ -849,15 +858,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/92f1/cb5eb542b089c18fe052a8b47a11c3b185d04b4f629febc9107211660a06.jpg",
           "url": "https://link.coupang.com/a/fBGMD8QwQS",
           "_ts": 1784763581.781098
-        },
-        {
-          "name": "복음자리 캐치티니핑 당 줄인 딸기잼 490g*1개",
-          "price": "4,210원",
-          "discount_rate": 47,
-          "priceAt": "07.23 08:19",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/06/16/6/5625f81b-826d-4d50-abb6-80bbfec0e0e3.png",
-          "url": "https://link.coupang.com/a/fBFkN3A8Em",
-          "_ts": 1784762366.85612
         }
       ]
     }
