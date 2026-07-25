@@ -159,6 +159,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",
+          "price": "5,000원",
+          "discount_rate": 68,
+          "priceAt": "07.25 21:04",
+          "image": "https://shopping.toss.im/live/temp/2026-04-24/c7c3c65f-9b78-4306-87fa-7efa41be18db.jpeg",
+          "url": "https://toss.im/_m/Pp9GX8z3",
+          "_ts": 1784981043.150639
+        },
+        {
           "name": "미니 단호박 보우짱, 로얄과, 5kg, 1박스",
           "price": "13,600원",
           "discount_rate": 77,
@@ -274,16 +283,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-09/e57076fd-010b-40ca-9945-50f1c7759e58.jpeg",
           "url": "https://toss.im/_m/HmWSU9gi",
           "_ts": 1784895624.1120052
-        },
-        {
-          "name": "시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",
-          "price": "5,000원",
-          "discount_rate": 68,
-          "image": "https://shopping.toss.im/live/temp/2026-04-24/c7c3c65f-9b78-4306-87fa-7efa41be18db.jpeg",
-          "url": "https://toss.im/_m/Pp9GX8z3",
-          "_rank": 1,
-          "_product_id": "1536550523",
-          "_ts": 1784970121.017001
         },
         {
           "name": "라버비 허그코튼 초고농축 드라이시트, 120매, 2개",
