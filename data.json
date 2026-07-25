@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스포츠리서치 루테인 20mg + 제아잔틴 4mg 베지 소프트젤, 120정, 3개",
+          "price": "53,510원",
+          "discount_rate": 37,
+          "priceAt": "07.26 07:20",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/02b7/eadbcb8b4858b2bc192f24c65b1ef94ecfcabf78b6c9c9d567f5740ba6af.jpg",
+          "url": "https://link.coupang.com/a/fGzN4WnHR6",
+          "_ts": 1785018011.772821
+        },
+        {
           "name": "스카트 사계절 습기제거제 옷장 쏙 본품 25p, 750g, 1개",
           "price": "12,720원",
           "discount_rate": 25,
@@ -141,15 +150,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34194217288493-d597c29d-6730-4b89-b02a-7c2d9ee123ca.jpg",
           "url": "https://link.coupang.com/a/fEUT7S6qqq",
           "_ts": 1784931613.880733
-        },
-        {
-          "name": "청정원 쉐프의 치킨스톡, 465g, 1개",
-          "price": "4,930원",
-          "discount_rate": 30,
-          "priceAt": "07.25 07:17",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/17/15/8/4726d722-2f24-4caa-a87f-e628342f4e97.jpg",
-          "url": "https://link.coupang.com/a/fEUJyBtXVc",
-          "_ts": 1784931472.768031
         }
       ]
     },
@@ -856,15 +856,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/467c/d98f87655151e0ff230c6f6fdbb2d3603a41ac0b34dce5c139376ce8c971.jpg",
           "url": "https://link.coupang.com/a/fBBfKXDhwO",
           "_ts": 1784758937.6918762
-        },
-        {
-          "name": "어메이징오트 오리지널 혼합음료, 190ml, 24개",
-          "price": "10,650원",
-          "discount_rate": 24,
-          "priceAt": "07.23 07:20",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/45983795250057-cb29f47a-3237-4d43-81b3-d4c277d1a48f.jpg",
-          "url": "https://link.coupang.com/a/fBA55qwCPY",
-          "_ts": 1784758806.986947
         }
       ]
     }
