@@ -123,15 +123,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1768637619414256-a4be401b-4f18-468c-9c2d-0b525c0e82cd.jpg",
           "url": "https://link.coupang.com/a/fD4bR9toWq",
           "_ts": 1784887353.862119
-        },
-        {
-          "name": "뷰카 클래식 딥 퍼퓸 골드 리페어 탈모 샴푸 화이트머스크향, 1.05L, 2개",
-          "price": "11,340원",
-          "discount_rate": 43,
-          "priceAt": "07.24 15:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/f40a/e4f5d5ede956fb7714b0e0d2367c4e3f04382c8b28f3d2ac1d8712e6e7af.jpg",
-          "url": "https://link.coupang.com/a/fDP56VxC9s",
-          "_ts": 1784875520.319995
         }
       ]
     },
@@ -505,6 +496,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "푸마바디웨어 남녀공용 퀵드라이 멀티 이지웨어 상하의 세트",
+          "price": "13,410원",
+          "discount_rate": null,
+          "priceAt": "07.25 16:50",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/77384518576783-4c253eb9-7509-4321-a56c-d26749294e42.jpg",
+          "url": "https://link.coupang.com/a/fFzG8WI6HQ",
+          "_ts": 1784965855.4991832
+        },
         {
           "name": "삼성전자 갤럭시 링",
           "price": "215,000원",
@@ -891,24 +891,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/1qabcbar/1823f1871ee4484f86f774b1bd0575c0.jpg",
           "url": "https://link.coupang.com/a/fAJsz1Je1c",
           "_ts": 1784713773.618064
-        },
-        {
-          "name": "비오비타 배배 유산균 60p, 90g, 1개",
-          "price": "17,760원",
-          "discount_rate": 15,
-          "priceAt": "07.22 15:40",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/461496918171181-61c19b93-390a-4656-a96d-bdabb4f10e2a.jpg",
-          "url": "https://link.coupang.com/a/fAvYIGOFae",
-          "_ts": 1784702453.241816
-        },
-        {
-          "name": "굿밸류 디스플레이 C타입-C타입 PD 100W 초고속 충전케이블 2m*블랙*1개",
-          "price": "4,480원",
-          "discount_rate": 25,
-          "priceAt": "07.22 15:18",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/06/27/14/6/8703a61d-2a84-4f7b-9123-8105b79a7391.png",
-          "url": "https://link.coupang.com/a/fAuobhim60",
-          "_ts": 1784701118.326708
         }
       ]
     }
