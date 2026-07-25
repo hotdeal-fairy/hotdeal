@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스카트 사계절 습기제거제 옷장 쏙 본품 25p, 750g, 1개",
+          "price": "12,720원",
+          "discount_rate": 25,
+          "priceAt": "07.26 07:12",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6bd6/d8f8cac537ff43fa11ba3b4c1306f9ac28a8c10c10da266127effb49b7ae.jpg",
+          "url": "https://link.coupang.com/a/fGzdR8qCES",
+          "_ts": 1785017521.227593
+        },
+        {
           "name": "웅진빅토리아 더 빅토리아 레몬, 500ml, 20개",
           "price": "8,730원",
           "discount_rate": 56,
@@ -141,15 +150,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/17/15/8/4726d722-2f24-4caa-a87f-e628342f4e97.jpg",
           "url": "https://link.coupang.com/a/fEUJyBtXVc",
           "_ts": 1784931472.768031
-        },
-        {
-          "name": "클룹 애사비소다 오리지널 제로, 250ml, 24개",
-          "price": "12,530원",
-          "discount_rate": 26,
-          "priceAt": "07.25 07:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/24599234155900-6a7bf1be-daaf-432d-aa63-4f375a18225f.png",
-          "url": "https://link.coupang.com/a/fEUgZ3AYsC",
-          "_ts": 1784931083.531222
         }
       ]
     },
@@ -865,15 +865,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/45983795250057-cb29f47a-3237-4d43-81b3-d4c277d1a48f.jpg",
           "url": "https://link.coupang.com/a/fBA55qwCPY",
           "_ts": 1784758806.986947
-        },
-        {
-          "name": "웅진빅토리아 더 빅토리아 플레인 탄산수, 500ml, 20개",
-          "price": "8,920원",
-          "discount_rate": 55,
-          "priceAt": "07.23 07:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/e549/f08adff32d07619eec4befc1e1f81d88ebceaa5a57ceec7b20577963ffa9.jpg",
-          "url": "https://link.coupang.com/a/fBAu78KeFU",
-          "_ts": 1784758306.371897
         }
       ]
     }
