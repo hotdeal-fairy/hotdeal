@@ -265,27 +265,7 @@
           "url": "https://toss.im/_m/3ufOIpDz",
           "_rank": 1,
           "_product_id": "106741127",
-          "_ts": 1784988112.16197
-        },
-        {
-          "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
-          "price": "6,500원",
-          "discount_rate": 60,
-          "image": "https://shopping.toss.im/live/temp/2026-07-20/fcf09a1c-3d4e-4e2a-93fb-23b126be49b1.png",
-          "url": "https://toss.im/_m/jDZgUhRv",
-          "_rank": 4,
-          "_product_id": "8834733",
-          "_ts": 1784988112.16197
-        },
-        {
-          "name": "라버비 허그코튼 초고농축 드라이시트, 120매, 2개",
-          "price": "6,900원",
-          "discount_rate": 91,
-          "image": "https://shopping.toss.im/live/temp/2026-02-03/cda6a953-de9c-4f7e-a6dc-5e616092971c.png",
-          "url": "https://toss.im/_m/7KdZUUC3",
-          "_rank": 5,
-          "_product_id": "803146745",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
         },
         {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
@@ -293,19 +273,9 @@
           "discount_rate": 67,
           "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
           "url": "https://toss.im/_m/DiFTIObn",
-          "_rank": 6,
+          "_rank": 2,
           "_product_id": "10143179",
-          "_ts": 1784988112.16197
-        },
-        {
-          "name": "한예지 가든 플라워 롤 화장지, 3겹, 30m, 30롤, 2팩",
-          "price": "11,900원",
-          "discount_rate": 68,
-          "image": "https://shopping.toss.im/live/temp/2025-12-02/5e5f2029-7f7c-4511-bbc1-606a56a117b1.jpeg",
-          "url": "https://toss.im/_m/lqS07rCp",
-          "_rank": 7,
-          "_product_id": "379824037",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
         },
         {
           "name": "고궁 통참깨 참기름, 350ml, 3개",
@@ -313,9 +283,9 @@
           "discount_rate": 78,
           "image": "https://shopping.toss.im/live/temp/2026-07-10/0fc37972-1722-4e92-b1ba-fe3fa0feb826.png",
           "url": "https://toss.im/_m/HMHKpPzj",
-          "_rank": 8,
+          "_rank": 3,
           "_product_id": "383195203",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
         },
         {
           "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 실내건조형, 200개입, 1개",
@@ -323,19 +293,9 @@
           "discount_rate": 71,
           "image": "https://shopping.toss.im/live/temp/2025-05-14/52c78bea-ea6e-40df-92a3-fca69d1d7141.jpeg",
           "url": "https://toss.im/_m/1JGAXtnt",
-          "_rank": 9,
+          "_rank": 4,
           "_product_id": "102193743",
-          "_ts": 1784988112.16197
-        },
-        {
-          "name": "김설희 고기손만두, 420g, 2봉 + 김치손만두, 420g, 2봉",
-          "price": "9,000원",
-          "discount_rate": 77,
-          "image": "https://shopping.toss.im/live/temp/2025-02-18/632cecbf-58fa-4fe3-aeef-3a9dadea44ec.jpeg",
-          "url": "https://toss.im/_m/PRXt0FCd",
-          "_rank": 10,
-          "_product_id": "2373707067",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
         },
         {
           "name": "올리 베이비파우더 섬유유연제, 2.5L, 4개입, 1개",
@@ -343,9 +303,9 @@
           "discount_rate": 76,
           "image": "https://shopping.toss.im/live/temp/2025-04-17/fcba031e-d0e3-4311-b191-f52454e04fc4.jpeg",
           "url": "https://toss.im/_m/nIREINot",
-          "_rank": 11,
+          "_rank": 5,
           "_product_id": "91825929",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
         },
         {
           "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
@@ -353,19 +313,9 @@
           "discount_rate": 73,
           "image": "https://shopping.toss.im/live/temp/2026-07-14/26d21fa5-b884-434a-9fe8-f571cd72703e.jpeg",
           "url": "https://toss.im/_m/NR8WRrkx",
-          "_rank": 12,
+          "_rank": 6,
           "_product_id": "110224187",
-          "_ts": 1784988112.16197
-        },
-        {
-          "name": "랜선식당 연탄불고기, 250g, 4개",
-          "price": "8,300원",
-          "discount_rate": 79,
-          "image": "https://shopping.toss.im/live/temp/2026-07-02/f2753853-f811-4687-b2dc-774c7be576fc.jpeg",
-          "url": "https://toss.im/_m/zaKyWLHn",
-          "_rank": 13,
-          "_product_id": "2278446229",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
         },
         {
           "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
@@ -373,9 +323,19 @@
           "discount_rate": 67,
           "image": "https://shopping.toss.im/live/temp/2026-07-01/cbcba31d-9c3d-4336-b01c-da1112ebe230.jpeg",
           "url": "https://toss.im/_m/JSoQFq7g",
-          "_rank": 14,
+          "_rank": 7,
           "_product_id": "2334877747",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
+        },
+        {
+          "name": "랜선식당 연탄불고기, 250g, 4개",
+          "price": "8,300원",
+          "discount_rate": 79,
+          "image": "https://shopping.toss.im/live/temp/2026-07-02/f2753853-f811-4687-b2dc-774c7be576fc.jpeg",
+          "url": "https://toss.im/_m/zaKyWLHn",
+          "_rank": 8,
+          "_product_id": "2278446229",
+          "_ts": 1785020490.298584
         },
         {
           "name": "듀오덤 밴드, 혼합형, 8매입, 1개",
@@ -383,19 +343,9 @@
           "discount_rate": 70,
           "image": "https://shopping.toss.im/live/temp/2025-05-26/61cf7eec-937b-400d-840f-e953c3e3bb10.jpeg",
           "url": "https://toss.im/_m/lSGsYvVz",
-          "_rank": 15,
+          "_rank": 9,
           "_product_id": "106565105",
-          "_ts": 1784988112.16197
-        },
-        {
-          "name": "일양약품 눈건강 루테인 골드, 500mg, 30캡슐, 6박스",
-          "price": "10,800원",
-          "discount_rate": 96,
-          "image": "https://shopping.toss.im/live/temp/2025-04-17/eb14e497-d99c-44b1-b6cf-828c7d796914.jpeg",
-          "url": "https://toss.im/_m/pJg81Wmo",
-          "_rank": 16,
-          "_product_id": "7707001",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
         },
         {
           "name": "퓨어스트 라이트 초순수 플레인 아기물티슈 캡형, 100매, 10팩",
@@ -403,9 +353,19 @@
           "discount_rate": 60,
           "image": "https://shopping.toss.im/live/temp/2026-01-16/e7778601-d6a5-4390-ba58-4e286b0ced0e.jpeg",
           "url": "https://toss.im/_m/ZhKS6rh3",
-          "_rank": 17,
+          "_rank": 10,
           "_product_id": "651373711",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
+        },
+        {
+          "name": "일양약품 눈건강 루테인 골드, 500mg, 30캡슐, 6박스",
+          "price": "10,800원",
+          "discount_rate": 96,
+          "image": "https://shopping.toss.im/live/temp/2025-04-17/eb14e497-d99c-44b1-b6cf-828c7d796914.jpeg",
+          "url": "https://toss.im/_m/pJg81Wmo",
+          "_rank": 11,
+          "_product_id": "7707001",
+          "_ts": 1785020490.298584
         },
         {
           "name": "네이처바이 알로에 에센스 마스크팩, 100개입, 1세트",
@@ -413,9 +373,9 @@
           "discount_rate": 80,
           "image": "https://shopping.toss.im/live/temp/2026-01-02/387be3ab-6425-4464-8b70-d7431389b44c.jpeg",
           "url": "https://toss.im/_m/LwBk8am8",
-          "_rank": 18,
+          "_rank": 12,
           "_product_id": "525669803",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
         },
         {
           "name": "세척사과, 최대15brix, 마트납품용, 꿀사과, 3kg, 1박스",
@@ -423,9 +383,19 @@
           "discount_rate": 75,
           "image": "https://shopping.toss.im/live/temp/2026-06-10/60d9ae23-f103-497f-8dbc-6ed8f947dced.png",
           "url": "https://toss.im/_m/hkInSJ1r",
-          "_rank": 20,
+          "_rank": 13,
           "_product_id": "2226153335",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
+        },
+        {
+          "name": "자이글 파티쿠커 골든 우드 에디션, 1개",
+          "price": "24,900원",
+          "discount_rate": 77,
+          "image": "https://shopping.toss.im/live/product/5449449/4443d2b2-eccb-4489-99df-fd4d06f7b467.jpeg",
+          "url": "https://toss.im/_m/dt1G0mC4",
+          "_rank": 14,
+          "_product_id": "24784219",
+          "_ts": 1785020490.298584
         },
         {
           "name": "20년 명인김치 전라도식 배추김치, 10kg, 1박스",
@@ -433,49 +403,19 @@
           "discount_rate": 56,
           "image": "https://shopping.toss.im/live/temp/2026-03-24/b9d5ca99-a9e2-4ed7-a724-dd429afc55fb.jpeg",
           "url": "https://toss.im/_m/biYyKSO",
-          "_rank": 21,
+          "_rank": 15,
           "_product_id": "748235733",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
         },
         {
-          "name": "원물곳간 국내산 씨없는 햇거봉, 1kg, 1박스",
-          "price": "13,900원",
-          "discount_rate": 28,
-          "image": "https://shopping.toss.im/live/temp/2026-07-13/785b73fa-4808-42e1-9316-ef331b2b34ed.png",
-          "url": "https://toss.im/_m/1dZ90POk",
-          "_rank": 22,
-          "_product_id": "2473621323",
-          "_ts": 1784988112.16197
-        },
-        {
-          "name": "앙쥬 프로페셔널 24K 골드 스킨케어 남성 2종 선물세트, 1세트",
-          "price": "19,900원",
-          "discount_rate": 93,
-          "image": "https://shopping.toss.im/live/temp/2025-02-12/11540cf0-deb0-411f-8fc3-3b40caaf45f4.jpeg",
-          "url": "https://toss.im/_m/FPs3COEp",
-          "_rank": 23,
-          "_product_id": "80517559",
-          "_ts": 1784988112.16197
-        },
-        {
-          "name": "리퀴드 고농축 라벤더 세탁세제, 2.5L, 4개",
-          "price": "8,900원",
-          "discount_rate": 50,
-          "image": "https://shopping.toss.im/live/temp/2026-03-07/24519ddb-8968-4c30-a060-82f45f764398.jpeg",
-          "url": "https://toss.im/_m/f3BhNiNy",
-          "_rank": 25,
-          "_product_id": "1141343649",
-          "_ts": 1784988112.16197
-        },
-        {
-          "name": "르베르다 천연 비누, 25g, 1개",
-          "price": "1,000원",
-          "discount_rate": 83,
-          "image": "https://shopping.toss.im/live/temp/2026-05-12/c4604a37-60ce-4c5e-9e85-bf41e90ef368.jpeg",
-          "url": "https://toss.im/_m/ZlRsOGH8",
-          "_rank": 26,
-          "_product_id": "1961550371",
-          "_ts": 1784988112.16197
+          "name": "아몬드 브리즈 제로슈가, 초콜릿, 190ml, 24팩",
+          "price": "17,600원",
+          "discount_rate": 51,
+          "image": "https://shopping.toss.im/live/temp/2026-04-24/c5b5cc96-ec7e-43ec-a418-58142643221b.jpeg",
+          "url": "https://toss.im/_m/3wOXOMsy",
+          "_rank": 16,
+          "_product_id": "15575",
+          "_ts": 1785020490.298584
         },
         {
           "name": "숨 키친타올, 100매, 3겹, 9팩",
@@ -483,29 +423,49 @@
           "discount_rate": 46,
           "image": "https://shopping.toss.im/live/temp/2026-01-14/b749ba24-7b4b-4620-809c-0e0cdfd14889.jpeg",
           "url": "https://toss.im/_m/jjTk2M1l",
-          "_rank": 27,
+          "_rank": 17,
           "_product_id": "560200405",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
         },
         {
-          "name": "전라도 전통 여린 열무김치, 3kg, 1박스",
+          "name": "원물곳간 국내산 씨없는 햇거봉, 1kg, 1박스",
           "price": "13,900원",
-          "discount_rate": 61,
-          "image": "https://shopping.toss.im/live/temp/2025-03-25/3cc12cdf-a71c-46c1-be29-caeec7b9fa2b.jpeg",
-          "url": "https://toss.im/_m/pKAO8Cir",
-          "_rank": 28,
-          "_product_id": "86166697",
-          "_ts": 1784988112.16197
+          "discount_rate": 28,
+          "image": "https://shopping.toss.im/live/temp/2026-07-13/785b73fa-4808-42e1-9316-ef331b2b34ed.png",
+          "url": "https://toss.im/_m/1dZ90POk",
+          "_rank": 18,
+          "_product_id": "2473621323",
+          "_ts": 1785020490.298584
         },
         {
-          "name": "군산 메밀 소바 간장, 7인분, 175g, 1개",
-          "price": "9,900원",
+          "name": "황금비율 진미채견과볶음, 500g, 1팩",
+          "price": "11,900원",
+          "discount_rate": 33,
+          "image": "https://shopping.toss.im/live/temp/2025-05-19/5f66c469-d3df-4604-adeb-9805e4d3f9c4.jpeg",
+          "url": "https://toss.im/_m/Bfzjabvn",
+          "_rank": 19,
+          "_product_id": "104470241",
+          "_ts": 1785020490.298584
+        },
+        {
+          "name": "리퀴드 고농축 라벤더 세탁세제, 2.5L, 4개",
+          "price": "8,900원",
           "discount_rate": 50,
-          "image": "https://shopping.toss.im/live/temp/2025-06-26/55179a52-d038-4b09-9a7f-6918a1daf6a9.jpeg",
-          "url": "https://toss.im/_m/Rz4gG8mx",
-          "_rank": 29,
-          "_product_id": "129416525",
-          "_ts": 1784988112.16197
+          "image": "https://shopping.toss.im/live/temp/2026-03-07/24519ddb-8968-4c30-a060-82f45f764398.jpeg",
+          "url": "https://toss.im/_m/f3BhNiNy",
+          "_rank": 20,
+          "_product_id": "1141343649",
+          "_ts": 1785020490.298584
+        },
+        {
+          "name": "프로프루 성주 꿀참외, 가정용, 10kg, 1박스",
+          "price": "14,900원",
+          "discount_rate": 81,
+          "image": "https://shopping.toss.im/live/temp/2026-06-11/5fbd465a-2615-400a-8da7-6e46bfa944e1.jpeg",
+          "url": "https://toss.im/_m/JIishLNp",
+          "_rank": 21,
+          "_product_id": "2235106841",
+          "_ts": 1785020490.298584
         },
         {
           "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
@@ -513,9 +473,69 @@
           "discount_rate": 55,
           "image": "https://shopping.toss.im/live/temp/2026-06-09/3d168097-a6da-4f99-9e12-5b8d3121e04e.jpeg",
           "url": "https://toss.im/_m/dU2qAudq",
-          "_rank": 30,
+          "_rank": 22,
           "_product_id": "13017669",
-          "_ts": 1784988112.16197
+          "_ts": 1785020490.298584
+        },
+        {
+          "name": "발이 편한 카바 밴딩 중목 양말, 화이트, 10켤레",
+          "price": "5,900원",
+          "discount_rate": 70,
+          "image": "https://shopping.toss.im/live/temp/2026-02-24/b91e2bc4-f6c4-4704-b361-0c6af4e53b42.jpeg",
+          "url": "https://toss.im/_m/niEqGYmr",
+          "_rank": 23,
+          "_product_id": "2264708383",
+          "_ts": 1785020490.298584
+        },
+        {
+          "name": "나뭇잎 물빠짐 비누 받침대, 민트, 2개",
+          "price": "3,861원",
+          "discount_rate": 61,
+          "image": "https://shopping.toss.im/live/temp/2026-07-06/abf2518c-928c-4083-b2f6-800b25f153fa.jpeg",
+          "url": "https://toss.im/_m/Ldyyrttj",
+          "_rank": 24,
+          "_product_id": "2424510281",
+          "_ts": 1785020490.298584
+        },
+        {
+          "name": "모리나가 핫케익 믹스, 150g, 2개입, 1개",
+          "price": "3,860원",
+          "discount_rate": 44,
+          "image": "https://shopping.toss.im/live/temp/2025-08-26/0adf2f6b-35c7-4daf-8b67-75adf33d0678.jpeg",
+          "url": "https://toss.im/_m/NguNh7Yq",
+          "_rank": 26,
+          "_product_id": "172166585",
+          "_ts": 1785020490.298584
+        },
+        {
+          "name": "CJ제일제당 쇠고기 진한다시, 1kg, 1개",
+          "price": "8,900원",
+          "discount_rate": 40,
+          "image": "https://shopping.toss.im/live/temp/2026-04-30/ee13890b-6fbb-4866-a305-c565d4f82212.jpeg",
+          "url": "https://toss.im/_m/Xkd6eqK",
+          "_rank": 28,
+          "_product_id": "1779068295",
+          "_ts": 1785020490.298584
+        },
+        {
+          "name": "프리미엄 엠머 파로 효소, 3g, 14포, 4box",
+          "price": "10,900원",
+          "discount_rate": 92,
+          "image": "https://shopping.toss.im/live/temp/2025-06-19/9767d7b6-44dc-4f43-a8c6-86c4ef4d0050.jpeg",
+          "url": "https://toss.im/_m/RjqcQUf3",
+          "_rank": 29,
+          "_product_id": "150635899",
+          "_ts": 1785020490.298584
+        },
+        {
+          "name": "자연담은 꿀폭탄 백도복숭아, 극가성비, 2kg, 14-17과, 1박스",
+          "price": "14,900원",
+          "discount_rate": 68,
+          "image": "https://shopping.toss.im/live/temp/2026-06-21/7a476f84-6345-4abf-a688-9b459f243f40.png",
+          "url": "https://toss.im/_m/ZhASvi07",
+          "_rank": 30,
+          "_product_id": "2302894135",
+          "_ts": 1785020490.298584
         }
       ]
     },
