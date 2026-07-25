@@ -150,6 +150,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "백도 딱딱이 복숭아, 4kg, 1박스, 산지직송",
+          "price": "16,900원",
+          "discount_rate": 73,
+          "priceAt": "07.25 11:47",
+          "image": "https://shopping.toss.im/live/temp/2026-06-25/a86ceb18-541d-4430-abae-73a4f91fd289.png",
+          "url": "https://toss.im/_m/3zVHrrzo",
+          "_ts": 1784947642.372054
+        },
+        {
           "name": "모나리자 스마트 다용도 키친타올, 250매, 12롤, 1팩",
           "price": "6,900원",
           "discount_rate": 71,
@@ -436,16 +445,6 @@
           "url": "https://toss.im/_m/vNp9CLLa",
           "_rank": 22,
           "_product_id": "7744685",
-          "_ts": 1784901737.26208
-        },
-        {
-          "name": "백도 딱딱이 복숭아, 4kg, 1박스, 산지직송",
-          "price": "16,900원",
-          "discount_rate": 73,
-          "image": "https://shopping.toss.im/live/temp/2026-06-25/a86ceb18-541d-4430-abae-73a4f91fd289.png",
-          "url": "https://toss.im/_m/3zVHrrzo",
-          "_rank": 23,
-          "_product_id": "2367859175",
           "_ts": 1784901737.26208
         },
         {
