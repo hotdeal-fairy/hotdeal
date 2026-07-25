@@ -141,15 +141,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/960127909021242-4e4fecbc-3918-4101-9afc-9cd0b37b857b.png",
           "url": "https://link.coupang.com/a/fEZ6PGJfm8",
           "_ts": 1784935986.759257
-        },
-        {
-          "name": "엠앤엠즈 밀크 픽앤믹스 초콜릿, 337.5g, 1개",
-          "price": "7,700원",
-          "discount_rate": 52,
-          "priceAt": "07.25 07:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/0ebd/baa69dcd5dc1731003c7f1ecdfabc812f3d5e8525f76ae52d382d3783158.jpg",
-          "url": "https://link.coupang.com/a/fEVMe6Pa2u",
-          "_ts": 1784932347.649798
         }
       ]
     },
@@ -534,6 +525,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "피지오겔 데일리 모이스쳐 테라피 페이셜 크림, 75ml, 1개",
+          "price": "9,850원",
+          "discount_rate": 18,
+          "priceAt": "07.26 07:45",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/159640203347477-301e72d8-72b6-4e5d-a684-f802a5852491.jpg",
+          "url": "https://link.coupang.com/a/fGBArrkzee",
+          "_ts": 1785019500.806955
+        },
+        {
           "name": "사무실 과자세트스낵비스킷쿠키 12입세트 (초코파이 + 포카칩 오리지날 + 허니버터칩 + 칸쵸 + 카라멜콘과땅",
           "price": "14,690원",
           "discount_rate": 57,
@@ -838,33 +838,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/06/16/6/5625f81b-826d-4d50-abb6-80bbfec0e0e3.png",
           "url": "https://link.coupang.com/a/fBFkN3A8Em",
           "_ts": 1784762366.85612
-        },
-        {
-          "name": "풀무원 아임뽀끼 오리지널 떡볶이, 102g, 3개",
-          "price": "3,800원",
-          "discount_rate": 24,
-          "priceAt": "07.23 07:44",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1011511179619479-df7dfad9-1b8a-4b26-aede-40682eb5e9c8.jpg",
-          "url": "https://link.coupang.com/a/fBCR3R2D8K",
-          "_ts": 1784760297.8684218
-        },
-        {
-          "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미 8개입*1개",
-          "price": "5,990원",
-          "discount_rate": 33,
-          "priceAt": "07.23 07:36",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/374857959409947-07e13cd2-bf10-4480-81b1-e7c748917fa7.jpg",
-          "url": "https://link.coupang.com/a/fBChHjIH7s",
-          "_ts": 1784759804.076591
-        },
-        {
-          "name": "바이탈프로그램 비타민C 1000mg, 200정, 1개",
-          "price": "9,560원",
-          "discount_rate": 20,
-          "priceAt": "07.23 07:30",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/989605916623240-02949ac5-8ff6-4a47-a3fa-b7b82f0eba07.jpg",
-          "url": "https://link.coupang.com/a/fBBP4ifsWa",
-          "_ts": 1784759431.070677
         }
       ]
     }
