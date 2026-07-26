@@ -186,6 +186,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "이롬 국산콩 검은콩두유, 190ml, 20개",
+          "price": "7,900원",
+          "discount_rate": 62,
+          "priceAt": "07.26 18:20",
+          "image": "https://shopping.toss.im/live/temp/2026-06-16/3d53c7ac-0d1b-4670-8bb0-4e323b98dc9b.png",
+          "url": "https://toss.im/_m/BomB2yq9",
+          "_ts": 1785057633.996496
+        },
+        {
           "name": "냉감 얼음 아이스 넥쿨러 등산 골프 낚시 쿨스카프, 블루, 100cm, 2개",
           "price": "5,900원",
           "discount_rate": 59,
@@ -283,15 +292,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-10-23/a90393d1-d752-4dc3-8e91-aae360a235bf.jpeg",
           "url": "https://toss.im/_m/zwPWkxGo",
           "_ts": 1784971349.57302
-        },
-        {
-          "name": "위니즈 퓨전 프로쉴드 5중날 질레트 호환용 면도기날 세트, 면도기 1개 + 면도날 12개입",
-          "price": "9,700원",
-          "discount_rate": 72,
-          "priceAt": "07.25 18:20",
-          "image": "https://shopping.toss.im/live/temp/2026-04-22/589facef-a0b7-4a6e-9be2-d3fb35e95c38.jpeg",
-          "url": "https://toss.im/_m/n1Nb8Dj2",
-          "_ts": 1784971232.373138
         },
         {
           "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
