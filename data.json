@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "올리브오일 캡슐 3 록담 지중해 올리브 90캡슐",
+          "price": "9,900원",
+          "discount_rate": 75,
+          "priceAt": "07.26 12:36",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cecf/67290a8a349befdcbecfc451aca57e64efb013f09d02a82655cdc007560f.png",
+          "url": "https://link.coupang.com/a/fGWql7ZD08",
+          "_ts": 1785037000.6554408
+        },
+        {
           "name": "슈가로로 애사비 스파클링 사과 350ml*24개",
           "price": "15,530원",
           "discount_rate": 29,
@@ -159,15 +168,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/61518564882676-e3b8e69d-310a-4635-9738-f5813fab386e.jpg",
           "url": "https://link.coupang.com/a/fFsTAuZhjo",
           "_ts": 1784960155.833463
-        },
-        {
-          "name": "루나 컨실 블렌더 팔레트 6g, 1개, 1호 클리어 커버 1호 클리어 커버*1개",
-          "price": "5,040원",
-          "discount_rate": 50,
-          "priceAt": "07.25 12:10",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6670/3d8ee713d18a2bc6d3e152f44a63c468977e4ba649e89eea2ca6fba4fe4b.jpg",
-          "url": "https://link.coupang.com/a/fFfEDlMoO4",
-          "_ts": 1784949032.53904
         }
       ]
     },
@@ -283,15 +283,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-03/2f1650ea-252b-4a0b-baee-b1b83450de34.png",
           "url": "https://toss.im/_m/h6GwWRh3",
           "_ts": 1784959226.059071
-        },
-        {
-          "name": "백도 딱딱이 복숭아, 4kg, 1박스, 산지직송",
-          "price": "16,900원",
-          "discount_rate": 73,
-          "priceAt": "07.25 11:47",
-          "image": "https://shopping.toss.im/live/temp/2026-06-25/a86ceb18-541d-4430-abae-73a4f91fd289.png",
-          "url": "https://toss.im/_m/3zVHrrzo",
-          "_ts": 1784947642.372054
         },
         {
           "name": "할리스 시그니처 아메리카노, 550ml, 12개",
