@@ -177,24 +177,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9d52/f8f92890331749f80e3aa5d63ab041336ec1a954f94ba27476e32a3c42e4.jpg",
           "url": "https://link.coupang.com/a/fGyLC2HBwO",
           "_ts": 1785017138.1417239
-        },
-        {
-          "name": "2080 퓨어 핑크마운틴 펌프 치약, 325g, 2개",
-          "price": "7,180원",
-          "discount_rate": 28,
-          "priceAt": "07.25 20:34",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4f10/211d1fb4a9a0442720187af2d1f3311d2072efb55d58819cbf05c921c499.jpg",
-          "url": "https://link.coupang.com/a/fFPFAT06CG",
-          "_ts": 1784979272.279191
-        },
-        {
-          "name": "건강하닭 천하장사 더 불닭 소시지, 448g, 3개",
-          "price": "10,180원",
-          "discount_rate": 35,
-          "priceAt": "07.25 19:12",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3cde312e-59a4-4e97-a6c9-e91919d5e05c3583204030039067460.png",
-          "url": "https://link.coupang.com/a/fFJLPQ9Kay",
-          "_ts": 1784974323.932241
         }
       ]
     },
@@ -203,6 +185,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "남다른농수산 여수 돌산 갓김치, 1kg, 1개",
+          "price": "5,800원",
+          "discount_rate": 67,
+          "priceAt": "07.26 21:00",
+          "image": "https://shopping.toss.im/live/temp/2024-06-25/1a33fb8f-750a-44b3-ada4-941e9d7bc81b.jpeg",
+          "url": "https://toss.im/_m/xA4dmunn",
+          "_ts": 1785067230.1945522
+        },
         {
           "name": "탱글한 야채핫바, 400g, 1팩 + 문어핫바, 400g, 1팩, 2팩",
           "price": "9,700원",
@@ -301,15 +292,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-11/6d42b87d-9a0f-474f-ac71-af08e1b3be58.jpeg",
           "url": "https://toss.im/_m/DlhySLKf",
           "_ts": 1784980946.648084
-        },
-        {
-          "name": "여성 트레이닝 투피스 세트, 그레이, FREE, 1개",
-          "price": "9,900원",
-          "discount_rate": 69,
-          "priceAt": "07.25 21:00",
-          "image": "https://shopping.toss.im/live/temp/2026-05-19/5b4ccff7-3046-4b18-85a2-283eed191654.jpeg",
-          "url": "https://toss.im/_m/rUEfJa07",
-          "_ts": 1784980828.462214
         },
         {
           "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
