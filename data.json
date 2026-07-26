@@ -589,6 +589,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "켈로그 리얼 그래놀라 오리지널 시리얼, 350g, 2개",
+          "price": "8,000원",
+          "discount_rate": 20,
+          "priceAt": "07.26 15:04",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/af6c0f24-425a-4c1c-8da9-92dd58ad77e32436689588528501051.png",
+          "url": "https://link.coupang.com/a/fG6YzGub2O",
+          "_ts": 1785045859.428677
+        },
+        {
           "name": "가농 구운맛 단백이, 20구, 1.28kg 1개",
           "price": "13,780원",
           "discount_rate": 19,
