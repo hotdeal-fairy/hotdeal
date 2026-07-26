@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "피지오겔 데일리 모이스쳐 테라피 페이셜 크림, 75ml, 1개",
+          "price": "9,850원",
+          "discount_rate": 18,
+          "priceAt": "07.26 10:33",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/159640203347477-301e72d8-72b6-4e5d-a684-f802a5852491.jpg",
+          "url": "https://link.coupang.com/a/fGBArrkzee",
+          "_ts": 1785029592.588464
+        },
+        {
           "name": "하인즈 허니 머스타드, 150g [2개]",
           "price": "2,180원",
           "discount_rate": 44,
@@ -141,15 +150,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6670/3d8ee713d18a2bc6d3e152f44a63c468977e4ba649e89eea2ca6fba4fe4b.jpg",
           "url": "https://link.coupang.com/a/fFfEDlMoO4",
           "_ts": 1784949032.53904
-        },
-        {
-          "name": "다향 무항생제 인증 우리땅 오리 다리살 슬라이스 (냉장), 500g, 2개",
-          "price": "11,370원",
-          "discount_rate": 43,
-          "priceAt": "07.25 09:55",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1704483599186658-f4178678-cc03-4d77-86b1-22dcc06017bd.jpg",
-          "url": "https://link.coupang.com/a/fE51eSYIy4",
-          "_ts": 1784940943.470457
         }
       ]
     },
@@ -563,15 +563,6 @@
           "_ts": 1785024230.432724
         },
         {
-          "name": "피지오겔 데일리 모이스쳐 테라피 페이셜 크림, 75ml, 1개",
-          "price": "9,850원",
-          "discount_rate": 18,
-          "priceAt": "07.26 07:45",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/159640203347477-301e72d8-72b6-4e5d-a684-f802a5852491.jpg",
-          "url": "https://link.coupang.com/a/fGBArrkzee",
-          "_ts": 1785019500.806955
-        },
-        {
           "name": "사무실 과자세트스낵비스킷쿠키 12입세트 (초코파이 + 포카칩 오리지날 + 허니버터칩 + 칸쵸 + 카라멜콘과땅",
           "price": "14,690원",
           "discount_rate": 57,
@@ -849,15 +840,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242262245684442-43dfbf94-932c-42d4-9f76-b806d96bfd2c.jpg",
           "url": "https://link.coupang.com/a/fB1YUCpzu8",
           "_ts": 1784781381.981045
-        },
-        {
-          "name": "못말리는신짱, 73g, 10개",
-          "price": "6,400원",
-          "discount_rate": 20,
-          "priceAt": "07.23 10:26",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/44328055861681-a4eda3c2-d4d5-4ed8-a0aa-aa9189f9402d.jpg",
-          "url": "https://link.coupang.com/a/fBOra3p1To",
-          "_ts": 1784770006.407286
         }
       ]
     }
