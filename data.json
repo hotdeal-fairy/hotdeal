@@ -581,6 +581,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "궁중비책 프리뮨 레드 수딩 세럼 150ml*1개",
+          "price": "7,560원",
+          "discount_rate": 56,
+          "priceAt": "07.26 14:27",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8e91/9a573b2e4b3fee5043b35521b27e9769a505b651b71bc69311e8e0809fb9.jpg",
+          "url": "https://link.coupang.com/a/fG4mak5IR3",
+          "_ts": 1785043658.55522
+        },
+        {
           "name": "가농 구운맛 단백이, 20구, 1.28kg 1개",
           "price": "13,780원",
           "discount_rate": 19,
@@ -867,15 +876,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/bba3f986-3fd0-4d38-9864-de588fef9a8c11430366826896611153.png",
           "url": "https://link.coupang.com/a/fB6Bbtcoai",
           "_ts": 1784785254.633467
-        },
-        {
-          "name": "테이크핏 맥스 초코맛 프로틴, 250ml, 24개",
-          "price": "26,500원",
-          "discount_rate": 5,
-          "priceAt": "07.23 13:36",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/242262245684442-43dfbf94-932c-42d4-9f76-b806d96bfd2c.jpg",
-          "url": "https://link.coupang.com/a/fB1YUCpzu8",
-          "_ts": 1784781381.981045
         }
       ]
     }
