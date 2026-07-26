@@ -186,6 +186,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "프로프루 성주 꿀참외, 가정용, 5kg, 1박스",
+          "price": "9,800원",
+          "discount_rate": 80,
+          "priceAt": "07.26 21:02",
+          "image": "https://shopping.toss.im/live/temp/2026-06-11/5fbd465a-2615-400a-8da7-6e46bfa944e1.jpeg",
+          "url": "https://toss.im/_m/xZcbx8Oo",
+          "_ts": 1785067352.5557709
+        },
+        {
           "name": "남다른농수산 여수 돌산 갓김치, 1kg, 1개",
           "price": "5,800원",
           "discount_rate": 67,
@@ -283,15 +292,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-24/c7c3c65f-9b78-4306-87fa-7efa41be18db.jpeg",
           "url": "https://toss.im/_m/Pp9GX8z3",
           "_ts": 1784981043.150639
-        },
-        {
-          "name": "미니 단호박 보우짱, 로얄과, 5kg, 1박스",
-          "price": "13,600원",
-          "discount_rate": 77,
-          "priceAt": "07.25 21:02",
-          "image": "https://shopping.toss.im/live/temp/2026-06-11/6d42b87d-9a0f-474f-ac71-af08e1b3be58.jpeg",
-          "url": "https://toss.im/_m/DlhySLKf",
-          "_ts": 1784980946.648084
         },
         {
           "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
