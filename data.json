@@ -906,11 +906,11 @@
         {
           "name": "테스트상품A",
           "price": "12,000원",
-          "discount_rate": null,
-          "priceAt": "07.27 14:10",
+          "discount_rate": 50,
+          "priceAt": "07.27 14:11",
           "image": "img",
           "url": "https://link.coupang.com/a/fAKEURL01",
-          "_ts": 1785129034.541281
+          "_ts": 1785129061.162963
         },
         {
           "name": "동원 보성말차, 500ml, 24개",
