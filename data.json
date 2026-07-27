@@ -483,6 +483,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "세척사과, 최대15brix, 마트납품용, 꿀사과, 2kg, 1박스",
+          "price": "9,900원",
+          "discount_rate": 75,
+          "priceAt": "07.27 21:20",
+          "image": "https://shopping.toss.im/live/temp/2026-06-10/60d9ae23-f103-497f-8dbc-6ed8f947dced.png",
+          "url": "https://toss.im/_m/H7GwEm9w",
+          "_ts": 1785154824.099972
+        },
+        {
           "name": "사조 살코기 참치 안심따개, 85g, 10개",
           "price": "15,500원",
           "discount_rate": 61,
