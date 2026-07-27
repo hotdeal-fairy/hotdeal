@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "삼립 미니 꿀호떡, 1개",
+          "price": "2,000원",
+          "discount_rate": 44,
+          "priceAt": "07.27 19:25",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4439003126625506-2024f9f5-a09e-49ff-8114-81c9f793ee96.jpg",
+          "url": "https://link.coupang.com/a/fI4ydhFjB6",
+          "_ts": 1785147937.485409
+        },
+        {
           "name": "오뚜기 치즈크러스트 피자 페페로니 디럭스 (냉동) 510g",
           "price": "4,730원",
           "discount_rate": 30,
