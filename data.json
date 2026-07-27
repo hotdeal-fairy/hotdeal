@@ -276,6 +276,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "구워먹는 할루미치즈, 200g, 3개",
+          "price": "7,600원",
+          "discount_rate": 65,
+          "priceAt": "07.27 11:45",
+          "image": "https://shopping.toss.im/live/temp/2026-06-30/ade7ab0a-5ebe-489c-a02a-66196e0122ca.png",
+          "url": "https://toss.im/_m/bYiJDbZ5",
+          "_ts": 1785120327.4384818
+        },
+        {
           "name": "가람상점 완숙 찰 토마토 못난이 주스용, 랜덤과, 5kg, 1개",
           "price": "9,500원",
           "discount_rate": 52,
