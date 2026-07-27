@@ -931,6 +931,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "테스트상품A",
+          "price": "12,000원",
+          "discount_rate": 50,
+          "priceAt": "07.27 15:31",
+          "image": "img",
+          "url": "https://link.coupang.com/a/fAKEURL01",
+          "_ts": 1785133915.1239848
+        },
+        {
           "name": "이으마 대형 분수물총 핵인싸 워터밤 인생사진 1+1 set, 2개, 블루 + 핑크",
           "price": "3,000원",
           "discount_rate": 50,
@@ -947,15 +956,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/15/11/6/41dbba18-9d0e-4d0b-a00c-4a95a17ffbf1.png",
           "url": "https://link.coupang.com/a/fILxvyWOSy",
           "_ts": 1785131970.392338
-        },
-        {
-          "name": "테스트상품A",
-          "price": "12,000원",
-          "discount_rate": 50,
-          "priceAt": "07.27 14:41",
-          "image": "img",
-          "url": "https://link.coupang.com/a/fAKEURL01",
-          "_ts": 1785130905.5304909
         },
         {
           "name": "동원 보성말차, 500ml, 24개",
