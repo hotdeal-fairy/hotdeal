@@ -64,6 +64,16 @@
     ));
   }
 
+  // escapeHtml()은 HTML 특수문자만 막을 뿐 href/src에 들어가는 URL 스킴(javascript: 등)은
+  // 막지 못한다 — data.json 값이 전부 외부(쿠팡/토스) 스크래핑 출처라 신뢰할 수 없는 입력으로
+  // 취급해야 하므로, http(s):// 또는 프로토콜-상대(//)로 시작하는 값만 통과시키고 그 외(빈
+  // 문자열 포함)는 빈 문자열로 치환한다(2026-07-24 전체 프로젝트 감사 중 발견, TW90 XSS
+  // 수정의 잔여 갭). href/src에 쓸 때도 escapeHtml과 함께 적용해 속성 탈출까지 방어한다.
+  function sanitizeUrl(url) {
+    const s = String(url ?? "").trim();
+    return /^(https?:)?\/\//i.test(s) ? s : "";
+  }
+
   function formatRelativeTime(ts) {
     const diffMin = (Date.now() / 1000 - ts) / 60;
     if (diffMin < 1) return "방금";
@@ -82,7 +92,7 @@
     document.getElementById("profile").innerHTML = `
       ${
         p.avatar
-          ? `<div class="profile-avatar"><img src="${escapeHtml(p.avatar)}" alt="${escapeHtml(p.name)}" /></div>`
+          ? `<div class="profile-avatar"><img src="${escapeHtml(sanitizeUrl(p.avatar))}" alt="${escapeHtml(p.name)}" /></div>`
           : ""
       }
       <div class="profile-text">
@@ -98,7 +108,7 @@
     document.getElementById("openchat").innerHTML =
       oc.url && !fromOpenChat
         ? `
-        <a class="openchat-button" href="${escapeHtml(oc.url)}" target="_blank" rel="noopener">
+        <a class="openchat-button" href="${escapeHtml(sanitizeUrl(oc.url))}" target="_blank" rel="noopener">
           ${escapeHtml(oc.icon ?? "💬")} ${escapeHtml(oc.title ?? "오픈채팅방 참여하기")}
         </a>
       `
@@ -109,7 +119,7 @@
         ${(data.banners ?? [])
           .map(
             (banner, i) => `
-              <a class="banner-card banner-c${(i % 3) + 1}" href="${escapeHtml(banner.url)}" target="_blank" rel="noopener">
+              <a class="banner-card banner-c${(i % 3) + 1}" href="${escapeHtml(sanitizeUrl(banner.url))}" target="_blank" rel="noopener">
                 <strong>${escapeHtml(banner.title)}</strong>
                 <small>${escapeHtml(banner.description)}</small>
               </a>
@@ -124,7 +134,7 @@
     document.getElementById("mall-tabs").innerHTML = malls
       .map(
         (mall, i) => `
-          <button class="mall-tab-btn${i === 0 ? " active" : ""}" data-mall="${mall.id}">
+          <button class="mall-tab-btn${i === 0 ? " active" : ""}" data-mall="${escapeHtml(mall.id)}">
             ${escapeHtml(mall.name)}
           </button>
         `
@@ -149,8 +159,8 @@
             .map(
               (product) => `
               <div class="product-card">
-                <a href="${escapeHtml(product.url)}" target="_blank" rel="noopener">
-                  <img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.name)}" loading="lazy" referrerpolicy="no-referrer" />
+                <a href="${escapeHtml(sanitizeUrl(product.url))}" target="_blank" rel="noopener">
+                  <img src="${escapeHtml(sanitizeUrl(product.image))}" alt="${escapeHtml(product.name)}" loading="lazy" referrerpolicy="no-referrer" />
                 </a>
                 <p class="product-name">${escapeHtml(product.name)}</p>
                 <p class="product-price-row">
