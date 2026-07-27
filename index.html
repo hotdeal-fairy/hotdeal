@@ -71,7 +71,9 @@
   // 수정의 잔여 갭). href/src에 쓸 때도 escapeHtml과 함께 적용해 속성 탈출까지 방어한다.
   function sanitizeUrl(url) {
     const s = String(url ?? "").trim();
-    return /^(https?:)?\/\//i.test(s) ? s : "";
+    if (/^(https?:)?\/\//i.test(s)) return s; // 절대경로/프로토콜 상대경로
+    if (/^[a-zA-Z][a-zA-Z0-9+.-]*:/.test(s)) return ""; // javascript:/data: 등 위험 스킴 차단
+    return s; // 스킴 없는 상대경로("images/profile.jpg" 등, 프로필 아바타 전용)는 안전하므로 허용
   }
 
   function formatRelativeTime(ts) {
