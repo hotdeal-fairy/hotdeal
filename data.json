@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "락앤락 바로 한끼 도자기 밥용기, 4개, 355ml 355ml*4개",
+          "price": "15,420원",
+          "discount_rate": 30,
+          "priceAt": "07.28 08:11",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/31365200054118-39eff976-f5b2-4c3e-a145-b00ddead954e.jpg",
+          "url": "https://link.coupang.com/a/fJSIPn6BUq",
+          "_ts": 1785193875.202106
+        },
+        {
           "name": "고잉키즈 아동용 썸머 플랩캡",
           "price": "3,500원",
           "discount_rate": 65,
@@ -1155,15 +1164,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/f90603c4-e378-495a-8230-1b9b69bbbeb5_fixing_v2.png",
           "url": "https://link.coupang.com/a/fJSTdkoghM",
           "_ts": 1785190199.163156
-        },
-        {
-          "name": "락앤락 바로 한끼 도자기 밥용기, 4개, 355ml 355ml*4개",
-          "price": "15,420원",
-          "discount_rate": 30,
-          "priceAt": "07.28 07:07",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/31365200054118-39eff976-f5b2-4c3e-a145-b00ddead954e.jpg",
-          "url": "https://link.coupang.com/a/fJSIPn6BUq",
-          "_ts": 1785190061.360667
         },
         {
           "name": "나랑드사이다 제로, 245ml, 30개",
