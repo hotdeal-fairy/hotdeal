@@ -375,6 +375,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "제주 미니 밤호박, 10kg, 1박스",
+          "price": "19,900원",
+          "discount_rate": 60,
+          "priceAt": "07.27 18:20",
+          "image": "https://shopping.toss.im/live/temp/2026-05-31/a6e579c8-ca37-4671-9d84-d6f91a66df2d.jpeg",
+          "url": "https://toss.im/_m/vgkW0jAj",
+          "_ts": 1785144018.820713
+        },
+        {
           "name": "파김치, 1개, 1kg",
           "price": "7,900원",
           "discount_rate": 69,
