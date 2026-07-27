@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "동원 보성말차, 500ml, 24개",
+          "price": "12,410원",
+          "discount_rate": 55,
+          "priceAt": "07.28 08:47",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2220499019315721-e3c8c961-8980-42cf-ae76-64f0a0bf10a8.jpg",
+          "url": "https://link.coupang.com/a/fJZQgAJNV6",
+          "_ts": 1785196044.816148
+        },
+        {
           "name": "닥터브로너스 립밤 4g*3개",
           "price": "6,380원",
           "discount_rate": 51,
@@ -663,24 +672,6 @@
           "_ts": 1785033922.8950112
         },
         {
-          "name": "프레시왕 성주 꿀벌 수정 참외, 못난이 혼합과, 9kg, 1박스",
-          "price": "9,800원",
-          "discount_rate": 81,
-          "priceAt": "07.26 08:47",
-          "image": "https://shopping.toss.im/live/temp/2026-04-27/353aa6af-499c-47ae-b7e5-fb54ea46610e.jpeg",
-          "url": "https://toss.im/_m/fFviLf3w",
-          "_ts": 1785023225.221566
-        },
-        {
-          "name": "모카 카페마일드 커피믹스, 12g, 330개입, 1개",
-          "price": "31,300원",
-          "discount_rate": 24,
-          "priceAt": "07.26 08:45",
-          "image": "https://shopping.toss.im/live/temp/2026-03-24/c1c89706-7266-4ec2-adb1-96b03785fa4b.jpeg",
-          "url": "https://toss.im/_m/xJjHl3pr",
-          "_ts": 1785023127.073028
-        },
-        {
           "name": "에브리워터 무라벨, 500ml, 40개",
           "price": "4,400원",
           "discount_rate": 77,
@@ -1245,15 +1236,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/15/11/6/41dbba18-9d0e-4d0b-a00c-4a95a17ffbf1.png",
           "url": "https://link.coupang.com/a/fILxvyWOSy",
           "_ts": 1785131970.392338
-        },
-        {
-          "name": "동원 보성말차, 500ml, 24개",
-          "price": "12,410원",
-          "discount_rate": 10,
-          "priceAt": "07.27 10:20",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2220499019315721-e3c8c961-8980-42cf-ae76-64f0a0bf10a8.jpg",
-          "url": "https://link.coupang.com/a/fIrzjw7Fwi",
-          "_ts": 1785115204.0252469
         },
         {
           "name": "나랑드사이다 제로, 345ml, 24개",
