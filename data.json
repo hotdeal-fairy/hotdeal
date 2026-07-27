@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "가그린 어린이용 구강세정제 사과향, 380ml, 3개",
+          "price": "6,630원",
+          "discount_rate": 25,
+          "priceAt": "07.28 08:12",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2779441148604899-89312534-afe5-44da-9607-7c85bfe582f6.png",
+          "url": "https://link.coupang.com/a/fJTv0mXb3Y",
+          "_ts": 1785193941.9827468
+        },
+        {
           "name": "락앤락 바로 한끼 도자기 밥용기, 4개, 355ml 355ml*4개",
           "price": "15,420원",
           "discount_rate": 30,
@@ -1137,15 +1146,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a2c3/9194d9ee408311b7ccd4b29eb250d3aff760203c9b306ee9c58e4189ebbd.jpg",
           "url": "https://link.coupang.com/a/fJUYDeln1U",
           "_ts": 1785191950.803901
-        },
-        {
-          "name": "가그린 어린이용 구강세정제 사과향, 380ml, 3개",
-          "price": "6,630원",
-          "discount_rate": 25,
-          "priceAt": "07.28 07:18",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2779441148604899-89312534-afe5-44da-9607-7c85bfe582f6.png",
-          "url": "https://link.coupang.com/a/fJTv0mXb3Y",
-          "_ts": 1785190724.386531
         },
         {
           "name": "닥터유 에너지바 투바이트, 468g, 1개",
