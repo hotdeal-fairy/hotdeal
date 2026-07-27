@@ -330,6 +330,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "파김치, 1개, 1kg",
+          "price": "7,900원",
+          "discount_rate": 69,
+          "priceAt": "07.27 15:00",
+          "image": "https://shopping.toss.im/live/temp/2025-07-02/3d6bcb79-9f37-4185-abd2-fb0a54cd07bf.png",
+          "url": "https://toss.im/_m/BujWJZGD",
+          "_ts": 1785132054.5076602
+        },
+        {
           "name": "이프레시 국내산 대추 방울 토마토, 4번과, 2kg, 1개",
           "price": "7,347원",
           "discount_rate": 61,
