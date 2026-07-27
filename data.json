@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "고잉키즈 아동용 썸머 플랩캡",
+          "price": "3,500원",
+          "discount_rate": 65,
+          "priceAt": "07.28 07:29",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/03/28/3698782837/358d7533-ad5e-44de-85c3-35338d902c37.jpg",
+          "url": "https://link.coupang.com/a/fJUfsYtCDc",
+          "_ts": 1785191344.888751
+        },
+        {
           "name": "더미식 소고기장터국, 350g, 5개",
           "price": "9,800원",
           "discount_rate": 34,
@@ -456,24 +465,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/1025_amir_coupang_oct_80k/1649/7649ba8e7c7efc220108e05a284c21d12457220687d99314585d9db8c66f.jpg",
           "url": "https://link.coupang.com/a/fGEkgw1yHQ",
           "_ts": 1785021806.9261749
-        },
-        {
-          "name": "푸마 남녀공용 시부이 뮬 샌들_SHIBUI MUL_39488301, 블랙 230",
-          "price": "16,520원",
-          "discount_rate": 43,
-          "priceAt": "07.26 07:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/rs_quotation_api/wqdstqud/6d0413c7ee84497fbe84a3b856350d1f.png",
-          "url": "https://link.coupang.com/a/fGAqDcd4c8",
-          "_ts": 1785018534.938696
-        },
-        {
-          "name": "스포츠리서치 루테인 20mg + 제아잔틴 4mg 베지 소프트젤, 120정, 3개",
-          "price": "53,510원",
-          "discount_rate": 37,
-          "priceAt": "07.26 07:20",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/02b7/eadbcb8b4858b2bc192f24c65b1ef94ecfcabf78b6c9c9d567f5740ba6af.jpg",
-          "url": "https://link.coupang.com/a/fGzN4WnHR6",
-          "_ts": 1785018011.772821
         }
       ]
     },
@@ -1477,15 +1468,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83273249423155-6ed1e066-908c-4596-b799-e6a8664289a0.jpg",
           "url": "https://link.coupang.com/a/fDgH9yKguq",
           "_ts": 1784845805.198295
-        },
-        {
-          "name": "신라면 120g, 15개",
-          "price": "9,940원",
-          "discount_rate": 19,
-          "priceAt": "07.24 07:27",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/177371624961544-9c3eac69-bed3-43a1-b290-0ef01f5b134c.jpg",
-          "url": "https://link.coupang.com/a/fDgyleEVr2",
-          "_ts": 1784845671.887159
         }
       ]
     }
