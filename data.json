@@ -1101,6 +1101,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "써지오 개별 멀티탭 6구 DH-1668-MT + 안전커버 2p 랜덤 발송 1.2m*1개",
+          "price": "9,730원",
+          "discount_rate": 30,
+          "priceAt": "07.28 07:39",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a2c3/9194d9ee408311b7ccd4b29eb250d3aff760203c9b306ee9c58e4189ebbd.jpg",
+          "url": "https://link.coupang.com/a/fJUYDeln1U",
+          "_ts": 1785191950.803901
+        },
+        {
           "name": "가그린 어린이용 구강세정제 사과향, 380ml, 3개",
           "price": "6,630원",
           "discount_rate": 25,
@@ -1459,15 +1468,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/135921077437585-4578436d-5fd5-4ef5-8df4-3cb4b829c7d9.jpg",
           "url": "https://link.coupang.com/a/fDiBc2JAdw",
           "_ts": 1784847389.261508
-        },
-        {
-          "name": "벨킨 부스트업 프로 Qi2 15W 2in1 마그네틱 무선 충전 패드 1개",
-          "price": "29,000원",
-          "discount_rate": 40,
-          "priceAt": "07.24 07:30",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83273249423155-6ed1e066-908c-4596-b799-e6a8664289a0.jpg",
-          "url": "https://link.coupang.com/a/fDgH9yKguq",
-          "_ts": 1784845805.198295
         }
       ]
     }
