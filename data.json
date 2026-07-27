@@ -904,6 +904,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "추억의국민학교떡볶이 오리지널 냉동, 600g, 2개",
+          "price": "8,990원",
+          "discount_rate": 25,
+          "priceAt": "07.27 14:41",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1327632924357665-a8839ab4-4774-4f41-ad6e-35c22d6abc35.jpg",
+          "url": "https://link.coupang.com/a/fIKd8HqvW8",
+          "_ts": 1785130870.482879
+        },
+        {
           "name": "테스트상품A",
           "price": "12,000원",
           "discount_rate": 50,
