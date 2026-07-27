@@ -1110,6 +1110,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "닥터유 에너지바 투바이트, 468g, 1개",
+          "price": "9,000원",
+          "discount_rate": 26,
+          "priceAt": "07.28 07:16",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/399980568201871-41f555c9-5a1b-43b9-9452-8cadad4f4c5d.jpg",
+          "url": "https://link.coupang.com/a/fJTlL8FCDI",
+          "_ts": 1785190586.76706
+        },
+        {
           "name": "청정원순창 100% 현미 태양초 찰고추장, 2kg, 1개",
           "price": "7,600원",
           "discount_rate": 20,
@@ -1486,15 +1495,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/24/15/2/e4b67a2d-3a58-4ae1-8012-479631edb40d.png",
           "url": "https://link.coupang.com/a/fDfMCS2MW4",
           "_ts": 1784845025.426049
-        },
-        {
-          "name": "크라운 버터와플, 237g, 2개",
-          "price": "4,800원",
-          "discount_rate": 20,
-          "priceAt": "07.24 07:12",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/69d1/f09a566f112a1cfa029c194b7c842f040748ff7f9595c953ed220ceadd1a.jpg",
-          "url": "https://link.coupang.com/a/fDft0EMQGO",
-          "_ts": 1784844772.0934799
         }
       ]
     }
