@@ -474,24 +474,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/543960527790-ba3aa6d6-a6ff-46ab-b46b-a18bb85de55c.png",
           "url": "https://link.coupang.com/a/fHl4RgtbiK",
           "_ts": 1785058539.848522
-        },
-        {
-          "name": "켈로그 리얼 그래놀라 오리지널 시리얼, 350g, 2개",
-          "price": "8,000원",
-          "discount_rate": 20,
-          "priceAt": "07.26 15:06",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/af6c0f24-425a-4c1c-8da9-92dd58ad77e32436689588528501051.png",
-          "url": "https://link.coupang.com/a/fG6YzGub2O",
-          "_ts": 1785045980.2486742
-        },
-        {
-          "name": "스너글 멜로우 선샤인 퀵 드라이 섬유탈취제 본품, 470ml, 3개",
-          "price": "10,770원",
-          "discount_rate": 43,
-          "priceAt": "07.26 15:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8fcd/208e6132df04f14809b7bccf0adcc351df0286f175417aa5c4b539149715.jpg",
-          "url": "https://link.coupang.com/a/fG6XVLRd4m",
-          "_ts": 1785045852.355952
         }
       ]
     },
@@ -652,24 +634,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-16/3d53c7ac-0d1b-4670-8bb0-4e323b98dc9b.png",
           "url": "https://toss.im/_m/BomB2yq9",
           "_ts": 1785057633.996496
-        },
-        {
-          "name": "냉감 얼음 아이스 넥쿨러 등산 골프 낚시 쿨스카프, 블루, 100cm, 2개",
-          "price": "5,900원",
-          "discount_rate": 59,
-          "priceAt": "07.26 15:01",
-          "image": "https://shopping.toss.im/live/temp/2025-07-07/33de5e7d-ea47-4701-8a2a-f2ae80366575.png",
-          "url": "https://toss.im/_m/T8xvCcxi",
-          "_ts": 1785045660.650193
-        },
-        {
-          "name": "할리스 시그니처 아메리카노, 550ml, 12개",
-          "price": "16,533원",
-          "discount_rate": 30,
-          "priceAt": "07.26 15:00",
-          "image": "https://shopping.toss.im/live/temp/2026-04-30/b5a1c992-781a-4c37-98b1-1af6bddd6928.jpeg",
-          "url": "https://toss.im/_m/xNwLEZhc",
-          "_ts": 1785045621.240316
         },
         {
           "name": "에브리워터 무라벨, 500ml, 40개",
@@ -1128,6 +1092,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "덴마크 테이크 얼라이브 머스캣 청포도 주스, 120ml, 48개",
+          "price": "11,120원",
+          "discount_rate": 49,
+          "priceAt": "07.28 15:38",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/197788001137813-9cab8bb3-86a2-45d0-a0c6-731d8d54757c.png",
+          "url": "https://link.coupang.com/a/fKtgpQba68",
+          "_ts": 1785220735.856798
+        },
         {
           "name": "가구 흠집제거 마카펜 가구보수펜 목재 가구 스크래치 복원 메꿈이 보수용 펜, 10개",
           "price": "3,530원",
