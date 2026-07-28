@@ -492,15 +492,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8fcd/208e6132df04f14809b7bccf0adcc351df0286f175417aa5c4b539149715.jpg",
           "url": "https://link.coupang.com/a/fG6XVLRd4m",
           "_ts": 1785045852.355952
-        },
-        {
-          "name": "궁중비책 프리뮨 레드 수딩 세럼 150ml*1개",
-          "price": "7,560원",
-          "discount_rate": 56,
-          "priceAt": "07.26 14:31",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8e91/9a573b2e4b3fee5043b35521b27e9769a505b651b71bc69311e8e0809fb9.jpg",
-          "url": "https://link.coupang.com/a/fG4mak5IR3",
-          "_ts": 1785043884.858094
         }
       ]
     },
@@ -509,6 +500,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "아보카도, 특대과, 230g내외, 10개, 1박스",
+          "price": "11,800원",
+          "discount_rate": 77,
+          "priceAt": "07.28 15:00",
+          "image": "https://shopping.toss.im/live/temp/2026-02-23/3bff2369-70a5-4bc0-8f04-be3ca0b5ba47.jpeg",
+          "url": "https://toss.im/_m/BixmG5I",
+          "_ts": 1785218418.586242
+        },
         {
           "name": "바리스타룰스 원데이 무라벨, 저당라떼, 350ml, 20개",
           "price": "16,400원",
@@ -1451,15 +1451,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/15286281720986-13ecf23d-6c5d-4fe5-9348-0a7721ef2dbb.jpg",
           "url": "https://link.coupang.com/a/fDXH6FrCWi",
           "_ts": 1784881906.018209
-        },
-        {
-          "name": "토들러하우스 휴대용 여행용 접이식 유아침대",
-          "price": "57,000원",
-          "discount_rate": 48,
-          "priceAt": "07.24 14:16",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/23/14/7/4423b864-c9fb-4845-ad83-628aba5ed3e5.png",
-          "url": "https://link.coupang.com/a/fDJK5XcvYW",
-          "_ts": 1784870193.167698
         }
       ]
     }
