@@ -474,6 +474,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "파파네정육점 한입 삼겹살, 500g, 4개",
+          "price": "21,267원",
+          "discount_rate": 41,
+          "priceAt": "07.28 20:00",
+          "image": "https://shopping.toss.im/live/temp/2026-03-13/cbbce3e2-deb7-45b0-96da-71b3abc716a1.jpeg",
+          "url": "https://toss.im/_m/jtbw3GAC",
+          "_ts": 1785236413.778409
+        },
+        {
           "name": "굿프렌드 굿핏 공기압 프리미엄 다리 마사지기 GT-A9, 2p, 1세트",
           "price": "49,401원",
           "discount_rate": 75,
@@ -885,16 +894,6 @@
           "url": "https://toss.im/_m/Bfzjabvn",
           "_rank": 32,
           "_product_id": "104470241",
-          "_ts": 1785229323.54066
-        },
-        {
-          "name": "파파네정육점 한입 삼겹살, 500g, 4개",
-          "price": "21,267원",
-          "discount_rate": 41,
-          "image": "https://shopping.toss.im/live/temp/2026-03-13/cbbce3e2-deb7-45b0-96da-71b3abc716a1.jpeg",
-          "url": "https://toss.im/_m/jtbw3GAC",
-          "_rank": 33,
-          "_product_id": "1131361945",
           "_ts": 1785229323.54066
         },
         {
