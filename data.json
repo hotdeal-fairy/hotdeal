@@ -519,6 +519,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "바리스타룰스 원데이 무라벨, 저당라떼, 350ml, 20개",
+          "price": "16,400원",
+          "discount_rate": 67,
+          "priceAt": "07.28 11:47",
+          "image": "https://shopping.toss.im/live/temp/2025-06-16/407c2c59-92c4-4f5d-ac34-706e574eca7d.jpeg",
+          "url": "https://toss.im/_m/rahMORhB",
+          "_ts": 1785206848.356527
+        },
+        {
           "name": "썸머킹 아오리 청사과, 2kg, 1박스",
           "price": "6,900원",
           "discount_rate": 86,
@@ -670,15 +679,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-30/b5a1c992-781a-4c37-98b1-1af6bddd6928.jpeg",
           "url": "https://toss.im/_m/xNwLEZhc",
           "_ts": 1785045621.240316
-        },
-        {
-          "name": "스테이퍼퓸 밤쉘 향수, 80ml, 1개",
-          "price": "9,800원",
-          "discount_rate": 69,
-          "priceAt": "07.26 11:47",
-          "image": "https://shopping.toss.im/live/temp/2025-10-21/2949603d-2b8a-44c9-a4d3-3ea6e24efd64.jpeg",
-          "url": "https://toss.im/_m/HUEpWD9w",
-          "_ts": 1785034033.461257
         },
         {
           "name": "에브리워터 무라벨, 500ml, 40개",
@@ -958,16 +958,6 @@
           "url": "https://toss.im/_m/n1Nb8Dj2",
           "_rank": 29,
           "_product_id": "1056552323",
-          "_ts": 1785193373.426095
-        },
-        {
-          "name": "바리스타룰스 원데이 무라벨, 저당라떼, 350ml, 20개",
-          "price": "16,400원",
-          "discount_rate": 67,
-          "image": "https://shopping.toss.im/live/temp/2025-06-16/407c2c59-92c4-4f5d-ac34-706e574eca7d.jpeg",
-          "url": "https://toss.im/_m/rahMORhB",
-          "_rank": 30,
-          "_product_id": "150532531",
           "_ts": 1785193373.426095
         },
         {
