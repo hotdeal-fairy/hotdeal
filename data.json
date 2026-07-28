@@ -492,6 +492,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "굿프렌드 굿핏 공기압 프리미엄 다리 마사지기 GT-A9, 2p, 1세트",
+          "price": "49,401원",
+          "discount_rate": 75,
+          "priceAt": "07.28 18:21",
+          "image": "https://shopping.toss.im/live/temp/2025-12-18/79bd60d7-e6a3-4770-af8c-b4a8c8610d90.jpeg",
+          "url": "https://toss.im/_m/XizIHKGx",
+          "_ts": 1785230460.314912
+        },
+        {
           "name": "푸드센터 소갈비살, 200g, 5팩",
           "price": "29,800원",
           "discount_rate": 70,
@@ -643,15 +652,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-22/959810b5-adce-42c4-b3c5-ebe152002880.jpeg",
           "url": "https://toss.im/_m/hZCRmBpt",
           "_ts": 1785057702.295421
-        },
-        {
-          "name": "이롬 국산콩 검은콩두유, 190ml, 20개",
-          "price": "7,900원",
-          "discount_rate": 62,
-          "priceAt": "07.26 18:20",
-          "image": "https://shopping.toss.im/live/temp/2026-06-16/3d53c7ac-0d1b-4670-8bb0-4e323b98dc9b.png",
-          "url": "https://toss.im/_m/BomB2yq9",
-          "_ts": 1785057633.996496
         },
         {
           "name": "에브리워터 무라벨, 500ml, 40개",
@@ -901,16 +901,6 @@
           "url": "https://toss.im/_m/pH4T7eY4",
           "_rank": 28,
           "_product_id": "105368849",
-          "_ts": 1785229323.54066
-        },
-        {
-          "name": "굿프렌드 굿핏 공기압 프리미엄 다리 마사지기 GT-A9, 2p, 1세트",
-          "price": "49,401원",
-          "discount_rate": 75,
-          "image": "https://shopping.toss.im/live/temp/2025-12-18/79bd60d7-e6a3-4770-af8c-b4a8c8610d90.jpeg",
-          "url": "https://toss.im/_m/XizIHKGx",
-          "_rank": 29,
-          "_product_id": "37727243",
           "_ts": 1785229323.54066
         },
         {
