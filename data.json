@@ -519,6 +519,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "썸머킹 아오리 청사과, 2kg, 1박스",
+          "price": "6,900원",
+          "discount_rate": 86,
+          "priceAt": "07.28 11:47",
+          "image": "https://shopping.toss.im/live/temp/2026-07-20/608d3e90-096f-4b6a-8140-2d507f5f2295.png",
+          "url": "https://toss.im/_m/RJ2Op0We",
+          "_ts": 1785206821.978506
+        },
+        {
           "name": "호정가 옛날도나스, 60g, 16개",
           "price": "8,900원",
           "discount_rate": 44,
@@ -670,15 +679,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-10-21/2949603d-2b8a-44c9-a4d3-3ea6e24efd64.jpeg",
           "url": "https://toss.im/_m/HUEpWD9w",
           "_ts": 1785034033.461257
-        },
-        {
-          "name": "전남 무안 양파, 중, 5kg, 1개",
-          "price": "6,755원",
-          "discount_rate": 75,
-          "priceAt": "07.26 11:45",
-          "image": "https://shopping.toss.im/live/temp/2025-04-22/a651c74c-be3b-406d-9c63-6b02d1c2cbe2.jpeg",
-          "url": "https://toss.im/_m/b0hTpoEt",
-          "_ts": 1785033922.8950112
         },
         {
           "name": "에브리워터 무라벨, 500ml, 40개",
