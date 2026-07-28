@@ -465,24 +465,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/312115903653113-59782d30-0580-4dd4-afa4-a8fbabf6289c.jpg",
           "url": "https://link.coupang.com/a/fIeeMPssE0",
           "_ts": 1785104019.240691
-        },
-        {
-          "name": "쏙쏙리빙 야외 자외선 차단 아쿠아 기능성 쿨토시 9세트",
-          "price": "3,000원",
-          "discount_rate": 69,
-          "priceAt": "07.26 18:58",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/1bdc9f3181b8bf3388f44645ec6d022ee76a111a1143f6b45d9d88a72c71_1784710209143.png",
-          "url": "https://link.coupang.com/a/fHnGbbEgIS",
-          "_ts": 1785059913.8435369
-        },
-        {
-          "name": "에뛰드 플레이 멀티 아이즈, 리치는 뤼치, 1개",
-          "price": "3,960원",
-          "discount_rate": 60,
-          "priceAt": "07.26 18:46",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/16/11/4/be8c6214-1bc0-4475-a5da-a47fbe476c21.jpg",
-          "url": "https://link.coupang.com/a/fHmNVzaNXw",
-          "_ts": 1785059198.850365
         }
       ]
     },
@@ -1062,6 +1044,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "비셰프 이츠 기분충전 솔티카라멜 팝콘, 25g, 4개",
+          "price": "1,960원",
+          "discount_rate": 25,
+          "priceAt": "07.28 19:10",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/39de9037-c6c9-4240-94ec-d688a33110062209927992435116053.png",
+          "url": "https://link.coupang.com/a/fKImWlwupo",
+          "_ts": 1785233422.021182
+        },
         {
           "name": "리챔 더블라이트, 200g, 9개",
           "price": "17,230원",
