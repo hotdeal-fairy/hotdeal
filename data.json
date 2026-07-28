@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스탠리 아이스플로우 에어로라이트 플립 스트로 2.0 텀블러 1.1L*1개",
+          "price": "29,050원",
+          "discount_rate": 42,
+          "priceAt": "07.28 10:20",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1754817488985459-2c978ff5-86f2-4258-bccf-c4dbd31b35d5.jpg",
+          "url": "https://link.coupang.com/a/fJ6u2dWZMq",
+          "_ts": 1785201631.299237
+        },
+        {
           "name": "가쯔 벌레 퇴치 휴대용 스마트 전기모기채 2p",
           "price": "3,700원",
           "discount_rate": 38,
@@ -1488,15 +1497,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/212151410647511-7115f9f5-8ed8-4d80-af27-b1fefc27efa4.jpg",
           "url": "https://link.coupang.com/a/fDyuOeSSf6",
           "_ts": 1784860739.904638
-        },
-        {
-          "name": "스팸 25% 라이트 햄통조림, 200g, 18개",
-          "price": "33,990원",
-          "discount_rate": 29,
-          "priceAt": "07.24 10:10",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/f29b2752-1ebc-457d-b579-30f4cda1ac631916088723065372127.png",
-          "url": "https://link.coupang.com/a/fDr8SwMBsi",
-          "_ts": 1784855400.9051268
         }
       ]
     }
