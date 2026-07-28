@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "동원 JUST 노슈가 황도 2절 통조림, 400g, 6개",
+          "price": "6,300원",
+          "discount_rate": 55,
+          "priceAt": "07.28 11:41",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/58538089349263-3e09294c-2dbb-4064-873a-cb949f38f0dc.jpg",
+          "url": "https://link.coupang.com/a/fKcgkWrFGm",
+          "_ts": 1785206467.593586
+        },
+        {
           "name": "스탠리 아이스플로우 에어로라이트 플립 스트로 2.0 텀블러 1.1L*1개",
           "price": "29,050원",
           "discount_rate": 42,
@@ -501,33 +510,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cecf/67290a8a349befdcbecfc451aca57e64efb013f09d02a82655cdc007560f.png",
           "url": "https://link.coupang.com/a/fGWql7ZD08",
           "_ts": 1785037000.6554408
-        },
-        {
-          "name": "슈가로로 애사비 스파클링 사과 350ml*24개",
-          "price": "15,530원",
-          "discount_rate": 29,
-          "priceAt": "07.26 10:54",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/01/23/9/7/bc0a86b8-dfb4-48ed-85e6-3df35c3e2324.jpg",
-          "url": "https://link.coupang.com/a/fGO85h9eJo",
-          "_ts": 1785030890.697151
-        },
-        {
-          "name": "세브란스에이투 전용목장 단백우유, 125ml, 12개",
-          "price": "7,190원",
-          "discount_rate": 39,
-          "priceAt": "07.26 10:44",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5848/52a5de411f8e5bc0d241f4da99eae6634ff24dfbfbd6ffe150c34b684d86.jpg",
-          "url": "https://link.coupang.com/a/fGOp0k8zBu",
-          "_ts": 1785030279.298149
-        },
-        {
-          "name": "피지오겔 데일리 모이스쳐 테라피 페이셜 크림, 75ml, 1개",
-          "price": "9,850원",
-          "discount_rate": 18,
-          "priceAt": "07.26 10:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/159640203347477-301e72d8-72b6-4e5d-a684-f802a5852491.jpg",
-          "url": "https://link.coupang.com/a/fGBArrkzee",
-          "_ts": 1785029592.588464
         }
       ]
     },
@@ -1488,15 +1470,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/185805806716668-96c76b0b-c1d6-4997-844b-4ea76a580c31.jpg",
           "url": "https://link.coupang.com/a/fDC6xsEtXg",
           "_ts": 1784864604.1641622
-        },
-        {
-          "name": "나라홈데코 코지엔 오코텍스 3중직 냉감 여름 쿨 베개커버* 2개",
-          "price": "5,340원",
-          "discount_rate": 47,
-          "priceAt": "07.24 11:38",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/212151410647511-7115f9f5-8ed8-4d80-af27-b1fefc27efa4.jpg",
-          "url": "https://link.coupang.com/a/fDyuOeSSf6",
-          "_ts": 1784860739.904638
         }
       ]
     }
