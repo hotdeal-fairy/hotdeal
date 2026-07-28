@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "어메이징오트 언스위트, 190ml, 24개",
+          "price": "10,650원",
+          "discount_rate": 24,
+          "priceAt": "07.29 08:33",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/46206377742990-92eeda4d-63de-4f44-ace0-6980a840b222.jpg",
+          "url": "https://link.coupang.com/a/fLx1xwEwwe",
+          "_ts": 1785281593.9424078
+        },
+        {
           "name": "에라토 크림모노 4인 그릇 홈세트 24p 8종*1세트",
           "price": "17,900원",
           "discount_rate": 34,
@@ -1167,15 +1176,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/13495700626159-c1d71c09-f888-4c75-b552-049aaf7bf85e.png",
           "url": "https://link.coupang.com/a/fLx3yLyyWW",
           "_ts": 1785276832.755411
-        },
-        {
-          "name": "어메이징오트 언스위트, 190ml, 24개",
-          "price": "10,650원",
-          "discount_rate": 24,
-          "priceAt": "07.29 07:13",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/46206377742990-92eeda4d-63de-4f44-ace0-6980a840b222.jpg",
-          "url": "https://link.coupang.com/a/fLx1xwEwwe",
-          "_ts": 1785276803.739768
         },
         {
           "name": "코카콜라 제로, 350ml, 24개",
