@@ -1250,6 +1250,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스타벅스 카페라떼, 200ml, 10개",
+          "price": "11,250원",
+          "discount_rate": 30,
+          "priceAt": "07.30 06:49",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/4zpzcynw/a6bfcc19633447989fab98dba55e548b.jpg",
+          "url": "https://link.coupang.com/a/fNbfpcBSnc",
+          "_ts": 1785361783.151129
+        },
+        {
           "name": "쉬즈홈 국내 제조 시어서커 홑이불 S",
           "price": "8,720원",
           "discount_rate": 21,
