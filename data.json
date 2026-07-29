@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "광동제약 진생강 쌍화, 100ml, 20개",
+          "price": "9,360원",
+          "discount_rate": 53,
+          "priceAt": "07.29 16:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/352381545179124-5e497f18-9147-4368-862d-fd9726920815.jpg",
+          "url": "https://link.coupang.com/a/fMaZpl1KRE",
+          "_ts": 1785309534.102369
+        },
+        {
           "name": "빼빼로 KBO 초코 한화 이글스, 54g, 1개",
           "price": "940원",
           "discount_rate": 39,
@@ -1171,15 +1180,6 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
-        {
-          "name": "광동제약 진생강 쌍화, 100ml, 20개",
-          "price": "9,360원",
-          "discount_rate": 53,
-          "priceAt": "07.29 16:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/352381545179124-5e497f18-9147-4368-862d-fd9726920815.jpg",
-          "url": "https://link.coupang.com/a/fMaZpl1KRE",
-          "_ts": 1785309506.721811
-        },
         {
           "name": "빼빼로 초코필드 KBO 한화 이글스, 53g, 1개",
           "price": "1,160원",
