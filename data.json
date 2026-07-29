@@ -555,6 +555,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "랜선식당 연탄불고기, 250g, 4개",
+          "price": "8,300원",
+          "discount_rate": 79,
+          "priceAt": "07.29 11:46",
+          "image": "https://shopping.toss.im/live/temp/2026-07-02/f2753853-f811-4687-b2dc-774c7be576fc.jpeg",
+          "url": "https://toss.im/_m/zaKyWLHn",
+          "_ts": 1785293169.5386932
+        },
+        {
           "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
           "price": "7,990원",
           "discount_rate": 67,
@@ -795,16 +804,6 @@
           "url": "https://toss.im/_m/1JGAXtnt",
           "_rank": 11,
           "_product_id": "102193743",
-          "_ts": 1785279779.635937
-        },
-        {
-          "name": "랜선식당 연탄불고기, 250g, 4개",
-          "price": "8,300원",
-          "discount_rate": 79,
-          "image": "https://shopping.toss.im/live/temp/2026-07-02/f2753853-f811-4687-b2dc-774c7be576fc.jpeg",
-          "url": "https://toss.im/_m/zaKyWLHn",
-          "_rank": 12,
-          "_product_id": "2278446229",
           "_ts": 1785279779.635937
         },
         {
