@@ -627,6 +627,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "전라도 전통 여린 열무김치, 3kg, 1박스",
+          "price": "11,900원",
+          "discount_rate": 66,
+          "priceAt": "07.29 21:20",
+          "image": "https://shopping.toss.im/live/temp/2025-03-25/3cc12cdf-a71c-46c1-be29-caeec7b9fa2b.jpeg",
+          "url": "https://toss.im/_m/pKAO8Cir",
+          "_ts": 1785327659.918688
+        },
+        {
           "name": "프로프룻 경북 딱딱이 복숭아, 특품, 2kg, 11-14과, 1박스",
           "price": "10,900원",
           "discount_rate": 81,
@@ -981,16 +990,6 @@
           "url": "https://toss.im/_m/hkInSJ1r",
           "_rank": 20,
           "_product_id": "2226153335",
-          "_ts": 1785315711.3249128
-        },
-        {
-          "name": "전라도 전통 여린 열무김치, 3kg, 1박스",
-          "price": "11,900원",
-          "discount_rate": 66,
-          "image": "https://shopping.toss.im/live/temp/2025-03-25/3cc12cdf-a71c-46c1-be29-caeec7b9fa2b.jpeg",
-          "url": "https://toss.im/_m/pKAO8Cir",
-          "_rank": 21,
-          "_product_id": "86166697",
           "_ts": 1785315711.3249128
         },
         {
