@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스타벅스 카페라떼, 200ml, 10개",
+          "price": "11,250원",
+          "discount_rate": 30,
+          "priceAt": "07.30 08:21",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/4zpzcynw/a6bfcc19633447989fab98dba55e548b.jpg",
+          "url": "https://link.coupang.com/a/fNbfpcBSnc",
+          "_ts": 1785367312.234655
+        },
+        {
           "name": "동원 개성 왕만두 (냉동), 2.24kg, 2개",
           "price": "21,300원",
           "discount_rate": 35,
@@ -591,24 +600,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
           "url": "https://link.coupang.com/a/fIeY3208xE",
           "_ts": 1785108778.182629
-        },
-        {
-          "name": "당진해나루 당진금빛쌀 백미 상등급 10kg*1개",
-          "price": "24,010원",
-          "discount_rate": 27,
-          "priceAt": "07.27 08:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/07/03/12/2/eec87127-a719-4f63-b37e-5112bd532169.jpg",
-          "url": "https://link.coupang.com/a/fIilMDfjzM",
-          "_ts": 1785107469.041449
-        },
-        {
-          "name": "삼기농협 서동황토쌀 신동진 백미 상등급 10kg*1개",
-          "price": "22,870원",
-          "discount_rate": 38,
-          "priceAt": "07.27 08:06",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/08/02/12/6/9150f082-2db3-460b-bf25-622bf32b82f6.jpg",
-          "url": "https://link.coupang.com/a/fIh2vArRlY",
-          "_ts": 1785107208.698993
         }
       ]
     },
@@ -1358,15 +1349,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/06/14/5/30faa359-3207-413c-8cd7-ee348df91f28.jpg",
           "url": "https://link.coupang.com/a/fNczwZWjFQ",
           "_ts": 1785362894.140866
-        },
-        {
-          "name": "스타벅스 카페라떼, 200ml, 10개",
-          "price": "11,250원",
-          "discount_rate": 30,
-          "priceAt": "07.30 06:49",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/4zpzcynw/a6bfcc19633447989fab98dba55e548b.jpg",
-          "url": "https://link.coupang.com/a/fNbfpcBSnc",
-          "_ts": 1785361783.151129
         },
         {
           "name": "쉬즈홈 국내 제조 시어서커 홑이불 S",
