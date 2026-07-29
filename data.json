@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "서울우유 비요뜨 초코링 요거트, 138g, 12개",
+          "price": "9,240원",
+          "discount_rate": 34,
+          "priceAt": "07.30 08:59",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1901331432194353-3327ffeb-b5b4-4e7b-971b-697efb2e7781.jpg",
+          "url": "https://link.coupang.com/a/fNkv2DoEWi",
+          "_ts": 1785369567.137256
+        },
+        {
           "name": "쉐푸드 등심 통 돈까스 (냉동), 300g, 2개",
           "price": "9,480원",
           "discount_rate": 32,
@@ -609,33 +618,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/21833378637105-feba8d7f-e96e-4287-b5a0-169d436d7098.jpg",
           "url": "https://link.coupang.com/a/fIoYzqbnRk",
           "_ts": 1785113032.063075
-        },
-        {
-          "name": "비비드키친 저당 흑임자 드레싱, 195g, 1개",
-          "price": "1,270원",
-          "discount_rate": 50,
-          "priceAt": "07.27 08:56",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/ulnog3pg/23b47302ab8a457eb4746bbd863107cb.jpg",
-          "url": "https://link.coupang.com/a/fIlelt90Ca",
-          "_ts": 1785110185.989486
-        },
-        {
-          "name": "Hisense하이센스 4K QD Mini LED 스마트TV 65인치 스탠드형 방문설치",
-          "price": "483,640원",
-          "discount_rate": 19,
-          "priceAt": "07.27 08:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/327083147816346-5a16f22f-ea56-4c57-a601-ec3b9713486e.jpg",
-          "url": "https://link.coupang.com/a/fIdLEzsMj6",
-          "_ts": 1785108799.809834
-        },
-        {
-          "name": "코카콜라 오리지널, 190ml, 30개",
-          "price": "13,360원",
-          "discount_rate": 16,
-          "priceAt": "07.27 08:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/89720961368927-a2bc7a57-cb63-4376-b222-56cce7c5c2fd.jpg",
-          "url": "https://link.coupang.com/a/fIeY3208xE",
-          "_ts": 1785108778.182629
         }
       ]
     },
