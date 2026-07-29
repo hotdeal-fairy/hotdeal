@@ -618,6 +618,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "군산 메밀 소바 간장, 7인분, 175g, 1개",
+          "price": "8,900원",
+          "discount_rate": 55,
+          "priceAt": "07.29 18:20",
+          "image": "https://shopping.toss.im/live/temp/2025-06-26/55179a52-d038-4b09-9a7f-6918a1daf6a9.jpeg",
+          "url": "https://toss.im/_m/Rz4gG8mx",
+          "_ts": 1785316823.911082
+        },
+        {
           "name": "맛장군 열무김치, 2kg, 1팩",
           "price": "8,900원",
           "discount_rate": 75,
@@ -1106,16 +1115,6 @@
           "url": "https://toss.im/_m/VzmN6P9i",
           "_rank": 40,
           "_product_id": "999178575",
-          "_ts": 1785315711.3249128
-        },
-        {
-          "name": "군산 메밀 소바 간장, 7인분, 175g, 1개",
-          "price": "8,900원",
-          "discount_rate": 55,
-          "image": "https://shopping.toss.im/live/temp/2025-06-26/55179a52-d038-4b09-9a7f-6918a1daf6a9.jpeg",
-          "url": "https://toss.im/_m/Rz4gG8mx",
-          "_rank": 41,
-          "_product_id": "129416525",
           "_ts": 1785315711.3249128
         },
         {
