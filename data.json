@@ -483,42 +483,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52747078599471-d0fd2d3a-559b-4733-a882-a7c51896042e.crdownload",
           "url": "https://link.coupang.com/a/fJZxIbTHOK",
           "_ts": 1785195791.092397
-        },
-        {
-          "name": "켈로그 프로틴바K 헤이즐넛 & 다크초코, 40g, 3개",
-          "price": "1,880원",
-          "discount_rate": 37,
-          "priceAt": "07.28 08:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1646289303834-30db2b79-a238-4bdf-abdf-7a132cfab8a2.jpg",
-          "url": "https://link.coupang.com/a/fJYOtw8w8a",
-          "_ts": 1785195178.203973
-        },
-        {
-          "name": "프렌치카페 로스터리 에스프레소 라떼, 250ml, 10개",
-          "price": "7,560원",
-          "discount_rate": 44,
-          "priceAt": "07.28 08:16",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/258779520920732-1e693b3b-b5e7-4665-85d8-281030156cec.jpg",
-          "url": "https://link.coupang.com/a/fJXD6u5BFA",
-          "_ts": 1785194196.65009
-        },
-        {
-          "name": "가그린 어린이용 구강세정제 사과향, 380ml, 3개",
-          "price": "6,630원",
-          "discount_rate": 25,
-          "priceAt": "07.28 08:12",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2779441148604899-89312534-afe5-44da-9607-7c85bfe582f6.png",
-          "url": "https://link.coupang.com/a/fJTv0mXb3Y",
-          "_ts": 1785193941.9827468
-        },
-        {
-          "name": "락앤락 바로 한끼 도자기 밥용기, 4개, 355ml 355ml*4개",
-          "price": "15,420원",
-          "discount_rate": 30,
-          "priceAt": "07.28 08:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/31365200054118-39eff976-f5b2-4c3e-a145-b00ddead954e.jpg",
-          "url": "https://link.coupang.com/a/fJSIPn6BUq",
-          "_ts": 1785193875.202106
         }
       ]
     },
@@ -1230,6 +1194,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "삼양 짜르르 140g, 8개",
+          "price": "7,900원",
+          "discount_rate": 17,
+          "priceAt": "07.31 08:43",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/138710174954991-e12022ff-7e86-4dc3-8caa-960bf41a44cd.jpg",
+          "url": "https://link.coupang.com/a/fOYfPQRFDw",
+          "_ts": 1785454986.526922
+        },
         {
           "name": "보몽드 국내 제조 시원한 냉감패드 SS사이즈",
           "price": "19,900원",
