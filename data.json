@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "첫맛 떡볶이 양념 분말 순한맛, 1kg, 1개",
+          "price": "4,900원",
+          "discount_rate": 48,
+          "priceAt": "07.31 07:13",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/55069992106097-f2c397f1-362e-4dd1-991b-f1b8c639f8bb.jpg",
+          "url": "https://link.coupang.com/a/fORPG61yGO",
+          "_ts": 1785449597.259182
+        },
+        {
           "name": "베베쿡 처음먹는 빼빼롱뻥 30g*6개",
           "price": "7,900원",
           "discount_rate": 34,
@@ -492,15 +501,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/03/28/3698782837/358d7533-ad5e-44de-85c3-35338d902c37.jpg",
           "url": "https://link.coupang.com/a/fJUfsYtCDc",
           "_ts": 1785191344.888751
-        },
-        {
-          "name": "더미식 소고기장터국, 350g, 5개",
-          "price": "9,800원",
-          "discount_rate": 34,
-          "priceAt": "07.28 07:12",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/05/23/17/1/415e12a7-3fa6-4464-a1b3-4a4dce2a1c1d.jpg",
-          "url": "https://link.coupang.com/a/fJS280CZlQ",
-          "_ts": 1785190339.344693
         }
       ]
     },
