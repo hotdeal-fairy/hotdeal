@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "청정원 저당 돈까스 소스, 240g, 2개",
+          "price": "2,480원",
+          "discount_rate": 50,
+          "priceAt": "07.30 14:36",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/ad3ff70f-92e4-441a-b201-742bdabb3a745097223973111959326.png",
+          "url": "https://link.coupang.com/a/fNICgLSL2O",
+          "_ts": 1785389806.6695218
+        },
+        {
           "name": "풀무원 한우 물냉면 2인분, 846g, 2개",
           "price": "5,480원",
           "discount_rate": 45,
@@ -609,15 +618,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1327632924357665-a8839ab4-4774-4f41-ad6e-35c22d6abc35.jpg",
           "url": "https://link.coupang.com/a/fIKd8HqvW8",
           "_ts": 1785130908.182755
-        },
-        {
-          "name": "스탠리 MESSI X 퀜처 프로투어 플립 스트로 텀블러 1.18L*1개",
-          "price": "35,550원",
-          "discount_rate": 41,
-          "priceAt": "07.27 13:13",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/73152180650964-6a803273-4aa7-44cd-9752-ed71cac17524.jpg",
-          "url": "https://link.coupang.com/a/fIDYmNVeNg",
-          "_ts": 1785125623.0708659
         }
       ]
     },
