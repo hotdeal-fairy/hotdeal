@@ -627,6 +627,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "듀오덤 밴드, 혼합형, 8매입, 1개",
+          "price": "3,800원",
+          "discount_rate": 70,
+          "priceAt": "07.30 11:45",
+          "image": "https://shopping.toss.im/live/temp/2025-05-26/61cf7eec-937b-400d-840f-e953c3e3bb10.jpeg",
+          "url": "https://toss.im/_m/lSGsYvVz",
+          "_ts": 1785379558.584657
+        },
+        {
           "name": "쉽고 빠른 리커버리 쥐젖 비립종 지우개 패치, 144pcs, 1개",
           "price": "6,900원",
           "discount_rate": 61,
@@ -843,15 +852,6 @@
           "_ts": 1785120374.131577
         },
         {
-          "name": "구워먹는 할루미치즈, 200g, 3개",
-          "price": "7,600원",
-          "discount_rate": 65,
-          "priceAt": "07.27 11:45",
-          "image": "https://shopping.toss.im/live/temp/2026-06-30/ade7ab0a-5ebe-489c-a02a-66196e0122ca.png",
-          "url": "https://toss.im/_m/bYiJDbZ5",
-          "_ts": 1785120327.4384818
-        },
-        {
           "name": "에브리워터 무라벨, 500ml, 40개",
           "price": "4,400원",
           "discount_rate": 77,
@@ -929,16 +929,6 @@
           "url": "https://toss.im/_m/pJg81Wmo",
           "_rank": 12,
           "_product_id": "7707001",
-          "_ts": 1785366124.932222
-        },
-        {
-          "name": "듀오덤 밴드, 혼합형, 8매입, 1개",
-          "price": "3,800원",
-          "discount_rate": 70,
-          "image": "https://shopping.toss.im/live/temp/2025-05-26/61cf7eec-937b-400d-840f-e953c3e3bb10.jpeg",
-          "url": "https://toss.im/_m/lSGsYvVz",
-          "_rank": 13,
-          "_product_id": "106565105",
           "_ts": 1785366124.932222
         },
         {
