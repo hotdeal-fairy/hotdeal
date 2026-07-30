@@ -609,15 +609,6 @@
           "image": "images/placeholder.svg",
           "url": "https://link.coupang.com/a/fIT231Mwwu",
           "_ts": 1785139169.7603369
-        },
-        {
-          "name": "빙그레 더단백 밸런스 오리지널 건강음료, 190ml, 24개",
-          "price": "9,240원",
-          "discount_rate": 51,
-          "priceAt": "07.27 15:48",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/22369591486134-97e6d42f-40ee-4a06-9c79-b2dff81f7a61.png",
-          "url": "https://link.coupang.com/a/fIO0AXafq8",
-          "_ts": 1785134890.336242
         }
       ]
     },
@@ -1260,6 +1251,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "가로팔로 링귀니 파스타, 500g, 2개",
+          "price": "4,980원",
+          "discount_rate": 36,
+          "priceAt": "07.30 16:48",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/539ac7c7-9eef-4499-9dbf-3d145bfecf101932248743017013390.png",
+          "url": "https://link.coupang.com/a/fNR3pS6uwm",
+          "_ts": 1785397718.791851
+        },
         {
           "name": "테팔 에센셜 2IN1 주방 뒤집개 1개",
           "price": "3,880원",
