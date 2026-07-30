@@ -465,24 +465,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/374152356522438-3a18e0b3-0e99-4d3e-ba99-5819717afb07.jpg",
           "url": "https://link.coupang.com/a/fJ11f5ytdk",
           "_ts": 1785197868.720861
-        },
-        {
-          "name": "동원 보성말차, 500ml, 24개",
-          "price": "12,410원",
-          "discount_rate": 55,
-          "priceAt": "07.28 08:47",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2220499019315721-e3c8c961-8980-42cf-ae76-64f0a0bf10a8.jpg",
-          "url": "https://link.coupang.com/a/fJZQgAJNV6",
-          "_ts": 1785196044.816148
-        },
-        {
-          "name": "닥터브로너스 립밤 4g*3개",
-          "price": "6,380원",
-          "discount_rate": 51,
-          "priceAt": "07.28 08:43",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52747078599471-d0fd2d3a-559b-4733-a882-a7c51896042e.crdownload",
-          "url": "https://link.coupang.com/a/fJZxIbTHOK",
-          "_ts": 1785195791.092397
         }
       ]
     },
@@ -1194,6 +1176,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "오늘도양 니트 의자 커버 8p",
+          "price": "740원",
+          "discount_rate": 73,
+          "priceAt": "07.31 08:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/rs_quotation_api/uu8i41j0/c23762dfefbb433a85648df83294054c.png",
+          "url": "https://link.coupang.com/a/fOZhdBTzEW",
+          "_ts": 1785455843.902915
+        },
         {
           "name": "삼양 짜르르 140g, 8개",
           "price": "7,900원",
