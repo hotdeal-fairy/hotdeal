@@ -834,24 +834,6 @@
           "_ts": 1785144018.820713
         },
         {
-          "name": "파김치, 1개, 1kg",
-          "price": "7,900원",
-          "discount_rate": 69,
-          "priceAt": "07.27 15:00",
-          "image": "https://shopping.toss.im/live/temp/2025-07-02/3d6bcb79-9f37-4185-abd2-fb0a54cd07bf.png",
-          "url": "https://toss.im/_m/BujWJZGD",
-          "_ts": 1785132054.5076602
-        },
-        {
-          "name": "이프레시 국내산 대추 방울 토마토, 4번과, 2kg, 1개",
-          "price": "7,347원",
-          "discount_rate": 61,
-          "priceAt": "07.27 15:00",
-          "image": "https://shopping.toss.im/live/temp/2025-10-23/5a452f30-0b0b-4c35-854d-691eebe86746.jpeg",
-          "url": "https://toss.im/_m/9XE7ofJ3",
-          "_ts": 1785132021.216652
-        },
-        {
           "name": "에브리워터 무라벨, 500ml, 40개",
           "price": "4,400원",
           "discount_rate": 77,
@@ -1278,6 +1260,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "테팔 에센셜 2in1 주방 볶음스푼 1개",
+          "price": "3,880원",
+          "discount_rate": 40,
+          "priceAt": "07.30 15:41",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b0c/42236c28dbdcfa6f745572887998ebbff1cbe5852d47d650cf8c920d3bef.jpg",
+          "url": "https://link.coupang.com/a/fNNfJy1p36",
+          "_ts": 1785393690.524086
+        },
         {
           "name": "쿠쿠 전자동 에스프레소 커피머신",
           "price": "224,500원",
