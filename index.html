@@ -133,10 +133,16 @@
 
     const malls = data.malls ?? [];
 
+    // ?mall=toss 같은 쿼리 파라미터로 특정 몰 탭을 바로 열 수 있게 함(탭별 공유 링크 지원).
+    // 파라미터 값은 화면에 그리지 않고 malls 배열의 id와 정확히 일치하는지 찾는 용도로만 쓰므로
+    // 렌더링 경로로 노출되지 않는다. 일치하는 게 없으면 기존처럼 malls[0]로 폴백.
+    const requestedMallId = new URLSearchParams(location.search).get("mall");
+    const initialMall = malls.find((m) => m.id === requestedMallId) ?? malls[0];
+
     document.getElementById("mall-tabs").innerHTML = malls
       .map(
-        (mall, i) => `
-          <button class="mall-tab-btn${i === 0 ? " active" : ""}" data-mall="${escapeHtml(mall.id)}">
+        (mall) => `
+          <button class="mall-tab-btn${mall === initialMall ? " active" : ""}" data-mall="${escapeHtml(mall.id)}">
             ${escapeHtml(mall.name)}
           </button>
         `
@@ -186,7 +192,7 @@
       `;
     }
 
-    renderMall(malls[0]);
+    renderMall(initialMall);
   }
 </script>
 
