@@ -1141,6 +1141,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "생활공작소 제습제 본품, 250g, 24개",
+          "price": "15,900원",
+          "discount_rate": 20,
+          "priceAt": "07.31 07:21",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e72d/bfafd071abf6280540b77534f415c4f215b217306876c3395fa9b0524e93.jpg",
+          "url": "https://link.coupang.com/a/fOSrZGKzOS",
+          "_ts": 1785450110.763347
+        },
+        {
           "name": "토레타 무라벨 이온음료, 340ml, 20개",
           "price": "10,080원",
           "discount_rate": 22,
