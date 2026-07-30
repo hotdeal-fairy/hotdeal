@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "베베쿡 처음먹는 빼빼롱뻥 30g*6개",
+          "price": "7,900원",
+          "discount_rate": 34,
+          "priceAt": "07.30 21:26",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4425593520227-c615730f-44dd-441e-a3b7-fb7ef4520f12.jpg",
+          "url": "https://link.coupang.com/a/fObVWR14W4",
+          "_ts": 1785414417.948427
+        },
+        {
           "name": "움트리 저당 초장, 450g, 2개",
           "price": "4,600원",
           "discount_rate": 49,
@@ -724,15 +733,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-20/608d3e90-096f-4b6a-8140-2d507f5f2295.png",
           "url": "https://toss.im/_m/RJ2Op0We",
           "_ts": 1785206821.978506
-        },
-        {
-          "name": "호정가 옛날도나스, 60g, 16개",
-          "price": "8,900원",
-          "discount_rate": 44,
-          "priceAt": "07.27 21:21",
-          "image": "https://shopping.toss.im/live/temp/2026-04-06/943f37fe-e3c4-41e4-8446-f9a29a8b2cac.jpeg",
-          "url": "https://toss.im/_m/1VtdXxNu",
-          "_ts": 1785154874.6099951
         },
         {
           "name": "한예지 가든 플라워 롤 화장지, 3겹, 30m, 30롤, 2팩",
