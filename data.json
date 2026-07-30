@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "바르다김선생 소불고기 주먹밥 5인분 (냉동), 500g, 2개",
+          "price": "7,990원",
+          "discount_rate": 47,
+          "priceAt": "07.30 17:15",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/fdfe90e3-53c7-4af2-b64f-7e8be132d35a362932527349193568.png",
+          "url": "https://link.coupang.com/a/fNTVPrfRfw",
+          "_ts": 1785399301.13428
+        },
+        {
           "name": "스탠리 올데이 캐리올 퀜처 H2.0 텀블러 스트랩백 1.18L, 크림, 1개 (색상선택)",
           "price": "17,490원",
           "discount_rate": 56,
@@ -591,24 +600,6 @@
           "image": "images/placeholder.svg",
           "url": "https://link.coupang.com/a/fIXuQWXJBY",
           "_ts": 1785142137.989144
-        },
-        {
-          "name": "하림 닭다리살 (냉장), 600g, 1개",
-          "price": "8,550원",
-          "discount_rate": 29,
-          "priceAt": "07.27 17:13",
-          "image": "images/placeholder.svg",
-          "url": "https://link.coupang.com/a/fIU3tmVXVY",
-          "_ts": 1785139994.17777
-        },
-        {
-          "name": "무항생제 신선한 특란 *30구",
-          "price": "7,990원",
-          "discount_rate": null,
-          "priceAt": "07.27 16:59",
-          "image": "images/placeholder.svg",
-          "url": "https://link.coupang.com/a/fIT231Mwwu",
-          "_ts": 1785139169.7603369
         }
       ]
     },
