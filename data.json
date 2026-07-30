@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "풀무원 매콤 칡냉면 2인분, 905g, 2개",
+          "price": "5,980원",
+          "discount_rate": 46,
+          "priceAt": "07.30 11:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/31013138750443-d09ef82c-fb2c-4e80-b454-bbaa215a8029.jpg",
+          "url": "https://link.coupang.com/a/fNw6JdIFMq",
+          "_ts": 1785380152.148561
+        },
+        {
           "name": "에스앤비 토로케로 하야시 테이스티 하이라이스, 160g, 2개",
           "price": "4,180원",
           "discount_rate": 47,
@@ -627,15 +636,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/922eb757-a33b-496c-bb5e-8b450097e7264779128572210634688.png",
           "url": "https://link.coupang.com/a/fIzvmd3WsS",
           "_ts": 1785121872.493726
-        },
-        {
-          "name": "르샤트라1802 인퓨전 초고농축 섬유유연제 라벤더부케향 본품 5.7L*1개",
-          "price": "13,860원",
-          "discount_rate": 27,
-          "priceAt": "07.27 11:55",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dc33/f5a8c0a3c123dffafb5b818bf3fc543623a6e90e5b9b358e5d1acb4f390a.jpg",
-          "url": "https://link.coupang.com/a/fIylkIiqbI",
-          "_ts": 1785120915.9499059
         }
       ]
     },
@@ -859,15 +859,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-10-23/5a452f30-0b0b-4c35-854d-691eebe86746.jpeg",
           "url": "https://toss.im/_m/9XE7ofJ3",
           "_ts": 1785132021.216652
-        },
-        {
-          "name": "빌리스홈 초고농축 올인원 캡슐세제 퍼펙트 클린 라벤더, 200개, 1600g, 1팩",
-          "price": "5,800원",
-          "discount_rate": 85,
-          "priceAt": "07.27 11:46",
-          "image": "https://shopping.toss.im/live/temp/2026-07-23/055ff865-d00c-483d-8621-71cf4028d910.jpeg",
-          "url": "https://toss.im/_m/Z35QHPu3",
-          "_ts": 1785120374.131577
         },
         {
           "name": "에브리워터 무라벨, 500ml, 40개",
