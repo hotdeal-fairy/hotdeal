@@ -510,6 +510,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "야채피아 유럽피안 샐러드 모듬 쌈채소, 1kg, 1개",
+          "price": "9,350원",
+          "discount_rate": 53,
+          "priceAt": "07.30 21:21",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjFmM2I2/ZVV6MHlmWTBQYW1VdHNGcmtyUld3OUhtQVBGeDR1ZkRpc0xKa1NLN2VpOD0.png",
+          "url": "https://toss.im/_m/Xf4U2H4w",
+          "_ts": 1785414062.2898471
+        },
+        {
           "name": "잘 닦일수밖에 없고 평생 쓸수밖에 없는 매직걸레, 5장",
           "price": "5,800원",
           "discount_rate": 82,
@@ -724,15 +733,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-06/943f37fe-e3c4-41e4-8446-f9a29a8b2cac.jpeg",
           "url": "https://toss.im/_m/1VtdXxNu",
           "_ts": 1785154874.6099951
-        },
-        {
-          "name": "세척사과, 최대15brix, 마트납품용, 꿀사과, 2kg, 1박스",
-          "price": "9,900원",
-          "discount_rate": 75,
-          "priceAt": "07.27 21:20",
-          "image": "https://shopping.toss.im/live/temp/2026-06-10/60d9ae23-f103-497f-8dbc-6ed8f947dced.png",
-          "url": "https://toss.im/_m/H7GwEm9w",
-          "_ts": 1785154824.099972
         },
         {
           "name": "한예지 가든 플라워 롤 화장지, 3겹, 30m, 30롤, 2팩",
