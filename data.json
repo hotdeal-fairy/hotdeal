@@ -591,15 +591,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10323314882887-10cf865c-7efb-46c7-a10c-938738ea26ef.jpg",
           "url": "https://link.coupang.com/a/fI3jfvJWXk",
           "_ts": 1785146897.108166
-        },
-        {
-          "name": "비비고 직화 참기름김, 90g, 2개",
-          "price": "10,020원",
-          "discount_rate": 47,
-          "priceAt": "07.27 18:08",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/43201014863906-18d6cb5a-8c66-4bd0-9e36-067bcee63979.jpg",
-          "url": "https://link.coupang.com/a/fIYVSFdM28",
-          "_ts": 1785143296.108247
         }
       ]
     },
@@ -608,6 +599,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "곰팡이 완벽제거 발포 세탁조 클리너, 1박스, 220g",
+          "price": "7,900원",
+          "discount_rate": 73,
+          "priceAt": "07.30 18:20",
+          "image": "https://shopping.toss.im/live/taca/ai/Zjk1ZTkw/TXNhWmVHd1BGbXpibGtqMjVoMDlaa3I0WVljZWVFOWNlQ2VIM3JraHVDRT0.png",
+          "url": "https://toss.im/_m/VJcVhhMa",
+          "_ts": 1785403223.572584
+        },
         {
           "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
           "price": "9,900원",
@@ -805,15 +805,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-04-02/3eae5070-cd84-4f6f-8e8c-088838f21237.jpeg",
           "url": "https://toss.im/_m/9HKYMk5r",
           "_ts": 1785144057.218657
-        },
-        {
-          "name": "제주 미니 밤호박, 10kg, 1박스",
-          "price": "19,900원",
-          "discount_rate": 60,
-          "priceAt": "07.27 18:20",
-          "image": "https://shopping.toss.im/live/temp/2026-05-31/a6e579c8-ca37-4671-9d84-d6f91a66df2d.jpeg",
-          "url": "https://toss.im/_m/vgkW0jAj",
-          "_ts": 1785144018.820713
         },
         {
           "name": "한예지 가든 플라워 롤 화장지, 3겹, 30m, 30롤, 2팩",
