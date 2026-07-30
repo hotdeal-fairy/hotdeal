@@ -618,15 +618,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dc33/f5a8c0a3c123dffafb5b818bf3fc543623a6e90e5b9b358e5d1acb4f390a.jpg",
           "url": "https://link.coupang.com/a/fIylkIiqbI",
           "_ts": 1785120915.9499059
-        },
-        {
-          "name": "미샤 세이프 블록 RX 커버 톤업 선 쿠션 SPF50+ PA++++ 14g*1개",
-          "price": "6,760원",
-          "discount_rate": 32,
-          "priceAt": "07.27 11:40",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97950468167442-12dce0bc-6bb8-4c2c-8a06-861dcb2865f9.jpg",
-          "url": "https://link.coupang.com/a/fIxkqRolNI",
-          "_ts": 1785120041.988896
         }
       ]
     },
@@ -635,6 +626,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "쉽고 빠른 리커버리 쥐젖 비립종 지우개 패치, 144pcs, 1개",
+          "price": "6,900원",
+          "discount_rate": 61,
+          "priceAt": "07.30 11:45",
+          "image": "https://shopping.toss.im/live/temp/2026-05-13/a6ec5b3b-46d2-4100-9af9-93684e3e6a7d.jpeg",
+          "url": "https://toss.im/_m/nrlxptcd",
+          "_ts": 1785379522.030137
+        },
         {
           "name": "전라도 전통 여린 열무김치, 3kg, 1박스",
           "price": "11,900원",
@@ -1139,16 +1139,6 @@
           "url": "https://toss.im/_m/vCOvg4Se",
           "_rank": 35,
           "_product_id": "2507066857",
-          "_ts": 1785366124.932222
-        },
-        {
-          "name": "쉽고 빠른 리커버리 쥐젖 비립종 지우개 패치, 144pcs, 1개",
-          "price": "6,900원",
-          "discount_rate": 61,
-          "image": "https://shopping.toss.im/live/temp/2026-05-13/a6ec5b3b-46d2-4100-9af9-93684e3e6a7d.jpeg",
-          "url": "https://toss.im/_m/nrlxptcd",
-          "_rank": 36,
-          "_product_id": "1967764677",
           "_ts": 1785366124.932222
         },
         {
