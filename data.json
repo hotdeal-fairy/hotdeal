@@ -483,15 +483,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/2510/6d0fb40af513e1895f7e0524616daf38c3916a7fdd6c754610b6f61e831d.jpg",
           "url": "https://link.coupang.com/a/fKGuJufieW",
           "_ts": 1785231852.1843698
-        },
-        {
-          "name": "경성당 현미 누룽지, 1kg, 1개",
-          "price": "6,280원",
-          "discount_rate": 37,
-          "priceAt": "07.28 16:27",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6904699439614-66beb83b-8077-4989-8cba-290e2f9ff66a.jpg",
-          "url": "https://link.coupang.com/a/fKwIwGf7ZI",
-          "_ts": 1785223642.101395
         }
       ]
     },
@@ -1203,6 +1194,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "제니베이커리 8종 믹스 넛츠 쿠키, 1개, 460g",
+          "price": "30,490원",
+          "discount_rate": 27,
+          "priceAt": "07.31 17:13",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/3gz9rfk6/dd1240df5b4846beadd3269cd43b5f9f.jpg",
+          "url": "https://link.coupang.com/a/fPyI2YYlA4",
+          "_ts": 1785485602.947623
+        },
         {
           "name": "벨라쿠진 연마제 없는 에센셜 스텐 사각 설거지통 7L*1개",
           "price": "6,280원",
