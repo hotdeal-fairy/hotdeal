@@ -510,15 +510,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0f18e464-bc28-40d7-a483-9b89b140d5773764740761619626021.png",
           "url": "https://link.coupang.com/a/fKSBO3Kaqq",
           "_ts": 1785242023.777914
-        },
-        {
-          "name": "아후카틀 엑스트라버진 아보카도 오일, 500ml, 1개",
-          "price": "13,500원",
-          "discount_rate": 36,
-          "priceAt": "07.28 18:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/2510/6d0fb40af513e1895f7e0524616daf38c3916a7fdd6c754610b6f61e831d.jpg",
-          "url": "https://link.coupang.com/a/fKGuJufieW",
-          "_ts": 1785231852.1843698
         }
       ]
     },
@@ -527,6 +518,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "눕자마자 저세상 베개, 그레이, 38x68cm, 1개",
+          "price": "8,335원",
+          "discount_rate": 61,
+          "priceAt": "07.31 20:00",
+          "image": "https://shopping.toss.im/live/taca/ai/OTZjY2E5/QU5qRG5tczhtelNjTVp1MjJaWk94c3ZMUEVzeGF6eHBuRFU4TFp5MDRaWmo.png",
+          "url": "https://toss.im/_m/3pSqQKds",
+          "_ts": 1785495616.0635169
+        },
         {
           "name": "비로르 304 강력 주방 가위, 팬더, 20.5cm, 2개",
           "price": "6,400원",
@@ -733,15 +733,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-22/d1435209-ce29-4cbd-80d0-b2b60766b3b8.png",
           "url": "https://toss.im/_m/lCiEBUHD",
           "_ts": 1785241224.0565279
-        },
-        {
-          "name": "파파네정육점 한입 삼겹살, 500g, 4개",
-          "price": "21,267원",
-          "discount_rate": 41,
-          "priceAt": "07.28 20:00",
-          "image": "https://shopping.toss.im/live/temp/2026-03-13/cbbce3e2-deb7-45b0-96da-71b3abc716a1.jpeg",
-          "url": "https://toss.im/_m/jtbw3GAC",
-          "_ts": 1785236413.778409
         },
         {
           "name": "터치 라이트 아토캡 고농축 캡슐세제, 8g, 120개입, 1개",
