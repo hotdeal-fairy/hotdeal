@@ -519,6 +519,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "발이 편한 카바 밴딩 중목 양말, 화이트, 10켤레",
+          "price": "5,900원",
+          "discount_rate": 70,
+          "priceAt": "07.31 21:21",
+          "image": "https://shopping.toss.im/live/taca/ai/YTdhZGIx/QU9Yd3N3RXhqMDVUaWg4emhjUjRJSVJScTUxNnFoUUNOZi91QUlRaTQ5OTY.png",
+          "url": "https://toss.im/_m/niEqGYmr",
+          "_ts": 1785500480.550378
+        },
+        {
           "name": "아이앤어스 뉴 변기클리너, 310g, 4개",
           "price": "6,900원",
           "discount_rate": 88,
@@ -724,24 +733,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-01/cbcba31d-9c3d-4336-b01c-da1112ebe230.jpeg",
           "url": "https://toss.im/_m/JSoQFq7g",
           "_ts": 1785293122.980476
-        },
-        {
-          "name": "산지로드 소갈비살, 1kg, 1개",
-          "price": "29,600원",
-          "discount_rate": 25,
-          "priceAt": "07.28 21:21",
-          "image": "https://shopping.toss.im/live/temp/2026-03-18/f18cf1b8-618f-4397-942d-09fed91a1455.jpeg",
-          "url": "https://toss.im/_m/9fN1lYFa",
-          "_ts": 1785241272.715414
-        },
-        {
-          "name": "영천 딱딱이 백도 복숭아, 고당도, 12-13과, 2kg, 1박스",
-          "price": "15,900원",
-          "discount_rate": 68,
-          "priceAt": "07.28 21:20",
-          "image": "https://shopping.toss.im/live/temp/2026-07-22/d1435209-ce29-4cbd-80d0-b2b60766b3b8.png",
-          "url": "https://toss.im/_m/lCiEBUHD",
-          "_ts": 1785241224.0565279
         },
         {
           "name": "터치 라이트 아토캡 고농축 캡슐세제, 8g, 120개입, 1개",
