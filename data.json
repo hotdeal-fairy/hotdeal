@@ -1300,6 +1300,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 본품, 4L, 1개",
+          "price": "12,750원",
+          "discount_rate": 20,
+          "priceAt": "08.01 07:20",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2880720212916693-651639b0-11c5-4c0d-9de4-42b19ad80ecc.jpg",
+          "url": "https://link.coupang.com/a/fQxg30D9Fs",
+          "_ts": 1785536443.8527691
+        },
+        {
           "name": "사무실 과자세트 스낵 15입 세트 2호 (쵸코하임 + 버터와플 + 참크래커 + 허니버터칩 + 구운감자 2p ",
           "price": "14,950원",
           "discount_rate": 25,
@@ -2009,15 +2018,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/439454780872569-3238ba59-a96c-4399-b95d-b8ef624c97c7.jpg",
           "url": "https://link.coupang.com/a/fEWdI0V6OG",
           "_ts": 1784932714.675544
-        },
-        {
-          "name": "토레타 이온음료, 1.5L, 12개",
-          "price": "15,170원",
-          "discount_rate": 24,
-          "priceAt": "07.25 07:19",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/98491304065795-2254fccf-d45a-41c4-9502-86f4044c35e6.jpg",
-          "url": "https://link.coupang.com/a/fEUThoogHA",
-          "_ts": 1784931595.5221682
         }
       ]
     }
