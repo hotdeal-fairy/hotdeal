@@ -510,6 +510,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "고깃집왕건 양념 소불고기, 1kg, 1개",
+          "price": "9,900원",
+          "discount_rate": 61,
+          "priceAt": "08.01 08:46",
+          "image": "https://shopping.toss.im/live/temp/2026-06-25/e0fcf9c1-ba3c-4a91-9469-f476692ad0e9.jpeg",
+          "url": "https://toss.im/_m/FDu8BhrB",
+          "_ts": 1785541576.0641038
+        },
+        {
           "name": "설렘복숭아 경산 망고복숭아, 10-12과, 1kg, 1박스",
           "price": "11,790원",
           "discount_rate": 70,
@@ -743,18 +752,6 @@
           "url": "https://toss.im/_m/ZnfIUIVk",
           "_rank": 2,
           "_product_id": "12833301",
-          "_ts": 1785538954.559932,
-          "_last_synced_ts": 1785538954.559932
-        },
-        {
-          "name": "고깃집왕건 양념 소불고기, 1kg, 1개",
-          "price": "9,900원",
-          "discount_rate": 61,
-          "priceAt": "08.01 08:02",
-          "image": "https://shopping.toss.im/live/temp/2026-06-25/e0fcf9c1-ba3c-4a91-9469-f476692ad0e9.jpeg",
-          "url": "https://toss.im/_m/FDu8BhrB",
-          "_rank": 12,
-          "_product_id": "2335463985",
           "_ts": 1785538954.559932,
           "_last_synced_ts": 1785538954.559932
         },
