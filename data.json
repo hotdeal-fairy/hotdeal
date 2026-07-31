@@ -447,15 +447,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5712351879314536-ef4f6aa9-8391-429f-a766-3bd98ca73f87.jpg",
           "url": "https://link.coupang.com/a/fKkaNx7u9Y",
           "_ts": 1785213113.947265
-        },
-        {
-          "name": "동원 JUST 노슈가 황도 2절 통조림, 400g, 6개",
-          "price": "6,300원",
-          "discount_rate": 55,
-          "priceAt": "07.28 11:41",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/58538089349263-3e09294c-2dbb-4064-873a-cb949f38f0dc.jpg",
-          "url": "https://link.coupang.com/a/fKcgkWrFGm",
-          "_ts": 1785206467.593586
         }
       ]
     },
@@ -464,6 +455,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "여름 청사과 썸머킹 썸머프린스 아오리, 소과, 3kg, 1박스",
+          "price": "7,800원",
+          "discount_rate": 76,
+          "priceAt": "07.31 11:45",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/OTU5MDFi/Q2xENFhnZ2JFWEJwQzFUd3dhY1J6RGhac3pTUHk1SmUvWnE4cTJLcFkrcz0.png",
+          "url": "https://toss.im/_m/xHs3fVY9",
+          "_ts": 1785465923.8204522
+        },
         {
           "name": "야채피아 유럽피안 샐러드 모듬 쌈채소, 1kg, 1개",
           "price": "9,350원",
