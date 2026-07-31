@@ -447,24 +447,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/58538089349263-3e09294c-2dbb-4064-873a-cb949f38f0dc.jpg",
           "url": "https://link.coupang.com/a/fKcgkWrFGm",
           "_ts": 1785206467.593586
-        },
-        {
-          "name": "스탠리 아이스플로우 에어로라이트 플립 스트로 2.0 텀블러 1.1L*1개",
-          "price": "29,050원",
-          "discount_rate": 42,
-          "priceAt": "07.28 10:20",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1754817488985459-2c978ff5-86f2-4258-bccf-c4dbd31b35d5.jpg",
-          "url": "https://link.coupang.com/a/fJ6u2dWZMq",
-          "_ts": 1785201631.299237
-        },
-        {
-          "name": "가쯔 벌레 퇴치 휴대용 스마트 전기모기채 2p",
-          "price": "3,700원",
-          "discount_rate": 38,
-          "priceAt": "07.28 10:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/fda8/7b67ee2ef546822dbbb810b870ef4ebd48fcfadcd3c82c5cbfe51b2e40cb.jpg",
-          "url": "https://link.coupang.com/a/fJ43sLQZSm",
-          "_ts": 1785200417.331081
         }
       ]
     },
@@ -1176,6 +1158,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "무항생제 신선 특란 1.8kg, 30구, 1개",
+          "price": "7,990원",
+          "discount_rate": null,
+          "priceAt": "07.31 11:03",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2112471654513094-f3bc0aeb-bec9-4528-8c5a-505e33d96d6d.jpg",
+          "url": "https://link.coupang.com/a/fO8hs3hQgS",
+          "_ts": 1785463401.716741
+        },
         {
           "name": "굿밸류 크리스탈에어 젤리쿠션 휴대폰 케이스 2개, (갤럭시, 아이폰 모든기종)",
           "price": "3,520원",
