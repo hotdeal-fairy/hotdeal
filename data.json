@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "벨라쿠진 인덕션 우드패턴 프라이팬, 20cm, 1개",
+          "price": "8,450원",
+          "discount_rate": 40,
+          "priceAt": "07.31 13:35",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/05/07/17/9/fa798a3d-e81b-4381-a9a6-b2412efba949.jpg",
+          "url": "https://link.coupang.com/a/fPjabKIsYm",
+          "_ts": 1785472546.54983
+        },
+        {
           "name": "카레여왕 구운마늘 앤 양파 진한 맛, 108g, 2개",
           "price": "4,600원",
           "discount_rate": 34,
@@ -456,15 +465,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6904699439614-66beb83b-8077-4989-8cba-290e2f9ff66a.jpg",
           "url": "https://link.coupang.com/a/fKwIwGf7ZI",
           "_ts": 1785223642.101395
-        },
-        {
-          "name": "웅진 내사랑 사과 드링크, 185ml, 72개",
-          "price": "14,250원",
-          "discount_rate": 56,
-          "priceAt": "07.28 13:31",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5712351879314536-ef4f6aa9-8391-429f-a766-3bd98ca73f87.jpg",
-          "url": "https://link.coupang.com/a/fKkaNx7u9Y",
-          "_ts": 1785213113.947265
         }
       ]
     },
