@@ -501,24 +501,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/24065610492364-7e89825c-76d7-4e5f-a4c8-742e18c27230.jpg",
           "url": "https://link.coupang.com/a/fLGttMcUV3",
           "_ts": 1785283913.111521
-        },
-        {
-          "name": "[자동급식기+물병일체형] 고양이 강아지 자동급식기 물통 일체형 펫급수기 대용량 사료배급기 3.3L*1개",
-          "price": "4,980원",
-          "discount_rate": 67,
-          "priceAt": "07.29 08:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e8e5/120bb303f0c1900039947655cfaa77886fd6821184fc0c616492a1b36141.jpg",
-          "url": "https://link.coupang.com/a/fLxHHaj7F6",
-          "_ts": 1785281604.097127
-        },
-        {
-          "name": "어메이징오트 언스위트, 190ml, 24개",
-          "price": "10,650원",
-          "discount_rate": 24,
-          "priceAt": "07.29 08:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/46206377742990-92eeda4d-63de-4f44-ace0-6980a840b222.jpg",
-          "url": "https://link.coupang.com/a/fLx1xwEwwe",
-          "_ts": 1785281593.9424078
         }
       ]
     },
@@ -527,6 +509,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "설렘복숭아 경산 망고복숭아, 10-12과, 1kg, 1박스",
+          "price": "11,790원",
+          "discount_rate": 70,
+          "priceAt": "08.01 08:45",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MTQwMDE4/ZUdhdTJSK1pXZzFPY1dCdytZS0VyR1poZnhnQitmQ0RyOWlLZnBNQzhEcz0.png",
+          "url": "https://toss.im/_m/9OFoGscv",
+          "_ts": 1785541517.799528
+        },
         {
           "name": "발이 편한 카바 밴딩 중목 양말, 화이트, 10켤레",
           "price": "5,900원",
@@ -872,18 +863,6 @@
           "url": "https://toss.im/_m/Z3jDkf2l",
           "_rank": 44,
           "_product_id": "2441094495",
-          "_ts": 1785538954.559932,
-          "_last_synced_ts": 1785538954.559932
-        },
-        {
-          "name": "설렘복숭아 경산 망고복숭아, 10-12과, 1kg, 1박스",
-          "price": "11,790원",
-          "discount_rate": 70,
-          "priceAt": "08.01 08:02",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MTQwMDE4/ZUdhdTJSK1pXZzFPY1dCdytZS0VyR1poZnhnQitmQ0RyOWlLZnBNQzhEcz0.png",
-          "url": "https://toss.im/_m/9OFoGscv",
-          "_rank": 46,
-          "_product_id": "2520306335",
           "_ts": 1785538954.559932,
           "_last_synced_ts": 1785538954.559932
         },
