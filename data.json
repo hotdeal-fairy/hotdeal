@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "한우물 차돌김치볶음밥 (냉동), 300g, 6개",
+          "price": "8,230원",
+          "discount_rate": 45,
+          "priceAt": "07.31 15:14",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/423249674915025-92c28a04-342d-4aa5-9978-3be153556a67.jpg",
+          "url": "https://link.coupang.com/a/fPqeEQuCfA",
+          "_ts": 1785478485.385752
+        },
+        {
           "name": "벨라쿠진 인덕션 우드패턴 프라이팬, 20cm, 1개",
           "price": "8,450원",
           "discount_rate": 40,
@@ -688,15 +697,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-07-21/93a16065-9d8e-4a9a-83c8-c07c8cca1f2d.png",
           "url": "https://toss.im/_m/7POgWtAx",
           "_ts": 1785230426.687339
-        },
-        {
-          "name": "아보카도, 특대과, 230g내외, 10개, 1박스",
-          "price": "11,800원",
-          "discount_rate": 77,
-          "priceAt": "07.28 15:00",
-          "image": "https://shopping.toss.im/live/temp/2026-02-23/3bff2369-70a5-4bc0-8f04-be3ca0b5ba47.jpeg",
-          "url": "https://toss.im/_m/BixmG5I",
-          "_ts": 1785218418.586242
         },
         {
           "name": "스파클 생수, 무라벨, 2L, 24개",
