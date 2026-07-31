@@ -474,6 +474,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "걸이형 물빠짐 수저걸이, 2개",
+          "price": "6,900원",
+          "discount_rate": 75,
+          "priceAt": "07.31 15:00",
+          "image": "https://shopping.toss.im/live/temp/2026-07-20/717199d7-76d3-4753-baaf-f15e64999b4f.jpeg",
+          "url": "https://toss.im/_m/7sPOIH26",
+          "_ts": 1785477614.724836
+        },
+        {
           "name": "저염 백명란젓 파지, 400g, 1개",
           "price": "9,600원",
           "discount_rate": 73,
@@ -1106,18 +1115,6 @@
           "url": "https://toss.im/_m/PaqG2Xd2",
           "_rank": 28,
           "_product_id": "2488940503",
-          "_ts": 1785420156.5360188,
-          "_last_synced_ts": 1785470620.548894
-        },
-        {
-          "name": "걸이형 물빠짐 수저걸이, 2개",
-          "price": "6,900원",
-          "discount_rate": 75,
-          "priceAt": "07.30 23:02",
-          "image": "https://shopping.toss.im/live/temp/2026-07-20/717199d7-76d3-4753-baaf-f15e64999b4f.jpeg",
-          "url": "https://toss.im/_m/7sPOIH26",
-          "_rank": 29,
-          "_product_id": "2509219781",
           "_ts": 1785420156.5360188,
           "_last_synced_ts": 1785470620.548894
         },
