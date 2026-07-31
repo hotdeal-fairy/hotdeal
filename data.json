@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스빈또 NEW 스웨덴 수세미 100g, 1개입, 2개",
+          "price": "6,590원",
+          "discount_rate": 34,
+          "priceAt": "08.01 07:16",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/685841542680670-bd9cc04c-d9ec-4f45-af95-5e36fbe13703.jpg",
+          "url": "https://link.coupang.com/a/fQwYs1JonQ",
+          "_ts": 1785536199.218287
+        },
+        {
           "name": "쿠킨 핸드 믹서 거품 반죽기",
           "price": "12,620원",
           "discount_rate": 30,
@@ -2009,15 +2018,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/98491304065795-2254fccf-d45a-41c4-9502-86f4044c35e6.jpg",
           "url": "https://link.coupang.com/a/fEUThoogHA",
           "_ts": 1784931595.5221682
-        },
-        {
-          "name": "이니스프리 그린티 히알루론산 스킨케어 세트 1세트",
-          "price": "17,280원",
-          "discount_rate": 21,
-          "priceAt": "07.25 07:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/86595494233766-344885bc-ffa8-4db7-a1ca-d76ddff01c18.jpg",
-          "url": "https://link.coupang.com/a/fEUhFN25AW",
-          "_ts": 1784931091.543396
         }
       ]
     }
