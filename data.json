@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "늘푸른 무인쇄 종이컵 500ml 100개입*1개",
+          "price": "6,990원",
+          "discount_rate": 29,
+          "priceAt": "08.02 07:50",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1387497835077324-14365017-b6b7-4b7e-936d-c413c4892959.jpg",
+          "url": "https://link.coupang.com/a/fSehRw8wOy",
+          "_ts": 1785624621.649911
+        },
+        {
           "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
           "price": "5,650원",
           "discount_rate": 34,
@@ -483,15 +492,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/4zpzcynw/a6bfcc19633447989fab98dba55e548b.jpg",
           "url": "https://link.coupang.com/a/fNbfpcBSnc",
           "_ts": 1785367312.234655
-        },
-        {
-          "name": "동원 개성 왕만두 (냉동), 2.24kg, 2개",
-          "price": "21,300원",
-          "discount_rate": 35,
-          "priceAt": "07.30 07:34",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/554449270389051-82e6839f-a6d2-4c6e-a25e-757f92f3ae61.jpg",
-          "url": "https://link.coupang.com/a/fNesvq7F3Q",
-          "_ts": 1785364485.403546
         }
       ]
     },
