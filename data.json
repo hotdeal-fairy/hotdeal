@@ -474,15 +474,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/13/16/7/037890a0-25d1-444a-b546-76440f05a38f.jpg",
           "url": "https://link.coupang.com/a/fL3oPhL49Y",
           "_ts": 1785303170.791448
-        },
-        {
-          "name": "팔도도시락 컵라면 86g, 24개",
-          "price": "15,200원",
-          "discount_rate": 36,
-          "priceAt": "07.29 10:52",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/106473347460485-99dcfc6e-eb1f-4fcf-b6e4-0567120698df.jpg",
-          "url": "https://link.coupang.com/a/fLNGA56YvI",
-          "_ts": 1785289968.091819
         }
       ]
     },
@@ -1212,6 +1203,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "오뚜기 메밀 비빔면 130g, 12개",
+          "price": "6,890원",
+          "discount_rate": 20,
+          "priceAt": "08.01 11:13",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/803788543033693-07a30524-1de0-48ae-8649-e95e3e9a2e69.jpg",
+          "url": "https://link.coupang.com/a/fQNSwhn9bh",
+          "_ts": 1785550385.453738
+        },
         {
           "name": "스텐락 올스텐 도마 330*218*2.5 mm*1개",
           "price": "11,260원",
