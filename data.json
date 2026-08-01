@@ -717,15 +717,6 @@
           "_ts": 1785304812.823057
         },
         {
-          "name": "랜선식당 연탄불고기, 250g, 4개",
-          "price": "8,300원",
-          "discount_rate": 79,
-          "priceAt": "07.29 11:46",
-          "image": "https://shopping.toss.im/live/temp/2026-07-02/f2753853-f811-4687-b2dc-774c7be576fc.jpeg",
-          "url": "https://toss.im/_m/zaKyWLHn",
-          "_ts": 1785293169.5386932
-        },
-        {
           "name": "에브리워터 무라벨, 500ml, 40개",
           "price": "4,400원",
           "discount_rate": 77,
@@ -1200,6 +1191,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "하림 텐더스틱 (냉동), 1.2kg, 1개",
+          "price": "12,510원",
+          "discount_rate": 22,
+          "priceAt": "08.01 11:49",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/16970808331699412-ab86b0c6-7908-4d0a-aa2f-37091959dba7.jpg",
+          "url": "https://link.coupang.com/a/fQQsNknNJs",
+          "_ts": 1785552556.4171772
+        },
         {
           "name": "오뚜기 메밀 비빔면 130g, 12개",
           "price": "6,890원",
