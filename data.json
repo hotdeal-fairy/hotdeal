@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "이너홈 클린한 엠보싱 위생장갑, 500개입, 2개",
+          "price": "9,600원",
+          "discount_rate": 40,
+          "priceAt": "08.01 14:32",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3355802764031-15f1f80e-2b97-4549-b854-49fdf0cb706e.jpg",
+          "url": "https://link.coupang.com/a/fQ18dlhxLw",
+          "_ts": 1785562359.0041568
+        },
+        {
           "name": "하림 텐더스틱 (냉동), 1.2kg, 1개",
           "price": "12,510원",
           "discount_rate": 22,
@@ -1943,15 +1952,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/12109206441759-8f5358db-9422-459a-a4fe-f161ffad8ee2.png",
           "url": "https://link.coupang.com/a/fGalNA9ZV6",
           "_ts": 1784996631.3654
-        },
-        {
-          "name": "삼성전자 갤럭시 링",
-          "price": "215,000원",
-          "discount_rate": null,
-          "priceAt": "07.25 13:05",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6235/f6b34ee4798c21c2a4c31d75486b609bb9b21f06c5c5a05ebb85059a5523.jpg",
-          "url": "https://link.coupang.com/a/fFjypeiSlg",
-          "_ts": 1784952303.896874
         }
       ]
     }
