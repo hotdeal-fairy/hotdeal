@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
+          "price": "5,650원",
+          "discount_rate": 34,
+          "priceAt": "08.02 07:26",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/67558851664189-c0ce92d3-9e30-4cb5-9d64-a8453707f263.jpg",
+          "url": "https://link.coupang.com/a/fScx2cJvtk",
+          "_ts": 1785623160.769867
+        },
+        {
           "name": "그린핑거포레스트 마일드 너츠 바디워시 500ml*1개",
           "price": "4,450원",
           "discount_rate": 36,
@@ -1937,24 +1946,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/04/10/3/1bf22ce9-b162-4a04-8a7a-0e1693f119a3.jpg",
           "url": "https://link.coupang.com/a/fGHdyUHh9g",
           "_ts": 1785024230.432724
-        },
-        {
-          "name": "사무실 과자세트스낵비스킷쿠키 12입세트 (초코파이 + 포카칩 오리지날 + 허니버터칩 + 칸쵸 + 카라멜콘과땅",
-          "price": "14,690원",
-          "discount_rate": 57,
-          "priceAt": "07.26 07:24",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/65013224747608-786a00da-3db8-4a71-a4d7-154a17785cfa.png",
-          "url": "https://link.coupang.com/a/fGz7OnXOOO",
-          "_ts": 1785018275.2690592
-        },
-        {
-          "name": "유한락스 멀티액션 락스와세제 바닥청소용, 1L, 2개",
-          "price": "5,890원",
-          "discount_rate": 21,
-          "priceAt": "07.26 07:20",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/263670645154185-2ffeb071-dedd-4d9a-a7ee-14762a59ed74.jpg",
-          "url": "https://link.coupang.com/a/fGzOHGdvAy",
-          "_ts": 1785018020.600689
         }
       ]
     }
