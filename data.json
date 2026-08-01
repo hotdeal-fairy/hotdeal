@@ -438,60 +438,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2978485034649-ef0ee1d8-f10d-4b10-8679-63d69875db24.jpg",
           "url": "https://link.coupang.com/a/fMvYkl55ga",
           "_ts": 1785327145.520153
-        },
-        {
-          "name": "풀무원 얄피꽉찬 쌀 물만두 (냉동), 1kg, 2개",
-          "price": "10,980원",
-          "discount_rate": 42,
-          "priceAt": "07.29 17:12",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/119041650345236-846b66ab-1dee-4524-988f-9cf149a1dc88.jpg",
-          "url": "https://link.coupang.com/a/fMeRCLqLMO",
-          "_ts": 1785312765.515456
-        },
-        {
-          "name": "풀무원 올바른 핫도그 개별 (냉동) 75g*7개입*2개",
-          "price": "9,480원",
-          "discount_rate": 37,
-          "priceAt": "07.29 17:10",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/585237404590749-c492b481-5c1c-4fbc-947f-f24879d0baff.jpg",
-          "url": "https://link.coupang.com/a/fMeHEFCxmS",
-          "_ts": 1785312631.4106529
-        },
-        {
-          "name": "풀무원 들기름 메밀막국수 2인분, 391.4g, 2개",
-          "price": "5,180원",
-          "discount_rate": 42,
-          "priceAt": "07.29 17:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c69681f4-4dfc-43b4-8c1c-641dab1e3ba74718989684408752959.png",
-          "url": "https://link.coupang.com/a/fMd7lpOqYu",
-          "_ts": 1785312139.8989599
-        },
-        {
-          "name": "풀무원 고소한 유부초밥 4인분, 330g, 2개",
-          "price": "6,480원",
-          "discount_rate": 35,
-          "priceAt": "07.29 16:52",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/179404287183353-9f556deb-ff07-4455-9412-38d7f2390474.png",
-          "url": "https://link.coupang.com/a/fMdn8MuRAi",
-          "_ts": 1785311526.984891
-        },
-        {
-          "name": "풀무원 얇은피 꽉찬속 고기만두 (냉동), 400g, 4개",
-          "price": "9,980원",
-          "discount_rate": 38,
-          "priceAt": "07.29 16:41",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/31f1800e-6564-48f4-b124-b9f5c002eef48886430936284977295.png",
-          "url": "https://link.coupang.com/a/fMcEM30776",
-          "_ts": 1785310914.421767
-        },
-        {
-          "name": "광동제약 진생강 쌍화, 100ml, 20개",
-          "price": "9,360원",
-          "discount_rate": 53,
-          "priceAt": "07.29 16:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/352381545179124-5e497f18-9147-4368-862d-fd9726920815.jpg",
-          "url": "https://link.coupang.com/a/fMaZpl1KRE",
-          "_ts": 1785309534.102369
         }
       ]
     },
@@ -1230,6 +1176,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "삼양 볶음 간짬뽕, 15개",
+          "price": "9,600원",
+          "discount_rate": 20,
+          "priceAt": "08.01 17:15",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4694796173706-1a1180d7-5bbf-4e39-bf73-b16f828b08b2.png",
+          "url": "https://link.coupang.com/a/fRdNqdnt0u",
+          "_ts": 1785572146.855968
+        },
         {
           "name": "바리스타룰스 로어슈거 에스프레소 라떼, 6개, 250ml",
           "price": "7,650원",
