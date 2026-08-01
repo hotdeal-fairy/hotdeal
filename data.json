@@ -456,6 +456,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "황도복숭아, 고당도, 초고당도, 2kg, 14-17과, 1박스",
+          "price": "16,900원",
+          "discount_rate": 67,
+          "priceAt": "08.01 18:22",
+          "image": "https://shopping.toss.im/live/temp/2026-07-11/2a836e28-517e-48b0-bba4-fb083538c7c2.png",
+          "url": "https://toss.im/_m/Xr0EyH7b",
+          "_ts": 1785576130.244003
+        },
+        {
           "name": "듀록 꽃삼겹살, 4mm, 500g, 4개",
           "price": "20,988원",
           "discount_rate": 44,
@@ -697,15 +706,6 @@
           "image": "https://shopping.toss.im/65c/live/product/251113351/65c90c91-9cb6-48e1-a164-ec5c421f94f8.jpg",
           "url": "https://toss.im/_m/TUgRnlYv",
           "_ts": 1785322815.24719
-        },
-        {
-          "name": "자동 변기세정제 맥스, 320g, 4개",
-          "price": "7,108원",
-          "discount_rate": 52,
-          "priceAt": "07.29 18:21",
-          "image": "https://shopping.toss.im/live/temp/2026-01-16/18efda48-c61e-45f6-bcca-9ac0e950276e.jpeg",
-          "url": "https://toss.im/_m/50EgoECa",
-          "_ts": 1785316878.489482
         },
         {
           "name": "맛춤상회 토시살, 200g, 2팩 + 안창살, 200g, 3팩",
