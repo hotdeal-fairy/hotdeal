@@ -447,51 +447,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1901331432194353-3327ffeb-b5b4-4e7b-971b-697efb2e7781.jpg",
           "url": "https://link.coupang.com/a/fNkv2DoEWi",
           "_ts": 1785369567.137256
-        },
-        {
-          "name": "쉐푸드 등심 통 돈까스 (냉동), 300g, 2개",
-          "price": "9,480원",
-          "discount_rate": 32,
-          "priceAt": "07.30 08:23",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/564fd6d4-4b27-4076-b6b2-cdeddc04d21c8450160312271557467.png",
-          "url": "https://link.coupang.com/a/fNhXNfOuGa",
-          "_ts": 1785367427.011179
-        },
-        {
-          "name": "비비고 군만두 (냉동), 450g, 4개입",
-          "price": "9,980원",
-          "discount_rate": 29,
-          "priceAt": "07.30 08:22",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/327c/23a138ed4af1362ecf16fd9a1945a8ff5ce53aebcfb38430fd555509ae6c.jpg",
-          "url": "https://link.coupang.com/a/fNergKnLu8",
-          "_ts": 1785367362.219612
-        },
-        {
-          "name": "이어지다 고용량 누전 멀티탭 3구 OSN323 1.5m*혼합색상*1개",
-          "price": "12,150원",
-          "discount_rate": 36,
-          "priceAt": "07.30 08:22",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/5186/90c3988b082aa28f9df2c946016eae79f03e4281845db7c1e16c15f5a92e.jpg",
-          "url": "https://link.coupang.com/a/fNdD27EWA0",
-          "_ts": 1785367330.1577852
-        },
-        {
-          "name": "휘슬러 네이처 국자 31.5cm*너비 8.6cm*높이 5.5cm*스테인리스 스틸*1개",
-          "price": "8,370원",
-          "discount_rate": 58,
-          "priceAt": "07.30 08:22",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/06/14/5/30faa359-3207-413c-8cd7-ee348df91f28.jpg",
-          "url": "https://link.coupang.com/a/fNczwZWjFQ",
-          "_ts": 1785367321.421345
-        },
-        {
-          "name": "스타벅스 카페라떼, 200ml, 10개",
-          "price": "11,250원",
-          "discount_rate": 30,
-          "priceAt": "07.30 08:21",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/4zpzcynw/a6bfcc19633447989fab98dba55e548b.jpg",
-          "url": "https://link.coupang.com/a/fNbfpcBSnc",
-          "_ts": 1785367312.234655
         }
       ]
     },
@@ -500,6 +455,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "소소락 반반 함흥냉면 10인분, 함흥냉면 2kg + 동치미육수 300g 5팩 + 비빔소스 50g 5팩, 1세트",
+          "price": "9,190원",
+          "discount_rate": 51,
+          "priceAt": "08.02 08:45",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDk5NGQ1/QU8rSEEyQUd4L09EblpyVDh4ZkRRZU5ZNmtLRU1BaXVFT1A0eGZ1QWN4NEk.png",
+          "url": "https://toss.im/_m/BFe9xjz3",
+          "_ts": 1785627915.029293
+        },
         {
           "name": "피죤 섬유유연제, 핑크로즈, 3.1L, 4개",
           "price": "16,100원",
