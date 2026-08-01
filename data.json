@@ -1255,6 +1255,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "그린올린 국내산 경기미 10kg*상등급*1개",
+          "price": "27,480원",
+          "discount_rate": 23,
+          "priceAt": "08.02 08:08",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/02/10/6/6b57aff4-315a-48a8-8da4-aeea572e4d83.jpg",
+          "url": "https://link.coupang.com/a/fSfB4IIIUe",
+          "_ts": 1785625728.567818
+        },
+        {
           "name": "나우푸드 실리마린 밀크 시슬 추출물 300mg 베지 캡슐, 200정, 1개",
           "price": "20,330원",
           "discount_rate": 25,
@@ -1559,15 +1568,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/51632054006428-8a10aa99-cc96-46b1-932b-205d10fbcf78.jpg",
           "url": "https://link.coupang.com/a/fNmPC8fkNo",
           "_ts": 1785371508.566497
-        },
-        {
-          "name": "그린올린 국내산 경기미 10kg*상등급*1개",
-          "price": "27,840원",
-          "discount_rate": 22,
-          "priceAt": "07.30 07:45",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/02/10/6/6b57aff4-315a-48a8-8da4-aeea572e4d83.jpg",
-          "url": "https://link.coupang.com/a/fNfdthsKc0",
-          "_ts": 1785365116.0181131
         },
         {
           "name": "구미시농협 일선정품 쌀 백미 상등급 10kg*상등급*1개",
