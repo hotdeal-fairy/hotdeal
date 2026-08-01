@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "삼양 볶음 간짬뽕, 15개",
+          "price": "9,600원",
+          "discount_rate": 20,
+          "priceAt": "08.01 17:16",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4694796173706-1a1180d7-5bbf-4e39-bf73-b16f828b08b2.png",
+          "url": "https://link.coupang.com/a/fRdNqdnt0u",
+          "_ts": 1785572181.213635
+        },
+        {
           "name": "아필코 러닝벨트 런닝가방 플립벨트 힙색 블랙, (색상선택가능)",
           "price": "1,700원",
           "discount_rate": 57,
@@ -1176,15 +1185,6 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
-        {
-          "name": "삼양 볶음 간짬뽕, 15개",
-          "price": "9,600원",
-          "discount_rate": 20,
-          "priceAt": "08.01 17:15",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4694796173706-1a1180d7-5bbf-4e39-bf73-b16f828b08b2.png",
-          "url": "https://link.coupang.com/a/fRdNqdnt0u",
-          "_ts": 1785572146.855968
-        },
         {
           "name": "바리스타룰스 로어슈거 에스프레소 라떼, 6개, 250ml",
           "price": "7,650원",
