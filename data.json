@@ -483,15 +483,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/352381545179124-5e497f18-9147-4368-862d-fd9726920815.jpg",
           "url": "https://link.coupang.com/a/fMaZpl1KRE",
           "_ts": 1785309534.102369
-        },
-        {
-          "name": "빼빼로 KBO 초코 한화 이글스, 54g, 1개",
-          "price": "940원",
-          "discount_rate": 39,
-          "priceAt": "07.29 14:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/13/16/7/037890a0-25d1-444a-b546-76440f05a38f.jpg",
-          "url": "https://link.coupang.com/a/fL3oPhL49Y",
-          "_ts": 1785303170.791448
         }
       ]
     },
@@ -500,6 +491,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "뉴리스 발바닥 발패치, 50매",
+          "price": "7,999원",
+          "discount_rate": 60,
+          "priceAt": "08.01 15:00",
+          "image": "https://shopping.toss.im/live/temp/2026-03-26/7563c02f-a6cc-4cea-8b4b-3377f3be22db.jpeg",
+          "url": "https://toss.im/_m/z1xmL3m3",
+          "_ts": 1785564022.3664482
+        },
         {
           "name": "유한메디카 징코 플러스엔탑 혈행 기억력 케어, 60정, 1개",
           "price": "4,500원",
@@ -724,15 +724,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-06-26/55179a52-d038-4b09-9a7f-6918a1daf6a9.jpeg",
           "url": "https://toss.im/_m/Rz4gG8mx",
           "_ts": 1785316823.911082
-        },
-        {
-          "name": "맛장군 열무김치, 2kg, 1팩",
-          "price": "8,900원",
-          "discount_rate": 75,
-          "priceAt": "07.29 15:00",
-          "image": "https://shopping.toss.im/live/temp/2026-04-21/af86d4da-e1ab-4491-b61f-c32e0c5c1f69.jpeg",
-          "url": "https://toss.im/_m/JHR2htoh",
-          "_ts": 1785304812.823057
         },
         {
           "name": "스파클 생수, 무라벨, 2L, 24개",
