@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "연세유업 고농축주스 30알의 블루베리, 24개, 120ml",
+          "price": "13,330원",
+          "discount_rate": 33,
+          "priceAt": "08.02 07:13",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/17/10/8/4fa820d4-bad0-47b6-8541-2b88495fc759.jpg",
+          "url": "https://link.coupang.com/a/fSbDwmn7tI",
+          "_ts": 1785622394.3718882
+        },
+        {
           "name": "마이비데 키즈 화장실용 물티슈 캡형, 40매, 9개",
           "price": "9,720원",
           "discount_rate": 28,
@@ -1928,15 +1937,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/263670645154185-2ffeb071-dedd-4d9a-a7ee-14762a59ed74.jpg",
           "url": "https://link.coupang.com/a/fGzOHGdvAy",
           "_ts": 1785018020.600689
-        },
-        {
-          "name": "펩시 제로슈거 라임향, 210ml, 60개",
-          "price": "23,120원",
-          "discount_rate": 17,
-          "priceAt": "07.26 07:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/408863128814773-d8f1c595-cffb-4413-8fa9-6478f65f8bb5.jpg",
-          "url": "https://link.coupang.com/a/fGy30Ly4rY",
-          "_ts": 1785017382.632152
         }
       ]
     }
