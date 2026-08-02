@@ -420,24 +420,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/31013138750443-d09ef82c-fb2c-4e80-b454-bbaa215a8029.jpg",
           "url": "https://link.coupang.com/a/fNw6JdIFMq",
           "_ts": 1785380152.148561
-        },
-        {
-          "name": "에스앤비 토로케로 하야시 테이스티 하이라이스, 160g, 2개",
-          "price": "4,180원",
-          "discount_rate": 47,
-          "priceAt": "07.30 11:46",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1967000844100664-1635cd16-4f58-45fc-b8ef-028acd244da1.jpg",
-          "url": "https://link.coupang.com/a/fNwm6jtieW",
-          "_ts": 1785379570.959819
-        },
-        {
-          "name": "마스터 컬렉션 부드러운 소고기 미역국, 480g, 2개",
-          "price": "5,980원",
-          "discount_rate": 40,
-          "priceAt": "07.30 11:46",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/149227724340489-f350abf7-1a3b-415f-b0c3-73f712775eaa.jpg",
-          "url": "https://link.coupang.com/a/fNwmdEJP5M",
-          "_ts": 1785379568.125033
         }
       ]
     },
@@ -446,6 +428,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "숨 키친타올, 100매, 3겹, 9팩",
+          "price": "6,900원",
+          "discount_rate": 46,
+          "priceAt": "08.02 11:46",
+          "image": "https://shopping.toss.im/live/taca/ai/YjY2NmU3/QU9kMC93UG1WTDUyK1lINURkRzV2a016bVluK1lRRjhENk4wM2dPNFJnUDg.png",
+          "url": "https://toss.im/_m/jjTk2M1l",
+          "_ts": 1785638799.107625
+        },
         {
           "name": "질레트 호환용 면도날 신형 프로글라이드 퓨전 파워 5중 면도날, 16개입",
           "price": "8,500원",
@@ -688,24 +679,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZGRjYzU1/QUxzSHhpWEYrRFAwZEkzOHhwN2tqenVqVTdHWmNXTk1acytNYzRlc1VKMjQ.png",
           "url": "https://toss.im/_m/tOK51BXD",
           "_ts": 1785391218.978722
-        },
-        {
-          "name": "듀오덤 밴드, 혼합형, 8매입, 1개",
-          "price": "3,800원",
-          "discount_rate": 70,
-          "priceAt": "07.30 11:45",
-          "image": "https://shopping.toss.im/live/temp/2025-05-26/61cf7eec-937b-400d-840f-e953c3e3bb10.jpeg",
-          "url": "https://toss.im/_m/lSGsYvVz",
-          "_ts": 1785379558.584657
-        },
-        {
-          "name": "쉽고 빠른 리커버리 쥐젖 비립종 지우개 패치, 144pcs, 1개",
-          "price": "6,900원",
-          "discount_rate": 61,
-          "priceAt": "07.30 11:45",
-          "image": "https://shopping.toss.im/live/temp/2026-05-13/a6ec5b3b-46d2-4100-9af9-93684e3e6a7d.jpeg",
-          "url": "https://toss.im/_m/nrlxptcd",
-          "_ts": 1785379522.030137
         },
         {
           "name": "엘지 페리오 캐비티 케어 치약, 160g, 40개, 1박스",
@@ -1184,18 +1157,6 @@
           "url": "https://toss.im/_m/flcjiNhh",
           "_rank": 21,
           "_product_id": "2287417559",
-          "_ts": 1785420156.5360188,
-          "_last_synced_ts": 1785625331.14457
-        },
-        {
-          "name": "숨 키친타올, 100매, 3겹, 9팩",
-          "price": "6,900원",
-          "discount_rate": 46,
-          "priceAt": "07.30 23:02",
-          "image": "https://shopping.toss.im/live/taca/ai/YjY2NmU3/QU9kMC93UG1WTDUyK1lINURkRzV2a016bVluK1lRRjhENk4wM2dPNFJnUDg.png",
-          "url": "https://toss.im/_m/jjTk2M1l",
-          "_rank": 22,
-          "_product_id": "560200405",
           "_ts": 1785420156.5360188,
           "_last_synced_ts": 1785625331.14457
         },
