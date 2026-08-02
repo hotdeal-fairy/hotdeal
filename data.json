@@ -420,6 +420,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "클리어 미용티슈, 2겹, 300매, 6개",
+          "price": "7,900원",
+          "discount_rate": 46,
+          "priceAt": "08.02 15:02",
+          "image": "https://shopping.toss.im/live/temp/2026-04-30/346efa4b-0a91-4c9b-836e-49337dfc4eee.jpeg",
+          "url": "https://toss.im/_m/vTHyOiwo",
+          "_ts": 1785650544.051744
+        },
+        {
           "name": "전남 무안 양파, 중, 5kg, 1개",
           "price": "6,755원",
           "discount_rate": 75,
