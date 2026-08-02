@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "프로그 더블 지퍼백 냉장용 중형60매 + 대형40매, 총100개입*1세트",
+          "price": "9,900원",
+          "discount_rate": 29,
+          "priceAt": "08.02 10:42",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/538610394129372-ba341757-b504-4ac8-a738-ddfe12a9e5ed.jpg",
+          "url": "https://link.coupang.com/a/fSqzTKSTKu",
+          "_ts": 1785634939.181948
+        },
+        {
           "name": "왕뚜껑 김치 컵라면 110g, 6개",
           "price": "4,750원",
           "discount_rate": 27,
@@ -438,24 +447,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/28efdcc7-cc09-4049-85b5-42e92d67d4235288473887101975667.png",
           "url": "https://link.coupang.com/a/fNtka5QJrw",
           "_ts": 1785376968.015489
-        },
-        {
-          "name": "해표 콩기름 식용유, 900ml, 2개",
-          "price": "5,080원",
-          "discount_rate": 36,
-          "priceAt": "07.30 09:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1350705463399-a43d77d7-533c-4441-a8fb-138c5b4382eb.png",
-          "url": "https://link.coupang.com/a/fNle6bgs8q",
-          "_ts": 1785370178.916095
-        },
-        {
-          "name": "서울우유 비요뜨 초코링 요거트, 138g, 12개",
-          "price": "9,240원",
-          "discount_rate": 34,
-          "priceAt": "07.30 08:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1901331432194353-3327ffeb-b5b4-4e7b-971b-697efb2e7781.jpg",
-          "url": "https://link.coupang.com/a/fNkv2DoEWi",
-          "_ts": 1785369567.137256
         }
       ]
     },
@@ -1910,15 +1901,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1236978224057831-5372054c-d061-46ea-b06c-f9aaf8493181.jpg",
           "url": "https://link.coupang.com/a/fGYaBVGhEq",
           "_ts": 1785038459.881475
-        },
-        {
-          "name": "일부인원 타겟) 청정원 순창 양념듬뿍 쌈장, 200g, 1개",
-          "price": "1,450원",
-          "discount_rate": 10,
-          "priceAt": "07.26 09:03",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/04/10/3/1bf22ce9-b162-4a04-8a7a-0e1693f119a3.jpg",
-          "url": "https://link.coupang.com/a/fGHdyUHh9g",
-          "_ts": 1785024230.432724
         }
       ]
     }
