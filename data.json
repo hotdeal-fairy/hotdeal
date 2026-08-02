@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "차앤맘 피토세린 모이스처 로션, 500ml, 1개, 500ml × 1개",
+          "price": "31,550원",
+          "discount_rate": 36,
+          "priceAt": "08.03 07:47",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/11/13/11/5/ad7bc6b7-0182-481d-a1bb-ef60798046b9.jpg",
+          "url": "https://link.coupang.com/a/fTSYADp5oG",
+          "_ts": 1785710851.733214
+        },
+        {
           "name": "AHC 마스터즈 아쿠아 리치 선크림 SPF50+ PA++++, 30ml, 2개",
           "price": "9,900원",
           "discount_rate": 24,
@@ -339,42 +348,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/291884531661389-e8816e32-df66-4396-80e6-067b50904986.jpg",
           "url": "https://link.coupang.com/a/fO2FvbILUO",
           "_ts": 1785458692.8886368
-        },
-        {
-          "name": "양키캔들 시그니처 라지 캔들 앰버앤샌들우드 567g*1개",
-          "price": "10,970원",
-          "discount_rate": 45,
-          "priceAt": "07.31 07:28",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/545015930480486-a7aba561-91a3-4d51-bc52-fd44b4d39802.jpg",
-          "url": "https://link.coupang.com/a/fOSWbSAL0e",
-          "_ts": 1785450526.528487
-        },
-        {
-          "name": "스카치브라이트 삼중양면 스펀지 수세미 혼합팩, 8개입, 2개",
-          "price": "9,980원",
-          "discount_rate": 38,
-          "priceAt": "07.31 07:17",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/251354297130317-62115b5c-2ef0-4074-9673-ece13892b0c8.jpg",
-          "url": "https://link.coupang.com/a/fOR9vrR9Qi",
-          "_ts": 1785449865.782938
-        },
-        {
-          "name": "서울우유 비요뜨 크런치볼 요거트, 138g, 12개",
-          "price": "9,240원",
-          "discount_rate": 34,
-          "priceAt": "07.31 07:15",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/66887369862701-611aca27-c544-419f-b9cd-36593c48b168.jpg",
-          "url": "https://link.coupang.com/a/fORZyftoSO",
-          "_ts": 1785449732.764389
-        },
-        {
-          "name": "첫맛 떡볶이 양념 분말 순한맛, 1kg, 1개",
-          "price": "4,900원",
-          "discount_rate": 48,
-          "priceAt": "07.31 07:13",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/55069992106097-f2c397f1-362e-4dd1-991b-f1b8c639f8bb.jpg",
-          "url": "https://link.coupang.com/a/fORPG61yGO",
-          "_ts": 1785449597.259182
         }
       ]
     },
@@ -1769,33 +1742,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/15/11/6/41dbba18-9d0e-4d0b-a00c-4a95a17ffbf1.png",
           "url": "https://link.coupang.com/a/fILxvyWOSy",
           "_ts": 1785131970.392338
-        },
-        {
-          "name": "나랑드사이다 제로, 345ml, 24개",
-          "price": "9,860원",
-          "discount_rate": 16,
-          "priceAt": "07.27 07:24",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/13/16/4/158dee6b-ea3d-421f-bfdd-c716887954d9.png",
-          "url": "https://link.coupang.com/a/fIeZ5IQfAW",
-          "_ts": 1785104650.2611752
-        },
-        {
-          "name": "다이쇼 다타키 오이 소스, 3개, 150ml 150ml*3개",
-          "price": "7,090원",
-          "discount_rate": 29,
-          "priceAt": "07.27 07:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9786/6644a769714b34e711056f8bbf91a4cacc248993281d849d9b67e53665ca.png",
-          "url": "https://link.coupang.com/a/fId47hsFFc",
-          "_ts": 1785103876.604473
-        },
-        {
-          "name": "너구리 얼큰한맛 120g, 15개",
-          "price": "10,610원",
-          "discount_rate": 29,
-          "priceAt": "07.27 07:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/822813285108-2a286a8a-1da8-458a-8419-bad1d3c2d235.png",
-          "url": "https://link.coupang.com/a/fIdVlkG88j",
-          "_ts": 1785103745.250697
         }
       ]
     }
