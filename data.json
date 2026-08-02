@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "종가집 오래오래 시원한 동치미, 1.2kg, 2개",
+          "price": "14,190원",
+          "discount_rate": 36,
+          "priceAt": "08.02 17:49",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/545965539042648-33cb7ae9-886c-456a-a909-f7be2a3fb884.jpg",
+          "url": "https://link.coupang.com/a/fSU6WnFw28",
+          "_ts": 1785660580.98354
+        },
+        {
           "name": "백설 초코칩 쿠키믹스, 290g, 2개",
           "price": "2,980원",
           "discount_rate": 40,
@@ -393,24 +402,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/edba006a-5295-43d3-982f-4e36f6a6815e6267016011469180795.png",
           "url": "https://link.coupang.com/a/fNYPC08iGa",
           "_ts": 1785403418.275323
-        },
-        {
-          "name": "유엠투 애플워치 & 갤럭시워치 4in1 고속 무선 충전기 탁상 알람시계",
-          "price": "14,060원",
-          "discount_rate": 57,
-          "priceAt": "07.30 17:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/6b14/af0bb9fef428ec729cc56b6267e221c5de4d0e796f42c14934c03f745810.jpg",
-          "url": "https://link.coupang.com/a/fNUEVpsa5Z",
-          "_ts": 1785399913.731265
-        },
-        {
-          "name": "바르다김선생 소불고기 주먹밥 5인분 (냉동), 500g, 2개",
-          "price": "7,990원",
-          "discount_rate": 47,
-          "priceAt": "07.30 17:15",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/fdfe90e3-53c7-4af2-b64f-7e8be132d35a362932527349193568.png",
-          "url": "https://link.coupang.com/a/fNTVPrfRfw",
-          "_ts": 1785399301.13428
         }
       ]
     },
@@ -1883,15 +1874,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/822813285108-2a286a8a-1da8-458a-8419-bad1d3c2d235.png",
           "url": "https://link.coupang.com/a/fIdVlkG88j",
           "_ts": 1785103745.250697
-        },
-        {
-          "name": "포포루 박사퍼티 박사 퍼티 슬라임 말랑이, 42g, 오로라, 1개",
-          "price": "3,990원",
-          "discount_rate": 62,
-          "priceAt": "07.26 15:50",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ef7e/ea749a039eb53b5a9ad269d9978121c60d8fcf726d1dfb83c10744df120f.png",
-          "url": "https://link.coupang.com/a/fHaifgsZae",
-          "_ts": 1785048647.300226
         }
       ]
     }
