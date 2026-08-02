@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "불닭볶음면 야키소바 큰컵라면 100g, 3개",
+          "price": "3,060원",
+          "discount_rate": 32,
+          "priceAt": "08.02 12:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/3440935392852-e598f269-fdcd-4d20-ac1e-6253f5362d37.jpg",
+          "url": "https://link.coupang.com/a/fSxvZjTPKC",
+          "_ts": 1785640763.370873
+        },
+        {
           "name": "프로그 더블 지퍼백 냉장용 중형60매 + 대형40매, 총100개입*1세트",
           "price": "9,900원",
           "discount_rate": 29,
@@ -402,24 +411,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/ad3ff70f-92e4-441a-b201-742bdabb3a745097223973111959326.png",
           "url": "https://link.coupang.com/a/fNICgLSL2O",
           "_ts": 1785389806.6695218
-        },
-        {
-          "name": "풀무원 한우 물냉면 2인분, 846g, 2개",
-          "price": "5,480원",
-          "discount_rate": 45,
-          "priceAt": "07.30 11:55",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/109121238662549-7274c502-c9a7-43db-bcd6-441fec3c38cd.jpg",
-          "url": "https://link.coupang.com/a/fNw7x2cysu",
-          "_ts": 1785380155.0031161
-        },
-        {
-          "name": "풀무원 매콤 칡냉면 2인분, 905g, 2개",
-          "price": "5,980원",
-          "discount_rate": 46,
-          "priceAt": "07.30 11:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/31013138750443-d09ef82c-fb2c-4e80-b454-bbaa215a8029.jpg",
-          "url": "https://link.coupang.com/a/fNw6JdIFMq",
-          "_ts": 1785380152.148561
         }
       ]
     },
