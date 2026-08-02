@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "매일바이오 ZERO 요구르트, 190ml, 24개",
+          "price": "10,070원",
+          "discount_rate": 41,
+          "priceAt": "08.02 19:05",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1050548527693895-52b25545-c314-46e1-a4c0-f2d4fd91a44e.jpg",
+          "url": "https://link.coupang.com/a/fS0yndphhA",
+          "_ts": 1785665147.730342
+        },
+        {
           "name": "프로그 더블 지퍼백 냉장용 중형60매 + 대형40매, 총100개입*1세트",
           "price": "9,900원",
           "discount_rate": 29,
@@ -348,24 +357,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4425593520227-c615730f-44dd-441e-a3b7-fb7ef4520f12.jpg",
           "url": "https://link.coupang.com/a/fObVWR14W4",
           "_ts": 1785414417.948427
-        },
-        {
-          "name": "움트리 저당 초장, 450g, 2개",
-          "price": "4,600원",
-          "discount_rate": 49,
-          "priceAt": "07.30 18:43",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/233233522524189-9fd0c325-f3ab-4b69-968c-737acb18cb28.jpg",
-          "url": "https://link.coupang.com/a/fN0hn2kXHo",
-          "_ts": 1785404632.668931
-        },
-        {
-          "name": "립톤 복숭아 아이스티 14g*120개입*2개",
-          "price": "19,950원",
-          "discount_rate": 49,
-          "priceAt": "07.30 18:23",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/edba006a-5295-43d3-982f-4e36f6a6815e6267016011469180795.png",
-          "url": "https://link.coupang.com/a/fNYPC08iGa",
-          "_ts": 1785403418.275323
         }
       ]
     },
@@ -598,24 +589,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-19/9abb176c-76ab-4a1a-b475-0d9f6c22482f.jpeg",
           "url": "https://toss.im/_m/5ZsNjgUb",
           "_ts": 1785409213.919297
-        },
-        {
-          "name": "푸드앳홈 순삭 떡볶이, 보통맛, 200g, 5팩",
-          "price": "8,790원",
-          "discount_rate": 57,
-          "priceAt": "07.30 18:21",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmFhZDlk/V1hQR1p1eGpHUTJWNTRNZGx0ZmhMWEtiQkxtb2JTVDF4ZW5Ua0g2bEZ2bz0.png",
-          "url": "https://toss.im/_m/pVYD985q",
-          "_ts": 1785403269.0972002
-        },
-        {
-          "name": "곰팡이 완벽제거 발포 세탁조 클리너, 1박스, 220g",
-          "price": "7,900원",
-          "discount_rate": 73,
-          "priceAt": "07.30 18:20",
-          "image": "https://shopping.toss.im/live/taca/ai/Zjk1ZTkw/TXNhWmVHd1BGbXpibGtqMjVoMDlaa3I0WVljZWVFOWNlQ2VIM3JraHVDRT0.png",
-          "url": "https://toss.im/_m/VJcVhhMa",
-          "_ts": 1785403223.572584
         },
         {
           "name": "이롬 황성주 박사의 과채습관 퍼플, 190ml, 16개",
