@@ -438,15 +438,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/149227724340489-f350abf7-1a3b-415f-b0c3-73f712775eaa.jpg",
           "url": "https://link.coupang.com/a/fNwmdEJP5M",
           "_ts": 1785379568.125033
-        },
-        {
-          "name": "풀무원 얇은피 꽉찬속 김치만두 (냉동), 400g, 4개",
-          "price": "9,980원",
-          "discount_rate": 38,
-          "priceAt": "07.30 11:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/28efdcc7-cc09-4049-85b5-42e92d67d4235288473887101975667.png",
-          "url": "https://link.coupang.com/a/fNtka5QJrw",
-          "_ts": 1785376968.015489
         }
       ]
     },
@@ -455,6 +446,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "질레트 호환용 면도날 신형 프로글라이드 퓨전 파워 5중 면도날, 16개입",
+          "price": "8,500원",
+          "discount_rate": 57,
+          "priceAt": "08.02 11:45",
+          "image": "https://shopping.toss.im/live/taca/ai/Mzg0OWM0/RG16WmsrMHgyR2ZMVFBrejJ6bXpiQ1EwMmM0bU1WekdwTTU1bXpXVHZNND0.png",
+          "url": "https://toss.im/_m/zrXAOaLz",
+          "_ts": 1785638720.590107
+        },
         {
           "name": "소소락 반반 함흥냉면 10인분, 함흥냉면 2kg + 동치미육수 300g 5팩 + 비빔소스 50g 5팩, 1세트",
           "price": "9,190원",
