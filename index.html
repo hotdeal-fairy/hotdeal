@@ -76,6 +76,11 @@
     return s; // 스킴 없는 상대경로("images/profile.jpg" 등, 프로필 아바타 전용)는 안전하므로 허용
   }
 
+  // 데이터 파이프라인(linktree_publisher.py)은 계속 coupang_more에 상품을 적재하지만, 화면 노출만
+  // 막고 싶을 때(운영 판단으로 "더 많은 핫딜보기" 탭을 당분간 비공개 처리) 여기 id만 추가하면 된다.
+  // data.json 구조는 그대로 두고 렌더링 시점에만 걸러내므로 이 배열을 비우면 즉시 원복된다.
+  const HIDDEN_MALL_IDS = ["coupang_more"];
+
   function formatRelativeTime(ts) {
     const diffMin = (Date.now() / 1000 - ts) / 60;
     if (diffMin < 1) return "방금";
@@ -131,7 +136,7 @@
       </div>
     `;
 
-    const malls = data.malls ?? [];
+    const malls = (data.malls ?? []).filter((m) => !HIDDEN_MALL_IDS.includes(m.id));
 
     // ?mall=toss 같은 쿼리 파라미터로 특정 몰 탭을 바로 열 수 있게 함(탭별 공유 링크 지원).
     // 파라미터 값은 화면에 그리지 않고 malls 배열의 id와 정확히 일치하는지 찾는 용도로만 쓰므로
