@@ -600,15 +600,6 @@
           "_ts": 1785414015.651755
         },
         {
-          "name": "푸드앳홈 오징어 젓갈, 1kg, 1팩",
-          "price": "9,890원",
-          "discount_rate": 56,
-          "priceAt": "07.30 20:00",
-          "image": "https://shopping.toss.im/live/temp/2026-03-19/9abb176c-76ab-4a1a-b475-0d9f6c22482f.jpeg",
-          "url": "https://toss.im/_m/5ZsNjgUb",
-          "_ts": 1785409213.919297
-        },
-        {
           "name": "이롬 황성주 박사의 과채습관 퍼플, 190ml, 16개",
           "price": "5,500원",
           "discount_rate": 67,
@@ -1119,6 +1110,15 @@
       "name": "더 많은 핫딜보기",
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "AHC 마스터즈 아쿠아 리치 선크림 SPF50+ PA++++, 30ml, 2개",
+          "price": "9,900원",
+          "discount_rate": 24,
+          "priceAt": "08.02 20:59",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4119157550861544-e8dcce7c-5071-49c5-81f5-76c7c7bc9070.jpg",
+          "url": "https://link.coupang.com/a/fS8HpRC7yu",
+          "_ts": 1785671974.7862048
+        },
         {
           "name": "오뚜기 오즈키친 양념치킨 2봉지 (냉동), 580g, 4개",
           "price": "18,960원",
