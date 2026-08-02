@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "백설 초코칩 쿠키믹스, 290g, 2개",
+          "price": "2,980원",
+          "discount_rate": 40,
+          "priceAt": "08.02 14:20",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/eaaa/282b674e12d0cd165c2686bb7890f6653fa796fd605e21d9ab9fd4b34e8f.jpg",
+          "url": "https://link.coupang.com/a/fSF9zN9p0e",
+          "_ts": 1785648018.304503
+        },
+        {
           "name": "매일바이오 ZERO 요구르트, 190ml, 24개",
           "price": "10,070원",
           "discount_rate": 41,
