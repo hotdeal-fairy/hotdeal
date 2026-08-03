@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "반찬단지 깻잎무침, 1kg, 1개, 1kg × 1개",
+          "price": "5,190원",
+          "discount_rate": 42,
+          "priceAt": "08.04 07:21",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/291105927881740-0b99b96f-22bc-4e21-94c1-3fd3c019885b.JPG",
+          "url": "https://link.coupang.com/a/fVvYVe1A9A",
+          "_ts": 1785795660.036577
+        },
+        {
           "name": "던킨도너츠 미니글레이즈드 (냉동), 15g, 1개, 10개입",
           "price": "4,130원",
           "discount_rate": 38,
@@ -393,24 +402,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/204686820403063-3adcf576-f544-49ee-8800-c73f1de7f02b.jpg",
           "url": "https://link.coupang.com/a/fQykLWt8Oy",
           "_ts": 1785537341.579384
-        },
-        {
-          "name": "스빈또 NEW 스웨덴 수세미 100g, 1개입, 2개",
-          "price": "6,590원",
-          "discount_rate": 34,
-          "priceAt": "08.01 07:16",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/685841542680670-bd9cc04c-d9ec-4f45-af95-5e36fbe13703.jpg",
-          "url": "https://link.coupang.com/a/fQwYs1JonQ",
-          "_ts": 1785536199.218287
-        },
-        {
-          "name": "쿠킨 핸드 믹서 거품 반죽기",
-          "price": "12,620원",
-          "discount_rate": 30,
-          "priceAt": "08.01 07:08",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/xymclq8v/679f44244720443586a22a355d57a0df.jpg",
-          "url": "https://link.coupang.com/a/fQwoa8wQWO",
-          "_ts": 1785535706.181243
         }
       ]
     },
@@ -1235,42 +1226,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a2c3/9194d9ee408311b7ccd4b29eb250d3aff760203c9b306ee9c58e4189ebbd.jpg",
           "url": "https://link.coupang.com/a/fJUYDeln1U",
           "_ts": 1785191950.803901
-        },
-        {
-          "name": "닥터유 에너지바 투바이트, 468g, 1개",
-          "price": "9,000원",
-          "discount_rate": 26,
-          "priceAt": "07.28 07:16",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/399980568201871-41f555c9-5a1b-43b9-9452-8cadad4f4c5d.jpg",
-          "url": "https://link.coupang.com/a/fJTlL8FCDI",
-          "_ts": 1785190586.76706
-        },
-        {
-          "name": "청정원순창 100% 현미 태양초 찰고추장, 2kg, 1개",
-          "price": "7,600원",
-          "discount_rate": 20,
-          "priceAt": "07.28 07:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/f90603c4-e378-495a-8230-1b9b69bbbeb5_fixing_v2.png",
-          "url": "https://link.coupang.com/a/fJSTdkoghM",
-          "_ts": 1785190199.163156
-        },
-        {
-          "name": "나랑드사이다 제로, 245ml, 30개",
-          "price": "10,320원",
-          "discount_rate": 31,
-          "priceAt": "07.28 07:01",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/80870368036782-dc973a90-7102-44fc-9689-b902862ddd29.jpg",
-          "url": "https://link.coupang.com/a/fJSg7qjVM4",
-          "_ts": 1785189683.0193348
-        },
-        {
-          "name": "농업회사법인(주)이도팜 안심 신선특란 1.8kg, 1개, 30구",
-          "price": "6,230원",
-          "discount_rate": null,
-          "priceAt": "07.28 06:41",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/ygg6yrwb/39468bdffa444140abf68956a89ede2c.jpg",
-          "url": "https://link.coupang.com/a/fJQPnYoS5Y",
-          "_ts": 1785188465.807641
         }
       ]
     }
