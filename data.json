@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "락피도 프로바이오틱스 키즈 플러스 60p",
+          "price": "15,970원",
+          "discount_rate": 73,
+          "priceAt": "08.04 08:57",
+          "image": "https://image13.coupangcdn.com/image/retail/images/1572077319772154-e8c7b116-539f-49c3-9c10-9f9a78d32272.jpg",
+          "url": "https://link.coupang.com/a/fVCV5IlLiu",
+          "_ts": 1785801476.873548
+        },
+        {
           "name": "푸디버디 한우 소스, 짜장맛, 100g, 5개",
           "price": "9,280원",
           "discount_rate": 33,
@@ -625,24 +634,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NzZlMjRi/Vy9PK1BEdDVIUnljbk02T1hqeUQ0M2srNC9QZzQvaTV3OUh3elBIa0R6WT0.png",
           "url": "https://toss.im/_m/reabZZad",
           "_ts": 1785552318.013252
-        },
-        {
-          "name": "고깃집왕건 양념 소불고기, 1kg, 1개",
-          "price": "9,900원",
-          "discount_rate": 61,
-          "priceAt": "08.01 08:46",
-          "image": "https://shopping.toss.im/live/temp/2026-06-25/e0fcf9c1-ba3c-4a91-9469-f476692ad0e9.jpeg",
-          "url": "https://toss.im/_m/FDu8BhrB",
-          "_ts": 1785541576.0641038
-        },
-        {
-          "name": "설렘복숭아 경산 망고복숭아, 10-12과, 1kg, 1박스",
-          "price": "11,790원",
-          "discount_rate": 70,
-          "priceAt": "08.01 08:45",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MTQwMDE4/ZUdhdTJSK1pXZzFPY1dCdytZS0VyR1poZnhnQitmQ0RyOWlLZnBNQzhEcz0.png",
-          "url": "https://toss.im/_m/9OFoGscv",
-          "_ts": 1785541517.799528
         },
         {
           "name": "스파클 생수, 무라벨, 2L, 24개",
