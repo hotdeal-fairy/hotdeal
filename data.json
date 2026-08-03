@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "롬앤 베어 물 틴트, 01베어바닐라, 1개, 01베어바닐라 × 1개",
+          "price": "3,975원",
+          "discount_rate": 66,
+          "priceAt": "08.03 10:03",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/112718291151466-e957af1d-6a65-41f0-8069-dc8321afe009.jpg",
+          "url": "https://link.coupang.com/a/fT2ITLs8Zw",
+          "_ts": 1785719035.491634
+        },
+        {
           "name": "동원 통그릴 비엔나, 1kg, 1개, 1kg × 1개",
           "price": "9,520원",
           "discount_rate": 40,
@@ -366,15 +375,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/955083884438865-364ff482-1d92-43b5-b230-a8f3aea794d3.jpg",
           "url": "https://link.coupang.com/a/fO8VtxAnds",
           "_ts": 1785463951.5965152
-        },
-        {
-          "name": "달바 화이트 트러플 프라임 인텐시브 세럼, 150ml, 1개",
-          "price": "17,000원",
-          "discount_rate": 32,
-          "priceAt": "07.31 09:44",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/291884531661389-e8816e32-df66-4396-80e6-067b50904986.jpg",
-          "url": "https://link.coupang.com/a/fO2FvbILUO",
-          "_ts": 1785458692.8886368
         }
       ]
     },
