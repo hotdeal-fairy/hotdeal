@@ -375,15 +375,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1117808591022554-bf571643-e522-4827-b0a6-b954595d0737.jpg",
           "url": "https://link.coupang.com/a/fPePKD8MBU",
           "_ts": 1785468912.627748
-        },
-        {
-          "name": "에스트라 아토베리어365 크림 플러스, 90ml, 1개",
-          "price": "15,730원",
-          "discount_rate": 46,
-          "priceAt": "07.31 11:12",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/955083884438865-364ff482-1d92-43b5-b230-a8f3aea794d3.jpg",
-          "url": "https://link.coupang.com/a/fO8VtxAnds",
-          "_ts": 1785463951.5965152
         }
       ]
     },
@@ -392,6 +383,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "파김치, 1개, 1kg",
+          "price": "7,900원",
+          "discount_rate": 69,
+          "priceAt": "08.03 11:45",
+          "image": "https://shopping.toss.im/live/taca/ai/YWUyMjY0/QU9Mc0Fidm53NlVKQ0h2SzFpNlUvVEdCU1JiZVBYTHhSZENKcFVvbmFabG4.png",
+          "url": "https://toss.im/_m/BujWJZGD",
+          "_ts": 1785725119.257503
+        },
         {
           "name": "클리어 미용티슈, 2겹, 300매, 6개",
           "price": "7,900원",
