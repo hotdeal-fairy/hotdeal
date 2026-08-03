@@ -393,6 +393,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "후디스 무가당 플레인 그릭요거트, 400g, 2개",
+          "price": "6,600원",
+          "discount_rate": 48,
+          "priceAt": "08.03 20:00",
+          "image": "https://shopping.toss.im/live/temp/2026-06-09/069859ea-3ad7-4e7f-9f77-92cd73538e14.jpeg",
+          "url": "https://toss.im/_m/floKyted",
+          "_ts": 1785754816.526718
+        },
+        {
           "name": "미트프로젝트 더 진한 소한마리탕, 600g, 3개",
           "price": "9,900원",
           "discount_rate": 54,
@@ -600,15 +609,6 @@
           "_ts": 1785500421.943098
         },
         {
-          "name": "눕자마자 저세상 베개, 그레이, 38x68cm, 1개",
-          "price": "8,335원",
-          "discount_rate": 61,
-          "priceAt": "07.31 20:00",
-          "image": "https://shopping.toss.im/live/taca/ai/OTZjY2E5/QU5qRG5tczhtelNjTVp1MjJaWk94c3ZMUEVzeGF6eHBuRFU4TFp5MDRaWmo.png",
-          "url": "https://toss.im/_m/3pSqQKds",
-          "_ts": 1785495616.0635169
-        },
-        {
           "name": "가정용 고당도 꿀수박, 10kg, 1개",
           "price": "14,900원",
           "discount_rate": 57,
@@ -762,18 +762,6 @@
           "_rank": 44,
           "_product_id": "67314151",
           "_ts": 1785729732.1423528,
-          "_last_synced_ts": 1785747665.255651
-        },
-        {
-          "name": "후디스 무가당 플레인 그릭요거트, 400g, 2개",
-          "price": "6,600원",
-          "discount_rate": 48,
-          "priceAt": "08.03 08:03",
-          "image": "https://shopping.toss.im/live/temp/2026-06-09/069859ea-3ad7-4e7f-9f77-92cd73538e14.jpeg",
-          "url": "https://toss.im/_m/floKyted",
-          "_rank": 17,
-          "_product_id": "1960824601",
-          "_ts": 1785711802.2910872,
           "_last_synced_ts": 1785747665.255651
         },
         {
