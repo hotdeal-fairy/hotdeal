@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "그릭데이 시그니처, 450g, 1개, 450g × 1개",
+          "price": "9,500원",
+          "discount_rate": 21,
+          "priceAt": "08.03 15:33",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/67196482857565-0adde60d-5b02-443b-bc50-17cba757fff2.jpg",
+          "url": "https://link.coupang.com/a/fUqfznIxSC",
+          "_ts": 1785738789.364167
+        },
+        {
           "name": "테팔 인덕션 티타늄 1X 데일리 컴포트 프라이팬",
           "price": "28,980원",
           "discount_rate": 72,
@@ -366,24 +375,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/301293358670874-3228f65e-5e50-468d-87d6-59b8caee495f.jpg",
           "url": "https://link.coupang.com/a/fPsPvXJ8AS",
           "_ts": 1785480708.206269
-        },
-        {
-          "name": "센카 퍼펙트 휩 프레시 클렌징 폼, 100g, 4개",
-          "price": "15,300원",
-          "discount_rate": 27,
-          "priceAt": "07.31 15:29",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/374057317392165-a41f1641-986e-402b-aaae-f52cb5fdf3cf.jpg",
-          "url": "https://link.coupang.com/a/fPm3ZnVyCG",
-          "_ts": 1785479395.633526
-        },
-        {
-          "name": "한우물 차돌김치볶음밥 (냉동), 300g, 6개",
-          "price": "8,230원",
-          "discount_rate": 45,
-          "priceAt": "07.31 15:14",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/423249674915025-92c28a04-342d-4aa5-9978-3be153556a67.jpg",
-          "url": "https://link.coupang.com/a/fPqeEQuCfA",
-          "_ts": 1785478485.385752
         }
       ]
     },
@@ -1832,15 +1823,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/13/12/7/22e915f3-2c30-4744-9f69-333e4118c2f5.png",
           "url": "https://link.coupang.com/a/fI1FAQrdp6",
           "_ts": 1785145515.030813
-        },
-        {
-          "name": "이으마 대형 분수물총 핵인싸 워터밤 인생사진 1+1 set, 2개, 블루 + 핑크",
-          "price": "3,000원",
-          "discount_rate": 50,
-          "priceAt": "07.27 15:19",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/66a9/f27b9747c508520e72ea9ce1f573e491b79dcaf0704e46a857f85f3a857e.png",
-          "url": "https://link.coupang.com/a/fIMZd0OBno",
-          "_ts": 1785133184.737278
         }
       ]
     }
