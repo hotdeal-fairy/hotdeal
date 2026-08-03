@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "나우푸드 데일리 비츠 멀티비타민 & 미네랄 타블렛",
+          "price": "19,840원",
+          "discount_rate": 36,
+          "priceAt": "08.03 18:37",
+          "image": "https://image1.coupangcdn.com/image/vendor_inventory/3d8e/0010e094448a333c346150d62362edad9f0e5ca841a55f6eacc8bde8acdb.jpg",
+          "url": "https://link.coupang.com/a/fUDtT8gn8u",
+          "_ts": 1785749878.2163992
+        },
+        {
           "name": "상하목장 베이비 유기농 요거트, 85g, 4개",
           "price": "2,350원",
           "discount_rate": 41,
@@ -366,15 +375,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/396000670699379-d45e5327-dfab-4ffa-b7a2-6b58d098e4ec.jpg",
           "url": "https://link.coupang.com/a/fPSwlB14CW",
           "_ts": 1785502337.797154
-        },
-        {
-          "name": "닥터베크만 블랙의류시트, 10매입, 1개",
-          "price": "5,720원",
-          "discount_rate": 43,
-          "priceAt": "07.31 18:27",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1078073830206816-c2f26b72-0b9d-495f-a90f-1389f1e10296.jpg",
-          "url": "https://link.coupang.com/a/fPDZ4XEooe",
-          "_ts": 1785490039.492794
         }
       ]
     },
@@ -598,24 +598,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OTZjY2E5/QU5qRG5tczhtelNjTVp1MjJaWk94c3ZMUEVzeGF6eHBuRFU4TFp5MDRaWmo.png",
           "url": "https://toss.im/_m/3pSqQKds",
           "_ts": 1785495616.0635169
-        },
-        {
-          "name": "비로르 304 강력 주방 가위, 팬더, 20.5cm, 2개",
-          "price": "6,400원",
-          "discount_rate": 78,
-          "priceAt": "07.31 18:20",
-          "image": "https://shopping.toss.im/live/taca/ai/MzFmZTZk/YWVocVE5Tm9ULzR1bDdXc0pwR21ROWwrUzFxYlBsVzg1RUdrb2UxVTIxWT0.png",
-          "url": "https://toss.im/_m/tElc4u61",
-          "_ts": 1785489657.5382001
-        },
-        {
-          "name": "전동 코털 트리머, 1개",
-          "price": "5,390원",
-          "discount_rate": 61,
-          "priceAt": "07.31 18:20",
-          "image": "https://shopping.toss.im/live/taca/ai/NGE3YjBl/TGJUYmRiU3ZwVXJSeDZXdFhscHVlWlV3V25tOHpkcTJhVlN3emM4aTF6ST0.png",
-          "url": "https://toss.im/_m/vFMAnEkm",
-          "_ts": 1785489625.8411021
         },
         {
           "name": "가정용 고당도 꿀수박, 10kg, 1개",
