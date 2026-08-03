@@ -429,6 +429,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "일동후디스 하이뮨 프로틴 밸런스 액티브 딥초코 제로, 250ml, 18개",
+          "price": "19,900원",
+          "discount_rate": 65,
+          "priceAt": "08.03 21:30",
+          "image": "https://shopping.toss.im/live/taca/ai/N2I2ZDE1/QU9ic09PTnNOc1N2ajlONDlNWUxJekU0OHM5TUo0Mnl5MXBjRlc4TlBHNlE.png",
+          "url": "https://toss.im/_m/foOk0XFj",
+          "_ts": 1785760236.027199
+        },
+        {
           "name": "후디스 무가당 플레인 그릭요거트, 400g, 2개",
           "price": "6,600원",
           "discount_rate": 48,
@@ -627,24 +636,6 @@
           "_ts": 1785541517.799528
         },
         {
-          "name": "발이 편한 카바 밴딩 중목 양말, 화이트, 10켤레",
-          "price": "5,900원",
-          "discount_rate": 70,
-          "priceAt": "07.31 21:21",
-          "image": "https://shopping.toss.im/live/taca/ai/YTdhZGIx/QU9Yd3N3RXhqMDVUaWg4emhjUjRJSVJScTUxNnFoUUNOZi91QUlRaTQ5OTY.png",
-          "url": "https://toss.im/_m/niEqGYmr",
-          "_ts": 1785500480.550378
-        },
-        {
-          "name": "아이앤어스 뉴 변기클리너, 310g, 4개",
-          "price": "6,900원",
-          "discount_rate": 88,
-          "priceAt": "07.31 21:20",
-          "image": "https://shopping.toss.im/live/taca/ai/OTRkMDA1/QU14dHNXTi9qSi82b2ZiTUt6TU03RXR6d1JmanJGd3hnODVoZXcwOVFlelU.png",
-          "url": "https://toss.im/_m/FyItVb9h",
-          "_ts": 1785500421.943098
-        },
-        {
           "name": "가정용 고당도 꿀수박, 10kg, 1개",
           "price": "14,900원",
           "discount_rate": 57,
@@ -809,18 +800,6 @@
           "url": "https://toss.im/_m/Xfk0HCOf",
           "_rank": 25,
           "_product_id": "88323829",
-          "_ts": 1785711802.2910872,
-          "_last_synced_ts": 1785747665.255651
-        },
-        {
-          "name": "일동후디스 하이뮨 프로틴 밸런스 액티브 딥초코 제로, 250ml, 18개",
-          "price": "19,900원",
-          "discount_rate": 65,
-          "priceAt": "08.03 08:03",
-          "image": "https://shopping.toss.im/live/taca/ai/N2I2ZDE1/QU9ic09PTnNOc1N2ajlONDlNWUxJekU0OHM5TUo0Mnl5MXBjRlc4TlBHNlE.png",
-          "url": "https://toss.im/_m/foOk0XFj",
-          "_rank": 26,
-          "_product_id": "103559849",
           "_ts": 1785711802.2910872,
           "_last_synced_ts": 1785747665.255651
         },
