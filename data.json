@@ -393,6 +393,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "선쉐이드 티타늄 원터치 햇빛가리개, 블랙, 1개",
+          "price": "7,900원",
+          "discount_rate": 69,
+          "priceAt": "08.03 15:00",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDM5MDQ1/QU5sU205dllrWjIycmFSdFplVkVRdFlrMzliV2xwUTRLWGd2K2ZLaGFxV3M.png",
+          "url": "https://toss.im/_m/xUldjfXt",
+          "_ts": 1785736838.481877
+        },
+        {
           "name": "스테이퍼퓸 밤쉘 향수, 80ml, 1개",
           "price": "8,900원",
           "discount_rate": 72,
@@ -598,15 +607,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NGE3YjBl/TGJUYmRiU3ZwVXJSeDZXdFhscHVlWlV3V25tOHpkcTJhVlN3emM4aTF6ST0.png",
           "url": "https://toss.im/_m/vFMAnEkm",
           "_ts": 1785489625.8411021
-        },
-        {
-          "name": "걸이형 물빠짐 수저걸이, 2개",
-          "price": "6,900원",
-          "discount_rate": 75,
-          "priceAt": "07.31 15:00",
-          "image": "https://shopping.toss.im/live/temp/2026-07-20/717199d7-76d3-4753-baaf-f15e64999b4f.jpeg",
-          "url": "https://toss.im/_m/7sPOIH26",
-          "_ts": 1785477614.724836
         },
         {
           "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
@@ -1841,15 +1841,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/66a9/f27b9747c508520e72ea9ce1f573e491b79dcaf0704e46a857f85f3a857e.png",
           "url": "https://link.coupang.com/a/fIMZd0OBno",
           "_ts": 1785133184.737278
-        },
-        {
-          "name": "빙그레 왕실말차, 24개, 190ml 190ml*24개",
-          "price": "7,980원",
-          "discount_rate": 53,
-          "priceAt": "07.27 14:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/15/11/6/41dbba18-9d0e-4d0b-a00c-4a95a17ffbf1.png",
-          "url": "https://link.coupang.com/a/fILxvyWOSy",
-          "_ts": 1785131970.392338
         }
       ]
     }
