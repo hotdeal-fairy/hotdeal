@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "[로켓프레시] 완도맘 활전복 (냉장)",
+          "price": "12,390원",
+          "discount_rate": 48,
+          "priceAt": "08.04 07:51",
+          "image": "https://image1.coupangcdn.com/image/retail/images/1575878043510165-f735f4fd-d555-409f-86a8-f2e784ceb456.jpg",
+          "url": "https://link.coupang.com/a/fVx97nxaw0",
+          "_ts": 1785797468.850241
+        },
+        {
           "name": "밸롭 티바트 니트 런닝화 BS02010001, 285",
           "price": "48,000원",
           "discount_rate": 46,
@@ -402,15 +411,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/861999491939870-f8f487be-0138-4b4f-a537-7896455d8b4d.png",
           "url": "https://link.coupang.com/a/fQKqhXmEhg",
           "_ts": 1785547491.3021
-        },
-        {
-          "name": "청정원순창 초고추장, 300g, 1개",
-          "price": "1,680원",
-          "discount_rate": 44,
-          "priceAt": "08.01 07:35",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/204686820403063-3adcf576-f544-49ee-8800-c73f1de7f02b.jpg",
-          "url": "https://link.coupang.com/a/fQykLWt8Oy",
-          "_ts": 1785537341.579384
         }
       ]
     },
@@ -1226,15 +1226,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/177881157782498-f26dfca5-a31d-47f9-93a1-aaa6fc63b741.jpg",
           "url": "https://link.coupang.com/a/fJ3BHs5iM0",
           "_ts": 1785199194.9236171
-        },
-        {
-          "name": "써지오 개별 멀티탭 6구 DH-1668-MT + 안전커버 2p 랜덤 발송 1.2m*1개",
-          "price": "9,730원",
-          "discount_rate": 30,
-          "priceAt": "07.28 07:39",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a2c3/9194d9ee408311b7ccd4b29eb250d3aff760203c9b306ee9c58e4189ebbd.jpg",
-          "url": "https://link.coupang.com/a/fJUYDeln1U",
-          "_ts": 1785191950.803901
         }
       ]
     }
