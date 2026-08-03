@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "맘스럽 울트라 퍼퓸 캡슐세제16gX100개입 [8배 초고농축 세제원액  국내생산 프리미엄 3in1 대용량 실내건조형]",
+          "price": "9,450원",
+          "discount_rate": 50,
+          "priceAt": "08.03 13:59",
+          "image": "https://image6.coupangcdn.com/image/vendor_inventory/341c/7dd26c82a69ed05062dde53526a358cf4f2a1d84a30702051fd1461adc28.jpg",
+          "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7612703&subid=goldbox&pageKey=7826482313&itemId=28741968147&vendorItemId=88412702713&traceid=V0-143-68c66b5978ef19a9",
+          "_ts": 1785733185.788759
+        },
+        {
           "name": "스탠리 아이스플로우 에어로라이트 패스트플로우 텀블러, 로즈쿼츠글리머, 710ml, 1개",
           "price": "24,650원",
           "discount_rate": 54,
@@ -366,24 +375,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/423249674915025-92c28a04-342d-4aa5-9978-3be153556a67.jpg",
           "url": "https://link.coupang.com/a/fPqeEQuCfA",
           "_ts": 1785478485.385752
-        },
-        {
-          "name": "벨라쿠진 인덕션 우드패턴 프라이팬, 20cm, 1개",
-          "price": "8,450원",
-          "discount_rate": 40,
-          "priceAt": "07.31 13:35",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/05/07/17/9/fa798a3d-e81b-4381-a9a6-b2412efba949.jpg",
-          "url": "https://link.coupang.com/a/fPjabKIsYm",
-          "_ts": 1785472546.54983
-        },
-        {
-          "name": "카레여왕 구운마늘 앤 양파 진한 맛, 108g, 2개",
-          "price": "4,600원",
-          "discount_rate": 34,
-          "priceAt": "07.31 13:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/936267633547672-18f48ab2-ed63-4875-bb34-e67d1be6b553.jpg",
-          "url": "https://link.coupang.com/a/fPiqUJz4ge",
-          "_ts": 1785471934.142111
         }
       ]
     },
