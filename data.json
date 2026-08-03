@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "상하목장 베이비 유기농 요거트, 85g, 4개",
+          "price": "2,350원",
+          "discount_rate": 41,
+          "priceAt": "08.03 18:18",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10449839646980-521e0f0f-582a-4f62-8a0e-f4b7b51119eb.jpg",
+          "url": "https://link.coupang.com/a/fUB5nfWaiG",
+          "_ts": 1785748726.5943282
+        },
+        {
           "name": "코멧 스프레이 밀대걸레 + 극세사 패드 5개 + 다용도 클리너 1개",
           "price": "10,990원",
           "discount_rate": 65,
@@ -366,24 +375,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1078073830206816-c2f26b72-0b9d-495f-a90f-1389f1e10296.jpg",
           "url": "https://link.coupang.com/a/fPDZ4XEooe",
           "_ts": 1785490039.492794
-        },
-        {
-          "name": "닛신 미니즈 컵, 5개입",
-          "price": "5,810원",
-          "discount_rate": 42,
-          "priceAt": "07.31 18:17",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/24e7/f566e3e9f5aa29d29e8d5233281c897c1d6338c123b34e9d2fb5c9a6a38c.jpg",
-          "url": "https://link.coupang.com/a/fPDgIt3flk",
-          "_ts": 1785489424.891456
-        },
-        {
-          "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
-          "price": "3,360원",
-          "discount_rate": null,
-          "priceAt": "07.31 18:05",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/19/10/2/714d9d96-7e7d-4bb7-a31d-00e49679ba88.jpg",
-          "url": "https://link.coupang.com/a/fPCoomEY0q",
-          "_ts": 1785488711.51212
         }
       ]
     },
