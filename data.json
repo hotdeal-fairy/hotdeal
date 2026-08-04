@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘, 190ml, 20개, 190ml × 20개",
+          "price": "8,390원",
+          "discount_rate": 27,
+          "priceAt": "08.05 08:54",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/169631118157321-5c65d596-314b-4c7d-a1b9-673ab8829434.jpg",
+          "url": "https://link.coupang.com/a/fXhxhQC69Y",
+          "_ts": 1785887641.400494
+        },
+        {
           "name": "클룹 애사비소다 오리지널 탄산음료, 500ml, 12개",
           "price": "11,200원",
           "discount_rate": 68,
@@ -474,15 +483,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/538610394129372-ba341757-b504-4ac8-a738-ddfe12a9e5ed.jpg",
           "url": "https://link.coupang.com/a/fSqzTKSTKu",
           "_ts": 1785634939.181948
-        },
-        {
-          "name": "왕뚜껑 김치 컵라면 110g, 6개",
-          "price": "4,750원",
-          "discount_rate": 27,
-          "priceAt": "08.02 08:47",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1725508782205907-be341983-409d-463c-a785-6e97453996c6.jpg",
-          "url": "https://link.coupang.com/a/fSimqs1C6m",
-          "_ts": 1785628040.2862122
         }
       ]
     },
@@ -670,15 +670,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Mzg0OWM0/RG16WmsrMHgyR2ZMVFBrejJ6bXpiQ1EwMmM0bU1WekdwTTU1bXpXVHZNND0.png",
           "url": "https://toss.im/_m/zrXAOaLz",
           "_ts": 1785638720.590107
-        },
-        {
-          "name": "소소락 반반 함흥냉면 10인분, 함흥냉면 2kg + 동치미육수 300g 5팩 + 비빔소스 50g 5팩, 1세트",
-          "price": "9,190원",
-          "discount_rate": 51,
-          "priceAt": "08.02 08:45",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDk5NGQ1/QU8rSEEyQUd4L09EblpyVDh4ZkRRZU5ZNmtLRU1BaXVFT1A0eGZ1QWN4NEk.png",
-          "url": "https://toss.im/_m/BFe9xjz3",
-          "_ts": 1785627915.029293
         },
         {
           "name": "아침에 좋은빵 무화과 호두 통밀빵, 570g, 5개",
