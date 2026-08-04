@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "더미식 김치교자 (냉동), 1.05kg, 1개, 1.05kg × 1개",
+          "price": "8,590원",
+          "discount_rate": 42,
+          "priceAt": "08.04 10:36",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/0yljqghq/6622cfc21c184f83ab37ddc7ef9186ee.jpg",
+          "url": "https://link.coupang.com/a/fVJXVvz1SC",
+          "_ts": 1785807398.05701
+        },
+        {
           "name": "코튼클라우드 호텔수건 200g 40수 코마사, 브라운, 15개, 브라운 × 15개",
           "price": "49,090원",
           "discount_rate": 52,
@@ -429,15 +438,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/16970808331699412-ab86b0c6-7908-4d0a-aa2f-37091959dba7.jpg",
           "url": "https://link.coupang.com/a/fQQsNknNJs",
           "_ts": 1785552581.735708
-        },
-        {
-          "name": "삼양 맛있는라면, 15개",
-          "price": "9,360원",
-          "discount_rate": 28,
-          "priceAt": "08.01 10:24",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/861999491939870-f8f487be-0138-4b4f-a537-7896455d8b4d.png",
-          "url": "https://link.coupang.com/a/fQKqhXmEhg",
-          "_ts": 1785547491.3021
         }
       ]
     },
@@ -1766,15 +1766,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/10/07/17/1/6d349202-271a-49c3-b979-e83f182851c7.jpg",
           "url": "https://link.coupang.com/a/fKfIdy0jfM",
           "_ts": 1785209361.641803
-        },
-        {
-          "name": "오리온 황치즈칩쿠키 256g",
-          "price": "6,410원",
-          "discount_rate": null,
-          "priceAt": "07.28 09:39",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/177881157782498-f26dfca5-a31d-47f9-93a1-aaa6fc63b741.jpg",
-          "url": "https://link.coupang.com/a/fJ3BHs5iM0",
-          "_ts": 1785199194.9236171
         }
       ]
     }
