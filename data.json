@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오랄비 크로스액션 탁월한 세정력 칫솔",
+          "price": "15,990원",
+          "discount_rate": 43,
+          "priceAt": "08.04 16:57",
+          "image": "https://image5.coupangcdn.com/image/retail/images/30476567875169-ad0d2ce6-4390-46d6-807f-e575018a3999.jpg",
+          "url": "https://link.coupang.com/a/fWbdgJIYs8",
+          "_ts": 1785830256.400301
+        },
+        {
           "name": "올바른수산 명태 슬라이스 (냉동), 300g, 1팩, 300g × 1팩",
           "price": "3,920원",
           "discount_rate": 20,
@@ -465,15 +474,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4694796173706-1a1180d7-5bbf-4e39-bf73-b16f828b08b2.png",
           "url": "https://link.coupang.com/a/fRdNqdnt0u",
           "_ts": 1785572181.213635
-        },
-        {
-          "name": "아필코 러닝벨트 런닝가방 플립벨트 힙색 블랙, (색상선택가능)",
-          "price": "1,700원",
-          "discount_rate": 57,
-          "priceAt": "08.01 15:39",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/54194026872781-cd22da6b-ca3a-41ae-a7f6-42fb3ea0e109.jpg",
-          "url": "https://link.coupang.com/a/fQ6TWavyeq",
-          "_ts": 1785566363.623323
         }
       ]
     },
@@ -1760,24 +1760,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/39de9037-c6c9-4240-94ec-d688a33110062209927992435116053.png",
           "url": "https://link.coupang.com/a/fKImWlwupo",
           "_ts": 1785233422.021182
-        },
-        {
-          "name": "리챔 더블라이트, 200g, 9개",
-          "price": "17,230원",
-          "discount_rate": 25,
-          "priceAt": "07.28 16:37",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/99712145834670-1edb50ab-f624-4339-8e11-35002175b865.jpg",
-          "url": "https://link.coupang.com/a/fKxrAlU6bA",
-          "_ts": 1785224248.841084
-        },
-        {
-          "name": "덴마크 테이크 얼라이브 머스캣 청포도 주스, 120ml, 48개",
-          "price": "11,120원",
-          "discount_rate": 49,
-          "priceAt": "07.28 15:38",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/197788001137813-9cab8bb3-86a2-45d0-a0c6-731d8d54757c.png",
-          "url": "https://link.coupang.com/a/fKtgpQba68",
-          "_ts": 1785220735.856798
         }
       ]
     }
