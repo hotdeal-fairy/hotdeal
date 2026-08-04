@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "올바른수산 명태 슬라이스 (냉동), 300g, 1팩, 300g × 1팩",
+          "price": "3,920원",
+          "discount_rate": 20,
+          "priceAt": "08.04 15:26",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1183453680180937-a4b8a75e-5b56-406b-b89f-47af467212b9.jpg",
+          "url": "https://link.coupang.com/a/fV4GztfDk4",
+          "_ts": 1785824797.445167
+        },
+        {
           "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
           "price": "12,080원",
           "discount_rate": 56,
@@ -661,24 +670,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZmIxOGNm/QU9kOFhOdmpuTE1rbkh6NCsyZmplWHRuWTBhYzJMNjVNeS9CK2U4dmtXYmQ.png",
           "url": "https://toss.im/_m/9vJF0Moc",
           "_ts": 1785576022.501497
-        },
-        {
-          "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 실내건조형, 200개입, 1개",
-          "price": "5,700원",
-          "discount_rate": 71,
-          "priceAt": "08.01 15:01",
-          "image": "https://shopping.toss.im/live/temp/2025-05-14/52c78bea-ea6e-40df-92a3-fca69d1d7141.jpeg",
-          "url": "https://toss.im/_m/1JGAXtnt",
-          "_ts": 1785564081.777194
-        },
-        {
-          "name": "뉴리스 발바닥 발패치, 50매",
-          "price": "7,999원",
-          "discount_rate": 60,
-          "priceAt": "08.01 15:00",
-          "image": "https://shopping.toss.im/live/temp/2026-03-26/7563c02f-a6cc-4cea-8b4b-3377f3be22db.jpeg",
-          "url": "https://toss.im/_m/z1xmL3m3",
-          "_ts": 1785564022.3664482
         },
         {
           "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
