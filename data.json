@@ -465,15 +465,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/08421d88-a183-4b1f-a616-2672a3de94241549244834881123616.png",
           "url": "https://link.coupang.com/a/fRo9qj1yRo",
           "_ts": 1785581684.141865
-        },
-        {
-          "name": "삼양 볶음 간짬뽕, 15개",
-          "price": "9,600원",
-          "discount_rate": 20,
-          "priceAt": "08.01 17:16",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4694796173706-1a1180d7-5bbf-4e39-bf73-b16f828b08b2.png",
-          "url": "https://link.coupang.com/a/fRdNqdnt0u",
-          "_ts": 1785572181.213635
         }
       ]
     },
@@ -482,6 +473,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "쟈니베어 붙이는 아이스 쿨패치 쿨링시트, 30개, 1팩",
+          "price": "5,970원",
+          "discount_rate": 69,
+          "priceAt": "08.04 17:50",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZTkxM2Fl/QUpZQjNFNldNeUhPNVBUM05sTGxOTVliRFhHOHhqTytoYTB4eGpKMnlBZno.png",
+          "url": "https://toss.im/_m/N6l1C8OD",
+          "_ts": 1785833418.823029
+        },
         {
           "name": "라벨영 쇼킹아이크림, 20ml, 2개",
           "price": "10,000원",
