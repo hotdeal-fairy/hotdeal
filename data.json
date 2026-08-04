@@ -438,15 +438,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3355802764031-15f1f80e-2b97-4549-b854-49fdf0cb706e.jpg",
           "url": "https://link.coupang.com/a/fQ18dlhxLw",
           "_ts": 1785562359.0041568
-        },
-        {
-          "name": "하림 텐더스틱 (냉동), 1.2kg, 1개",
-          "price": "12,510원",
-          "discount_rate": 22,
-          "priceAt": "08.01 11:49",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/16970808331699412-ab86b0c6-7908-4d0a-aa2f-37091959dba7.jpg",
-          "url": "https://link.coupang.com/a/fQQsNknNJs",
-          "_ts": 1785552581.735708
         }
       ]
     },
@@ -455,6 +446,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "날씬이 탄수화물컷, 60정, 1박스",
+          "price": "9,500원",
+          "discount_rate": 81,
+          "priceAt": "08.04 11:51",
+          "image": "https://shopping.toss.im/live/taca/ai/YmQ5ODk4/QU5HVzRzNjQ5TDF0ZG43Y3U4Y1djeU9ZMjNUa1B3dWZsT2poejFTSXdEUzI.png",
+          "url": "https://toss.im/_m/R1mD1ey9",
+          "_ts": 1785811864.384114
+        },
         {
           "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
           "price": "12,000원",
@@ -634,24 +634,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-03-26/7563c02f-a6cc-4cea-8b4b-3377f3be22db.jpeg",
           "url": "https://toss.im/_m/z1xmL3m3",
           "_ts": 1785564022.3664482
-        },
-        {
-          "name": "유한메디카 징코 플러스엔탑 혈행 기억력 케어, 60정, 1개",
-          "price": "4,500원",
-          "discount_rate": 90,
-          "priceAt": "08.01 11:46",
-          "image": "https://shopping.toss.im/live/taca/ai/MzEzOTVj/QUtkd0twWnhXRG5KakpUVkxjeHJ0V05UTDk4ZUdQSU0wdUhZZzVhaDFIaHA.png",
-          "url": "https://toss.im/_m/xHzs7BRy",
-          "_ts": 1785552361.415349
-        },
-        {
-          "name": "인블룸 실리콘 지퍼백, 그린, 1000ml, 8개입",
-          "price": "9,160원",
-          "discount_rate": 61,
-          "priceAt": "08.01 11:45",
-          "image": "https://shopping.toss.im/live/taca/ai/NzZlMjRi/Vy9PK1BEdDVIUnljbk02T1hqeUQ0M2srNC9QZzQvaTV3OUh3elBIa0R6WT0.png",
-          "url": "https://toss.im/_m/reabZZad",
-          "_ts": 1785552318.013252
         },
         {
           "name": "스파클 생수, 무라벨, 2L, 24개",
