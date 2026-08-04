@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "파스퇴르 바른목장 우유",
+          "price": "17,440원",
+          "discount_rate": 21,
+          "priceAt": "08.04 19:24",
+          "image": "https://image10.coupangcdn.com/image/retail/images/251609515910513-c30ff633-fc98-4586-879e-06284a29a2f1.jpg",
+          "url": "https://link.coupang.com/a/fWlIU1kULs",
+          "_ts": 1785839081.0092869
+        },
+        {
           "name": "에뛰드 NEW 마이 래쉬 세럼 속눈썹 영양제, 9g, 1개, 9g × 1개",
           "price": "4,420원",
           "discount_rate": 32,
@@ -1784,15 +1793,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52076370552817-73a0090f-4717-4305-8b09-5e984e1ec97a.jpg",
           "url": "https://link.coupang.com/a/fLwE6JdcBw",
           "_ts": 1785275649.694814
-        },
-        {
-          "name": "비셰프 이츠 기분충전 솔티카라멜 팝콘, 25g, 4개",
-          "price": "1,960원",
-          "discount_rate": 25,
-          "priceAt": "07.28 19:10",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/39de9037-c6c9-4240-94ec-d688a33110062209927992435116053.png",
-          "url": "https://link.coupang.com/a/fKImWlwupo",
-          "_ts": 1785233422.021182
         }
       ]
     }
