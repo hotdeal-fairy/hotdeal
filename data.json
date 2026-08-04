@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "고르고 바른 마스크 성인용 대형, 50개입, 1개, 블랙",
+          "price": "3,950원",
+          "discount_rate": 60,
+          "priceAt": "08.05 07:33",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1410347901564783-4f962179-df09-4ef9-a94e-983b3e21c042.png",
+          "url": "https://link.coupang.com/a/fXbN3q2ZVI",
+          "_ts": 1785882831.779538
+        },
+        {
           "name": "EZn이지엔 슬라이더 지퍼백 4종 세트, 혼합, 67개입, 1개",
           "price": "12,990원",
           "discount_rate": 58,
@@ -474,15 +483,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1387497835077324-14365017-b6b7-4b7e-936d-c413c4892959.jpg",
           "url": "https://link.coupang.com/a/fSehRw8wOy",
           "_ts": 1785624621.649911
-        },
-        {
-          "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
-          "price": "5,650원",
-          "discount_rate": 34,
-          "priceAt": "08.02 07:26",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/67558851664189-c0ce92d3-9e30-4cb5-9d64-a8453707f263.jpg",
-          "url": "https://link.coupang.com/a/fScx2cJvtk",
-          "_ts": 1785623160.769867
         }
       ]
     },
