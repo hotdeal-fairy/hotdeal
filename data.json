@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "일리윤 세라마이드 아토 로션 무향",
+          "price": "12,800원",
+          "discount_rate": 34,
+          "priceAt": "08.04 18:42",
+          "image": "https://image5.coupangcdn.com/image/retail/images/76383476284976-beeac87e-878a-434d-9b87-acc1ecbc6961.jpg",
+          "url": "https://link.coupang.com/a/fWiJoicbNA",
+          "_ts": 1785836568.8004448
+        },
+        {
           "name": "프레샤인 사과, 1kg(소과, 6입내), 1봉",
           "price": "6,980원",
           "discount_rate": 22,
@@ -661,33 +670,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/MGQwNjJm/QUtsaXBRd1ZwTmFsV3BWZVVxdGI3R09GSzJXdFdxMW9sYUhXTWRKVkNwc2E.png",
           "url": "https://toss.im/_m/bCUrlBGf",
           "_ts": 1785585616.8542862
-        },
-        {
-          "name": "황도복숭아, 고당도, 초고당도, 2kg, 14-17과, 1박스",
-          "price": "16,900원",
-          "discount_rate": 67,
-          "priceAt": "08.01 18:22",
-          "image": "https://shopping.toss.im/live/temp/2026-07-11/2a836e28-517e-48b0-bba4-fb083538c7c2.png",
-          "url": "https://toss.im/_m/Xr0EyH7b",
-          "_ts": 1785576130.244003
-        },
-        {
-          "name": "듀록 꽃삼겹살, 4mm, 500g, 4개",
-          "price": "20,988원",
-          "discount_rate": 44,
-          "priceAt": "08.01 18:21",
-          "image": "https://shopping.toss.im/live/temp/2026-06-29/61e016a6-f105-4ae5-a904-a8cec4e56440.jpeg",
-          "url": "https://toss.im/_m/tAuWBaj8",
-          "_ts": 1785576075.89468
-        },
-        {
-          "name": "썬키스트 코코리치, 300ml, 20개",
-          "price": "9,900원",
-          "discount_rate": 67,
-          "priceAt": "08.01 18:20",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmIxOGNm/QU9kOFhOdmpuTE1rbkh6NCsyZmplWHRuWTBhYzJMNjVNeS9CK2U4dmtXYmQ.png",
-          "url": "https://toss.im/_m/9vJF0Moc",
-          "_ts": 1785576022.501497
         },
         {
           "name": "스파클 생수, 무라벨, 2L, 24개",
