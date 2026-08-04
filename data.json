@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지",
+          "price": "12,080원",
+          "discount_rate": 56,
+          "priceAt": "08.04 14:35",
+          "image": "https://image15.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
+          "url": "https://link.coupang.com/a/fV05mlD00q",
+          "_ts": 1785821753.0212538
+        },
+        {
           "name": "신선설농탕 신선왕만두 고소한맛 (냉동), 490g, 1개",
           "price": "4,140원",
           "discount_rate": 32,
@@ -456,15 +465,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/54194026872781-cd22da6b-ca3a-41ae-a7f6-42fb3ea0e109.jpg",
           "url": "https://link.coupang.com/a/fQ6TWavyeq",
           "_ts": 1785566363.623323
-        },
-        {
-          "name": "이너홈 클린한 엠보싱 위생장갑, 500개입, 2개",
-          "price": "9,600원",
-          "discount_rate": 40,
-          "priceAt": "08.01 14:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3355802764031-15f1f80e-2b97-4549-b854-49fdf0cb706e.jpg",
-          "url": "https://link.coupang.com/a/fQ18dlhxLw",
-          "_ts": 1785562359.0041568
         }
       ]
     },
@@ -1778,24 +1778,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/197788001137813-9cab8bb3-86a2-45d0-a0c6-731d8d54757c.png",
           "url": "https://link.coupang.com/a/fKtgpQba68",
           "_ts": 1785220735.856798
-        },
-        {
-          "name": "가구 흠집제거 마카펜 가구보수펜 목재 가구 스크래치 복원 메꿈이 보수용 펜, 10개",
-          "price": "3,530원",
-          "discount_rate": 73,
-          "priceAt": "07.28 14:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/7713/7a86a11cb4c7b95ba817a366bee73d4592365d008a54a11202cb15b3f18b.jpg",
-          "url": "https://link.coupang.com/a/fKmdME7g1k",
-          "_ts": 1785214826.5725498
-        },
-        {
-          "name": "전두유 검은콩 고칼슘 두유, 190ml, 24개",
-          "price": "7,700원",
-          "discount_rate": 23,
-          "priceAt": "07.28 13:34",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3496144820583002-1fd0be40-d961-42c0-ab33-7bc9c87c08bf.jpg",
-          "url": "https://link.coupang.com/a/fKkkLPa0ho",
-          "_ts": 1785213247.3225589
         }
       ]
     }
