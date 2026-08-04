@@ -501,15 +501,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/346890688629726-7cf79afe-13a6-46ad-a6b1-a3e93abfd03d.jpg",
           "url": "https://link.coupang.com/a/fSbbiaIDCu",
           "_ts": 1785622011.2231019
-        },
-        {
-          "name": "오뚜기 찹쌀호떡 믹스, 400g, 2개",
-          "price": "3,980원",
-          "discount_rate": 46,
-          "priceAt": "08.01 19:54",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/08421d88-a183-4b1f-a616-2672a3de94241549244834881123616.png",
-          "url": "https://link.coupang.com/a/fRo9qj1yRo",
-          "_ts": 1785581684.141865
         }
       ]
     },
@@ -518,6 +509,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "푸드센터 소갈비살, 200g, 5팩",
+          "price": "29,800원",
+          "discount_rate": 70,
+          "priceAt": "08.04 20:00",
+          "image": "https://shopping.toss.im/live/temp/2025-07-21/93a16065-9d8e-4a9a-83c8-c07c8cca1f2d.png",
+          "url": "https://toss.im/_m/7POgWtAx",
+          "_ts": 1785841213.855592
+        },
         {
           "name": "미니 밤호박, 4kg, 1개",
           "price": "9,200원",
@@ -1019,18 +1019,6 @@
           "url": "https://toss.im/_m/Z35QHPu3",
           "_rank": 18,
           "_product_id": "2363230809",
-          "_ts": 1785798401.576222,
-          "_last_synced_ts": 1785834124.705292
-        },
-        {
-          "name": "푸드센터 소갈비살, 200g, 5팩",
-          "price": "29,800원",
-          "discount_rate": 70,
-          "priceAt": "08.04 08:06",
-          "image": "https://shopping.toss.im/live/temp/2025-07-21/93a16065-9d8e-4a9a-83c8-c07c8cca1f2d.png",
-          "url": "https://toss.im/_m/7POgWtAx",
-          "_rank": 19,
-          "_product_id": "2460475873",
           "_ts": 1785798401.576222,
           "_last_synced_ts": 1785834124.705292
         },
