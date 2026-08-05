@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "다향 무항생제 인증 우리땅 오리 다리살 슬라이스 (냉장)",
+          "price": "7,290원",
+          "discount_rate": 51,
+          "priceAt": "08.06 07:44",
+          "image": "https://static.coupangcdn.com/image/retail/images/925859633293643-50ab81f4-1584-4e3f-8543-cfdb6f5a0f0f.jpg",
+          "url": "https://link.coupang.com/a/fYRuEqo8tM",
+          "_ts": 1785969868.367091
+        },
+        {
           "name": "녹족 여성용 아이비 오버핏 반팔 요가 티셔츠, L",
           "price": "10,400원",
           "discount_rate": 15,
@@ -1751,42 +1760,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/268029418504792-446b7bf1-151b-4546-be0e-0d3da46b17a4.jpg",
           "url": "https://link.coupang.com/a/fNfcaJIz7Y",
           "_ts": 1785365095.7528992
-        },
-        {
-          "name": "리고 100% 땅콩버터 청키, 453g, 2개",
-          "price": "9,380원",
-          "discount_rate": 53,
-          "priceAt": "07.30 07:30",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/89678145545074-6a2f78c6-0c94-49f2-a588-044edea1cdb8.png",
-          "url": "https://link.coupang.com/a/fNd8fJzVXE",
-          "_ts": 1785364206.538769
-        },
-        {
-          "name": "리고 100% 땅콩버터 크리미, 453g, 2개",
-          "price": "9,380원",
-          "discount_rate": 33,
-          "priceAt": "07.30 07:29",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/65560837096971-461326f1-25f7-4eef-8959-c6ff2d424b0e.jpg",
-          "url": "https://link.coupang.com/a/fNd67y4HPV",
-          "_ts": 1785364186.907095
-        },
-        {
-          "name": "피지 모락셀라 냄새제거 부스터 캡슐 뽀송한 코튼향 26개입*1개",
-          "price": "11,900원",
-          "discount_rate": 15,
-          "priceAt": "07.30 07:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/495081138949946-6df691f0-ffc4-419d-ad6d-71b0e4311fc3.jpg",
-          "url": "https://link.coupang.com/a/fNdOfR6gzA",
-          "_ts": 1785363933.186374
-        },
-        {
-          "name": "오뚜기3분 쇠고기 간짜장, 200g, 4개",
-          "price": "4,360원",
-          "discount_rate": 27,
-          "priceAt": "07.30 07:19",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10592115434722-47b2974e-ee92-4ef2-a45d-3c6a39ee7f6b.jpg",
-          "url": "https://link.coupang.com/a/fNdlpMlKHk",
-          "_ts": 1785363540.4487748
         }
       ]
     }
