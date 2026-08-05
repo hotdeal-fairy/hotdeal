@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "아벤느 클리낭스 클렌징 젤, 100ml, 1개, 100ml × 1개",
+          "price": "7,500원",
+          "discount_rate": 62,
+          "priceAt": "08.05 19:38",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/323179929061261-b694672c-15fc-4cc2-a186-0de24f0974dd.jpg",
+          "url": "https://link.coupang.com/a/fX1AcKpi7o",
+          "_ts": 1785926303.762121
+        },
+        {
           "name": "아크디 먼지없는 호텔 고급 수건, 10개, 올리브그린",
           "price": "31,250원",
           "discount_rate": 69,
@@ -528,33 +537,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4119157550861544-e8dcce7c-5071-49c5-81f5-76c7c7bc9070.jpg",
           "url": "https://link.coupang.com/a/fS8HpRC7yu",
           "_ts": 1785672208.1836832
-        },
-        {
-          "name": "아이깨끗해 항균 폼 핸드솝 레몬향 리필, 2.45L, 1개",
-          "price": "13,690원",
-          "discount_rate": 45,
-          "priceAt": "08.02 19:07",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a682/35f5ffc91bc0ffe4f691c3c533c50ea96e3cb772ce1e20acfb7a4ebe19b8.jpg",
-          "url": "https://link.coupang.com/a/fS0DVCf16O",
-          "_ts": 1785665225.770964
-        },
-        {
-          "name": "종가집 오래오래 시원한 동치미, 1.2kg, 2개",
-          "price": "14,190원",
-          "discount_rate": 36,
-          "priceAt": "08.02 19:06",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/545965539042648-33cb7ae9-886c-456a-a909-f7be2a3fb884.jpg",
-          "url": "https://link.coupang.com/a/fS0CVnhmLI",
-          "_ts": 1785665206.958851
-        },
-        {
-          "name": "매일바이오 ZERO 요구르트, 190ml, 24개",
-          "price": "10,070원",
-          "discount_rate": 41,
-          "priceAt": "08.02 19:05",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1050548527693895-52b25545-c314-46e1-a4c0-f2d4fd91a44e.jpg",
-          "url": "https://link.coupang.com/a/fS0yndphhA",
-          "_ts": 1785665147.730342
         }
       ]
     },
