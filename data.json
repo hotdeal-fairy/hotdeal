@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "국내산 피망 2개입, 1개",
+          "price": "1,490원",
+          "discount_rate": 47,
+          "priceAt": "08.05 10:59",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4324266110830-b849e7dc-91bc-476b-a805-218af5df764a.jpg",
+          "url": "https://link.coupang.com/a/fXqwBUnK1c",
+          "_ts": 1785895188.816517
+        },
+        {
           "name": "ANT IPX8리얼 방수비데",
           "price": "129,000원",
           "discount_rate": 60,
@@ -492,15 +501,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1050548527693895-52b25545-c314-46e1-a4c0-f2d4fd91a44e.jpg",
           "url": "https://link.coupang.com/a/fS0yndphhA",
           "_ts": 1785665147.730342
-        },
-        {
-          "name": "프로그 더블 지퍼백 냉장용 중형60매 + 대형40매, 총100개입*1세트",
-          "price": "9,900원",
-          "discount_rate": 29,
-          "priceAt": "08.02 10:42",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/538610394129372-ba341757-b504-4ac8-a738-ddfe12a9e5ed.jpg",
-          "url": "https://link.coupang.com/a/fSqzTKSTKu",
-          "_ts": 1785634939.181948
         }
       ]
     },
