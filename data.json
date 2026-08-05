@@ -555,6 +555,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "무안 일반양파, 최상급, 10kg, 1박스",
+          "price": "11,800원",
+          "discount_rate": 76,
+          "priceAt": "08.05 17:50",
+          "image": "https://shopping.toss.im/live/temp/2026-04-03/919d8fed-87cf-47a3-ac6b-211514b232eb.png",
+          "url": "https://toss.im/_m/RmYHzzTq",
+          "_ts": 1785919822.7081401
+        },
+        {
           "name": "바리스타룰스 원데이 무라벨, 저당라떼, 350ml, 20개",
           "price": "15,990원",
           "discount_rate": 68,
