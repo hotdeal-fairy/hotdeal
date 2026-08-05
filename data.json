@@ -510,6 +510,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "이씨네 전라도 겉절이, 1kg, 1개",
+          "price": "6,800원",
+          "discount_rate": 68,
+          "priceAt": "08.05 11:45",
+          "image": "https://shopping.toss.im/c5144cbd-cfc0-4303-843c-1941d29bf5ef.jpg",
+          "url": "https://toss.im/_m/VuYZJxrC",
+          "_ts": 1785897921.60687
+        },
+        {
           "name": "프로프루 성주 꿀참외, 가정용, 5kg, 1박스",
           "price": "12,900원",
           "discount_rate": 74,
@@ -679,15 +688,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YjY2NmU3/QU9kMC93UG1WTDUyK1lINURkRzV2a016bVluK1lRRjhENk4wM2dPNFJnUDg.png",
           "url": "https://toss.im/_m/jjTk2M1l",
           "_ts": 1785638799.107625
-        },
-        {
-          "name": "질레트 호환용 면도날 신형 프로글라이드 퓨전 파워 5중 면도날, 16개입",
-          "price": "8,500원",
-          "discount_rate": 57,
-          "priceAt": "08.02 11:45",
-          "image": "https://shopping.toss.im/live/taca/ai/Mzg0OWM0/RG16WmsrMHgyR2ZMVFBrejJ6bXpiQ1EwMmM0bU1WekdwTTU1bXpXVHZNND0.png",
-          "url": "https://toss.im/_m/zrXAOaLz",
-          "_ts": 1785638720.590107
         },
         {
           "name": "아침에 좋은빵 무화과 호두 통밀빵, 570g, 5개",
@@ -1718,15 +1718,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/42427186099296-e20d18be-a84f-42b3-aa8d-41350b70777f.jpg",
           "url": "https://link.coupang.com/a/fLXk2KKubs",
           "_ts": 1785298045.414347
-        },
-        {
-          "name": "카누 벨베티 미디엄로스트 돌체구스토 호환 캡슐커피 7g*16개입*1개",
-          "price": "4,190원",
-          "discount_rate": 23,
-          "priceAt": "07.29 11:44",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6939242490135-af96d91f-8749-44ea-8a07-2d9340b07c8d.jpg",
-          "url": "https://link.coupang.com/a/fLRrmRtuIC",
-          "_ts": 1785293096.864935
         }
       ]
     }
