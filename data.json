@@ -510,6 +510,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "아침에 좋은빵 크랜베리 호두 통밀빵, 600g, 5개",
+          "price": "28,700원",
+          "discount_rate": 67,
+          "priceAt": "08.05 11:46",
+          "image": "https://shopping.toss.im/live/temp/2025-09-11/f4290d59-f6d6-44c0-bf87-c84aed8ec678.png",
+          "url": "https://toss.im/_m/hUWpYYD9",
+          "_ts": 1785897998.123063
+        },
+        {
           "name": "이씨네 전라도 겉절이, 1kg, 1개",
           "price": "6,800원",
           "discount_rate": 68,
@@ -830,18 +839,6 @@
           "url": "https://toss.im/_m/JS50VNT",
           "_rank": 42,
           "_product_id": "128468579",
-          "_ts": 1785884561.2645278,
-          "_last_synced_ts": 1785884561.2645278
-        },
-        {
-          "name": "아침에 좋은빵 크랜베리 호두 통밀빵, 600g, 5개",
-          "price": "28,611원",
-          "discount_rate": 68,
-          "priceAt": "08.05 08:02",
-          "image": "https://shopping.toss.im/live/temp/2025-09-11/f4290d59-f6d6-44c0-bf87-c84aed8ec678.png",
-          "url": "https://toss.im/_m/hUWpYYD9",
-          "_rank": 44,
-          "_product_id": "1923975195",
           "_ts": 1785884561.2645278,
           "_last_synced_ts": 1785884561.2645278
         },
