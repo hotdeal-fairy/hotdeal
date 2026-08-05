@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "녹족 여성용 아이비 오버핏 반팔 요가 티셔츠, L",
+          "price": "10,400원",
+          "discount_rate": 15,
+          "priceAt": "08.06 07:17",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/408686591430032-fb335396-9938-494c-94ba-4ff211771b90.jpg",
+          "url": "https://link.coupang.com/a/fYPxertO2u",
+          "_ts": 1785968242.987495
+        },
+        {
           "name": "필라델피아 크림치즈, 16.67g, 6개입, 4개",
           "price": "6,480원",
           "discount_rate": 50,
@@ -1778,24 +1787,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10592115434722-47b2974e-ee92-4ef2-a45d-3c6a39ee7f6b.jpg",
           "url": "https://link.coupang.com/a/fNdlpMlKHk",
           "_ts": 1785363540.4487748
-        },
-        {
-          "name": "파워에이드 마운틴 블라스트, 600ml, 20개",
-          "price": "17,490원",
-          "discount_rate": 13,
-          "priceAt": "07.30 07:14",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/36145048252261-5d1ae7f2-d59b-4194-baef-461793e3195b.jpg",
-          "url": "https://link.coupang.com/a/fNc2yF5tLw",
-          "_ts": 1785363287.770178
-        },
-        {
-          "name": "아몬드브리즈 뉴트리플러스 프로틴, 190ml, 24개",
-          "price": "13,780원",
-          "discount_rate": 14,
-          "priceAt": "07.30 07:14",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/40844618292060-21be75de-8006-4319-97c8-a76d9e4bbaa0.jpg",
-          "url": "https://link.coupang.com/a/fNc1an1V9w",
-          "_ts": 1785363269.197533
         }
       ]
     }
