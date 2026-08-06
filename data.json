@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "메르시 파이니스트 셀렉션 레드 초콜릿, 400g, 2개, 400g × 2개",
+          "price": "33,550원",
+          "discount_rate": 5,
+          "priceAt": "08.06 11:40",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/35569262371856-3827eeec-441b-4c77-9768-2f44fb92fdea.jpg",
+          "url": "https://link.coupang.com/a/fY8l1Lwmzc",
+          "_ts": 1785984045.122935
+        },
+        {
           "name": "델라고 우드 베이직 궁중팬, 28cm, 1개",
           "price": "14,990원",
           "discount_rate": 63,
@@ -1787,15 +1796,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b0c/42236c28dbdcfa6f745572887998ebbff1cbe5852d47d650cf8c920d3bef.jpg",
           "url": "https://link.coupang.com/a/fNNfJy1p36",
           "_ts": 1785393690.524086
-        },
-        {
-          "name": "쿠쿠 전자동 에스프레소 커피머신",
-          "price": "224,500원",
-          "discount_rate": 25,
-          "priceAt": "07.30 10:46",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/25/17/6/f3b13b2c-4142-4a31-9d91-554824b50810.jpg",
-          "url": "https://link.coupang.com/a/fNr9VgtxqC",
-          "_ts": 1785375982.953579
         }
       ]
     }
