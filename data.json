@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "이롬 황성주 박사의 국산콩 두유 무가당, 190ml, 32개, 190ml × 32개",
+          "price": "15,100원",
+          "discount_rate": 57,
+          "priceAt": "08.06 17:48",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/747404577241747-9cd6704b-fbb2-41ee-8c73-a0b51d6e86b9.jpg",
+          "url": "https://link.coupang.com/a/fZyDbVnorc",
+          "_ts": 1786006108.0418181
+        },
+        {
           "name": "밀크바오밥 선스프레이 SPF50+ PA++++",
           "price": "6,940원",
           "discount_rate": 50,
@@ -1808,15 +1817,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1217446813490588-dd9e4a9b-4cd5-42e1-8b20-be3d2bda9d86.png",
           "url": "https://link.coupang.com/a/fOaUR4IHGS",
           "_ts": 1785413554.4202628
-        },
-        {
-          "name": "가로팔로 링귀니 파스타, 500g, 2개",
-          "price": "4,980원",
-          "discount_rate": 36,
-          "priceAt": "07.30 16:48",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/539ac7c7-9eef-4499-9dbf-3d145bfecf101932248743017013390.png",
-          "url": "https://link.coupang.com/a/fNR3pS6uwm",
-          "_ts": 1785397718.791851
         }
       ]
     }
