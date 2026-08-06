@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "굿데이 강아지 건강한 육포",
+          "price": "8,000원",
+          "discount_rate": 45,
+          "priceAt": "08.06 13:23",
+          "image": "https://image13.coupangcdn.com/image/retail/images/2026/03/22/9/2/cee52b31-96e2-44c9-ac60-7b1b16e9e63c.jpg",
+          "url": "https://link.coupang.com/a/fZfJmVkOei",
+          "_ts": 1785990218.884214
+        },
+        {
           "name": "개성 감자만두 (냉동), 1.2kg, 2개, 1.2kg × 2개",
           "price": "13,480원",
           "discount_rate": 50,
