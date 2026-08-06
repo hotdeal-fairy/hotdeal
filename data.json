@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "파파레서피 블레미쉬 효소 클렌징 파우더, 50g, 1개",
+          "price": "10,950원",
+          "discount_rate": 39,
+          "priceAt": "08.06 10:05",
+          "image": "https://image3.coupangcdn.com/image/retail/images/40278605056370-0e5825d6-e422-4449-a1c1-c2bc813c06df.png",
+          "url": "https://link.coupang.com/a/fY1x0f4Saa",
+          "_ts": 1785978309.994926
+        },
+        {
           "name": "비비드키친 저당 닭가슴살 브리또 숯불매콤 (냉동)",
           "price": "4,800원",
           "discount_rate": 38,
@@ -1769,15 +1778,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/25/17/6/f3b13b2c-4142-4a31-9d91-554824b50810.jpg",
           "url": "https://link.coupang.com/a/fNr9VgtxqC",
           "_ts": 1785375982.953579
-        },
-        {
-          "name": "지퍼락 그립앤실 냉장 밀폐용백 100개입*2개",
-          "price": "6,050원",
-          "discount_rate": 29,
-          "priceAt": "07.30 09:31",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/51632054006428-8a10aa99-cc96-46b1-932b-205d10fbcf78.jpg",
-          "url": "https://link.coupang.com/a/fNmPC8fkNo",
-          "_ts": 1785371508.566497
         }
       ]
     }
