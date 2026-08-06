@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "밀크바오밥 선스프레이 SPF50+ PA++++",
+          "price": "6,940원",
+          "discount_rate": 50,
+          "priceAt": "08.06 16:27",
+          "image": "https://image11.coupangcdn.com/image/retail/images/169574739245590-8cce62d6-23ad-41e2-a843-c1d753f19fb2.jpg",
+          "url": "https://link.coupang.com/a/fZsQEQfLrw",
+          "_ts": 1786001232.264256
+        },
+        {
           "name": "투데이넛 너트한줌 요거트 견과세트 600g, 2세트, 2세트",
           "price": "27,970원",
           "discount_rate": 49,
@@ -1808,33 +1817,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/539ac7c7-9eef-4499-9dbf-3d145bfecf101932248743017013390.png",
           "url": "https://link.coupang.com/a/fNR3pS6uwm",
           "_ts": 1785397718.791851
-        },
-        {
-          "name": "테팔 에센셜 2IN1 주방 뒤집개 1개",
-          "price": "3,880원",
-          "discount_rate": 29,
-          "priceAt": "07.30 15:42",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2b9b/311ebec4a3de0fda0c89c00892f699cae4a78d99ff1c2e56bc598a415a54.jpg",
-          "url": "https://link.coupang.com/a/fNNioOX6n6",
-          "_ts": 1785393731.1532989
-        },
-        {
-          "name": "테팔 키친웨어 에센셜 2 in 1 집게, 뉴트럴, 1개",
-          "price": "3,880원",
-          "discount_rate": 40,
-          "priceAt": "07.30 15:41",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/201e/aec1f074e3bd25e7e6b8a225c1962e877b344388ef1cb5d10906b3d83258.jpg",
-          "url": "https://link.coupang.com/a/fNNgP8aPSu",
-          "_ts": 1785393709.7138078
-        },
-        {
-          "name": "테팔 에센셜 2in1 주방 볶음스푼 1개",
-          "price": "3,880원",
-          "discount_rate": 40,
-          "priceAt": "07.30 15:41",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b0c/42236c28dbdcfa6f745572887998ebbff1cbe5852d47d650cf8c920d3bef.jpg",
-          "url": "https://link.coupang.com/a/fNNfJy1p36",
-          "_ts": 1785393690.524086
         }
       ]
     }
