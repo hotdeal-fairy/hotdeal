@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오아 접이식 블루투스 무선 접이식 키보드, 오닉스 블랙, OA-BTKBDA, 적축",
+          "price": "31,130원",
+          "discount_rate": 43,
+          "priceAt": "08.08 07:11",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/024d/2ce57ff92c42e4c2f93e42090135dae1bf9466cb1d997fbdbecc02b7678c.jpg",
+          "url": "https://link.coupang.com/a/f18UkFQcX6",
+          "_ts": 1786140677.563157
+        },
+        {
           "name": "외갓집 1분 30초 통등심돈까스 100g x 5p + 소스 30g x 5p 세트 (냉동)",
           "price": "11,580원",
           "discount_rate": 25,
@@ -1694,24 +1703,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2880720212916693-651639b0-11c5-4c0d-9de4-42b19ad80ecc.jpg",
           "url": "https://link.coupang.com/a/fQxg30D9Fs",
           "_ts": 1785536443.8527691
-        },
-        {
-          "name": "사무실 과자세트 스낵 15입 세트 2호 (쵸코하임 + 버터와플 + 참크래커 + 허니버터칩 + 구운감자 2p ",
-          "price": "14,950원",
-          "discount_rate": 25,
-          "priceAt": "08.01 07:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/24790500822681-ed3df38f-133d-4641-831f-b2923b0b927b.png",
-          "url": "https://link.coupang.com/a/fQv5mkWG6u",
-          "_ts": 1785535446.5458639
-        },
-        {
-          "name": "룩트 초코 클러스터, 200g, 1개",
-          "price": "8,900원",
-          "discount_rate": 41,
-          "priceAt": "08.01 06:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/28/11/4/0fda0600-6f0c-4b35-866e-ae5012f0ff6c.jpg",
-          "url": "https://link.coupang.com/a/fQvMx0XUbY",
-          "_ts": 1785535192.714896
         }
       ]
     }
