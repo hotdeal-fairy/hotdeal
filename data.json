@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "피지 모락셀라 냄새제거 부스터 캡슐 상쾌한 허브향",
+          "price": "12,300원",
+          "discount_rate": 56,
+          "priceAt": "08.08 07:50",
+          "image": "https://image13.coupangcdn.com/image/retail/images/1130756823287814-633fad95-102c-4c6b-9619-f73288fdefb9.png",
+          "url": "https://link.coupang.com/a/f2bIEXen4m",
+          "_ts": 1786143019.4198558
+        },
+        {
           "name": "더담은 불릴필요없는 귀리쌀, 4kg, 1개, 4kg × 1개",
           "price": "6,480원",
           "discount_rate": 56,
@@ -780,15 +789,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7587974490006-951c0769-a359-496b-968d-8f57b1658ef2.png",
           "url": "https://link.coupang.com/a/fTVHZ6Rsu4",
           "_ts": 1785713145.114607
-        },
-        {
-          "name": "차앤맘 피토세린 모이스처 로션, 500ml, 1개, 500ml × 1개",
-          "price": "31,550원",
-          "discount_rate": 36,
-          "priceAt": "08.03 07:47",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/11/13/11/5/ad7bc6b7-0182-481d-a1bb-ef60798046b9.jpg",
-          "url": "https://link.coupang.com/a/fTSYADp5oG",
-          "_ts": 1785710851.733214
         }
       ]
     },
@@ -1685,33 +1685,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/392967364526485-4b6267ad-fc85-4af7-83c2-5aaf70c1ce9f.jpg",
           "url": "https://link.coupang.com/a/fQDnzyINQO",
           "_ts": 1785541570.47261
-        },
-        {
-          "name": "무항생제 신선한 특란 30구",
-          "price": "7,990원",
-          "discount_rate": null,
-          "priceAt": "08.01 07:31",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1514727169265142-4b059cab-0f22-4862-8a47-d3fac940a8d1.jpg",
-          "url": "https://link.coupang.com/a/fQx1SMbKhM",
-          "_ts": 1785537081.1121202
-        },
-        {
-          "name": "농협 EPC 무항생제 인증 특란 1.8kg, 30구, 1개",
-          "price": "7,990원",
-          "discount_rate": null,
-          "priceAt": "08.01 07:31",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/1qabcbar/1823f1871ee4484f86f774b1bd0575c0.jpg",
-          "url": "https://link.coupang.com/a/fQx0rBI4vk",
-          "_ts": 1785537061.8319428
-        },
-        {
-          "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 본품, 4L, 1개",
-          "price": "12,750원",
-          "discount_rate": 20,
-          "priceAt": "08.01 07:20",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2880720212916693-651639b0-11c5-4c0d-9de4-42b19ad80ecc.jpg",
-          "url": "https://link.coupang.com/a/fQxg30D9Fs",
-          "_ts": 1785536443.8527691
         }
       ]
     }
