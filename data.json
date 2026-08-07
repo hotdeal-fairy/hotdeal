@@ -771,6 +771,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "구워먹는 할루미치즈, 200g, 3개",
+          "price": "7,600원",
+          "discount_rate": 65,
+          "priceAt": "08.07 21:51",
+          "image": "https://shopping.toss.im/live/temp/2026-06-30/ade7ab0a-5ebe-489c-a02a-66196e0122ca.png",
+          "url": "https://toss.im/_m/bYiJDbZ5",
+          "_ts": 1786107111.545235
+        },
+        {
           "name": "빙그레 아카페라 심플리 디카페인 아메리카노, 무라벨, 400ml, 20개",
           "price": "21,100원",
           "discount_rate": 29,
@@ -1490,18 +1499,6 @@
           "url": "https://toss.im/_m/LdGQtSTj",
           "_rank": 13,
           "_product_id": "281907477",
-          "_ts": 1785798401.576222,
-          "_last_synced_ts": 1786010615.885855
-        },
-        {
-          "name": "구워먹는 할루미치즈, 200g, 3개",
-          "price": "7,600원",
-          "discount_rate": 65,
-          "priceAt": "08.04 08:06",
-          "image": "https://shopping.toss.im/live/temp/2026-06-30/ade7ab0a-5ebe-489c-a02a-66196e0122ca.png",
-          "url": "https://toss.im/_m/bYiJDbZ5",
-          "_rank": 16,
-          "_product_id": "2375083883",
           "_ts": 1785798401.576222,
           "_last_synced_ts": 1786010615.885855
         },
