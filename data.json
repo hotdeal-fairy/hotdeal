@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 3세트, 18개입 × 3세트",
+          "price": "34,600원",
+          "discount_rate": 51,
+          "priceAt": "08.08 08:47",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/f8e33821-5bc4-4f67-9266-3128d7e4e8981095265429010778903.png",
+          "url": "https://link.coupang.com/a/f2fKmECrSu",
+          "_ts": 1786146421.10235
+        },
+        {
           "name": "다조은 비파괴당도선별 샤인머스켓, 500g, 1팩, 500g × 1팩",
           "price": "6,040원",
           "discount_rate": 49,
@@ -789,15 +798,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f7ea/98715948219dc3d94b78162a76e2a2174175959502910a479dd56d324b56.jpg",
           "url": "https://link.coupang.com/a/fTXr5F1I8i",
           "_ts": 1785714608.8013928
-        },
-        {
-          "name": "크리넥스 울트라클린 천연펄프 3겹 고급롤화장지, 27m, 30개입, 1개",
-          "price": "13,690원",
-          "discount_rate": 26,
-          "priceAt": "08.03 08:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7587974490006-951c0769-a359-496b-968d-8f57b1658ef2.png",
-          "url": "https://link.coupang.com/a/fTVHZ6Rsu4",
-          "_ts": 1785713145.114607
         }
       ]
     },
@@ -1697,15 +1697,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/803788543033693-07a30524-1de0-48ae-8649-e95e3e9a2e69.jpg",
           "url": "https://link.coupang.com/a/fQNSwhn9bh",
           "_ts": 1785550385.453738
-        },
-        {
-          "name": "스텐락 올스텐 도마 330*218*2.5 mm*1개",
-          "price": "11,260원",
-          "discount_rate": 25,
-          "priceAt": "08.01 08:46",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/392967364526485-4b6267ad-fc85-4af7-83c2-5aaf70c1ce9f.jpg",
-          "url": "https://link.coupang.com/a/fQDnzyINQO",
-          "_ts": 1785541570.47261
         }
       ]
     }
