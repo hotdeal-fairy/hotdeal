@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "프릴 시크릿오브 베이킹소다 주방세제 상큼한 오렌지향, 1L, 2개",
+          "price": "7,240원",
+          "discount_rate": 61,
+          "priceAt": "08.08 20:20",
+          "image": "https://static.coupangcdn.com/image/retail/images/415964077940888-c71aaa2c-c3d4-4bc4-950b-8b72ebe6f486.png",
+          "url": "https://link.coupang.com/a/f23i9TfvYi",
+          "_ts": 1786188013.719736
+        },
+        {
           "name": "풀무원 만능유부 (냉동), 500g, 1개, 500g × 1개",
           "price": "7,180원",
           "discount_rate": 20,
@@ -780,15 +789,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/607125485625795-7594e316-736d-42f9-9f0c-f1ac051d44dc.jpg",
           "url": "https://link.coupang.com/a/fULzGRS3u8",
           "_ts": 1785756695.124786
-        },
-        {
-          "name": "더페이스샵 보들보들 때 필링 바디스크럽",
-          "price": "5,900원",
-          "discount_rate": 54,
-          "priceAt": "08.03 20:11",
-          "image": "https://image6.coupangcdn.com/image/retail/images/55274428109979-d72523fc-3bc5-4487-996a-42a4072a643c.jpg",
-          "url": "https://link.coupang.com/a/fUJ8M2seAu",
-          "_ts": 1785755469.706235
         }
       ]
     },
