@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "곰곰 맥반석 구운란, 30구, 1개, 30구 × 1개",
+          "price": "11,900원",
+          "discount_rate": 24,
+          "priceAt": "08.09 07:08",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1742566438571959-53a5ab6a-b98d-4301-94ed-7b5c6d1d3b8c.jpg",
+          "url": "https://link.coupang.com/a/f3NDrWR8x2",
+          "_ts": 1786226932.683956
+        },
+        {
           "name": "프릴 시크릿오브 베이킹소다 주방세제 상큼한 오렌지향, 1L, 2개",
           "price": "7,240원",
           "discount_rate": 61,
@@ -1646,15 +1655,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/02/10/6/6b57aff4-315a-48a8-8da4-aeea572e4d83.jpg",
           "url": "https://link.coupang.com/a/fSfB4IIIUe",
           "_ts": 1785625728.567818
-        },
-        {
-          "name": "나우푸드 실리마린 밀크 시슬 추출물 300mg 베지 캡슐, 200정, 1개",
-          "price": "20,330원",
-          "discount_rate": 25,
-          "priceAt": "08.02 07:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e864/11b9f6b38a90dd8446a0fb5fb4328ce5b3a6ba9b4d33f3002f13c9cdde0d.jpg",
-          "url": "https://link.coupang.com/a/fSa04rXNp6",
-          "_ts": 1785621869.474182
         }
       ]
     }
