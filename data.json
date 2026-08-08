@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오뚜기 진라면 매운맛 컵 110g, 12개, 12개",
+          "price": "8,000원",
+          "discount_rate": 43,
+          "priceAt": "08.08 12:49",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/b413/6922c275babecf9b676dc15920c38a65578c537390124132db026d57c904.jpg",
+          "url": "https://link.coupang.com/a/f2w3TCl6NE",
+          "_ts": 1786160958.958813
+        },
+        {
           "name": "하이뮨 프로틴 밸런스 흑임자, 190ml, 24개",
           "price": "19,960원",
           "discount_rate": 66,
@@ -789,15 +798,6 @@
           "image": "https://image6.coupangcdn.com/image/vendor_inventory/341c/7dd26c82a69ed05062dde53526a358cf4f2a1d84a30702051fd1461adc28.jpg",
           "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7612703&subid=goldbox&pageKey=7826482313&itemId=28741968147&vendorItemId=88412702713&traceid=V0-143-68c66b5978ef19a9",
           "_ts": 1785733185.788759
-        },
-        {
-          "name": "스탠리 아이스플로우 에어로라이트 패스트플로우 텀블러, 로즈쿼츠글리머, 710ml, 1개",
-          "price": "24,650원",
-          "discount_rate": 54,
-          "priceAt": "08.03 12:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/393423540761798-4d82f461-22ad-4a27-a040-47576f55abd9.jpg",
-          "url": "https://link.coupang.com/a/fUbQpuvBlY",
-          "_ts": 1785726693.9337878
         }
       ]
     },
