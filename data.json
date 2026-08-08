@@ -789,15 +789,6 @@
           "image": "https://image6.coupangcdn.com/image/retail/images/55274428109979-d72523fc-3bc5-4487-996a-42a4072a643c.jpg",
           "url": "https://link.coupang.com/a/fUJ8M2seAu",
           "_ts": 1785755469.706235
-        },
-        {
-          "name": "다향 훈제오리 슬라이스, 150g, 1개",
-          "price": "2,410원",
-          "discount_rate": 54,
-          "priceAt": "08.03 19:52",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/494078974163945-d85a4703-8944-4be8-97ad-deaf60b01951.jpg",
-          "url": "https://link.coupang.com/a/fUIMCPpZiS",
-          "_ts": 1785754350.0931358
         }
       ]
     },
@@ -806,6 +797,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "밀크바오밥 바디워시, 화이트머스크, 1L, 1개",
+          "price": "9,830원",
+          "discount_rate": 38,
+          "priceAt": "08.08 20:00",
+          "image": "https://shopping.toss.im/live/temp/2026-02-26/955dafba-d7c9-4683-a54c-8a31a8f8b7c2.jpeg",
+          "url": "https://toss.im/_m/vvizKL8n",
+          "_ts": 1786186818.251384
+        },
         {
           "name": "가쯔 라운드 어깨 뿔 방지 논슬립 니트 옷걸이, 화이트, 30개",
           "price": "7,900원",
@@ -1111,15 +1111,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/N2I2ZDE1/QU9ic09PTnNOc1N2ajlONDlNWUxJekU0OHM5TUo0Mnl5MXBjRlc4TlBHNlE.png",
           "url": "https://toss.im/_m/foOk0XFj",
           "_ts": 1785760236.027199
-        },
-        {
-          "name": "후디스 무가당 플레인 그릭요거트, 400g, 2개",
-          "price": "6,600원",
-          "discount_rate": 48,
-          "priceAt": "08.03 20:00",
-          "image": "https://shopping.toss.im/live/temp/2026-06-09/069859ea-3ad7-4e7f-9f77-92cd73538e14.jpeg",
-          "url": "https://toss.im/_m/floKyted",
-          "_ts": 1785754816.526718
         },
         {
           "name": "수뜰리에 클린 퍼퓸 포밍 핸드 워시, 블랑쉬향, 510ml, 2개",
