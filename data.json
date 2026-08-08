@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "웰콩 서리태 볶음, 20개, 17g",
+          "price": "10,800원",
+          "discount_rate": 15,
+          "priceAt": "08.08 14:51",
+          "image": "https://img2c.coupangcdn.com/image/retail/images/763575243020-788e18e8-2abd-4a0f-9d36-7f7c4d2df9c4.jpg",
+          "url": "https://link.coupang.com/a/f2FNCNFpw4",
+          "_ts": 1786168275.3253062
+        },
+        {
           "name": "오뚜기 진라면 매운맛 컵 110g, 12개, 12개",
           "price": "8,000원",
           "discount_rate": 43,
@@ -789,15 +798,6 @@
           "image": "https://img3a.coupangcdn.com/image/retail/images/2025/05/07/12/9/98cfc449-abb0-420a-b008-91063e4c7ef7.jpg",
           "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7612703&subid=goldbox&pageKey=8758755740&itemId=26631309916&vendorItemId=92459226230&traceid=V0-143-f54c08ac9885c5ae",
           "_ts": 1785736375.119902
-        },
-        {
-          "name": "맘스럽 울트라 퍼퓸 캡슐세제16gX100개입 [8배 초고농축 세제원액  국내생산 프리미엄 3in1 대용량 실내건조형]",
-          "price": "9,450원",
-          "discount_rate": 50,
-          "priceAt": "08.03 13:59",
-          "image": "https://image6.coupangcdn.com/image/vendor_inventory/341c/7dd26c82a69ed05062dde53526a358cf4f2a1d84a30702051fd1461adc28.jpg",
-          "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7612703&subid=goldbox&pageKey=7826482313&itemId=28741968147&vendorItemId=88412702713&traceid=V0-143-68c66b5978ef19a9",
-          "_ts": 1785733185.788759
         }
       ]
     },
@@ -1697,15 +1697,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e864/11b9f6b38a90dd8446a0fb5fb4328ce5b3a6ba9b4d33f3002f13c9cdde0d.jpg",
           "url": "https://link.coupang.com/a/fSa04rXNp6",
           "_ts": 1785621869.474182
-        },
-        {
-          "name": "바리스타룰스 로어슈거 에스프레소 라떼, 6개, 250ml",
-          "price": "7,650원",
-          "discount_rate": 24,
-          "priceAt": "08.01 12:55",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/198585111821649-756852c1-be55-41a3-8bb5-b0d64be157e3.jpg",
-          "url": "https://link.coupang.com/a/fQVdxJu6eW",
-          "_ts": 1785556545.392067
         }
       ]
     }
