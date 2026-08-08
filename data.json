@@ -771,6 +771,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "테스트 상품 1kg",
+          "price": "12,900원",
+          "discount_rate": 35,
+          "priceAt": "08.09 03:03",
+          "image": "images/placeholder.svg",
+          "url": "https://example.test/x",
+          "_ts": 1786212209.0961092
+        },
+        {
           "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
           "price": "9,900원",
           "discount_rate": 66,
