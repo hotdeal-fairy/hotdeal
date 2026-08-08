@@ -789,15 +789,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/67196482857565-0adde60d-5b02-443b-bc50-17cba757fff2.jpg",
           "url": "https://link.coupang.com/a/fUqfznIxSC",
           "_ts": 1785738789.364167
-        },
-        {
-          "name": "테팔 인덕션 티타늄 1X 데일리 컴포트 프라이팬",
-          "price": "28,980원",
-          "discount_rate": 72,
-          "priceAt": "08.03 14:52",
-          "image": "https://img3a.coupangcdn.com/image/retail/images/2025/05/07/12/9/98cfc449-abb0-420a-b008-91063e4c7ef7.jpg",
-          "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7612703&subid=goldbox&pageKey=8758755740&itemId=26631309916&vendorItemId=92459226230&traceid=V0-143-f54c08ac9885c5ae",
-          "_ts": 1785736375.119902
         }
       ]
     },
@@ -806,6 +797,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
+          "price": "9,700원",
+          "discount_rate": 59,
+          "priceAt": "08.08 15:00",
+          "image": "https://shopping.toss.im/live/taca/ai/ZmNiNWM4/QU9UTXRQTmRoaTdPVFRPMUwwcHhXdElTblpNK2VuRnZZN053VnBic1V1MXM.png",
+          "url": "https://toss.im/_m/xGxrktyn",
+          "_ts": 1786168824.882932
+        },
         {
           "name": "하루연구소 여성 냉장고 바지 몸빼 3종 세트, FREE, 1세트",
           "price": "9,800원",
