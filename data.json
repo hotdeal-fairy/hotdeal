@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스너글 초고농축 섬유유연제 오리지널 블루밍 부케 본품, 4L, 1개",
+          "price": "12,700원",
+          "discount_rate": 48,
+          "priceAt": "08.08 18:55",
+          "image": "https://img4c.coupangcdn.com/image/retail/images/3482781880389506-f520ff8d-7c7d-4012-9a39-127c1aca51b6.jpg",
+          "url": "https://link.coupang.com/a/f2XhdMGwoe",
+          "_ts": 1786182949.7181928
+        },
+        {
           "name": "청우식품 양념치킨 순한맛 소스, 2.1kg, 1개, 2.1kg × 1개",
           "price": "4,170원",
           "discount_rate": 60,
@@ -762,15 +771,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/494078974163945-d85a4703-8944-4be8-97ad-deaf60b01951.jpg",
           "url": "https://link.coupang.com/a/fUIMCPpZiS",
           "_ts": 1785754350.0931358
-        },
-        {
-          "name": "나우푸드 데일리 비츠 멀티비타민 & 미네랄 타블렛",
-          "price": "19,840원",
-          "discount_rate": 36,
-          "priceAt": "08.03 18:37",
-          "image": "https://image1.coupangcdn.com/image/vendor_inventory/3d8e/0010e094448a333c346150d62362edad9f0e5ca841a55f6eacc8bde8acdb.jpg",
-          "url": "https://link.coupang.com/a/fUDtT8gn8u",
-          "_ts": 1785749878.2163992
         }
       ]
     },
