@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "하이뮨 프로틴 밸런스 흑임자, 190ml, 24개",
+          "price": "19,960원",
+          "discount_rate": 66,
+          "priceAt": "08.08 12:01",
+          "image": "https://image14.coupangcdn.com/image/retail/images/3929498242598920-44747e76-a726-46b4-8022-e12ed7bbdb94.jpg",
+          "url": "https://link.coupang.com/a/f2tDKM8ChE",
+          "_ts": 1786158066.267782
+        },
+        {
           "name": "무란왕 무설탕 12가지맛 비타민C 민트 미니 캔디, 800g, 1개, 800g × 1개",
           "price": "8,640원",
           "discount_rate": 20,
@@ -789,15 +798,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/393423540761798-4d82f461-22ad-4a27-a040-47576f55abd9.jpg",
           "url": "https://link.coupang.com/a/fUbQpuvBlY",
           "_ts": 1785726693.9337878
-        },
-        {
-          "name": "이니스프리 노세범 미네랄 파우더 5g, 3개, 3개",
-          "price": "10,800원",
-          "discount_rate": 60,
-          "priceAt": "08.03 11:50",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/501681293796576-c9454806-cb30-4625-b6b4-63989ff205d2.jpg",
-          "url": "https://link.coupang.com/a/fUal8JwryS",
-          "_ts": 1785725443.031981
         }
       ]
     },
@@ -1111,15 +1111,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZDM5MDQ1/QU5sU205dllrWjIycmFSdFplVkVRdFlrMzliV2xwUTRLWGd2K2ZLaGFxV3M.png",
           "url": "https://toss.im/_m/xUldjfXt",
           "_ts": 1785736838.481877
-        },
-        {
-          "name": "스테이퍼퓸 밤쉘 향수, 80ml, 1개",
-          "price": "8,900원",
-          "discount_rate": 72,
-          "priceAt": "08.03 11:47",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2M0MGZl/QU54amN5TlNxOHplcTl5M0lkd2phdDREM0pWaC9VRnFuMEM3bldDL1ZIcS8.png",
-          "url": "https://toss.im/_m/HUEpWD9w",
-          "_ts": 1785725230.7871392
         },
         {
           "name": "꿀수박, 9kg, 1개",
