@@ -798,6 +798,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스파클 생수, 무라벨, 2L, 24개",
+          "price": "7,200원",
+          "discount_rate": 64,
+          "priceAt": "08.08 15:02",
+          "image": "https://shopping.toss.im/live/temp/2026-03-18/268e4c6a-1595-43e9-9c1b-f101e5774429.jpeg",
+          "url": "https://toss.im/_m/f7oB7jom",
+          "_ts": 1786168925.6499
+        },
+        {
           "name": "리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
           "price": "9,700원",
           "discount_rate": 59,
@@ -1102,15 +1111,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NDA5ZmQ0/ZkV4WFdpZGIwYlUxanhyRURaU1hiRW8ycExmTkoxNHl1Umh4TWRPeHpVZz0.png",
           "url": "https://toss.im/_m/H7GwEm9w",
           "_ts": 1785747026.9758852
-        },
-        {
-          "name": "선쉐이드 티타늄 원터치 햇빛가리개, 블랙, 1개",
-          "price": "7,900원",
-          "discount_rate": 69,
-          "priceAt": "08.03 15:00",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDM5MDQ1/QU5sU205dllrWjIycmFSdFplVkVRdFlrMzliV2xwUTRLWGd2K2ZLaGFxV3M.png",
-          "url": "https://toss.im/_m/xUldjfXt",
-          "_ts": 1785736838.481877
         },
         {
           "name": "꿀수박, 9kg, 1개",
@@ -1494,18 +1494,6 @@
           "_rank": 19,
           "_product_id": "2488940507",
           "_ts": 1785902558.087408,
-          "_last_synced_ts": 1786143784.529949
-        },
-        {
-          "name": "스파클 생수, 무라벨, 2L, 24개",
-          "price": "7,200원",
-          "discount_rate": 64,
-          "priceAt": "08.04 18:02",
-          "image": "https://shopping.toss.im/live/temp/2026-03-18/268e4c6a-1595-43e9-9c1b-f101e5774429.jpeg",
-          "url": "https://toss.im/_m/f7oB7jom",
-          "_rank": 1,
-          "_product_id": "90382271",
-          "_ts": 1785834124.705292,
           "_last_synced_ts": 1786143784.529949
         },
         {
