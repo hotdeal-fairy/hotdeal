@@ -780,6 +780,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "가쯔 라운드 어깨 뿔 방지 논슬립 니트 옷걸이, 화이트, 30개",
+          "price": "7,900원",
+          "discount_rate": 38,
+          "priceAt": "08.08 17:51",
+          "image": "https://shopping.toss.im/live/taca/ai/ZGFiNTRj/QU10TExhdzJXZFBLeTVVdVd6TnV6YjlNMm5QbDh4NkdZWjVrMlo0RG1RNU0.png",
+          "url": "https://toss.im/_m/5G7Zfu0B",
+          "_ts": 1786179095.2731578
+        },
+        {
           "name": "레이데이 비타민C 에너지 앰플, 13ml, 5개",
           "price": "9,900원",
           "discount_rate": 78,
@@ -1093,15 +1102,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NWI0Nzk4/YWRKdWNxVFlaSFBVa1p6WlhOdWNVNXREdVlsck10RTU1UXVCd3g0cjBmWT0.png",
           "url": "https://toss.im/_m/9lt15PUv",
           "_ts": 1785747149.4750679
-        },
-        {
-          "name": "세척사과, 최대15brix, 마트납품용, 꿀사과, 2kg, 1박스",
-          "price": "9,900원",
-          "discount_rate": 75,
-          "priceAt": "08.03 17:50",
-          "image": "https://shopping.toss.im/live/taca/ai/NDA5ZmQ0/ZkV4WFdpZGIwYlUxanhyRURaU1hiRW8ycExmTkoxNHl1Umh4TWRPeHpVZz0.png",
-          "url": "https://toss.im/_m/H7GwEm9w",
-          "_ts": 1785747026.9758852
         },
         {
           "name": "꿀수박, 9kg, 1개",
