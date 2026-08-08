@@ -780,24 +780,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/112718291151466-e957af1d-6a65-41f0-8069-dc8321afe009.jpg",
           "url": "https://link.coupang.com/a/fT2ITLs8Zw",
           "_ts": 1785719035.491634
-        },
-        {
-          "name": "동원 통그릴 비엔나, 1kg, 1개, 1kg × 1개",
-          "price": "9,520원",
-          "discount_rate": 40,
-          "priceAt": "08.03 09:03",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/855083617072704-bea9a20d-6b24-4886-9da9-8c256f650d30.jpg",
-          "url": "https://link.coupang.com/a/fTYoxUEhr2",
-          "_ts": 1785715401.7033012
-        },
-        {
-          "name": "스너글 섬유유연제 블루스파클 플러스 본품, 5.3L, 1개, 5.3L × 1개",
-          "price": "20,900원",
-          "discount_rate": 49,
-          "priceAt": "08.03 08:50",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f7ea/98715948219dc3d94b78162a76e2a2174175959502910a479dd56d324b56.jpg",
-          "url": "https://link.coupang.com/a/fTXr5F1I8i",
-          "_ts": 1785714608.8013928
         }
       ]
     },
@@ -806,6 +788,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "가쯔 쿡스 전자레인지 찜기 라면용기 특대, 다크그레이, 1L, 2개",
+          "price": "5,900원",
+          "discount_rate": 62,
+          "priceAt": "08.08 09:05",
+          "image": "https://shopping.toss.im/live/taca/ai/NzA5ZTg4/RTIydFFxelpHYVNUWm5KYk1tbXBKcG1Na25sTFZwenZiM2hVTDVld2FGMD0.png",
+          "url": "https://toss.im/_m/HF91bMXu",
+          "_ts": 1786147521.2314
+        },
         {
           "name": "구워먹는 할루미치즈, 200g, 3개",
           "price": "7,600원",
