@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "동원 쿨피스 제로 테트라 자두, 140ml, 24개, 140ml × 24개",
+          "price": "7,760원",
+          "discount_rate": 59,
+          "priceAt": "08.08 15:58",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2d83/be0f1a9f0ac36f42579a4a4c006b3fe040630ab187bf7a216b3bc1a148b0.jpg",
+          "url": "https://link.coupang.com/a/f2KziQr9FY",
+          "_ts": 1786172299.6114979
+        },
+        {
           "name": "웰콩 서리태 볶음, 20개, 17g",
           "price": "10,800원",
           "discount_rate": 15,
@@ -780,15 +789,6 @@
           "image": "https://image6.coupangcdn.com/image/retail/images/942263289957605-97307022-d1cc-47ab-a94c-d59781d28465.jpg",
           "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7612703&subid=goldbox&pageKey=7830616996&itemId=21259952418&vendorItemId=88320319030&traceid=V0-143-bb8bb51762aa0d79",
           "_ts": 1785740978.712393
-        },
-        {
-          "name": "그릭데이 시그니처, 450g, 1개, 450g × 1개",
-          "price": "9,500원",
-          "discount_rate": 21,
-          "priceAt": "08.03 15:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/67196482857565-0adde60d-5b02-443b-bc50-17cba757fff2.jpg",
-          "url": "https://link.coupang.com/a/fUqfznIxSC",
-          "_ts": 1785738789.364167
         }
       ]
     },
