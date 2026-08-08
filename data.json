@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "미식연구소 갓튀겨나온 곱빼기 통등심 젓가락 돈까스 (냉동), 500g, 1개",
+          "price": "10,890원",
+          "discount_rate": 15,
+          "priceAt": "08.08 17:49",
+          "image": "https://image14.coupangcdn.com/image/retail/images/439840769178431-baf85121-f745-4dc2-aaa6-3be65bdc0915.jpg",
+          "url": "https://link.coupang.com/a/f2SyZt0lxs",
+          "_ts": 1786178992.218056
+        },
+        {
           "name": "동원 쿨피스 제로 테트라 자두, 140ml, 24개, 140ml × 24개",
           "price": "7,760원",
           "discount_rate": 59,
@@ -762,33 +771,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10449839646980-521e0f0f-582a-4f62-8a0e-f4b7b51119eb.jpg",
           "url": "https://link.coupang.com/a/fUB5nfWaiG",
           "_ts": 1785748726.5943282
-        },
-        {
-          "name": "코멧 스프레이 밀대걸레 + 극세사 패드 5개 + 다용도 클리너 1개",
-          "price": "10,990원",
-          "discount_rate": 65,
-          "priceAt": "08.03 17:31",
-          "image": "https://image2.coupangcdn.com/image/retail/images/252614527151735-ea5f3371-e0ec-46ae-83d8-7f1b99f20faa.jpg",
-          "url": "https://link.coupang.com/a/fUyLquwW3E",
-          "_ts": 1785745917.631262
-        },
-        {
-          "name": "요즘 그릭요거트 플레인, 100g, 1개, 100g × 1개",
-          "price": "1,950원",
-          "discount_rate": 44,
-          "priceAt": "08.03 17:00",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/547671195012970-c602d65e-3b8d-4350-97dc-42fb44c4b2db.jpg",
-          "url": "https://link.coupang.com/a/fUwsJUxYuy",
-          "_ts": 1785744005.631961
-        },
-        {
-          "name": "에르먼 국내 제조 PIO 2단 쿠션 발받침대 기본형",
-          "price": "26,820원",
-          "discount_rate": 46,
-          "priceAt": "08.03 16:09",
-          "image": "https://image6.coupangcdn.com/image/retail/images/942263289957605-97307022-d1cc-47ab-a94c-d59781d28465.jpg",
-          "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7612703&subid=goldbox&pageKey=7830616996&itemId=21259952418&vendorItemId=88320319030&traceid=V0-143-bb8bb51762aa0d79",
-          "_ts": 1785740978.712393
         }
       ]
     },
