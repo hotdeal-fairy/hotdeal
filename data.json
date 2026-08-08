@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "청우식품 양념치킨 순한맛 소스, 2.1kg, 1개, 2.1kg × 1개",
+          "price": "4,170원",
+          "discount_rate": 60,
+          "priceAt": "08.08 18:32",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/04/17/3/353ac7ed-5e4a-4d8b-8d30-4d42734108b1.jpg",
+          "url": "https://link.coupang.com/a/f2VBOuFTKm",
+          "_ts": 1786181568.99997
+        },
+        {
           "name": "미식연구소 갓튀겨나온 곱빼기 통등심 젓가락 돈까스 (냉동), 500g, 1개",
           "price": "10,890원",
           "discount_rate": 15,
@@ -762,15 +771,6 @@
           "image": "https://image1.coupangcdn.com/image/vendor_inventory/3d8e/0010e094448a333c346150d62362edad9f0e5ca841a55f6eacc8bde8acdb.jpg",
           "url": "https://link.coupang.com/a/fUDtT8gn8u",
           "_ts": 1785749878.2163992
-        },
-        {
-          "name": "상하목장 베이비 유기농 요거트, 85g, 4개",
-          "price": "2,350원",
-          "discount_rate": 41,
-          "priceAt": "08.03 18:18",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10449839646980-521e0f0f-582a-4f62-8a0e-f4b7b51119eb.jpg",
-          "url": "https://link.coupang.com/a/fUB5nfWaiG",
-          "_ts": 1785748726.5943282
         }
       ]
     },
@@ -1093,15 +1093,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-09/069859ea-3ad7-4e7f-9f77-92cd73538e14.jpeg",
           "url": "https://toss.im/_m/floKyted",
           "_ts": 1785754816.526718
-        },
-        {
-          "name": "미트프로젝트 더 진한 소한마리탕, 600g, 3개",
-          "price": "9,900원",
-          "discount_rate": 54,
-          "priceAt": "08.03 17:52",
-          "image": "https://shopping.toss.im/live/taca/ai/NWI0Nzk4/YWRKdWNxVFlaSFBVa1p6WlhOdWNVNXREdVlsck10RTU1UXVCd3g0cjBmWT0.png",
-          "url": "https://toss.im/_m/9lt15PUv",
-          "_ts": 1785747149.4750679
         },
         {
           "name": "꿀수박, 9kg, 1개",
