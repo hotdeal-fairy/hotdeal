@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "AHC 마스터즈 에어리치 선스틱 SPF50+ PA++++, 14g, 1개",
+          "price": "8,800원",
+          "discount_rate": 66,
+          "priceAt": "08.10 07:48",
+          "image": "https://image4.coupangcdn.com/image/retail/images/263475224592015-73b460cd-d352-45e5-b6f6-90e8db1086f7.jpg",
+          "url": "https://link.coupang.com/a/f5vnSnXHqu",
+          "_ts": 1786315695.453133
+        },
+        {
           "name": "세노비스 프로폴리스 스프레이, 25ml, 3개, 25ml × 3개",
           "price": "25,650원",
           "discount_rate": 46,
@@ -744,24 +753,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/169631118157321-5c65d596-314b-4c7d-a1b9-673ab8829434.jpg",
           "url": "https://link.coupang.com/a/fXhxhQC69Y",
           "_ts": 1785887641.400494
-        },
-        {
-          "name": "클룹 애사비소다 오리지널 탄산음료, 500ml, 12개",
-          "price": "11,200원",
-          "discount_rate": 68,
-          "priceAt": "08.05 07:38",
-          "image": "https://img5c.coupangcdn.com/image/retail/images/24600131655263-24dba624-4f2b-47e5-8108-47e91876c5fe.png",
-          "url": "https://link.coupang.com/a/fXb95dMLKu",
-          "_ts": 1785883109.107512
-        },
-        {
-          "name": "고르고 바른 마스크 성인용 대형, 50개입, 1개, 블랙",
-          "price": "3,950원",
-          "discount_rate": 60,
-          "priceAt": "08.05 07:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1410347901564783-4f962179-df09-4ef9-a94e-983b3e21c042.png",
-          "url": "https://link.coupang.com/a/fXbN3q2ZVI",
-          "_ts": 1785882831.779538
         }
       ]
     },
