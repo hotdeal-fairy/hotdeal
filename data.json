@@ -735,15 +735,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/64614910646334-d1bb09b5-3598-4f6e-af34-3f500e1159fa.jpg",
           "url": "https://link.coupang.com/a/fXa0qjzwdM",
           "_ts": 1785882157.508482
-        },
-        {
-          "name": "나드 리프레쉬 퍼퓸드 바디워시 화이트머스크향, 1L, 1개",
-          "price": "6,940원",
-          "discount_rate": 56,
-          "priceAt": "08.04 20:31",
-          "image": "https://image6.coupangcdn.com/image/retail/images/427431553678309-72fa1a16-3772-4e54-9c28-cb3a3466fa96.jpg",
-          "url": "https://link.coupang.com/a/fWqwc4aJps",
-          "_ts": 1785843107.294302
         }
       ]
     },
@@ -752,6 +743,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+          "price": "8,800원",
+          "discount_rate": 70,
+          "priceAt": "08.09 20:43",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDhhZTNk/QU45TitWWmFxdzZhYlRJaDVNZDhnZXY3eVdWMnc4a0IrSFR4M2cvMUZ2aEU.png",
+          "url": "https://toss.im/_m/5abj1peg",
+          "_ts": 1786275785.388743
+        },
         {
           "name": "썬리지 아보카도, 생과, 중대과, 10과, 1박스",
           "price": "10,800원",
