@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!--
+  "토스 BEST50" 전용 미리보기(OG) 페이지.
+
+  왜 별도 파일인가: GitHub Pages는 정적 호스팅이라 `index.html?mall=toss_best50`처럼
+  쿼리만 다른 주소는 서버가 **같은 파일**을 내려준다. 카카오톡·SNS 미리보기 크롤러는
+  JS를 실행하지 않고 정적 <meta> 태그만 읽으므로, 쿼리로는 미리보기 이미지를 바꿀 수 없다.
+  그래서 og 태그만 다른 이 페이지를 두고, 사람이 열면 즉시 본 페이지로 넘긴다.
+
+  카카오 인앱 브라우저 탈출 스크립트는 여기 두지 않는다 — 아래 리다이렉트로 넘어간
+  ../index.html이 그 처리를 이미 갖고 있어 거기서 걸린다(중복 불필요).
+-->
+<title>🔥 실시간 토스 BEST50 🔥</title>
+<meta name="description" content="토스에서 볼 수 없는 실시간 토스 베스트50 랭킹" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="🔥 실시간 토스 BEST50 🔥" />
+<meta property="og:description" content="토스에서 볼 수 없는 실시간 토스 베스트50 랭킹" />
+<meta property="og:url" content="https://hotdeal-fairy.github.io/hotdeal/best50/" />
+<meta property="og:image" content="https://hotdeal-fairy.github.io/hotdeal/images/best50-og-image.png?v=1" />
+<meta property="og:image:width" content="1456" />
+<meta property="og:image:height" content="720" />
+
+<!-- 크롤러가 아닌 실제 방문자는 즉시 본 페이지의 BEST50 탭으로 보낸다.
+     replace()를 쓰는 이유: history에 이 중간 페이지를 남기지 않아야 뒤로가기가
+     무한 루프에 빠지지 않는다. -->
+<script>
+  location.replace("../index.html?mall=toss_best50");
+</script>
+<!-- JS가 꺼져 있어도 이동하도록 하는 폴백 -->
+<meta http-equiv="refresh" content="0; url=../index.html?mall=toss_best50" />
+</head>
+<body>
+<p style="font-family:-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo',sans-serif;padding:24px">
+  이동 중입니다…
+  <a href="../index.html?mall=toss_best50">토스 BEST50 보러가기</a>
+</p>
+</body>
+</html>
