@@ -762,15 +762,6 @@
           "image": "https://image5.coupangcdn.com/image/retail/images/30476567875169-ad0d2ce6-4390-46d6-807f-e575018a3999.jpg",
           "url": "https://link.coupang.com/a/fWbdgJIYs8",
           "_ts": 1785830256.400301
-        },
-        {
-          "name": "올바른수산 명태 슬라이스 (냉동), 300g, 1팩, 300g × 1팩",
-          "price": "3,920원",
-          "discount_rate": 20,
-          "priceAt": "08.04 15:26",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1183453680180937-a4b8a75e-5b56-406b-b89f-47af467212b9.jpg",
-          "url": "https://link.coupang.com/a/fV4GztfDk4",
-          "_ts": 1785824797.445167
         }
       ]
     },
@@ -779,6 +770,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "일동후디스 하이뮨 프로틴 밸런스 액티브, 바닐라봉봉 제로, 250ml, 18개",
+          "price": "19,900원",
+          "discount_rate": 64,
+          "priceAt": "08.09 15:32",
+          "image": "https://shopping.toss.im/live/temp/2026-03-11/b73bee44-7266-4a77-a56e-8e7bcd10a143.jpeg",
+          "url": "https://toss.im/_m/PjaStdWD",
+          "_ts": 1786257167.2403488
+        },
         {
           "name": "신발 세탁망, 그레이, 19x39cm, 2개",
           "price": "6,900원",
