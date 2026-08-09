@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 드럼용 액체세제 리필",
+          "price": "7,380원",
+          "discount_rate": 65,
+          "priceAt": "08.09 12:04",
+          "image": "https://img4a.coupangcdn.com/image/retail/images/42211068249280-1ffef9ec-4be9-4981-8d7f-64ab07894bb9.jpg",
+          "url": "https://link.coupang.com/a/f38OtI0dpY",
+          "_ts": 1786244692.175541
+        },
+        {
           "name": "종가 알싸하고 깊은 맛 파김치, 500g, 1개, 500g × 1개",
           "price": "12,770원",
           "discount_rate": 26,
@@ -1129,24 +1138,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Y2M5ZjNm/T2ZGL1FYQngyaDRQTVc5QlFINUFydjhEaFEzZmdmQ0YvK0NLblArUStsST0.png",
           "url": "https://toss.im/_m/dTLwH3CD",
           "_ts": 1785823213.486131
-        },
-        {
-          "name": "곰도리 케어 플러스 온열안대, 40매입, 1개",
-          "price": "8,880원",
-          "discount_rate": 77,
-          "priceAt": "08.04 11:52",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmFkZjUy/SlhONWgvTE5EMklwMDlpM2Rpd3Z5Q0crYUpQY0o0UHA0OTY4Rk5WRDAyZz0.png",
-          "url": "https://toss.im/_m/rBVCC4cr",
-          "_ts": 1785811975.799684
-        },
-        {
-          "name": "날씬이 탄수화물컷, 60정, 1박스",
-          "price": "9,500원",
-          "discount_rate": 81,
-          "priceAt": "08.04 11:51",
-          "image": "https://shopping.toss.im/live/taca/ai/YmQ5ODk4/QU5HVzRzNjQ5TDF0ZG43Y3U4Y1djeU9ZMjNUa1B3dWZsT2poejFTSXdEUzI.png",
-          "url": "https://toss.im/_m/R1mD1ey9",
-          "_ts": 1785811864.384114
         }
       ]
     },
