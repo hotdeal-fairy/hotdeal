@@ -780,6 +780,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "펩시 아이스 쿨링 미니 선풍기, 블루, 1개",
+          "price": "9,900원",
+          "discount_rate": 87,
+          "priceAt": "08.09 09:05",
+          "image": "https://shopping.toss.im/live/taca/ai/YjQwYTFh/SHJCSlZ0dGI3VUo1OTMweGp3U3RoVEF5UEN1QXhxSmI5WHFoNzUveG8vaz0.png",
+          "url": "https://toss.im/_m/N3XTE4dg",
+          "_ts": 1786233915.1265018
+        },
+        {
           "name": "테스트 상품 1kg",
           "price": "12,900원",
           "discount_rate": 35,
