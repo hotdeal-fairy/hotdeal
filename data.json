@@ -762,6 +762,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "가그린 제로 기획세트, 820ml, 4개 + 100ml, 1개",
+          "price": "13,900원",
+          "discount_rate": 62,
+          "priceAt": "08.09 18:14",
+          "image": "https://shopping.toss.im/live/temp/2026-06-29/d2ec3587-f37e-4034-8da9-7e51a7c2aafd.png",
+          "url": "https://toss.im/_m/vhK5FlWj",
+          "_ts": 1786266843.423126
+        },
+        {
           "name": "또드림마켓 미니오이, 특품, 1kg, 1박스",
           "price": "6,500원",
           "discount_rate": 59,
