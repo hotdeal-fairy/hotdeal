@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "리치즈 아하 160g (8g*20개입), 6개",
+          "price": "12,500원",
+          "discount_rate": 29,
+          "priceAt": "08.09 18:01",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1fb6/7615a5f3f167789dfa7629b03a3c595e53f64ab09cde0878173680b7b2f8.jpg",
+          "url": "https://link.coupang.com/a/f4yfpH3LOe",
+          "_ts": 1786266067.332592
+        },
+        {
           "name": "브랜든 2세대 부피순삭 의류 이불 다용도 대형 압축 파우치 2매세트",
           "price": "73,900원",
           "discount_rate": 52,
@@ -1120,24 +1129,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-07-21/93a16065-9d8e-4a9a-83c8-c07c8cca1f2d.png",
           "url": "https://toss.im/_m/7POgWtAx",
           "_ts": 1785841213.855592
-        },
-        {
-          "name": "미니 밤호박, 4kg, 1개",
-          "price": "9,200원",
-          "discount_rate": 73,
-          "priceAt": "08.04 17:52",
-          "image": "https://shopping.toss.im/live/taca/ai/MmM1Yzk0/SmhuMUhpNThjMmRjR1hyV2ZEUnZONXd4NUhLRDlEeWJ2M002R2tVQ3dlUT0.png",
-          "url": "https://toss.im/_m/Df0t4DSe",
-          "_ts": 1785833544.3882282
-        },
-        {
-          "name": "쟈니베어 붙이는 아이스 쿨패치 쿨링시트, 30개, 1팩",
-          "price": "5,970원",
-          "discount_rate": 69,
-          "priceAt": "08.04 17:50",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZTkxM2Fl/QUpZQjNFNldNeUhPNVBUM05sTGxOTVliRFhHOHhqTytoYTB4eGpKMnlBZno.png",
-          "url": "https://toss.im/_m/N6l1C8OD",
-          "_ts": 1785833418.823029
         }
       ]
     },
