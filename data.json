@@ -762,15 +762,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/a1bb/a005b2c17bc12acc516aa4e18bcec5ef6c2c2efd5bc10a2167d2767b7a9e.jpg",
           "url": "https://link.coupang.com/a/fWknHZrp1M",
           "_ts": 1785837974.5711958
-        },
-        {
-          "name": "일리윤 세라마이드 아토 로션 무향",
-          "price": "12,800원",
-          "discount_rate": 34,
-          "priceAt": "08.04 18:42",
-          "image": "https://image5.coupangcdn.com/image/retail/images/76383476284976-beeac87e-878a-434d-9b87-acc1ecbc6961.jpg",
-          "url": "https://link.coupang.com/a/fWiJoicbNA",
-          "_ts": 1785836568.8004448
         }
       ]
     },
@@ -779,6 +770,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "외갓집 1분 30초 통등심 돈까스, 650g, 1팩",
+          "price": "9,990원",
+          "discount_rate": 52,
+          "priceAt": "08.09 19:01",
+          "image": "https://shopping.toss.im/live/taca/ai/YjU1MmE4/QUtVeU0xTG5NaDVqRnNRUW5lV203VVRBMHdER0J6YzdTMTZPWVQrT0lJLzg.png",
+          "url": "https://toss.im/_m/3H0kWXSu",
+          "_ts": 1786269666.496659
+        },
         {
           "name": "가그린 제로 기획세트, 820ml, 4개 + 100ml, 1개",
           "price": "13,900원",
