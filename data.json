@@ -753,15 +753,6 @@
           "image": "https://image5.coupangcdn.com/image/retail/images/76383476284976-beeac87e-878a-434d-9b87-acc1ecbc6961.jpg",
           "url": "https://link.coupang.com/a/fWiJoicbNA",
           "_ts": 1785836568.8004448
-        },
-        {
-          "name": "프레샤인 사과, 1kg(소과, 6입내), 1봉",
-          "price": "6,980원",
-          "discount_rate": 22,
-          "priceAt": "08.04 18:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/160971438795961-8f5c6544-3fd4-4b1f-91bd-2a214c69bc55.jpg",
-          "url": "https://link.coupang.com/a/fWfV8U8KBM",
-          "_ts": 1785834243.9203598
         }
       ]
     },
@@ -770,6 +761,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "또드림마켓 미니오이, 특품, 1kg, 1박스",
+          "price": "6,500원",
+          "discount_rate": 59,
+          "priceAt": "08.09 18:07",
+          "image": "https://shopping.toss.im/live/temp/2025-08-07/10537e27-0204-4622-94b5-c4341be8c51a.jpeg",
+          "url": "https://toss.im/_m/j7DoO4sc",
+          "_ts": 1786266466.680491
+        },
         {
           "name": "아몬드 브리즈 제로슈가, 초콜릿, 190ml, 24팩",
           "price": "17,500원",
