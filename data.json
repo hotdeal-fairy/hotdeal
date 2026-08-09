@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "브랜든 2세대 부피순삭 의류 이불 다용도 대형 압축 파우치 2매세트",
+          "price": "73,900원",
+          "discount_rate": 52,
+          "priceAt": "08.09 13:51",
+          "image": "https://img5a.coupangcdn.com/image/retail/images/1799456783809647-a2e328d1-7265-4944-820a-468d6915cf80.jpg",
+          "url": "https://link.coupang.com/a/f4go7qxkf6",
+          "_ts": 1786251063.537159
+        },
+        {
           "name": "종가 알싸하고 깊은 맛 파김치, 500g, 1개, 500g × 1개",
           "price": "12,770원",
           "discount_rate": 26,
@@ -771,15 +780,6 @@
           "image": "https://image15.coupangcdn.com/image/retail/images/100331567406296-fdc28fdd-a68f-415e-bb71-b5d79cf89c32.jpg",
           "url": "https://link.coupang.com/a/fV05mlD00q",
           "_ts": 1785821753.0212538
-        },
-        {
-          "name": "신선설농탕 신선왕만두 고소한맛 (냉동), 490g, 1개",
-          "price": "4,140원",
-          "discount_rate": 32,
-          "priceAt": "08.04 13:31",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/q9jowxxr/941c9263ec9e484f8746fbda7144d8ef.jpg",
-          "url": "https://link.coupang.com/a/fVWuy1CHmK",
-          "_ts": 1785817915.396254
         }
       ]
     },
