@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "닥터포이 웰키커 어린이 멀티비타민 앤 미네랄, 90정, 5개, 90정 × 5개",
+          "price": "37,150원",
+          "discount_rate": 19,
+          "priceAt": "08.11 07:23",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/154726611017562-6445fdfd-4853-4f89-ae6d-c285138051c9.jpg",
+          "url": "https://link.coupang.com/a/f68seV7sgS",
+          "_ts": 1786400580.247637
+        },
+        {
           "name": "펩시 제로슈거 라임향 제로카페인 무라벨, 300ml, 20개",
           "price": "11,900원",
           "discount_rate": 17,
@@ -690,24 +699,6 @@
           "image": "https://static.coupangcdn.com/image/retail/images/925859633293643-50ab81f4-1584-4e3f-8543-cfdb6f5a0f0f.jpg",
           "url": "https://link.coupang.com/a/fYRuEqo8tM",
           "_ts": 1785969868.367091
-        },
-        {
-          "name": "녹족 여성용 아이비 오버핏 반팔 요가 티셔츠, L",
-          "price": "10,400원",
-          "discount_rate": 15,
-          "priceAt": "08.06 07:17",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/408686591430032-fb335396-9938-494c-94ba-4ff211771b90.jpg",
-          "url": "https://link.coupang.com/a/fYPxertO2u",
-          "_ts": 1785968242.987495
-        },
-        {
-          "name": "필라델피아 크림치즈, 16.67g, 6개입, 4개",
-          "price": "6,480원",
-          "discount_rate": 50,
-          "priceAt": "08.06 07:08",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/04/08/16/9/09ef4aeb-ea37-4b71-990c-243fe8ef0a37.jpg",
-          "url": "https://link.coupang.com/a/fYOSVEkZ3Y",
-          "_ts": 1785967698.4882681
         }
       ]
     },
