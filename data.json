@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "셀렉트팜 GAP 인증 A 초록사과 소과, 1.5kg(소과/9~10입), 1개",
+          "price": "7,360원",
+          "discount_rate": 25,
+          "priceAt": "08.10 10:25",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/qqfwrwbp/eb931bc0e7bf475b8813f724ffc9d185.jpg",
+          "url": "https://link.coupang.com/a/f5GBWYUOXs",
+          "_ts": 1786325145.806137
+        },
+        {
           "name": "테팔 매트 프라이팬 세트",
           "price": "47,890원",
           "discount_rate": 75,
@@ -762,15 +771,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4324266110830-b849e7dc-91bc-476b-a805-218af5df764a.jpg",
           "url": "https://link.coupang.com/a/fXqwBUnK1c",
           "_ts": 1785895188.816517
-        },
-        {
-          "name": "ANT IPX8리얼 방수비데",
-          "price": "129,000원",
-          "discount_rate": 60,
-          "priceAt": "08.05 10:18",
-          "image": "https://image9.coupangcdn.com/image/retail/images/96245841586434-d10d2c3a-3528-454e-a461-16043f143be3.jpg",
-          "url": "https://link.coupang.com/a/fXny070HRc",
-          "_ts": 1785892682.8119302
         }
       ]
     },
