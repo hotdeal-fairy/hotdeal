@@ -717,42 +717,6 @@
           "image": "https://image10.coupangcdn.com/image/retail/images/409169289150830-e83fa3c0-8ac3-4f0c-b2bd-4dd2158bc468.jpg",
           "url": "https://link.coupang.com/a/fX5jsFAz92",
           "_ts": 1785929415.276356
-        },
-        {
-          "name": "파스퇴르 요구하이 에이요 요구르트, 145ml, 1개입, 16개",
-          "price": "5,780원",
-          "discount_rate": 17,
-          "priceAt": "08.05 20:07",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/78560385810312-d1ad22c2-8968-4e58-a79c-90c9fbd395f3.png",
-          "url": "https://link.coupang.com/a/fX3FFw6w0G",
-          "_ts": 1785928055.6231868
-        },
-        {
-          "name": "스탠맨 C타입충전 리튬이온 전동 드라이버",
-          "price": "14,920원",
-          "discount_rate": 55,
-          "priceAt": "08.05 19:58",
-          "image": "https://image5.coupangcdn.com/image/1025_amir_coupang_oct_80k/d384/1667706f2ad61d04bf43d61975bf708dae1be922d0df8891c94fe024d80b.jpg",
-          "url": "https://link.coupang.com/a/fX22OSWSw8",
-          "_ts": 1785927510.729973
-        },
-        {
-          "name": "아벤느 클리낭스 클렌징 젤, 100ml, 1개, 100ml × 1개",
-          "price": "7,500원",
-          "discount_rate": 62,
-          "priceAt": "08.05 19:38",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/323179929061261-b694672c-15fc-4cc2-a186-0de24f0974dd.jpg",
-          "url": "https://link.coupang.com/a/fX1AcKpi7o",
-          "_ts": 1785926303.762121
-        },
-        {
-          "name": "아크디 먼지없는 호텔 고급 수건, 10개, 올리브그린",
-          "price": "31,250원",
-          "discount_rate": 69,
-          "priceAt": "08.05 18:33",
-          "image": "https://image2.coupangcdn.com/image/vendor_inventory/ead0/3e40fc533f8f226d293d821ccb7c5f1cfba64d223ac5d41882d7c972416e.png",
-          "url": "https://link.coupang.com/a/fXWV2CMQSG",
-          "_ts": 1785922380.964808
         }
       ]
     },
@@ -761,6 +725,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "페페브루노 엑스트라버진 올리브오일, 500ml, 2개",
+          "price": "16,900원",
+          "discount_rate": 65,
+          "priceAt": "08.10 20:11",
+          "image": "https://shopping.toss.im/live/temp/2026-01-29/793cd7a4-c856-482d-b13d-ed4d9b8cb564.jpeg",
+          "url": "https://toss.im/_m/ZwNTC882",
+          "_ts": 1786360272.8598652
+        },
         {
           "name": "과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
           "price": "12,800원",
@@ -1129,33 +1102,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/YjFmZjMw/TDRZZVk3eHN5VE9Ueld5MnZSZ1RlWEdTOHNQbnpDOHNseDZjeVdreWVLRT0.png",
           "url": "https://toss.im/_m/Pcc1KFhn",
           "_ts": 1785934218.900125
-        },
-        {
-          "name": "국내산 꿀복숭아 딱딱이복숭아 백도, 고당도, 4kg, 1박스",
-          "price": "16,900원",
-          "discount_rate": 55,
-          "priceAt": "08.05 20:00",
-          "image": "https://shopping.toss.im/live/temp/2026-07-29/2f9171e7-2ee9-490c-a785-9994ac05cff7.png",
-          "url": "https://toss.im/_m/pwOleVbl",
-          "_ts": 1785927612.502408
-        },
-        {
-          "name": "제주 미니 단호박 보우짱, 로얄과, 5kg, 1박스",
-          "price": "13,700원",
-          "discount_rate": 77,
-          "priceAt": "08.05 17:51",
-          "image": "https://shopping.toss.im/live/taca/ai/Njk4Yjc5/QU12UlNVc21TYmNtMldHWml3ekJ4TDYzQ1ZrTGJnTXpuSnBqQS9KUE1rNzY.png",
-          "url": "https://toss.im/_m/DlhySLKf",
-          "_ts": 1785919898.223656
-        },
-        {
-          "name": "무안 일반양파, 최상급, 10kg, 1박스",
-          "price": "11,800원",
-          "discount_rate": 76,
-          "priceAt": "08.05 17:50",
-          "image": "https://shopping.toss.im/live/temp/2026-04-03/919d8fed-87cf-47a3-ac6b-211514b232eb.png",
-          "url": "https://toss.im/_m/RmYHzzTq",
-          "_ts": 1785919822.7081401
         }
       ]
     },
