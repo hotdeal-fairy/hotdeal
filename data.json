@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "크라운 버터와플, 237g, 2개",
+          "price": "4,800원",
+          "discount_rate": 20,
+          "priceAt": "08.11 07:33",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/69d1/f09a566f112a1cfa029c194b7c842f040748ff7f9595c953ed220ceadd1a.jpg",
+          "url": "https://link.coupang.com/a/f69bm5iuaH",
+          "_ts": 1786401180.724391
+        },
+        {
           "name": "닥터포이 웰키커 어린이 멀티비타민 앤 미네랄, 90정, 5개, 90정 × 5개",
           "price": "37,150원",
           "discount_rate": 19,
