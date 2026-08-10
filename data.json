@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "펩시 제로슈거 라임향 제로카페인 무라벨, 300ml, 20개",
+          "price": "11,900원",
+          "discount_rate": 17,
+          "priceAt": "08.10 22:04",
+          "image": "https://image9.coupangcdn.com/image/retail/images/2025/04/07/16/7/a3f574df-8125-482f-b30c-171dd071a3d3.png",
+          "url": "https://link.coupang.com/a/f6uw1TXxgi",
+          "_ts": 1786367040.241846
+        },
+        {
           "name": "틈새라면 스프 20p, 100g, 6개, 100g × 6개",
           "price": "15,300원",
           "discount_rate": 57,
@@ -708,24 +717,6 @@
           "image": "https://img3c.coupangcdn.com/image/retail/images/428343691125093-478f9117-6ad2-4fb0-9497-566459127bc1.jpg",
           "url": "https://link.coupang.com/a/fYcFRVviMe",
           "_ts": 1785935596.134887
-        },
-        {
-          "name": "바리스타룰스 원데이 아메리카노 무라벨, 350ml, 40개, 350ml × 40개",
-          "price": "29,700원",
-          "discount_rate": 70,
-          "priceAt": "08.05 21:58",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/138309955853697-5a38650a-1b99-44f9-89e3-bb87bb7db73e.jpg",
-          "url": "https://link.coupang.com/a/fYbAJjq97s",
-          "_ts": 1785934706.390592
-        },
-        {
-          "name": "PN풍년 하이클래드 파워 IH 압력솥 8인용",
-          "price": "118,890원",
-          "discount_rate": 74,
-          "priceAt": "08.05 21:57",
-          "image": "https://img5c.coupangcdn.com/image/retail/images/169051148379425-62bb9c21-8abd-4803-b275-e6cf805c1381.jpg",
-          "url": "https://link.coupang.com/a/fYbzTD6xsO",
-          "_ts": 1785934675.5549471
         }
       ]
     },
@@ -1102,24 +1093,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/MDVjMTIx/RWtYZzhmbERxT0hGaDdMVGZVYjh5emh6NGsyRmhzUEdRYytybXhZNEhqdz0.png",
           "url": "https://toss.im/_m/PPxtyam7",
           "_ts": 1785974712.2400022
-        },
-        {
-          "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
-          "price": "10,900원",
-          "discount_rate": 38,
-          "priceAt": "08.05 21:52",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWNlZWJm/YVhJMlN6dHlnM3kzSTNtRjdJM1NZMGJzRFp3eWF6SnovZFRzdFAyVTAwcz0.png",
-          "url": "https://toss.im/_m/X4a9035g",
-          "_ts": 1785934345.484206
-        },
-        {
-          "name": "청사과, 간식사이즈, 22-35과, 4kg, 1박스",
-          "price": "10,900원",
-          "discount_rate": 51,
-          "priceAt": "08.05 21:50",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YjFmZjMw/TDRZZVk3eHN5VE9Ueld5MnZSZ1RlWEdTOHNQbnpDOHNseDZjeVdreWVLRT0.png",
-          "url": "https://toss.im/_m/Pcc1KFhn",
-          "_ts": 1785934218.900125
         }
       ]
     },
