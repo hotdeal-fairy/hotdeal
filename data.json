@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "포크밸리 안심 1등급이상 다짐육 (냉장), 500g, 1팩, 500g × 1팩",
+          "price": "9,790원",
+          "discount_rate": 10,
+          "priceAt": "08.10 14:31",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/08/13/11/1/ffbd588b-85c1-4331-84ec-dfa0838f34ed.jpg",
+          "url": "https://link.coupang.com/a/f5X9e2AcYm",
+          "_ts": 1786339869.1020758
+        },
+        {
           "name": "스너글 실내건조 섬유유연제 허거블 선샤인 본품, 4L, 1개",
           "price": "12,850원",
           "discount_rate": 48,
@@ -753,15 +762,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0bdec5da-5f0b-4ccc-b01d-bda8489916387768305983540236218.png",
           "url": "https://link.coupang.com/a/fXL9VwlB8K",
           "_ts": 1785913352.871477
-        },
-        {
-          "name": "탐사 클린젤 액체 세탁세제 일반드럼 겸용, 2.5L, 4개",
-          "price": "7,990원",
-          "discount_rate": 37,
-          "priceAt": "08.05 14:27",
-          "image": "https://img3c.coupangcdn.com/image/retail/images/56055749549404-fe37845c-c778-4e3f-86a5-cd7095f63a8b.jpg",
-          "url": "https://link.coupang.com/a/fXFo9fCjy8",
-          "_ts": 1785907662.260095
         }
       ]
     },
