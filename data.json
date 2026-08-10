@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "자유시간 미니 쿠키앤크림, 272g, 1개, 272g × 1개",
+          "price": "7,560원",
+          "discount_rate": 15,
+          "priceAt": "08.10 12:38",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/133b/63e469d525db775a669b5a468ac14001f5712b0c2dceb26fafa243b0f711.jpg",
+          "url": "https://link.coupang.com/a/f5P6w8bMbY",
+          "_ts": 1786333115.647766
+        },
+        {
           "name": "아이깨끗해 항균 폼 핸드솝 순 보송보송 파우더향, 490ml, 3개",
           "price": "11,020원",
           "discount_rate": 63,
@@ -753,24 +762,6 @@
           "image": "https://image15.coupangcdn.com/image/1025_amir_coupang_oct_80k/ac56/97ab5df1c6026f1d2bdffb15183fbdfd217d88dee465bb9f5f5e1d01999f.jpg",
           "url": "https://link.coupang.com/a/fXy1T1qdgq",
           "_ts": 1785902309.856181
-        },
-        {
-          "name": "주일 완도 명품 미역줄기, 1kg, 1개",
-          "price": "4,580원",
-          "discount_rate": 32,
-          "priceAt": "08.05 12:19",
-          "image": "https://image2.coupangcdn.com/image/retail/images/1162860617211058-4623dab4-5dd0-4136-9a76-3a2d9da4c264.jpg",
-          "url": "https://link.coupang.com/a/fXwdYR6e8i",
-          "_ts": 1785899954.5075939
-        },
-        {
-          "name": "verveo냉감패드 여름 침대패드 여름이불 매트리스 고정밴드 깔개",
-          "price": "12,350원",
-          "discount_rate": 62,
-          "priceAt": "08.05 12:02",
-          "image": "https://img1a.coupangcdn.com/image/vendor_inventory/291d/8d83a92305c34bce0ae153f3108bb2907cb29752f3344883a0b0879dc573.jpg",
-          "url": "https://link.coupang.com/a/fXu1QECwph",
-          "_ts": 1785898950.5413709
         }
       ]
     },
@@ -1156,24 +1147,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/M2E1ZjAy/S25UWWxIcFdhWk1hMWtvUVNrendtL3BrVE5SRE0xZUxtT3dzbEx4NGhhdz0.png",
           "url": "https://toss.im/_m/fAJYKf9b",
           "_ts": 1785909612.98965
-        },
-        {
-          "name": "아침에 좋은빵 크랜베리 호두 통밀빵, 600g, 5개",
-          "price": "28,700원",
-          "discount_rate": 67,
-          "priceAt": "08.05 11:46",
-          "image": "https://shopping.toss.im/live/temp/2025-09-11/f4290d59-f6d6-44c0-bf87-c84aed8ec678.png",
-          "url": "https://toss.im/_m/hUWpYYD9",
-          "_ts": 1785897998.123063
-        },
-        {
-          "name": "이씨네 전라도 겉절이, 1kg, 1개",
-          "price": "6,800원",
-          "discount_rate": 68,
-          "priceAt": "08.05 11:45",
-          "image": "https://shopping.toss.im/c5144cbd-cfc0-4303-843c-1941d29bf5ef.jpg",
-          "url": "https://toss.im/_m/VuYZJxrC",
-          "_ts": 1785897921.60687
         }
       ]
     },
