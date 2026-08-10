@@ -753,15 +753,6 @@
           "image": "https://image2.coupangcdn.com/image/vendor_inventory/ead0/3e40fc533f8f226d293d821ccb7c5f1cfba64d223ac5d41882d7c972416e.png",
           "url": "https://link.coupang.com/a/fXWV2CMQSG",
           "_ts": 1785922380.964808
-        },
-        {
-          "name": "비비고 큰 채소가득 고기만두 고기 & 양배추 (냉동), 400g, 4개, 400g × 4개",
-          "price": "12,870원",
-          "discount_rate": 53,
-          "priceAt": "08.05 16:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/0bdec5da-5f0b-4ccc-b01d-bda8489916387768305983540236218.png",
-          "url": "https://link.coupang.com/a/fXL9VwlB8K",
-          "_ts": 1785913352.871477
         }
       ]
     },
@@ -770,6 +761,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+          "price": "7,900원",
+          "discount_rate": 69,
+          "priceAt": "08.10 16:04",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NTg5ZTkz/QU9CMmREazduT2NuOGJreXZBOFdoZGx3SVkxVVErcDRnYTVVQWJ2OFE3OFE.png",
+          "url": "https://toss.im/_m/pNsa7x0g",
+          "_ts": 1786345473.482408
+        },
         {
           "name": "산지로드 순살 양념 목살구이, 600g, 3개",
           "price": "16,900원",
@@ -1147,15 +1147,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-04-03/919d8fed-87cf-47a3-ac6b-211514b232eb.png",
           "url": "https://toss.im/_m/RmYHzzTq",
           "_ts": 1785919822.7081401
-        },
-        {
-          "name": "바리스타룰스 원데이 무라벨, 저당라떼, 350ml, 20개",
-          "price": "15,990원",
-          "discount_rate": 68,
-          "priceAt": "08.05 15:00",
-          "image": "https://shopping.toss.im/live/taca/ai/M2E1ZjAy/S25UWWxIcFdhWk1hMWtvUVNrendtL3BrVE5SRE0xZUxtT3dzbEx4NGhhdz0.png",
-          "url": "https://toss.im/_m/fAJYKf9b",
-          "_ts": 1785909612.98965
         }
       ]
     },
