@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "정미경키친 나물 비빔밥용 나물 5종 세트 300g, 1세트",
+          "price": "10,700원",
+          "discount_rate": 19,
+          "priceAt": "08.10 09:00",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/kajgv8er/b59ecbc3f6e0462e8e89f94206313a7c.jpg",
+          "url": "https://link.coupang.com/a/f5AwxxCVeC",
+          "_ts": 1786320034.947528
+        },
+        {
           "name": "크리넥스 안심 3겹 뽑아쓰는 천연펄프 키친타월",
           "price": "6,270원",
           "discount_rate": 57,
@@ -762,15 +771,6 @@
           "image": "https://image13.coupangcdn.com/image/retail/images/1014935164462408-6ae09d84-447f-480c-a36b-7f70f3b57c3c.jpg",
           "url": "https://link.coupang.com/a/fXiBNgDjgq",
           "_ts": 1785888522.0938501
-        },
-        {
-          "name": "이롬 황성주 박사의 국산콩 두유 검은콩 고칼슘, 190ml, 20개, 190ml × 20개",
-          "price": "8,390원",
-          "discount_rate": 27,
-          "priceAt": "08.05 08:54",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/169631118157321-5c65d596-314b-4c7d-a1b9-673ab8829434.jpg",
-          "url": "https://link.coupang.com/a/fXhxhQC69Y",
-          "_ts": 1785887641.400494
         }
       ]
     },
