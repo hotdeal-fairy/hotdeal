@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "테팔 매트 프라이팬 세트",
+          "price": "47,890원",
+          "discount_rate": 75,
+          "priceAt": "08.10 09:52",
+          "image": "https://image5.coupangcdn.com/image/retail/images/941245883729726-3ee81dfd-48fc-4563-8c06-04acfcfdf03d.jpg",
+          "url": "https://link.coupang.com/a/f5EeA0qFy0",
+          "_ts": 1786323130.269425
+        },
+        {
           "name": "정미경키친 나물 비빔밥용 나물 5종 세트 300g, 1세트",
           "price": "10,700원",
           "discount_rate": 19,
@@ -762,15 +771,6 @@
           "image": "https://image9.coupangcdn.com/image/retail/images/96245841586434-d10d2c3a-3528-454e-a461-16043f143be3.jpg",
           "url": "https://link.coupang.com/a/fXny070HRc",
           "_ts": 1785892682.8119302
-        },
-        {
-          "name": "매일야채 고농축 토마토의 힘, 125ml, 24개",
-          "price": "15,920원",
-          "discount_rate": 55,
-          "priceAt": "08.05 09:08",
-          "image": "https://image13.coupangcdn.com/image/retail/images/1014935164462408-6ae09d84-447f-480c-a36b-7f70f3b57c3c.jpg",
-          "url": "https://link.coupang.com/a/fXiBNgDjgq",
-          "_ts": 1785888522.0938501
         }
       ]
     },
