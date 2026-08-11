@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "순샘 구연산 자몽향 주방세제 리필, 1.6L, 2개",
+          "price": "5,490원",
+          "discount_rate": 78,
+          "priceAt": "08.11 15:40",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83620480767071-f4d52e3f-f6e9-472d-9e36-4eaf8334b64a.png",
+          "url": "https://link.coupang.com/a/f7H0vma5Jc",
+          "_ts": 1786430419.1540759
+        },
+        {
           "name": "실버리 쿨링 아이스 쿨스카프 넥쿨러",
           "price": "3,300원",
           "discount_rate": 86,
@@ -1102,15 +1111,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YTg3YzE0/QUxJenp3OERLK00zNGFzT3M2NU5EQU5FZWg0cHNHMTA3ZHZNV1NVWEd2MDI.png",
           "url": "https://toss.im/_m/biYyKSO",
           "_ts": 1786006227.987597
-        },
-        {
-          "name": "세척사과 꿀사과, 3kg, 1박스",
-          "price": "10,900원",
-          "discount_rate": 75,
-          "priceAt": "08.06 15:00",
-          "image": "https://shopping.toss.im/live/temp/2026-08-06/fa3d2c60-dc10-428f-a5a2-a2d8daa270c2.png",
-          "url": "https://toss.im/_m/hkInSJ1r",
-          "_ts": 1785996014.340651
         }
       ]
     },
