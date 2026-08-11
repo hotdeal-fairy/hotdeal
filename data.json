@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "듀라셀 오리지널 알카라인 AA 건전지 20p + AAA 건전지 20p",
+          "price": "18,970원",
+          "discount_rate": 30,
+          "priceAt": "08.11 17:53",
+          "image": "https://image4.coupangcdn.com/image/vendor_inventory/image_audit/prod/8b803475-3309-4dbd-94e1-16691a830849_fixing_v2.png",
+          "url": "https://link.coupang.com/a/f7Ryw8XhTg",
+          "_ts": 1786438426.3676999
+        },
+        {
           "name": "한율 달빛유자 브라이트닝 랩핑 마스크, 5개입, 1개",
           "price": "3,560원",
           "discount_rate": 77,
@@ -717,24 +726,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1163743127190851-dc65df4f-d6ce-4489-b09a-2c98a884914e.jpg",
           "url": "https://link.coupang.com/a/fZz6x87nxY",
           "_ts": 1786007346.012448
-        },
-        {
-          "name": "이롬 황성주 박사의 국산콩 두유 무가당, 190ml, 32개, 190ml × 32개",
-          "price": "15,100원",
-          "discount_rate": 57,
-          "priceAt": "08.06 17:48",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/747404577241747-9cd6704b-fbb2-41ee-8c73-a0b51d6e86b9.jpg",
-          "url": "https://link.coupang.com/a/fZyDbVnorc",
-          "_ts": 1786006108.0418181
-        },
-        {
-          "name": "밀크바오밥 선스프레이 SPF50+ PA++++",
-          "price": "6,940원",
-          "discount_rate": 50,
-          "priceAt": "08.06 16:27",
-          "image": "https://image11.coupangcdn.com/image/retail/images/169574739245590-8cce62d6-23ad-41e2-a843-c1d753f19fb2.jpg",
-          "url": "https://link.coupang.com/a/fZsQEQfLrw",
-          "_ts": 1786001232.264256
         }
       ]
     },
@@ -1138,24 +1129,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MWYxOTE0/Zlh6OS96eDQwWERYNUE2UEtoLy9qMmdQUC9nLzZ2RlEwVkQvLzlGUTc2OD0.png",
           "url": "https://toss.im/_m/jj2ttkfh",
           "_ts": 1786107026.8278341
-        },
-        {
-          "name": "피죤 무때 제로 락스세제 욕실청소용, 500ml, 4개",
-          "price": "11,890원",
-          "discount_rate": 54,
-          "priceAt": "08.06 17:51",
-          "image": "https://shopping.toss.im/live/temp/2026-08-03/8b87b40d-da62-44e8-b844-ea26d90b9a82.jpeg",
-          "url": "https://toss.im/_m/15SQiZ2l",
-          "_ts": 1786006311.556559
-        },
-        {
-          "name": "20년 명인김치 전라도식 배추김치, 10kg, 1박스",
-          "price": "26,990원",
-          "discount_rate": 59,
-          "priceAt": "08.06 17:50",
-          "image": "https://shopping.toss.im/live/taca/ai/YTg3YzE0/QUxJenp3OERLK00zNGFzT3M2NU5EQU5FZWg0cHNHMTA3ZHZNV1NVWEd2MDI.png",
-          "url": "https://toss.im/_m/biYyKSO",
-          "_ts": 1786006227.987597
         }
       ]
     },
