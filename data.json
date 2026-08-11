@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "2080 애플민트향 자일리톨 치약, 120g, 6개",
+          "price": "7,150원",
+          "discount_rate": 42,
+          "priceAt": "08.11 13:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2449783482582245-01d2ec17-8a5a-40b0-bd61-c54629e68e33.jpg",
+          "url": "https://link.coupang.com/a/f7xTTkgteS",
+          "_ts": 1786421925.474963
+        },
+        {
           "name": "LED 키캡 키링 키보드 클리커 9구",
           "price": "2,700원",
           "discount_rate": 70,
@@ -690,15 +699,6 @@
           "image": "https://image13.coupangcdn.com/image/retail/images/2026/03/22/9/2/cee52b31-96e2-44c9-ac60-7b1b16e9e63c.jpg",
           "url": "https://link.coupang.com/a/fZfJmVkOei",
           "_ts": 1785990218.884214
-        },
-        {
-          "name": "개성 감자만두 (냉동), 1.2kg, 2개, 1.2kg × 2개",
-          "price": "13,480원",
-          "discount_rate": 50,
-          "priceAt": "08.06 12:48",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/77025468398515-30c11e65-7c56-4608-be0d-4624a6548102.jpg",
-          "url": "https://link.coupang.com/a/fZdeiydH8m",
-          "_ts": 1785988138.334068
         }
       ]
     },
