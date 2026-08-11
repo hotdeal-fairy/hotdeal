@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "실버리 쿨링 아이스 쿨스카프 넥쿨러",
+          "price": "3,300원",
+          "discount_rate": 86,
+          "priceAt": "08.11 14:49",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0028/229c18909672a7807dc891926f39e29207c9a65a31dc42d5f08b0990f568.png",
+          "url": "https://link.coupang.com/a/f7EledXyOi",
+          "_ts": 1786427343.387852
+        },
+        {
           "name": "2080 애플민트향 자일리톨 치약, 120g, 6개",
           "price": "7,150원",
           "discount_rate": 42,
@@ -681,15 +690,6 @@
           "image": "https://image11.coupangcdn.com/image/retail/images/169574739245590-8cce62d6-23ad-41e2-a843-c1d753f19fb2.jpg",
           "url": "https://link.coupang.com/a/fZsQEQfLrw",
           "_ts": 1786001232.264256
-        },
-        {
-          "name": "투데이넛 너트한줌 요거트 견과세트 600g, 2세트, 2세트",
-          "price": "27,970원",
-          "discount_rate": 49,
-          "priceAt": "08.06 14:05",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/49682778247292-1df36b51-47c0-4759-91f1-dcd83b415417.jpg",
-          "url": "https://link.coupang.com/a/fZiHiPkUKq",
-          "_ts": 1785992729.493421
         }
       ]
     },
