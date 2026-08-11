@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "우양 추억의 핫도그 (냉동)",
+          "price": "5,980원",
+          "discount_rate": 50,
+          "priceAt": "08.11 15:59",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/22abc50a-47b1-4ed4-85ee-966210a5cbab8320451781785641767.png",
+          "url": "https://link.coupang.com/a/f7Jpm53LpY",
+          "_ts": 1786431593.527565
+        },
+        {
           "name": "2080 퓨어 치약 크리스탈솔트 화이트프레쉬민트향, 150g, 6개",
           "price": "5,860원",
           "discount_rate": 26,
