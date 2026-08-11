@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "미프 리페어 앤 리프팅 에프터 쉐이브, 65g, 1개",
+          "price": "7,930원",
+          "discount_rate": 53,
+          "priceAt": "08.11 18:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10119186948932-dda1b977-e9c5-4823-b38c-75618628725f.jpg",
+          "url": "https://link.coupang.com/a/f7UkZjytdk",
+          "_ts": 1786440764.056279
+        },
+        {
           "name": "듀라셀 오리지널 알카라인 AA 건전지 20p + AAA 건전지 20p",
           "price": "18,970원",
           "discount_rate": 30,
@@ -708,24 +717,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/179939245472534-06159a5d-8ee6-4629-9a3d-34f02c36aad8.png",
           "url": "https://link.coupang.com/a/fZCxut29rU",
           "_ts": 1786009388.985342
-        },
-        {
-          "name": "종근당건강 프로메가 오메가3 트리플, 60정, 2개",
-          "price": "19,000원",
-          "discount_rate": 52,
-          "priceAt": "08.06 18:13",
-          "image": "https://image5.coupangcdn.com/image/retail/images/279864819118520-f6d17681-c8cb-45d3-8211-66f44a8210d0.jpg",
-          "url": "https://link.coupang.com/a/fZAqjc8K7g",
-          "_ts": 1786007592.1761339
-        },
-        {
-          "name": "더페이스샵 갈아만든 티트리 마스크시트, 1개입, 10개, 1개입 × 10개",
-          "price": "4,850원",
-          "discount_rate": 51,
-          "priceAt": "08.06 18:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1163743127190851-dc65df4f-d6ce-4489-b09a-2c98a884914e.jpg",
-          "url": "https://link.coupang.com/a/fZz6x87nxY",
-          "_ts": 1786007346.012448
         }
       ]
     },
