@@ -699,24 +699,6 @@
           "image": "https://img3c.coupangcdn.com/image/retail/images/1307566238519043-a2cab838-e2f6-4ede-95b6-7adf091c6a9d.jpg",
           "url": "https://link.coupang.com/a/fY3SGBUd2G",
           "_ts": 1785980269.466042
-        },
-        {
-          "name": "삼양 맛있는라면 115g, 5개, 5개",
-          "price": "3,300원",
-          "discount_rate": 30,
-          "priceAt": "08.06 10:05",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52653807860561-4c51c0ea-5bce-4e77-bfc9-bc5de7863178.jpg",
-          "url": "https://link.coupang.com/a/fY1ySsmee4",
-          "_ts": 1785978342.7756538
-        },
-        {
-          "name": "파파레서피 블레미쉬 효소 클렌징 파우더, 50g, 1개",
-          "price": "10,950원",
-          "discount_rate": 39,
-          "priceAt": "08.06 10:05",
-          "image": "https://image3.coupangcdn.com/image/retail/images/40278605056370-0e5825d6-e422-4449-a1c1-c2bc813c06df.png",
-          "url": "https://link.coupang.com/a/fY1x0f4Saa",
-          "_ts": 1785978309.994926
         }
       ]
     },
@@ -725,6 +707,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "사리원 소불고기, 500g, 4팩",
+          "price": "17,900원",
+          "discount_rate": 55,
+          "priceAt": "08.11 10:14",
+          "image": "https://shopping.toss.im/live/taca/ai/MDVkNWU3/QU9uMEFXT0h1WUhHdjlEeHJCNUFRNlg5WUlleDhDSWZBV1BDQ0QvT0R2UGk.png",
+          "url": "https://toss.im/_m/lrXddeTl",
+          "_ts": 1786410875.99827
+        },
         {
           "name": "샐리의법칙 순면이 좋은날 생리대, 중형, 12개입, 5팩",
           "price": "6,690원",
