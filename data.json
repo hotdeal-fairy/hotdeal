@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오뚜기 리얼 프렌치 크로크무슈 오리지널 4개입 (냉동), 520g, 1개",
+          "price": "6,610원",
+          "discount_rate": 54,
+          "priceAt": "08.11 12:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/12/29/16/3/dbb67dee-ce61-40ec-ab6a-75c531f9a7ec.jpg",
+          "url": "https://link.coupang.com/a/f7sYLOlBoO",
+          "_ts": 1786417793.3289979
+        },
+        {
           "name": "바닐라코 로맨틱 블러쉬 립앤치크 3.7g, 11 발레리나, 1개",
           "price": "3,600원",
           "discount_rate": 70,
@@ -690,15 +699,6 @@
           "image": "https://image1.coupangcdn.com/image/rs_quotation_api/rcpplktf/e238f090c3ae44dab9f59c083a578d73.jpg",
           "url": "https://link.coupang.com/a/fZcqMWKJwa",
           "_ts": 1785987448.092382
-        },
-        {
-          "name": "메르시 파이니스트 셀렉션 레드 초콜릿, 400g, 2개, 400g × 2개",
-          "price": "33,550원",
-          "discount_rate": 5,
-          "priceAt": "08.06 11:40",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/35569262371856-3827eeec-441b-4c77-9768-2f44fb92fdea.jpg",
-          "url": "https://link.coupang.com/a/fY8l1Lwmzc",
-          "_ts": 1785984045.122935
         }
       ]
     },
@@ -1093,24 +1093,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-06/fa3d2c60-dc10-428f-a5a2-a2d8daa270c2.png",
           "url": "https://toss.im/_m/hkInSJ1r",
           "_ts": 1785996014.340651
-        },
-        {
-          "name": "스크래치 제로 두툼 마법수세미, 20개입, 1팩",
-          "price": "11,890원",
-          "discount_rate": 60,
-          "priceAt": "08.06 11:47",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmEyYjA0/QUxNRVFQWk9BYm1CSTJRT1pCR0pkSUZqL3NHT2pVdFFvUWYrQkU0UnU3dDc.png",
-          "url": "https://toss.im/_m/n44QZ5H8",
-          "_ts": 1785984451.820765
-        },
-        {
-          "name": "듀오덤 밴드, 혼합형, 8매입, 1개",
-          "price": "3,800원",
-          "discount_rate": 70,
-          "priceAt": "08.06 11:45",
-          "image": "https://shopping.toss.im/live/taca/ai/M2U5ODM2/QUljek1NbDR6TXlaZ3pNemRqWlAzSW5ZaytabUozaHpuTW1takVNY2lXTzA.png",
-          "url": "https://toss.im/_m/lSGsYvVz",
-          "_ts": 1785984324.437686
         }
       ]
     },
