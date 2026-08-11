@@ -690,15 +690,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/49682778247292-1df36b51-47c0-4759-91f1-dcd83b415417.jpg",
           "url": "https://link.coupang.com/a/fZiHiPkUKq",
           "_ts": 1785992729.493421
-        },
-        {
-          "name": "굿데이 강아지 건강한 육포",
-          "price": "8,000원",
-          "discount_rate": 45,
-          "priceAt": "08.06 13:23",
-          "image": "https://image13.coupangcdn.com/image/retail/images/2026/03/22/9/2/cee52b31-96e2-44c9-ac60-7b1b16e9e63c.jpg",
-          "url": "https://link.coupang.com/a/fZfJmVkOei",
-          "_ts": 1785990218.884214
         }
       ]
     },
@@ -707,6 +698,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "지그비 고불소 구취케어 치약, 아쿠아민트향, 117g, 4개",
+          "price": "8,900원",
+          "discount_rate": 70,
+          "priceAt": "08.11 13:28",
+          "image": "https://shopping.toss.im/live/taca/ai/NTc1NjEy/TWpIVTJpczJsTXNyWmppYnhtOHRrc3B0cFNLTmpXWXp0WXdMQmdyVitTND0.png",
+          "url": "https://toss.im/_m/5QcEBvlw",
+          "_ts": 1786422495.3630888
+        },
         {
           "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 1개",
           "price": "9,900원",
