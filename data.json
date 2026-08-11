@@ -690,15 +690,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/35569262371856-3827eeec-441b-4c77-9768-2f44fb92fdea.jpg",
           "url": "https://link.coupang.com/a/fY8l1Lwmzc",
           "_ts": 1785984045.122935
-        },
-        {
-          "name": "델라고 우드 베이직 궁중팬, 28cm, 1개",
-          "price": "14,990원",
-          "discount_rate": 63,
-          "priceAt": "08.06 10:37",
-          "image": "https://img3c.coupangcdn.com/image/retail/images/1307566238519043-a2cab838-e2f6-4ede-95b6-7adf091c6a9d.jpg",
-          "url": "https://link.coupang.com/a/fY3SGBUd2G",
-          "_ts": 1785980269.466042
         }
       ]
     },
@@ -707,6 +698,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "행운샴푸 블랙, 500ml, 1개",
+          "price": "16,900원",
+          "discount_rate": 78,
+          "priceAt": "08.11 10:43",
+          "image": "https://shopping.toss.im/live/temp/2026-07-01/e9a6d2db-af54-4328-ba90-1140d2365d83.jpeg",
+          "url": "https://toss.im/_m/LrMCWvue",
+          "_ts": 1786412583.701947
+        },
         {
           "name": "사리원 소불고기, 500g, 4팩",
           "price": "17,900원",
