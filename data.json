@@ -753,6 +753,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "종근당건강 아임비타 멀티비타민 데일리, 850mg, 60정, 1개",
+          "price": "9,900원",
+          "discount_rate": 60,
+          "priceAt": "08.11 21:27",
+          "image": "https://shopping.toss.im/2ba213b1-f72c-41b8-bceb-f89f559ea0b3.jpeg",
+          "url": "https://toss.im/_m/pC35uV66",
+          "_ts": 1786451253.65423
+        },
+        {
           "name": "크리넥스 울트라클린, 3겹, 25m, 24롤, 2팩",
           "price": "23,900원",
           "discount_rate": 42,
