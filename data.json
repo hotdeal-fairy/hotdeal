@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "블리스텍스 바이브런스 립밤",
+          "price": "8,390원",
+          "discount_rate": 25,
+          "priceAt": "08.11 10:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2331846862943171-8ea6f95b-f1c0-4fcc-84d5-c4c63bad766e.jpg",
+          "url": "https://link.coupang.com/a/f7jSYClA5I",
+          "_ts": 1786410158.216748
+        },
+        {
           "name": "청정원 보크라이스 야채, 24g, 24개, 24g × 24개",
           "price": "30,240원",
           "discount_rate": 32,
@@ -1093,15 +1102,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/M2U5ODM2/QUljek1NbDR6TXlaZ3pNemRqWlAzSW5ZaytabUozaHpuTW1takVNY2lXTzA.png",
           "url": "https://toss.im/_m/lSGsYvVz",
           "_ts": 1785984324.437686
-        },
-        {
-          "name": "터치 라이트 아토캡 고농축 캡슐세제, 8g, 120개입, 1개",
-          "price": "4,500원",
-          "discount_rate": 71,
-          "priceAt": "08.06 09:05",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MDVjMTIx/RWtYZzhmbERxT0hGaDdMVGZVYjh5emh6NGsyRmhzUEdRYytybXhZNEhqdz0.png",
-          "url": "https://toss.im/_m/PPxtyam7",
-          "_ts": 1785974712.2400022
         }
       ]
     },
