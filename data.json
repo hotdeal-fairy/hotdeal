@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "웅진빅토리아 더빅토리아 레몬 탄산음료, 500ml, 72개, 500ml × 72개",
+          "price": "32,220원",
+          "discount_rate": 18,
+          "priceAt": "08.12 22:16",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/43cb3af1-1299-40e4-82c4-c812f1c287c7163952231258445698.png",
+          "url": "https://link.coupang.com/a/f9PdSZ5WeG",
+          "_ts": 1786540615.037374
+        },
+        {
           "name": "크라운 비단박하캔디, 400g, 3개, 400g × 3개",
           "price": "8,340원",
           "discount_rate": 27,
@@ -933,15 +942,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/024d/2ce57ff92c42e4c2f93e42090135dae1bf9466cb1d997fbdbecc02b7678c.jpg",
           "url": "https://link.coupang.com/a/f18UkFQcX6",
           "_ts": 1786140677.563157
-        },
-        {
-          "name": "외갓집 1분 30초 통등심돈까스 100g x 5p + 소스 30g x 5p 세트 (냉동)",
-          "price": "11,580원",
-          "discount_rate": 25,
-          "priceAt": "08.07 22:06",
-          "image": "https://image2.coupangcdn.com/image/retail/images/54566667378368-e3215175-6e1e-460f-835f-8006113cff76.jpg",
-          "url": "https://link.coupang.com/a/f1vYyZW3ki",
-          "_ts": 1786107971.0016582
         }
       ]
     },
@@ -1444,24 +1444,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NzA5ZTg4/RTIydFFxelpHYVNUWm5KYk1tbXBKcG1Na25sTFZwenZiM2hVTDVld2FGMD0.png",
           "url": "https://toss.im/_m/HF91bMXu",
           "_ts": 1786147521.2314
-        },
-        {
-          "name": "구워먹는 할루미치즈, 200g, 3개",
-          "price": "7,600원",
-          "discount_rate": 65,
-          "priceAt": "08.07 21:51",
-          "image": "https://shopping.toss.im/live/temp/2026-06-30/ade7ab0a-5ebe-489c-a02a-66196e0122ca.png",
-          "url": "https://toss.im/_m/bYiJDbZ5",
-          "_ts": 1786107111.545235
-        },
-        {
-          "name": "빙그레 아카페라 심플리 디카페인 아메리카노, 무라벨, 400ml, 20개",
-          "price": "21,100원",
-          "discount_rate": 29,
-          "priceAt": "08.07 21:50",
-          "image": "https://shopping.toss.im/live/taca/ai/MWYxOTE0/Zlh6OS96eDQwWERYNUE2UEtoLy9qMmdQUC9nLzZ2RlEwVkQvLzlGUTc2OD0.png",
-          "url": "https://toss.im/_m/jj2ttkfh",
-          "_ts": 1786107026.8278341
         }
       ]
     },
