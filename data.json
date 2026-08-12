@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "햇반 단호박죽, 420g, 2개",
+          "price": "4,980원",
+          "discount_rate": 50,
+          "priceAt": "08.12 19:25",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/262267951648894-41addb8c-7e0a-4136-a686-af07701ff55c.jpg",
+          "url": "https://link.coupang.com/a/f9CX33FVbU",
+          "_ts": 1786530359.409025
+        },
+        {
           "name": "마이구미 자두 알맹이 젤리, 67g, 10개",
           "price": "6,650원",
           "discount_rate": null,
