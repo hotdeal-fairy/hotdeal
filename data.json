@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "프레지덩 가염버터, 200g, 5개, 200g × 5개",
+          "price": "28,700원",
+          "discount_rate": 25,
+          "priceAt": "08.13 07:35",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/51309544101336-c55aeec5-3cec-4393-b518-0ec375a44eae.jpg",
+          "url": "https://link.coupang.com/a/gas3xuVC1s",
+          "_ts": 1786574135.745624
+        },
+        {
           "name": "웅진빅토리아 더빅토리아 레몬 탄산음료, 500ml, 72개, 500ml × 72개",
           "price": "32,220원",
           "discount_rate": 18,
@@ -924,24 +933,6 @@
           "image": "https://image13.coupangcdn.com/image/retail/images/1130756823287814-633fad95-102c-4c6b-9619-f73288fdefb9.png",
           "url": "https://link.coupang.com/a/f2bIEXen4m",
           "_ts": 1786143019.4198558
-        },
-        {
-          "name": "더담은 불릴필요없는 귀리쌀, 4kg, 1개, 4kg × 1개",
-          "price": "6,480원",
-          "discount_rate": 56,
-          "priceAt": "08.08 07:18",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3598475078361721-a9887be5-0eae-4555-aaee-62da1ee4cba2.jpeg",
-          "url": "https://link.coupang.com/a/f19rUeOZH2",
-          "_ts": 1786141132.215502
-        },
-        {
-          "name": "오아 접이식 블루투스 무선 접이식 키보드, 오닉스 블랙, OA-BTKBDA, 적축",
-          "price": "31,130원",
-          "discount_rate": 43,
-          "priceAt": "08.08 07:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/024d/2ce57ff92c42e4c2f93e42090135dae1bf9466cb1d997fbdbecc02b7678c.jpg",
-          "url": "https://link.coupang.com/a/f18UkFQcX6",
-          "_ts": 1786140677.563157
         }
       ]
     },
