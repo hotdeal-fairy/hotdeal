@@ -915,15 +915,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/f8e33821-5bc4-4f67-9266-3128d7e4e8981095265429010778903.png",
           "url": "https://link.coupang.com/a/f2fKmECrSu",
           "_ts": 1786146421.10235
-        },
-        {
-          "name": "다조은 비파괴당도선별 샤인머스켓, 500g, 1팩, 500g × 1팩",
-          "price": "6,040원",
-          "discount_rate": 49,
-          "priceAt": "08.08 08:15",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1105263922459370-dc82a965-4f7c-4e6b-9a32-6e5bfae225c7.jpg",
-          "url": "https://link.coupang.com/a/f2dvO6llWS",
-          "_ts": 1786144546.1509771
         }
       ]
     },
@@ -932,6 +923,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "쟈니베어 붙이는 아이스 쿨패치 쿨링시트, 30개, 1팩",
+          "price": "4,980원",
+          "discount_rate": 74,
+          "priceAt": "08.13 08:20",
+          "image": "https://shopping.toss.im/live/temp/2026-07-29/45fcf987-7836-4588-87de-8f1ad9b98fa0.png",
+          "url": "https://toss.im/_m/N6l1C8OD",
+          "_ts": 1786576845.153871
+        },
         {
           "name": "산지농수산 메밀소바 세트, 생메밀국수 1kg + 메밀장 6개, 1세트",
           "price": "7,500원",
