@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "크라운 비단박하캔디, 400g, 3개, 400g × 3개",
+          "price": "8,340원",
+          "discount_rate": 27,
+          "priceAt": "08.12 21:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/36361172832830-520dffd7-7092-4260-94e2-d992da0e5054.jpg",
+          "url": "https://link.coupang.com/a/f9MRBBo136",
+          "_ts": 1786538625.526979
+        },
+        {
           "name": "거북이달린다 팔당오징어 (냉동), 2개, 400g",
           "price": "14,800원",
           "discount_rate": 22,
@@ -933,15 +942,6 @@
           "image": "https://image2.coupangcdn.com/image/retail/images/54566667378368-e3215175-6e1e-460f-835f-8006113cff76.jpg",
           "url": "https://link.coupang.com/a/f1vYyZW3ki",
           "_ts": 1786107971.0016582
-        },
-        {
-          "name": "스파크 오리지널 분말세제 본품, 5.5kg, 1개, 5.5kg × 1개",
-          "price": "7,400원",
-          "discount_rate": 45,
-          "priceAt": "08.07 21:30",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/64a2/3a55564092a889b2ba83b119dc9c51f42c150b49f45f48cd87060410a54b.jpg",
-          "url": "https://link.coupang.com/a/f1tpHlVvUW",
-          "_ts": 1786105841.055285
         }
       ]
     },
