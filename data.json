@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "거북이달린다 팔당오징어 (냉동), 2개, 400g",
+          "price": "14,800원",
+          "discount_rate": 22,
+          "priceAt": "08.12 21:22",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/72636239852012-c46e2e84-9f64-4b60-821e-b46ba172931e.jpg",
+          "url": "https://link.coupang.com/a/f9LmLUBbTU",
+          "_ts": 1786537367.0526211
+        },
+        {
           "name": "비비드키친 저당 오리엔탈 드레싱, 210g, 1개, 210g × 1개",
           "price": "1,900원",
           "discount_rate": 40,
@@ -933,15 +942,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/64a2/3a55564092a889b2ba83b119dc9c51f42c150b49f45f48cd87060410a54b.jpg",
           "url": "https://link.coupang.com/a/f1tpHlVvUW",
           "_ts": 1786105841.055285
-        },
-        {
-          "name": "팜앤푸드 꼬리 자른 생새우살 61~70입 (냉동)",
-          "price": "14,590원",
-          "discount_rate": 38,
-          "priceAt": "08.07 21:04",
-          "image": "https://image1.coupangcdn.com/image/retail/images/1871988488973561-67485205-e071-44da-addb-4d8df6f36795.jpg",
-          "url": "https://link.coupang.com/a/f1rytqN9vo",
-          "_ts": 1786104259.445487
         }
       ]
     },
