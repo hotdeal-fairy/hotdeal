@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "AHC 마스터즈 아쿠아 리치 선크림 SPF50+ PA++++, 30ml, 2개",
+          "price": "9,000원",
+          "discount_rate": 62,
+          "priceAt": "08.13 12:50",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4119157550861544-e8dcce7c-5071-49c5-81f5-76c7c7bc9070.jpg",
+          "url": "https://link.coupang.com/a/gaPDCsWOsK",
+          "_ts": 1786593059.946783
+        },
+        {
           "name": "크라운 참쌀설병, 270g, 2개",
           "price": "5,540원",
           "discount_rate": 48,
@@ -942,15 +951,6 @@
           "image": "https://img2c.coupangcdn.com/image/retail/images/763575243020-788e18e8-2abd-4a0f-9d36-7f7c4d2df9c4.jpg",
           "url": "https://link.coupang.com/a/f2FNCNFpw4",
           "_ts": 1786168275.3253062
-        },
-        {
-          "name": "오뚜기 진라면 매운맛 컵 110g, 12개, 12개",
-          "price": "8,000원",
-          "discount_rate": 43,
-          "priceAt": "08.08 12:49",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/b413/6922c275babecf9b676dc15920c38a65578c537390124132db026d57c904.jpg",
-          "url": "https://link.coupang.com/a/f2w3TCl6NE",
-          "_ts": 1786160958.958813
         }
       ]
     },
