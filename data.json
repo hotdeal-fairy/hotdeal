@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "쉐푸드 등심 통 돈까스 (냉동), 300g, 2개",
+          "price": "9,480원",
+          "discount_rate": 30,
+          "priceAt": "08.13 18:45",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/564fd6d4-4b27-4076-b6b2-cdeddc04d21c8450160312271557467.png",
+          "url": "https://link.coupang.com/a/gbe2jbIeoT",
+          "_ts": 1786614312.202335
+        },
+        {
           "name": "슬루나 스크래치 제로 양면 스펀지 수세미, 1개, 12개입",
           "price": "2,980원",
           "discount_rate": 40,
@@ -1005,24 +1014,6 @@
           "image": "https://img4c.coupangcdn.com/image/retail/images/3482781880389506-f520ff8d-7c7d-4012-9a39-127c1aca51b6.jpg",
           "url": "https://link.coupang.com/a/f2XhdMGwoe",
           "_ts": 1786182949.7181928
-        },
-        {
-          "name": "청우식품 양념치킨 순한맛 소스, 2.1kg, 1개, 2.1kg × 1개",
-          "price": "4,170원",
-          "discount_rate": 60,
-          "priceAt": "08.08 18:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/04/17/3/353ac7ed-5e4a-4d8b-8d30-4d42734108b1.jpg",
-          "url": "https://link.coupang.com/a/f2VBOuFTKm",
-          "_ts": 1786181568.99997
-        },
-        {
-          "name": "미식연구소 갓튀겨나온 곱빼기 통등심 젓가락 돈까스 (냉동), 500g, 1개",
-          "price": "10,890원",
-          "discount_rate": 15,
-          "priceAt": "08.08 17:49",
-          "image": "https://image14.coupangcdn.com/image/retail/images/439840769178431-baf85121-f745-4dc2-aaa6-3be65bdc0915.jpg",
-          "url": "https://link.coupang.com/a/f2SyZt0lxs",
-          "_ts": 1786178992.218056
         }
       ]
     },
@@ -1561,24 +1552,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-26/955dafba-d7c9-4683-a54c-8a31a8f8b7c2.jpeg",
           "url": "https://toss.im/_m/vvizKL8n",
           "_ts": 1786186818.251384
-        },
-        {
-          "name": "가쯔 라운드 어깨 뿔 방지 논슬립 니트 옷걸이, 화이트, 30개",
-          "price": "7,900원",
-          "discount_rate": 38,
-          "priceAt": "08.08 17:51",
-          "image": "https://shopping.toss.im/live/taca/ai/ZGFiNTRj/QU10TExhdzJXZFBLeTVVdVd6TnV6YjlNMm5QbDh4NkdZWjVrMlo0RG1RNU0.png",
-          "url": "https://toss.im/_m/5G7Zfu0B",
-          "_ts": 1786179095.2731578
-        },
-        {
-          "name": "레이데이 비타민C 에너지 앰플, 13ml, 5개",
-          "price": "9,900원",
-          "discount_rate": 78,
-          "priceAt": "08.08 17:50",
-          "image": "https://shopping.toss.im/live/taca/ai/NjBkMGQ5/QUpTbGNuU2w0ek5oNmVBY216eThySTB3OG5IalcxZDhleWxhL1d6T3JhWTg.png",
-          "url": "https://toss.im/_m/1Hoxhacm",
-          "_ts": 1786179024.508846
         }
       ]
     },
