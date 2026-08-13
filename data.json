@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "삼성전자 갤럭시 S25 FE SM-S731N, 아이스블루, 256GB",
+          "price": "679,000원",
+          "discount_rate": null,
+          "priceAt": "08.13 20:58",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e0b1/1537494d6b4dda2f383f4c1f9c6013265d7e438ca64520ad13960f1b332a.png",
+          "url": "https://link.coupang.com/a/gbowCKSwdo",
+          "_ts": 1786622301.7113001
+        },
+        {
           "name": "풀무원 2분조리 국물떡볶이, 170g, 2개",
           "price": "2,680원",
           "discount_rate": 39,
@@ -978,15 +987,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1742566438571959-53a5ab6a-b98d-4301-94ed-7b5c6d1d3b8c.jpg",
           "url": "https://link.coupang.com/a/f3NDrWR8x2",
           "_ts": 1786226932.683956
-        },
-        {
-          "name": "프릴 시크릿오브 베이킹소다 주방세제 상큼한 오렌지향, 1L, 2개",
-          "price": "7,240원",
-          "discount_rate": 61,
-          "priceAt": "08.08 20:20",
-          "image": "https://static.coupangcdn.com/image/retail/images/415964077940888-c71aaa2c-c3d4-4bc4-950b-8b72ebe6f486.png",
-          "url": "https://link.coupang.com/a/f23i9TfvYi",
-          "_ts": 1786188013.719736
         }
       ]
     },
@@ -1516,15 +1516,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Y2M0MGZl/QU54amN5TlNxOHplcTl5M0lkd2phdDREM0pWaC9VRnFuMEM3bldDL1ZIcS8.png",
           "url": "https://toss.im/_m/HUEpWD9w",
           "_ts": 1786192818.048511
-        },
-        {
-          "name": "밀크바오밥 바디워시, 화이트머스크, 1L, 1개",
-          "price": "9,830원",
-          "discount_rate": 38,
-          "priceAt": "08.08 20:00",
-          "image": "https://shopping.toss.im/live/temp/2026-02-26/955dafba-d7c9-4683-a54c-8a31a8f8b7c2.jpeg",
-          "url": "https://toss.im/_m/vvizKL8n",
-          "_ts": 1786186818.251384
         }
       ]
     },
