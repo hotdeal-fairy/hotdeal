@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "서울우유 듀오안 오리지널, 8개, 1개입, 150ml",
+          "price": "4,280원",
+          "discount_rate": 50,
+          "priceAt": "08.13 10:11",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37bbc2bc-9f0e-497e-be36-69622c1056e49404659442119362821.png",
+          "url": "https://link.coupang.com/a/gaEgMeGkdE",
+          "_ts": 1786583483.135584
+        },
+        {
           "name": "켈로그 크랜베리 아몬드 그래놀라 시리얼, 550g, 2개",
           "price": "8,550원",
           "discount_rate": 33,
@@ -942,15 +951,6 @@
           "image": "https://image8.coupangcdn.com/image/retail/images/531156914724635-1634eb00-f21e-4a0f-b1f7-159ee8f76e76.jpg",
           "url": "https://link.coupang.com/a/f2rd0zuY8a",
           "_ts": 1786156038.37516
-        },
-        {
-          "name": "웰럽 프리미엄 NEW 무릎 보호대, 1세트, 블랙",
-          "price": "9,750원",
-          "discount_rate": 63,
-          "priceAt": "08.08 09:44",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3b32/3656a5df59c81e77e01f08f56010dde4cb091c3eb1d2bd7457c72b112349.jpg",
-          "url": "https://link.coupang.com/a/f2jQkyFQmO",
-          "_ts": 1786149860.258026
         }
       ]
     },
