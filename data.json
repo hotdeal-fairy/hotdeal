@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "더미식 닭개장, 350g, 10개",
+          "price": "20,900원",
+          "discount_rate": 65,
+          "priceAt": "08.13 14:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c208e97b-f125-47a0-a49d-38417d18e5c16595452764069637003.png",
+          "url": "https://link.coupang.com/a/gaYr09Bfa0",
+          "_ts": 1786600386.4628868
+        },
+        {
           "name": "제이엠솔루션 더 이펙트 히알루로닉 수분 세럼, 2개, 30ml",
           "price": "10,970원",
           "discount_rate": 30,
@@ -987,15 +996,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2d83/be0f1a9f0ac36f42579a4a4c006b3fe040630ab187bf7a216b3bc1a148b0.jpg",
           "url": "https://link.coupang.com/a/f2KziQr9FY",
           "_ts": 1786172299.6114979
-        },
-        {
-          "name": "웰콩 서리태 볶음, 20개, 17g",
-          "price": "10,800원",
-          "discount_rate": 15,
-          "priceAt": "08.08 14:51",
-          "image": "https://img2c.coupangcdn.com/image/retail/images/763575243020-788e18e8-2abd-4a0f-9d36-7f7c4d2df9c4.jpg",
-          "url": "https://link.coupang.com/a/f2FNCNFpw4",
-          "_ts": 1786168275.3253062
         }
       ]
     },
