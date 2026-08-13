@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스너글 실내 건조 섬유유연제 핑크 스파클 플러스 리필, 2.6L, 1개",
+          "price": "6,590원",
+          "discount_rate": 68,
+          "priceAt": "08.13 15:13",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1748/b7f0ad5e259eed6f091e7ead5f1fb76b37fa8f1f8f259ffdef623fbf6773.jpg",
+          "url": "https://link.coupang.com/a/gaZQpTIBWu",
+          "_ts": 1786601587.020606
+        },
+        {
           "name": "더미식 닭개장, 350g, 5개",
           "price": "17,940원",
           "discount_rate": 20,
@@ -1552,24 +1561,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NjBkMGQ5/QUpTbGNuU2w0ek5oNmVBY216eThySTB3OG5IalcxZDhleWxhL1d6T3JhWTg.png",
           "url": "https://toss.im/_m/1Hoxhacm",
           "_ts": 1786179024.508846
-        },
-        {
-          "name": "스파클 생수, 무라벨, 2L, 24개",
-          "price": "7,200원",
-          "discount_rate": 64,
-          "priceAt": "08.08 15:02",
-          "image": "https://shopping.toss.im/live/temp/2026-03-18/268e4c6a-1595-43e9-9c1b-f101e5774429.jpeg",
-          "url": "https://toss.im/_m/f7oB7jom",
-          "_ts": 1786168925.6499
-        },
-        {
-          "name": "리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
-          "price": "9,700원",
-          "discount_rate": 59,
-          "priceAt": "08.08 15:00",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmNiNWM4/QU9UTXRQTmRoaTdPVFRPMUwwcHhXdElTblpNK2VuRnZZN053VnBic1V1MXM.png",
-          "url": "https://toss.im/_m/xGxrktyn",
-          "_ts": 1786168824.882932
         }
       ]
     },
