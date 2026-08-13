@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "풀무원 2분조리 국물떡볶이, 170g, 2개",
+          "price": "2,680원",
+          "discount_rate": 39,
+          "priceAt": "08.13 19:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2b4a/de11a628bfe3b6ec88a60620f1517f1beb1e8b9aaed3c25eacd45fbc3b28.jpg",
+          "url": "https://link.coupang.com/a/gbjNFcGH92",
+          "_ts": 1786618311.7633128
+        },
+        {
           "name": "쉐푸드 등심 통 돈까스 (냉동), 300g, 2개",
           "price": "9,480원",
           "discount_rate": 30,
@@ -978,42 +987,6 @@
           "image": "https://static.coupangcdn.com/image/retail/images/415964077940888-c71aaa2c-c3d4-4bc4-950b-8b72ebe6f486.png",
           "url": "https://link.coupang.com/a/f23i9TfvYi",
           "_ts": 1786188013.719736
-        },
-        {
-          "name": "풀무원 만능유부 (냉동), 500g, 1개, 500g × 1개",
-          "price": "7,180원",
-          "discount_rate": 20,
-          "priceAt": "08.08 19:42",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/xz9mbcjy/619b5f0c84ed4d89883816ec4d3f3633.jpg",
-          "url": "https://link.coupang.com/a/f20zdw0KpU",
-          "_ts": 1786185732.3280692
-        },
-        {
-          "name": "뉴트로지나 딥클린 포밍 클렌저, 100g, 3개",
-          "price": "10,900원",
-          "discount_rate": 62,
-          "priceAt": "08.08 19:24",
-          "image": "https://image12.coupangcdn.com/image/vendor_inventory/ad4b/b13f87673861ec80d9e24f2cabc808b6c25d52564a36b8053322c18bf408.jpg",
-          "url": "https://link.coupang.com/a/f2ZlNpDTdQ",
-          "_ts": 1786184690.802111
-        },
-        {
-          "name": "못생겨도 맛있는 피망, 2개입, 1개, 2개입 × 1개",
-          "price": "1,440원",
-          "discount_rate": 45,
-          "priceAt": "08.08 19:17",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024778181996957-88de6113-33e4-4572-9f94-1d90c93358bd.jpg",
-          "url": "https://link.coupang.com/a/f2YL67fKXk",
-          "_ts": 1786184226.387969
-        },
-        {
-          "name": "스너글 초고농축 섬유유연제 오리지널 블루밍 부케 본품, 4L, 1개",
-          "price": "12,700원",
-          "discount_rate": 48,
-          "priceAt": "08.08 18:55",
-          "image": "https://img4c.coupangcdn.com/image/retail/images/3482781880389506-f520ff8d-7c7d-4012-9a39-127c1aca51b6.jpg",
-          "url": "https://link.coupang.com/a/f2XhdMGwoe",
-          "_ts": 1786182949.7181928
         }
       ]
     },
