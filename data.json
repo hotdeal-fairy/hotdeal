@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "요미요미 튼튼주스 125ml, 8개",
+          "price": "4,900원",
+          "discount_rate": 49,
+          "priceAt": "08.13 16:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/177166490506508-0f362383-0f9f-47fa-a7d7-870be14ae6ca.jpg",
+          "url": "https://link.coupang.com/a/ga3K6B3QPY",
+          "_ts": 1786604861.67803
+        },
+        {
           "name": "하림 텐더스틱 (냉동), 550g, 2개, 550g × 2개",
           "price": "11,480원",
           "discount_rate": 48,
@@ -1014,15 +1023,6 @@
           "image": "https://image14.coupangcdn.com/image/retail/images/439840769178431-baf85121-f745-4dc2-aaa6-3be65bdc0915.jpg",
           "url": "https://link.coupang.com/a/f2SyZt0lxs",
           "_ts": 1786178992.218056
-        },
-        {
-          "name": "동원 쿨피스 제로 테트라 자두, 140ml, 24개, 140ml × 24개",
-          "price": "7,760원",
-          "discount_rate": 59,
-          "priceAt": "08.08 15:58",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2d83/be0f1a9f0ac36f42579a4a4c006b3fe040630ab187bf7a216b3bc1a148b0.jpg",
-          "url": "https://link.coupang.com/a/f2KziQr9FY",
-          "_ts": 1786172299.6114979
         }
       ]
     },
