@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "토레타 이온음료, 500ml, 24개",
+          "price": "13,490원",
+          "discount_rate": 26,
+          "priceAt": "08.13 12:15",
+          "image": "https://img2c.coupangcdn.com/image/retail/images/1066049124660593-168c3d95-e66a-4552-bf87-4382fb8b9340.jpg",
+          "url": "https://link.coupang.com/a/gaNbq7ymPY",
+          "_ts": 1786590926.331108
+        },
+        {
           "name": "서울우유 듀오안 오리지널, 8개, 1개입, 150ml",
           "price": "4,280원",
           "discount_rate": 50,
@@ -924,33 +933,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/b413/6922c275babecf9b676dc15920c38a65578c537390124132db026d57c904.jpg",
           "url": "https://link.coupang.com/a/f2w3TCl6NE",
           "_ts": 1786160958.958813
-        },
-        {
-          "name": "하이뮨 프로틴 밸런스 흑임자, 190ml, 24개",
-          "price": "19,960원",
-          "discount_rate": 66,
-          "priceAt": "08.08 12:01",
-          "image": "https://image14.coupangcdn.com/image/retail/images/3929498242598920-44747e76-a726-46b4-8022-e12ed7bbdb94.jpg",
-          "url": "https://link.coupang.com/a/f2tDKM8ChE",
-          "_ts": 1786158066.267782
-        },
-        {
-          "name": "무란왕 무설탕 12가지맛 비타민C 민트 미니 캔디, 800g, 1개, 800g × 1개",
-          "price": "8,640원",
-          "discount_rate": 20,
-          "priceAt": "08.08 11:44",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/93640918574944-5a0fcb46-ee00-4846-b7a0-d408609f0400.jpg",
-          "url": "https://link.coupang.com/a/f2spmjgfv2",
-          "_ts": 1786157051.6787682
-        },
-        {
-          "name": "토레타 제로 이온음료, 500ml, 24개",
-          "price": "13,900원",
-          "discount_rate": 42,
-          "priceAt": "08.08 11:27",
-          "image": "https://image8.coupangcdn.com/image/retail/images/531156914724635-1634eb00-f21e-4a0f-b1f7-159ee8f76e76.jpg",
-          "url": "https://link.coupang.com/a/f2rd0zuY8a",
-          "_ts": 1786156038.37516
         }
       ]
     },
@@ -1489,24 +1471,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZmNiNWM4/QU9UTXRQTmRoaTdPVFRPMUwwcHhXdElTblpNK2VuRnZZN053VnBic1V1MXM.png",
           "url": "https://toss.im/_m/xGxrktyn",
           "_ts": 1786168824.882932
-        },
-        {
-          "name": "하루연구소 여성 냉장고 바지 몸빼 3종 세트, FREE, 1세트",
-          "price": "9,800원",
-          "discount_rate": 50,
-          "priceAt": "08.08 11:46",
-          "image": "https://shopping.toss.im/live/temp/2026-05-19/141d4077-5320-4fbd-a635-e2b585d7a2c8.png",
-          "url": "https://toss.im/_m/Hxy4KdSq",
-          "_ts": 1786157210.9924512
-        },
-        {
-          "name": "익스트림 슬림쉐이크 그레인, 45g, 7포, 1세트",
-          "price": "13,500원",
-          "discount_rate": 61,
-          "priceAt": "08.08 11:45",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTIzMTA4/QU9KYjZaYXljRFQ1ck1TbVhzZVdHNlZzWkZ1amc4YnF4ZVhIQ1ZKMGVKYWs.png",
-          "url": "https://toss.im/_m/vLUxRIVl",
-          "_ts": 1786157116.675078
         }
       ]
     },
