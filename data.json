@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "밀크바오밥 세라 바디워시 화이트머스크, 1.2L, 1개",
+          "price": "8,750원",
+          "discount_rate": 25,
+          "priceAt": "08.15 07:36",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/249244672828859-868f97b9-006e-49ba-a96b-8c554b35887f.jpg",
+          "url": "https://link.coupang.com/a/gdM2UfXtvw",
+          "_ts": 1786746977.670777
+        },
+        {
           "name": "남향푸드또띠아 우리밀 또띠아 지름 20cm (냉동), 40g, 10개입, 1개",
           "price": "6,200원",
           "discount_rate": 38,
@@ -1050,15 +1059,6 @@
           "image": "https://image4.coupangcdn.com/image/retail/images/263475224592015-73b460cd-d352-45e5-b6f6-90e8db1086f7.jpg",
           "url": "https://link.coupang.com/a/f5vnSnXHqu",
           "_ts": 1786315695.453133
-        },
-        {
-          "name": "세노비스 프로폴리스 스프레이, 25ml, 3개, 25ml × 3개",
-          "price": "25,650원",
-          "discount_rate": 46,
-          "priceAt": "08.10 07:32",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/252837580403627-341beeff-b458-41e0-9eda-759a4b42209c.png",
-          "url": "https://link.coupang.com/a/f5ufdrH4Qm",
-          "_ts": 1786314757.567242
         }
       ]
     },
