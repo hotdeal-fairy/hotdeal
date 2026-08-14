@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "무직타이거 미니꿀꽈배기, 3개, 400g",
+          "price": "9,900원",
+          "discount_rate": 25,
+          "priceAt": "08.14 09:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/80504870919055-ee52c397-5244-4a19-9a68-4bcd41f43eff.jpg",
+          "url": "https://link.coupang.com/a/gcfYVe9asS",
+          "_ts": 1786667178.990635
+        },
+        {
           "name": "LifeSync 냉풍기 가정용 업소용 에어쿨러 저소음 캠핑용 소형 이동식 에어컨 선풍기 저전력, 09RT",
           "price": "43,900원",
           "discount_rate": 68,
@@ -1041,33 +1050,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1391490269646054-e9289d0d-78e2-4777-90be-fe6daf325666.jpg",
           "url": "https://link.coupang.com/a/f33TsvHiPQ",
           "_ts": 1786240581.491353
-        },
-        {
-          "name": "퀘스트뉴트리션 프로틴 바 더블 초콜릿 청크 60g, 720g, 1개",
-          "price": "32,220원",
-          "discount_rate": 19,
-          "priceAt": "08.09 09:08",
-          "image": "https://image7.coupangcdn.com/image/vendor_inventory/99fa/246411168082e9487d1930e8af176fa5c27f6388f9833a7dda427b1aa747.jpg",
-          "url": "https://link.coupang.com/a/f3Wccm6sFg",
-          "_ts": 1786234096.1894798
-        },
-        {
-          "name": "명진 손이편한 마이마이 고무장갑, 분홍, 대(L), 6세트",
-          "price": "7,080원",
-          "discount_rate": 53,
-          "priceAt": "08.09 09:02",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/70574884661265-a7f6aa16-915f-4096-b17c-b5e48dd08632.jpg",
-          "url": "https://link.coupang.com/a/f3VLsL14Ts",
-          "_ts": 1786233756.262532
-        },
-        {
-          "name": "동원 리챔 오리지널, 120g, 8개",
-          "price": "12,850원",
-          "discount_rate": 37,
-          "priceAt": "08.09 08:52",
-          "image": "https://img3c.coupangcdn.com/image/vendor_inventory/f1dc/aed67828592560f31252be5ee60c812401f076761947ba181459d931316f.jpg",
-          "url": "https://link.coupang.com/a/f3U3TLGgRo",
-          "_ts": 1786233146.347261
         }
       ]
     },
@@ -1570,24 +1552,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NWVkMjMx/QU56d25hUE5UTk5lT25sczFJZVd0YXRKeGxNUXhZNXQ1cko1bmxoc1pIR2o.png",
           "url": "https://toss.im/_m/9kfAAYnh",
           "_ts": 1786243521.871947
-        },
-        {
-          "name": "사운독스 노이즈 캔슬링 무선 이어폰, Y-07, 화이트, 1개",
-          "price": "17,900원",
-          "discount_rate": 79,
-          "priceAt": "08.09 09:07",
-          "image": "https://shopping.toss.im/live/taca/ai/YjkxZWEw/QVBjR1kvL1J5ZndZR0luMlltSjJIWWZybEJpOTduUm1ZVFZVK1B4VndCY0Q.png",
-          "url": "https://toss.im/_m/ZqcPTRc7",
-          "_ts": 1786234036.7719848
-        },
-        {
-          "name": "펩시 아이스 쿨링 미니 선풍기, 블루, 1개",
-          "price": "9,900원",
-          "discount_rate": 87,
-          "priceAt": "08.09 09:05",
-          "image": "https://shopping.toss.im/live/taca/ai/YjQwYTFh/SHJCSlZ0dGI3VUo1OTMweGp3U3RoVEF5UEN1QXhxSmI5WHFoNzUveG8vaz0.png",
-          "url": "https://toss.im/_m/N3XTE4dg",
-          "_ts": 1786233915.1265018
         }
       ]
     },
