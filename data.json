@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "미미네 어묵많이 국물떡볶이 (냉동), 570g, 2봉",
+          "price": "6,200원",
+          "discount_rate": 49,
+          "priceAt": "08.14 15:34",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/269123568844795-f2f7fe4b-0a89-49fd-867a-ac36957f1574.jpg",
+          "url": "https://link.coupang.com/a/gcGioti2yO",
+          "_ts": 1786689283.4487622
+        },
+        {
           "name": "뉴케어당플랜 저당 안심 크런치칩 어니언맛, 40g, 6개, 40g × 6개",
           "price": "9,750원",
           "discount_rate": 54,
@@ -1525,24 +1534,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZDU2N2Iw/QU01NHFWVlpvMUhKeDNrZjNzOVoyNXRmWTV4Y2NSVlVUMW43VFNSVjNrMHg.png",
           "url": "https://toss.im/_m/50EgoECa",
           "_ts": 1786263319.613864
-        },
-        {
-          "name": "일동후디스 하이뮨 프로틴 밸런스 액티브, 바닐라봉봉 제로, 250ml, 18개",
-          "price": "19,900원",
-          "discount_rate": 64,
-          "priceAt": "08.09 15:32",
-          "image": "https://shopping.toss.im/live/temp/2026-03-11/b73bee44-7266-4a77-a56e-8e7bcd10a143.jpeg",
-          "url": "https://toss.im/_m/PjaStdWD",
-          "_ts": 1786257167.2403488
-        },
-        {
-          "name": "신발 세탁망, 그레이, 19x39cm, 2개",
-          "price": "6,900원",
-          "discount_rate": 66,
-          "priceAt": "08.09 15:21",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjZkMTZh/QUtWNnBVcWRZbFU1ZGVKdjhzdk9ucms1NWpCZFlCM0NEL3dHT2hnWGVLM2w.png",
-          "url": "https://toss.im/_m/5loz6wKa",
-          "_ts": 1786256481.904366
         }
       ]
     },
