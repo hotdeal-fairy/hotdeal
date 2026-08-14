@@ -1068,6 +1068,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "육중대 듀록 흑돼지 삼겹살, 500g, 4개",
+          "price": "22,900원",
+          "discount_rate": 80,
+          "priceAt": "08.14 22:13",
+          "image": "https://shopping.toss.im/live/temp/2025-08-11/66d4a222-f6ef-4697-beb5-51346ceb5ff1.jpeg",
+          "url": "https://toss.im/_m/nBES2XFs",
+          "_ts": 1786713235.524043
+        },
+        {
           "name": "스킨구하리 리바이브 테라피 엔에프 앰플, 30ml, 1개",
           "price": "12,900원",
           "discount_rate": 71,
