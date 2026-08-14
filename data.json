@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "헬시오리진스 피크노제놀 100mg 베지 캡슐, 120정, 1개",
+          "price": "69,980원",
+          "discount_rate": 25,
+          "priceAt": "08.14 19:05",
+          "image": "https://img5c.coupangcdn.com/image/vendor_inventory/image_audit/prod/3c9b44ea-e769-4778-951e-9ab470f4323d_fixing_v2.png",
+          "url": "https://link.coupang.com/a/gcVn1vbvMq",
+          "_ts": 1786701924.369985
+        },
+        {
           "name": "모구모구 복숭아맛 음료, 320ml, 24개",
           "price": "16,680원",
           "discount_rate": 23,
@@ -1059,33 +1068,6 @@
           "image": "https://image7.coupangcdn.com/image/retail/images/57158726844058-5f532d39-0cbe-4379-ac54-9f6c2593b978.jpg",
           "url": "https://link.coupang.com/a/f4DzL1rvhs",
           "_ts": 1786270521.178106
-        },
-        {
-          "name": "순수한집 곤약쫀드기 현미맛, 375g, 3개, 375g × 3개",
-          "price": "19,410원",
-          "discount_rate": 18,
-          "priceAt": "08.09 18:41",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/332541523532441-97d2e2c0-29c7-44f6-a5a2-d76db84c9920.jpg",
-          "url": "https://link.coupang.com/a/f4A90gUefk",
-          "_ts": 1786268512.921212
-        },
-        {
-          "name": "라비킷 유아용 라이너 루프트 필로우 두상베개",
-          "price": "39,840원",
-          "discount_rate": 52,
-          "priceAt": "08.09 18:32",
-          "image": "https://img2c.coupangcdn.com/image/retail/images/774294253949985-0d782156-a50c-462e-98f3-a742af1f532c.jpg",
-          "url": "https://link.coupang.com/a/f4Awh3SmYe",
-          "_ts": 1786267955.448355
-        },
-        {
-          "name": "리치즈 아하 160g (8g*20개입), 6개",
-          "price": "12,500원",
-          "discount_rate": 29,
-          "priceAt": "08.09 18:01",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1fb6/7615a5f3f167789dfa7629b03a3c595e53f64ab09cde0878173680b7b2f8.jpg",
-          "url": "https://link.coupang.com/a/f4yfpH3LOe",
-          "_ts": 1786266067.332592
         }
       ]
     },
@@ -1552,33 +1534,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MzEwMmZl/QUllbnR3Kzg0N1R4b05aZWoyT0xVNDhkTFdwcFZEaHFTVmM0aTZVcW9mU3I.png",
           "url": "https://toss.im/_m/tc81TT7v",
           "_ts": 1786274646.518374
-        },
-        {
-          "name": "외갓집 1분 30초 통등심 돈까스, 650g, 1팩",
-          "price": "9,990원",
-          "discount_rate": 52,
-          "priceAt": "08.09 19:01",
-          "image": "https://shopping.toss.im/live/taca/ai/YjU1MmE4/QUtVeU0xTG5NaDVqRnNRUW5lV203VVRBMHdER0J6YzdTMTZPWVQrT0lJLzg.png",
-          "url": "https://toss.im/_m/3H0kWXSu",
-          "_ts": 1786269666.496659
-        },
-        {
-          "name": "가그린 제로 기획세트, 820ml, 4개 + 100ml, 1개",
-          "price": "13,900원",
-          "discount_rate": 62,
-          "priceAt": "08.09 18:14",
-          "image": "https://shopping.toss.im/live/temp/2026-06-29/d2ec3587-f37e-4034-8da9-7e51a7c2aafd.png",
-          "url": "https://toss.im/_m/vhK5FlWj",
-          "_ts": 1786266843.423126
-        },
-        {
-          "name": "또드림마켓 미니오이, 특품, 1kg, 1박스",
-          "price": "6,500원",
-          "discount_rate": 59,
-          "priceAt": "08.09 18:07",
-          "image": "https://shopping.toss.im/live/temp/2025-08-07/10537e27-0204-4622-94b5-c4341be8c51a.jpeg",
-          "url": "https://toss.im/_m/j7DoO4sc",
-          "_ts": 1786266466.680491
         }
       ]
     },
