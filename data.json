@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "보니티 우베라떼 파우더 스틱, 20g, 10개입, 1개",
+          "price": "3,890원",
+          "discount_rate": 59,
+          "priceAt": "08.14 15:09",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/aa6e/c09c20ab982f78812ba5cab30ddd87e15e5baf0cb74f651e78840ca80f2a.jpg",
+          "url": "https://link.coupang.com/a/gcErGM2NZA",
+          "_ts": 1786687762.215904
+        },
+        {
           "name": "바겐슈타이거 스텐 304 펀칭찜기 1단, 18cm, 1개",
           "price": "10,900원",
           "discount_rate": 27,
@@ -1014,24 +1023,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1fb6/7615a5f3f167789dfa7629b03a3c595e53f64ab09cde0878173680b7b2f8.jpg",
           "url": "https://link.coupang.com/a/f4yfpH3LOe",
           "_ts": 1786266067.332592
-        },
-        {
-          "name": "브랜든 2세대 부피순삭 의류 이불 다용도 대형 압축 파우치 2매세트",
-          "price": "73,900원",
-          "discount_rate": 52,
-          "priceAt": "08.09 13:51",
-          "image": "https://img5a.coupangcdn.com/image/retail/images/1799456783809647-a2e328d1-7265-4944-820a-468d6915cf80.jpg",
-          "url": "https://link.coupang.com/a/f4go7qxkf6",
-          "_ts": 1786251063.537159
-        },
-        {
-          "name": "종가 알싸하고 깊은 맛 파김치, 500g, 1개, 500g × 1개",
-          "price": "12,770원",
-          "discount_rate": 26,
-          "priceAt": "08.09 13:28",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/962634931784612-99a328d0-765d-4b6e-a606-3815e304ae88.jpg",
-          "url": "https://link.coupang.com/a/f4eLVoLKMK",
-          "_ts": 1786249713.307672
         }
       ]
     },
@@ -1543,15 +1534,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZjZkMTZh/QUtWNnBVcWRZbFU1ZGVKdjhzdk9ucms1NWpCZFlCM0NEL3dHT2hnWGVLM2w.png",
           "url": "https://toss.im/_m/5loz6wKa",
           "_ts": 1786256481.904366
-        },
-        {
-          "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
-          "price": "18,990원",
-          "discount_rate": 58,
-          "priceAt": "08.09 14:22",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/YTUyZjk2/S1YyaXdQcEJwZTAxK29mcUM4ZjlZVWw1V0dGc29hRTVWRENEeDA1ZXUyWT0.png",
-          "url": "https://toss.im/_m/j5dwfSTy",
-          "_ts": 1786252964.5004401
         }
       ]
     },
