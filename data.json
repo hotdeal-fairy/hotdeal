@@ -1059,15 +1059,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/665848610169185-e7435a06-ac28-4695-a514-575edeb641ec.jpg",
           "url": "https://link.coupang.com/a/f4Mp4ImS5c",
           "_ts": 1786277965.476353
-        },
-        {
-          "name": "유한젠 얼룩제거제, 500ml, 1개",
-          "price": "6,910원",
-          "discount_rate": 46,
-          "priceAt": "08.09 20:53",
-          "image": "https://image6.coupangcdn.com/image/retail/images/2024/12/03/15/6/9ed1f49c-a736-4d4b-b041-089deab3412d.jpg",
-          "url": "https://link.coupang.com/a/f4KCDdyH4C",
-          "_ts": 1786276437.191456
         }
       ]
     },
@@ -1076,6 +1067,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "농부의 정육점 국내산 한돈 냉동 돼지목뼈, 4kg, 1개",
+          "price": "9,900원",
+          "discount_rate": 75,
+          "priceAt": "08.14 21:16",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/OTY3ODIz/Unk1VXlueU44dzYyTVNKdzQ5MUNrVjQyejZ1TkNaK2Foc3orVktyVXYyUT0.png",
+          "url": "https://toss.im/_m/p06cChp3",
+          "_ts": 1786709808.9526982
+        },
         {
           "name": "기능성 충격완화 아치깔창, 3P, 260mm, 3개",
           "price": "10,900원",
@@ -1507,15 +1507,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OGYwNTBl/QUlsTXpubVdiTzlOYTB4WXpkbHNtUTR4MlRtc0xZMzJzSVkxaDd6N1JGcEQ.png",
           "url": "https://toss.im/_m/hwarW9V1",
           "_ts": 1786326345.52026
-        },
-        {
-          "name": "삼진어묵 가득담은 모둠어묵탕, 484g, 2개",
-          "price": "10,900원",
-          "discount_rate": 50,
-          "priceAt": "08.09 20:59",
-          "image": "https://shopping.toss.im/live/taca/ai/YTU5NTM4/QUwxMnpEUnpOdG1jMk53Tk1oWTJkR2JiWnNXY3lTWVZsblZZT0VndDZhcDU.png",
-          "url": "https://toss.im/_m/Bp4ih9ks",
-          "_ts": 1786276760.387143
         }
       ]
     },
