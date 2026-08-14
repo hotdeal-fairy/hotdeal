@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "남향푸드또띠아 우리밀 또띠아 지름 20cm (냉동), 40g, 10개입, 1개",
+          "price": "6,200원",
+          "discount_rate": 38,
+          "priceAt": "08.15 07:16",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/02/13/14/3/44814b57-ae30-43ad-9ea3-63a3d78dc3b1.jpg",
+          "url": "https://link.coupang.com/a/gdLx9Mq6cC",
+          "_ts": 1786745765.026371
+        },
+        {
           "name": "추억의국민학교떡볶이 오리지널 (냉동), 600g, 2개",
           "price": "6,800원",
           "discount_rate": 40,
@@ -1050,15 +1059,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/252837580403627-341beeff-b458-41e0-9eda-759a4b42209c.png",
           "url": "https://link.coupang.com/a/f5ufdrH4Qm",
           "_ts": 1786314757.567242
-        },
-        {
-          "name": "아리얼 스트레스릴리빙 퓨어풀 클렌징티슈, 15매입, 6개, 15매입 × 6개",
-          "price": "4,130원",
-          "discount_rate": 65,
-          "priceAt": "08.10 07:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/261622882116676-acddb24a-035a-4f4c-8439-a9f720a34e96.png",
-          "url": "https://link.coupang.com/a/f5sCwMld4C",
-          "_ts": 1786313398.90975
         }
       ]
     },
