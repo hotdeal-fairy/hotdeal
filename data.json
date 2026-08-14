@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "동원 퀴진 크리스피 돈까스 모짜렐라 치즈 (냉동), 450g, 4개, 450g × 4개",
+          "price": "22,040원",
+          "discount_rate": 47,
+          "priceAt": "08.14 19:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/202418860742753-410f1c63-f059-44b4-8d6f-e6750dbf905b.jpg",
+          "url": "https://link.coupang.com/a/gcYpRHNgc0",
+          "_ts": 1786704490.520322
+        },
+        {
           "name": "헬시오리진스 피크노제놀 100mg 베지 캡슐, 120정, 1개",
           "price": "69,980원",
           "discount_rate": 25,
@@ -1050,24 +1059,6 @@
           "image": "https://image6.coupangcdn.com/image/retail/images/2024/12/03/15/6/9ed1f49c-a736-4d4b-b041-089deab3412d.jpg",
           "url": "https://link.coupang.com/a/f4KCDdyH4C",
           "_ts": 1786276437.191456
-        },
-        {
-          "name": "농장직송 항생제 없는 신선한 계란 대란, 30구, 1개, 30구 × 1개",
-          "price": "12,200원",
-          "discount_rate": 23,
-          "priceAt": "08.09 19:40",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6135/97a75f83844d55888661e31a53341e70029b6e7764fbb67b5fac73eecd0b.jpg",
-          "url": "https://link.coupang.com/a/f4FnWYtHMa",
-          "_ts": 1786272058.843976
-        },
-        {
-          "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품",
-          "price": "8,930원",
-          "discount_rate": 50,
-          "priceAt": "08.09 19:15",
-          "image": "https://image7.coupangcdn.com/image/retail/images/57158726844058-5f532d39-0cbe-4379-ac54-9f6c2593b978.jpg",
-          "url": "https://link.coupang.com/a/f4DzL1rvhs",
-          "_ts": 1786270521.178106
         }
       ]
     },
