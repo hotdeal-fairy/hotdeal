@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "풀무원 얇은피 꽉찬속 김치만두 (냉동), 400g, 4개",
+          "price": "10,160원",
+          "discount_rate": 20,
+          "priceAt": "08.14 20:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/28efdcc7-cc09-4049-85b5-42e92d67d4235288473887101975667.png",
+          "url": "https://link.coupang.com/a/gc27wFYwIm",
+          "_ts": 1786708419.6972969
+        },
+        {
           "name": "동원 퀴진 크리스피 돈까스 모짜렐라 치즈 (냉동), 450g, 4개, 450g × 4개",
           "price": "22,040원",
           "discount_rate": 47,
@@ -1507,24 +1516,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YTU5NTM4/QUwxMnpEUnpOdG1jMk53Tk1oWTJkR2JiWnNXY3lTWVZsblZZT0VndDZhcDU.png",
           "url": "https://toss.im/_m/Bp4ih9ks",
           "_ts": 1786276760.387143
-        },
-        {
-          "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
-          "price": "8,800원",
-          "discount_rate": 70,
-          "priceAt": "08.09 20:43",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDhhZTNk/QU45TitWWmFxdzZhYlRJaDVNZDhnZXY3eVdWMnc4a0IrSFR4M2cvMUZ2aEU.png",
-          "url": "https://toss.im/_m/5abj1peg",
-          "_ts": 1786275785.388743
-        },
-        {
-          "name": "썬리지 아보카도, 생과, 중대과, 10과, 1박스",
-          "price": "10,800원",
-          "discount_rate": 63,
-          "priceAt": "08.09 20:24",
-          "image": "https://shopping.toss.im/live/taca/ai/MzEwMmZl/QUllbnR3Kzg0N1R4b05aZWoyT0xVNDhkTFdwcFZEaHFTVmM0aTZVcW9mU3I.png",
-          "url": "https://toss.im/_m/tc81TT7v",
-          "_ts": 1786274646.518374
         }
       ]
     },
