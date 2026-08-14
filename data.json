@@ -1032,24 +1032,6 @@
           "image": "https://img3c.coupangcdn.com/image/retail/images/2455349644484977-9e29b192-13a7-4597-ae1e-3bf6507cc4cf.jpg",
           "url": "https://link.coupang.com/a/f4cZFcU536",
           "_ts": 1786248200.13283
-        },
-        {
-          "name": "카페이과수 인스턴트 캔 원두커피, 100g, 1개입, 3개",
-          "price": "27,420원",
-          "discount_rate": 13,
-          "priceAt": "08.09 12:19",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/aeefd760-6231-4504-b44d-bb4d541cb0675702040146984752391.png",
-          "url": "https://link.coupang.com/a/f39QDuvrGe",
-          "_ts": 1786245582.2418618
-        },
-        {
-          "name": "퍼실 딥클린 초미세세탁 라벤더젤 맥스 드럼용 액체세제 리필",
-          "price": "7,380원",
-          "discount_rate": 65,
-          "priceAt": "08.09 12:04",
-          "image": "https://img4a.coupangcdn.com/image/retail/images/42211068249280-1ffef9ec-4be9-4981-8d7f-64ab07894bb9.jpg",
-          "url": "https://link.coupang.com/a/f38OtI0dpY",
-          "_ts": 1786244692.175541
         }
       ]
     },
@@ -1058,6 +1040,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "국내산 오븐에 구운 수제 두부과자, 110g, 5개",
+          "price": "7,900원",
+          "discount_rate": 53,
+          "priceAt": "08.14 12:59",
+          "image": "https://shopping.toss.im/live/taca/ai/ODAzOTFj/VmpNaWJJd1Q4YVNiTFZqTFBaRjVsbk42b3VkbmpjczQzNk9LM3dWSHpBbz0.png",
+          "url": "https://toss.im/_m/B1g79357",
+          "_ts": 1786679940.565259
+        },
         {
           "name": "제스타 칫솔, 부드러운 미세모, 20개입, 1개",
           "price": "9,400원",
@@ -1561,24 +1552,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/YTUyZjk2/S1YyaXdQcEJwZTAxK29mcUM4ZjlZVWw1V0dGc29hRTVWRENEeDA1ZXUyWT0.png",
           "url": "https://toss.im/_m/j5dwfSTy",
           "_ts": 1786252964.5004401
-        },
-        {
-          "name": "슬림떡볶이 로제맛, 230g, 4개",
-          "price": "8,720원",
-          "discount_rate": 44,
-          "priceAt": "08.09 11:47",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
-          "url": "https://toss.im/_m/3lrWbCFy",
-          "_ts": 1786243626.322714
-        },
-        {
-          "name": "내츄럴플러스 혈당건강 바나바, 90정, 2개",
-          "price": "10,900원",
-          "discount_rate": 72,
-          "priceAt": "08.09 11:45",
-          "image": "https://shopping.toss.im/live/taca/ai/NWVkMjMx/QU56d25hUE5UTk5lT25sczFJZVd0YXRKeGxNUXhZNXQ1cko1bmxoc1pIR2o.png",
-          "url": "https://toss.im/_m/9kfAAYnh",
-          "_ts": 1786243521.871947
         }
       ]
     },
