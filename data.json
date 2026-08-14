@@ -1050,15 +1050,6 @@
           "image": "https://img3a.coupangcdn.com/image/retail/images/493960544712195-0665ed4a-462c-4f37-a23d-1f7d8a8da4e1.jpg",
           "url": "https://link.coupang.com/a/f5zoaCsPUi",
           "_ts": 1786319062.0340018
-        },
-        {
-          "name": "베즐리 진짜 맛있는 당근 케이크 (냉동), 470g, 1개",
-          "price": "12,170원",
-          "discount_rate": 21,
-          "priceAt": "08.10 08:07",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1890102407670124-7f33417a-1782-4a78-8aab-8626219cd046.jpg",
-          "url": "https://link.coupang.com/a/f5wJ3YsbBc",
-          "_ts": 1786316856.6686568
         }
       ]
     },
@@ -1067,6 +1058,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "오즈랜드 초코와플, 21.4g, 20봉, 1박스",
+          "price": "7,900원",
+          "discount_rate": 55,
+          "priceAt": "08.15 08:09",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDYyMjk4/QU95bDRkelhXbjBiV1dHTldzeFFvMHczeVZSYVZOSnU1eXUxdEZiZEZNdXQ.png",
+          "url": "https://toss.im/_m/jGC3jvz8",
+          "_ts": 1786748959.912944
+        },
         {
           "name": "육중대 듀록 흑돼지 삼겹살, 500g, 4개",
           "price": "22,900원",
