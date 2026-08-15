@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "파워에이드 마운틴 블라스트, 600ml, 20개",
+          "price": "17,480원",
+          "discount_rate": 17,
+          "priceAt": "08.15 16:19",
+          "image": "https://img1c.coupangcdn.com/image/retail/images/36145048252261-5d1ae7f2-d59b-4194-baef-461793e3195b.jpg",
+          "url": "https://link.coupang.com/a/geoo3u8phs",
+          "_ts": 1786778345.481601
+        },
+        {
           "name": "사무실 과자세트 스낵 15입 세트 (참크래커 + 허니버터칩 + 칸쵸 + 구운감자 4p + 딸기웨하스 + 초코홈런볼 4번들 + 돌아온 썬 핫스파이 + 씨리얼초코 + 고래밥 볶음양념맛), 1세트, 10p",
           "price": "13,010원",
           "discount_rate": 28,
@@ -1525,15 +1534,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZWM2YTc4/YWVXV0laWWFhYzc4Zno5QjFQckovaXRsYmUvSjV6d2JOakRUNVRaeDAyVT0.png",
           "url": "https://toss.im/_m/D38hz5z9",
           "_ts": 1786348514.736326
-        },
-        {
-          "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-          "price": "7,900원",
-          "discount_rate": 69,
-          "priceAt": "08.10 16:04",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/NTg5ZTkz/QU9CMmREazduT2NuOGJreXZBOFdoZGx3SVkxVVErcDRnYTVVQWJ2OFE3OFE.png",
-          "url": "https://toss.im/_m/pNsa7x0g",
-          "_ts": 1786345473.482408
         }
       ]
     },
