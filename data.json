@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "레인보우 LED 키보드 딸깍이 키캡 키링 9구, 1개, 디스코 9구",
+          "price": "2,500원",
+          "discount_rate": 75,
+          "priceAt": "08.15 13:07",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/df4d/bbcdf1c223786fea8af1d8860cb4ba54c0df4cc823a644ab71c3742e2f1a.png",
+          "url": "https://link.coupang.com/a/geazjUGGZM",
+          "_ts": 1786766841.530566
+        },
+        {
           "name": "냉장고바지 여성 와이드 밴딩 팬츠 살랑살랑 냉감소재 여름 통풍바지 베이잉",
           "price": "3,990원",
           "discount_rate": 33,
@@ -1005,15 +1014,6 @@
           "image": "https://img4c.coupangcdn.com/image/retail/images/17612216138383-46ac9b6f-f751-4a57-8106-c63913b92bbc.jpg",
           "url": "https://link.coupang.com/a/f5S4j9i3J6",
           "_ts": 1786335585.6650429
-        },
-        {
-          "name": "자유시간 미니 쿠키앤크림, 272g, 1개, 272g × 1개",
-          "price": "7,560원",
-          "discount_rate": 15,
-          "priceAt": "08.10 12:38",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/133b/63e469d525db775a669b5a468ac14001f5712b0c2dceb26fafa243b0f711.jpg",
-          "url": "https://link.coupang.com/a/f5P6w8bMbY",
-          "_ts": 1786333115.647766
         }
       ]
     },
@@ -1507,15 +1507,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/NTg5ZTkz/QU9CMmREazduT2NuOGJreXZBOFdoZGx3SVkxVVErcDRnYTVVQWJ2OFE3OFE.png",
           "url": "https://toss.im/_m/pNsa7x0g",
           "_ts": 1786345473.482408
-        },
-        {
-          "name": "산지로드 순살 양념 목살구이, 600g, 3개",
-          "price": "16,900원",
-          "discount_rate": 57,
-          "priceAt": "08.10 12:43",
-          "image": "https://shopping.toss.im/live/taca/ai/MTkyMTNl/QUp0cFQ3Q0pXZmd5QjZ5NVNYY0dRSDdqUWlGdzU4TS96S29CZU5JYVgwemc.png",
-          "url": "https://toss.im/_m/vWnaDt72",
-          "_ts": 1786333431.146181
         }
       ]
     },
