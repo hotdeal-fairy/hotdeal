@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "티젠 얼그레이홍차, 1.6g, 20개입, 2개",
+          "price": "3,000원",
+          "discount_rate": null,
+          "priceAt": "08.16 07:37",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/89713382146170-886f4567-eecf-4274-bcab-f3a0b38be1ac.jpg",
+          "url": "https://link.coupang.com/a/gfrSI93m3M",
+          "_ts": 1786833429.3094919
+        },
+        {
           "name": "오리온 초코칩 쿠키 미니, 48g, 16개",
           "price": "8,580원",
           "discount_rate": 22,
@@ -1113,24 +1122,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1798399831474-db221b4c-56a1-4dde-ba88-4484f4844048.png",
           "url": "https://link.coupang.com/a/f69I3AV1GK",
           "_ts": 1786401625.62038
-        },
-        {
-          "name": "케라시스 히트 액티브 극손상 헤어 바르는 트리트먼트, 220ml, 2개",
-          "price": "8,550원",
-          "discount_rate": 68,
-          "priceAt": "08.11 07:34",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/397001284240191-dd08572a-bb3f-4481-899c-860a1541f2d7.jpg",
-          "url": "https://link.coupang.com/a/f69g5C6PRI",
-          "_ts": 1786401254.5552268
-        },
-        {
-          "name": "크라운 버터와플, 237g, 2개",
-          "price": "4,800원",
-          "discount_rate": 20,
-          "priceAt": "08.11 07:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/69d1/f09a566f112a1cfa029c194b7c842f040748ff7f9595c953ed220ceadd1a.jpg",
-          "url": "https://link.coupang.com/a/f69bm5iuaH",
-          "_ts": 1786401180.724391
         }
       ]
     },
