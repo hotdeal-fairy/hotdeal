@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "모던하우스 샌드토이 바다친구들 바스켓 세트, 혼합색상, 500g, 1개",
+          "price": "5,530원",
+          "discount_rate": 30,
+          "priceAt": "08.16 08:45",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/21/18/3/cb225f5c-5f7d-49e1-9504-1fe0a7ab6f43.jpg",
+          "url": "https://link.coupang.com/a/gfwOlwUwLI",
+          "_ts": 1786837532.4084108
+        },
+        {
           "name": "모던하우스 ON 미유 디저트 포크, 아이보리 + 그린, 포크 4p, 1세트",
           "price": "2,900원",
           "discount_rate": 67,
@@ -1633,15 +1642,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MDVkNWU3/QU9uMEFXT0h1WUhHdjlEeHJCNUFRNlg5WUlleDhDSWZBV1BDQ0QvT0R2UGk.png",
           "url": "https://toss.im/_m/lrXddeTl",
           "_ts": 1786410875.99827
-        },
-        {
-          "name": "샐리의법칙 순면이 좋은날 생리대, 중형, 12개입, 5팩",
-          "price": "6,690원",
-          "discount_rate": 50,
-          "priceAt": "08.11 08:29",
-          "image": "https://shopping.toss.im/live/temp/2026-08-05/802cb089-3991-415e-88a4-3b9d4c6252eb.jpeg",
-          "url": "https://toss.im/_m/1lt3Tnpx",
-          "_ts": 1786404548.1995132
         }
       ]
     },
