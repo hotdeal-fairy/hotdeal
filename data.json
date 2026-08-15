@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "베베쿡 처음먹는 어린이 장조림 메추리알, 100g, 2개",
+          "price": "4,800원",
+          "discount_rate": 44,
+          "priceAt": "08.15 17:19",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/244061530418279-42ce3550-4690-459f-8a56-90b94a7bb3f3.jpg",
+          "url": "https://link.coupang.com/a/gesJ2hszhk",
+          "_ts": 1786781984.098183
+        },
+        {
           "name": "파워에이드 마운틴 블라스트, 600ml, 20개",
           "price": "17,480원",
           "discount_rate": 17,
@@ -1525,15 +1534,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-01-29/793cd7a4-c856-482d-b13d-ed4d9b8cb564.jpeg",
           "url": "https://toss.im/_m/ZwNTC882",
           "_ts": 1786360272.8598652
-        },
-        {
-          "name": "과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
-          "price": "12,800원",
-          "discount_rate": 61,
-          "priceAt": "08.10 16:55",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWM2YTc4/YWVXV0laWWFhYzc4Zno5QjFQckovaXRsYmUvSjV6d2JOakRUNVRaeDAyVT0.png",
-          "url": "https://toss.im/_m/D38hz5z9",
-          "_ts": 1786348514.736326
         }
       ]
     },
