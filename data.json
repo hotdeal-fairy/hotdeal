@@ -1113,15 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/848425023870-bc07eb07-1337-4306-b4b4-58fe546de354.jpg",
           "url": "https://link.coupang.com/a/f7eQu58pPM",
           "_ts": 1786405984.1136498
-        },
-        {
-          "name": "리큐 찌든 얼룩 딥클린 드럼용 액상세제",
-          "price": "3,900원",
-          "discount_rate": 40,
-          "priceAt": "08.11 07:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1798399831474-db221b4c-56a1-4dde-ba88-4484f4844048.png",
-          "url": "https://link.coupang.com/a/f69I3AV1GK",
-          "_ts": 1786401625.62038
         }
       ]
     },
@@ -1130,6 +1121,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "비비드키친 저당 브리또, 피자 2개 + 제육 2개 + 불고기 2개, 1세트",
+          "price": "12,700원",
+          "discount_rate": 50,
+          "priceAt": "08.16 07:41",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZmQxMmYz/SnljdDRWaitjZEU1MGFZKzFrazdPRTBHbU9QeU9EMkRoMEhnL2huRER3az0.png",
+          "url": "https://toss.im/_m/xxOMMzcv",
+          "_ts": 1786833681.3506079
+        },
         {
           "name": "더 빅토리아, 플레인, 500ml, 20개",
           "price": "8,900원",
