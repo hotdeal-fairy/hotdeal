@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "풀무원 더블 치즈폭포 돈카츠 (냉동), 560g, 1개, 560g × 1개",
+          "price": "15,900원",
+          "discount_rate": 29,
+          "priceAt": "08.15 20:23",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/p9yfm1v8/6801e397c3fb48f3a00a1645fdd3e564.jpg",
+          "url": "https://link.coupang.com/a/geFScJbUui",
+          "_ts": 1786793039.0413399
+        },
+        {
           "name": "데이라이크 다꾸 스티커 스티커북, 1세트, 혼합컬러",
           "price": "4,480원",
           "discount_rate": 44,
@@ -1588,15 +1597,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/M2EzZjI0/QUxsTS8yR3BEdi9OemFiLzNmYnMyOXZ3L1B5K0h6SDNzMi9SZjMycjBQZms.png",
           "url": "https://toss.im/_m/J08VlNFD",
           "_ts": 1786365106.69202
-        },
-        {
-          "name": "페페브루노 엑스트라버진 올리브오일, 500ml, 2개",
-          "price": "16,900원",
-          "discount_rate": 65,
-          "priceAt": "08.10 20:11",
-          "image": "https://shopping.toss.im/live/temp/2026-01-29/793cd7a4-c856-482d-b13d-ed4d9b8cb564.jpeg",
-          "url": "https://toss.im/_m/ZwNTC882",
-          "_ts": 1786360272.8598652
         }
       ]
     },
