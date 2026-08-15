@@ -1023,15 +1023,6 @@
           "image": "https://img4c.coupangcdn.com/image/retail/images/1010065041965310-ad4c8906-4bcc-44e9-b345-eaf7b7a40c45.jpg",
           "url": "https://link.coupang.com/a/f5L114lEjs",
           "_ts": 1786329677.297405
-        },
-        {
-          "name": "셀렉트팜 GAP 인증 A 초록사과 소과, 1.5kg(소과/9~10입), 1개",
-          "price": "7,360원",
-          "discount_rate": 25,
-          "priceAt": "08.10 10:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/qqfwrwbp/eb931bc0e7bf475b8813f724ffc9d185.jpg",
-          "url": "https://link.coupang.com/a/f5GBWYUOXs",
-          "_ts": 1786325145.806137
         }
       ]
     },
@@ -1040,6 +1031,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "인사이디 무선 칫솔 살균기, ITS-750, 화이트, 1개",
+          "price": "10,900원",
+          "discount_rate": 56,
+          "priceAt": "08.15 10:35",
+          "image": "https://shopping.toss.im/live/taca/ai/OGI0NWRk/SEJvZVhEanhQbHo0OFRqZ1BZNmg0VCtPU2RPMFlTMGY0WEU3RGpHTTQyST0.png",
+          "url": "https://toss.im/_m/fTPPdocs",
+          "_ts": 1786757721.993867
+        },
         {
           "name": "맛장군 열무김치, 2kg, 1팩",
           "price": "9,900원",
