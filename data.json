@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "케라시스 케라마이드 극손상 클리닉 트리트먼트, 200ml, 2개",
+          "price": "4,690원",
+          "discount_rate": 82,
+          "priceAt": "08.16 07:24",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/359294482773608-99268fef-8654-4158-b0d3-d6a07557fe17.jpg",
+          "url": "https://link.coupang.com/a/gfq0GsuHPo",
+          "_ts": 1786832656.470774
+        },
+        {
           "name": "로셴 스윗 드롭 캔디, 1kg, 1개, 1kg × 1개",
           "price": "8,880원",
           "discount_rate": 22,
@@ -1086,15 +1095,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/69d1/f09a566f112a1cfa029c194b7c842f040748ff7f9595c953ed220ceadd1a.jpg",
           "url": "https://link.coupang.com/a/f69bm5iuaH",
           "_ts": 1786401180.724391
-        },
-        {
-          "name": "닥터포이 웰키커 어린이 멀티비타민 앤 미네랄, 90정, 5개, 90정 × 5개",
-          "price": "37,150원",
-          "discount_rate": 19,
-          "priceAt": "08.11 07:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/154726611017562-6445fdfd-4853-4f89-ae6d-c285138051c9.jpg",
-          "url": "https://link.coupang.com/a/f68seV7sgS",
-          "_ts": 1786400580.247637
         }
       ]
     },
