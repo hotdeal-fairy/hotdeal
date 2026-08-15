@@ -1014,15 +1014,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/133b/63e469d525db775a669b5a468ac14001f5712b0c2dceb26fafa243b0f711.jpg",
           "url": "https://link.coupang.com/a/f5P6w8bMbY",
           "_ts": 1786333115.647766
-        },
-        {
-          "name": "아이깨끗해 항균 폼 핸드솝 순 보송보송 파우더향, 490ml, 3개",
-          "price": "11,020원",
-          "discount_rate": 63,
-          "priceAt": "08.10 11:41",
-          "image": "https://img4c.coupangcdn.com/image/retail/images/1010065041965310-ad4c8906-4bcc-44e9-b345-eaf7b7a40c45.jpg",
-          "url": "https://link.coupang.com/a/f5L114lEjs",
-          "_ts": 1786329677.297405
         }
       ]
     },
@@ -1031,6 +1022,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "비타멜라 유기농 애플사이다비니거, 1L, 1개",
+          "price": "6,500원",
+          "discount_rate": 53,
+          "priceAt": "08.15 11:45",
+          "image": "https://shopping.toss.im/live/taca/ai/Zjg5ZTMx/Ym1PYWttSmFTTnl6dUF6a1MzeGxZN1dGTkE1TUMxTnlsRUxYUWx0NlprOD0.png",
+          "url": "https://toss.im/_m/9rvrkctx",
+          "_ts": 1786761953.372888
+        },
         {
           "name": "인사이디 무선 칫솔 살균기, ITS-750, 화이트, 1개",
           "price": "10,900원",
@@ -1516,24 +1516,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MTkyMTNl/QUp0cFQ3Q0pXZmd5QjZ5NVNYY0dRSDdqUWlGdzU4TS96S29CZU5JYVgwemc.png",
           "url": "https://toss.im/_m/vWnaDt72",
           "_ts": 1786333431.146181
-        },
-        {
-          "name": "에어르 더 그램 무선청소기, 샌드스톤, 1개",
-          "price": "38,900원",
-          "discount_rate": 61,
-          "priceAt": "08.10 10:54",
-          "image": "https://shopping.toss.im/live/taca/ai/ODQwOTE4/Vm11d3ZrUnBXYm9SZGlaVW0wR3VTYVpKU2JhaWZhcDlLck9ydUJUTFZFaz0.png",
-          "url": "https://toss.im/_m/pTcWcrIu",
-          "_ts": 1786326896.97107
-        },
-        {
-          "name": "당연구소 귀리뻥, 40g, 10봉",
-          "price": "8,900원",
-          "discount_rate": 77,
-          "priceAt": "08.10 10:45",
-          "image": "https://shopping.toss.im/live/taca/ai/OGYwNTBl/QUlsTXpubVdiTzlOYTB4WXpkbHNtUTR4MlRtc0xZMzJzSVkxaDd6N1JGcEQ.png",
-          "url": "https://toss.im/_m/hwarW9V1",
-          "_ts": 1786326345.52026
         }
       ]
     },
