@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "나인위시스 VB 프리미엄 톤업크림 SPF21 50ml+30ml",
+          "price": "8,870원",
+          "discount_rate": 81,
+          "priceAt": "08.15 20:44",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1106903832502767-2a5be978-549a-481a-b899-5fe2a191d41b.jpg",
+          "url": "https://link.coupang.com/a/geHktCUAWi",
+          "_ts": 1786794296.455195
+        },
+        {
           "name": "풀무원 더블 치즈폭포 돈카츠 (냉동), 560g, 1개, 560g × 1개",
           "price": "15,900원",
           "discount_rate": 29,
@@ -1077,24 +1086,6 @@
           "image": "https://image9.coupangcdn.com/image/retail/images/2025/04/07/16/7/a3f574df-8125-482f-b30c-171dd071a3d3.png",
           "url": "https://link.coupang.com/a/f6uw1TXxgi",
           "_ts": 1786367040.241846
-        },
-        {
-          "name": "틈새라면 스프 20p, 100g, 6개, 100g × 6개",
-          "price": "15,300원",
-          "discount_rate": 57,
-          "priceAt": "08.10 20:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/e25e6041-8a7f-4d11-b704-ee8cad1245474490839093678974146.png",
-          "url": "https://link.coupang.com/a/f6oKOyupum",
-          "_ts": 1786362216.540969
-        },
-        {
-          "name": "마이밀 정품 뉴프로틴 고소한맛, 190ml, 64개",
-          "price": "53,640원",
-          "discount_rate": 17,
-          "priceAt": "08.10 20:42",
-          "image": "https://static.coupangcdn.com/image/retail/images/60196325275947-60de8422-5657-47a7-9f76-630c6405a017.jpg",
-          "url": "https://link.coupang.com/a/f6oJU5epnV",
-          "_ts": 1786362177.141026
         }
       ]
     },
