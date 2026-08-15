@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "모던하우스 ON 미유 디저트 포크, 아이보리 + 그린, 포크 4p, 1세트",
+          "price": "2,900원",
+          "discount_rate": 67,
+          "priceAt": "08.16 08:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/hymer2qi/8d5f2f494a2b446ba5731225b0411f5b.jpg",
+          "url": "https://link.coupang.com/a/gfu8JeQW0y",
+          "_ts": 1786836057.885947
+        },
+        {
           "name": "티젠 얼그레이홍차, 1.6g, 20개입, 2개",
           "price": "3,000원",
           "discount_rate": null,
@@ -1633,15 +1642,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-05/802cb089-3991-415e-88a4-3b9d4c6252eb.jpeg",
           "url": "https://toss.im/_m/1lt3Tnpx",
           "_ts": 1786404548.1995132
-        },
-        {
-          "name": "리얼 수박주스, 1L, 3팩",
-          "price": "14,900원",
-          "discount_rate": 54,
-          "priceAt": "08.11 08:13",
-          "image": "https://shopping.toss.im/live/taca/ai/MTFiOWQy/U2pUcGJLVkwxdVl5azY4UzdVdzFDY0xHK25HUEdTbk1MU25sS2RwMHBGTT0.png",
-          "url": "https://toss.im/_m/fygM5O1v",
-          "_ts": 1786403636.894443
         }
       ]
     },
