@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "서울우유 듀오안 오리지널, 8개, 1개입, 150ml",
+          "price": "4,280원",
+          "discount_rate": 38,
+          "priceAt": "08.16 10:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37bbc2bc-9f0e-497e-be36-69622c1056e49404659442119362821.png",
+          "url": "https://link.coupang.com/a/gfEtDMMpZA",
+          "_ts": 1786843925.8405278
+        },
+        {
           "name": "데일리라이크 러브 에디션 핸들 플레이트 세트",
           "price": "8,600원",
           "discount_rate": 62,
@@ -719,15 +728,6 @@
           "_ts": 1786590926.331108
         },
         {
-          "name": "서울우유 듀오안 오리지널, 8개, 1개입, 150ml",
-          "price": "4,280원",
-          "discount_rate": 50,
-          "priceAt": "08.13 10:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37bbc2bc-9f0e-497e-be36-69622c1056e49404659442119362821.png",
-          "url": "https://link.coupang.com/a/gaEgMeGkdE",
-          "_ts": 1786583483.135584
-        },
-        {
           "name": "켈로그 크랜베리 아몬드 그래놀라 시리얼, 550g, 2개",
           "price": "8,550원",
           "discount_rate": 33,
@@ -1149,15 +1149,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/23/16/9/7fc508aa-f2ef-4496-b25c-27f90ca2a190.jpg",
           "url": "https://link.coupang.com/a/f7ol60qMvs",
           "_ts": 1786413911.301713
-        },
-        {
-          "name": "블리스텍스 바이브런스 립밤",
-          "price": "8,390원",
-          "discount_rate": 25,
-          "priceAt": "08.11 10:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2331846862943171-8ea6f95b-f1c0-4fcc-84d5-c4c63bad766e.jpg",
-          "url": "https://link.coupang.com/a/f7jSYClA5I",
-          "_ts": 1786410158.216748
         }
       ]
     },
@@ -1660,15 +1651,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-01/e9a6d2db-af54-4328-ba90-1140d2365d83.jpeg",
           "url": "https://toss.im/_m/LrMCWvue",
           "_ts": 1786412583.701947
-        },
-        {
-          "name": "사리원 소불고기, 500g, 4팩",
-          "price": "17,900원",
-          "discount_rate": 55,
-          "priceAt": "08.11 10:14",
-          "image": "https://shopping.toss.im/live/taca/ai/MDVkNWU3/QU9uMEFXT0h1WUhHdjlEeHJCNUFRNlg5WUlleDhDSWZBV1BDQ0QvT0R2UGk.png",
-          "url": "https://toss.im/_m/lrXddeTl",
-          "_ts": 1786410875.99827
         }
       ]
     },
