@@ -1185,6 +1185,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "푸드앳홈 오징어 젓갈, 1kg, 1팩",
+          "price": "9,500원",
+          "discount_rate": 58,
+          "priceAt": "08.16 11:43",
+          "image": "https://shopping.toss.im/live/temp/2026-03-19/9abb176c-76ab-4a1a-b475-0d9f6c22482f.jpeg",
+          "url": "https://toss.im/_m/5ZsNjgUb",
+          "_ts": 1786848211.521697
+        },
+        {
           "name": "앙쥬 모이스처 알로에 폼클렌징, 100ml, 10개",
           "price": "9,900원",
           "discount_rate": 90,
