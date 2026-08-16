@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "요거 카메라 렌즈 풀커버 강화유리 휴대폰 액정보호필름, 2개",
+          "price": "4,830원",
+          "discount_rate": 75,
+          "priceAt": "08.16 09:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/103904794972316-cfc48b5b-0d88-4aa4-92b5-e406c245c6c4.png",
+          "url": "https://link.coupang.com/a/gfyu7xzqwK",
+          "_ts": 1786838921.746179
+        },
+        {
           "name": "모던하우스 키치키치캣 원터치 보틀, 그린, 500ml, 1개",
           "price": "4,720원",
           "discount_rate": 20,
@@ -1140,15 +1149,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2331846862943171-8ea6f95b-f1c0-4fcc-84d5-c4c63bad766e.jpg",
           "url": "https://link.coupang.com/a/f7jSYClA5I",
           "_ts": 1786410158.216748
-        },
-        {
-          "name": "청정원 보크라이스 야채, 24g, 24개, 24g × 24개",
-          "price": "30,240원",
-          "discount_rate": 32,
-          "priceAt": "08.11 08:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/848425023870-bc07eb07-1337-4306-b4b4-58fe546de354.jpg",
-          "url": "https://link.coupang.com/a/f7eQu58pPM",
-          "_ts": 1786405984.1136498
         }
       ]
     },
