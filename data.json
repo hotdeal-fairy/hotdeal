@@ -1194,15 +1194,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f78b/2e1359c770e5c3e2080fb8147b3725a76b61c4ea1379bac06e157f087285.jpg",
           "url": "https://link.coupang.com/a/f7IZhUsyES",
           "_ts": 1786431242.504703
-        },
-        {
-          "name": "순샘 구연산 자몽향 주방세제 리필, 1.6L, 2개",
-          "price": "5,490원",
-          "discount_rate": 78,
-          "priceAt": "08.11 15:40",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83620480767071-f4d52e3f-f6e9-472d-9e36-4eaf8334b64a.png",
-          "url": "https://link.coupang.com/a/f7H0vma5Jc",
-          "_ts": 1786430419.1540759
         }
       ]
     },
@@ -1211,6 +1202,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "럽센트 스크럽 워시, 플라워마켓 화이트튤립, 500ml, 2개",
+          "price": "11,610원",
+          "discount_rate": 78,
+          "priceAt": "08.16 15:45",
+          "image": "https://shopping.toss.im/live/temp/2026-05-19/2f207d20-1ceb-446b-a623-b85b45c3a5b7.png",
+          "url": "https://toss.im/_m/l0nDBnF3",
+          "_ts": 1786862757.094754
+        },
         {
           "name": "교동 소고기 미역국, 500g, 5개",
           "price": "14,200원",
