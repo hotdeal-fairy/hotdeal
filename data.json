@@ -1176,6 +1176,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "순삭 떡볶이, 보통맛, 200g, 5팩",
+          "price": "8,500원",
+          "discount_rate": 59,
+          "priceAt": "08.16 18:19",
+          "image": "https://shopping.toss.im/live/taca/ai/ZmFhZDlk/V1hQR1p1eGpHUTJWNTRNZGx0ZmhMWEtiQkxtb2JTVDF4ZW5Ua0g2bEZ2bz0.png",
+          "url": "https://toss.im/_m/pVYD985q",
+          "_ts": 1786871949.7634308
+        },
+        {
           "name": "럽센트 스크럽 워시, 플라워마켓 화이트튤립, 500ml, 2개",
           "price": "11,610원",
           "discount_rate": 78,
@@ -1651,15 +1660,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NWY2NDdj/T013YzhtY3ptWStNekljMTFzeDZTMHR0MmVFNUpLV3RQVHhhTnNUeG9jaz0.png",
           "url": "https://toss.im/_m/bgGxZrR5",
           "_ts": 1786443575.524192
-        },
-        {
-          "name": "에이팔란스 제트 쿨링 휴대용 냉각 손선풍기 K300 Pro, 블랙, 1개",
-          "price": "12,900원",
-          "discount_rate": 86,
-          "priceAt": "08.11 18:00",
-          "image": "https://shopping.toss.im/live/taca/ai/MmRjODJl/TThsL0V1RDJtY2NlVy9BK3c4TUg4UHc1a3dzRDlud2s3eU1EdmpqUXZFRT0.png",
-          "url": "https://toss.im/_m/xrYLaqUv",
-          "_ts": 1786438821.466774
         }
       ]
     },
