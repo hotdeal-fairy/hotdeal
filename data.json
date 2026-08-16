@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "심플리앤 데스크 정리왕 다용도 연필꽂이, 핑크, 1개",
+          "price": "3,970원",
+          "discount_rate": 61,
+          "priceAt": "08.16 20:03",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2022/11/02/15/2/d4e290e4-0964-4e8e-a283-b542dcd3d55f.jpg",
+          "url": "https://link.coupang.com/a/ggjeSpqXCe",
+          "_ts": 1786878202.704112
+        },
+        {
           "name": "필라델피아 치즈케익 플레인 (냉동), 794g, 1개",
           "price": "19,830원",
           "discount_rate": 17,
@@ -1158,15 +1167,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/139627710988148-dd5d246c-120d-451a-9d79-6e8926882a1e.png",
           "url": "https://link.coupang.com/a/f75n6manoO",
           "_ts": 1786450050.334872
-        },
-        {
-          "name": "범산목장 유기가공식품인증 블루베리요구르트, 450ml, 1개입, 1개",
-          "price": "4,340원",
-          "discount_rate": 26,
-          "priceAt": "08.11 19:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/285871732282777-58dcf1c0-8318-437a-b568-5354ea692335.jpg",
-          "url": "https://link.coupang.com/a/f7YO0S6P5E",
-          "_ts": 1786444628.615273
         }
       ]
     },
@@ -1651,15 +1651,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Mjc2NTI3/QUtNUHExVXZRM2NHMk5SVW5uSzRuaVhlWTlDVHVjci93cDROR0E5d3RLWDg.png",
           "url": "https://toss.im/_m/vGBqRLjr",
           "_ts": 1786448371.6164632
-        },
-        {
-          "name": "횡재미가 영양균형 40곡 혼합잡곡, 10kg, 1개",
-          "price": "24,900원",
-          "discount_rate": 68,
-          "priceAt": "08.11 19:51",
-          "image": "https://shopping.toss.im/live/temp/2026-06-21/d796096f-a50c-4ea9-8011-3b565bc1c2eb.png",
-          "url": "https://toss.im/_m/7whBZOb8",
-          "_ts": 1786445477.234619
         }
       ]
     },
