@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "필라델피아 치즈케익 플레인 (냉동), 794g, 1개",
+          "price": "19,830원",
+          "discount_rate": 17,
+          "priceAt": "08.16 18:52",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/984835739899420-3dc3338b-50f3-4328-b454-2dfe99d2d062.jpg",
+          "url": "https://link.coupang.com/a/ggegvr5C7E",
+          "_ts": 1786873972.007164
+        },
+        {
           "name": "루메이크 길이조절 정전기 먼지흡착 먼지털이 고리 포함, 화이트(본품1개+리..., 1세트",
           "price": "3,900원",
           "discount_rate": 29,
@@ -1158,24 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/285871732282777-58dcf1c0-8318-437a-b568-5354ea692335.jpg",
           "url": "https://link.coupang.com/a/f7YO0S6P5E",
           "_ts": 1786444628.615273
-        },
-        {
-          "name": "비비드키친 저당 참깨소이 드레싱, 200g, 1개, 200g × 1개",
-          "price": "1,900원",
-          "discount_rate": 40,
-          "priceAt": "08.11 18:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/04/25/17/8/a59c6d0d-686c-4b9d-a033-aa07a75c3f32.jpg",
-          "url": "https://link.coupang.com/a/f7Vf831A4a",
-          "_ts": 1786441575.067364
-        },
-        {
-          "name": "미프 리페어 앤 리프팅 에프터 쉐이브, 65g, 1개",
-          "price": "7,930원",
-          "discount_rate": 53,
-          "priceAt": "08.11 18:32",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10119186948932-dda1b977-e9c5-4823-b38c-75618628725f.jpg",
-          "url": "https://link.coupang.com/a/f7UkZjytdk",
-          "_ts": 1786440764.056279
         }
       ]
     },
