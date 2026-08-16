@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "슈펜 투밴드 메리제인 운동화 HPCR5GS401",
+          "price": "16,060원",
+          "discount_rate": 59,
+          "priceAt": "08.16 13:36",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/15/9/0/45635de2-6962-44e2-a632-b6b121c02e77.jpg",
+          "url": "https://link.coupang.com/a/gfRDIqmkBU",
+          "_ts": 1786854971.16174
+        },
+        {
           "name": "캠핑 천장형 선풍기 천장형 실링팬 서큘레이터 라이트 조명 가정 텐트용, FS-01",
           "price": "9,500원",
           "discount_rate": 76,
@@ -1185,15 +1194,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0028/229c18909672a7807dc891926f39e29207c9a65a31dc42d5f08b0990f568.png",
           "url": "https://link.coupang.com/a/f7EledXyOi",
           "_ts": 1786427343.387852
-        },
-        {
-          "name": "2080 애플민트향 자일리톨 치약, 120g, 6개",
-          "price": "7,150원",
-          "discount_rate": 42,
-          "priceAt": "08.11 13:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2449783482582245-01d2ec17-8a5a-40b0-bd61-c54629e68e33.jpg",
-          "url": "https://link.coupang.com/a/f7xTTkgteS",
-          "_ts": 1786421925.474963
         }
       ]
     },
@@ -1696,15 +1696,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MDY2Y2Mw/WXFSbE84eFVUcXVsekZxckxOVGxPMTUwcXRYVnppcTFsVkpNdENveDFVND0.png",
           "url": "https://toss.im/_m/r9CGV6K",
           "_ts": 1786423549.579267
-        },
-        {
-          "name": "지그비 고불소 구취케어 치약, 아쿠아민트향, 117g, 4개",
-          "price": "8,900원",
-          "discount_rate": 70,
-          "priceAt": "08.11 13:28",
-          "image": "https://shopping.toss.im/live/taca/ai/NTc1NjEy/TWpIVTJpczJsTXNyWmppYnhtOHRrc3B0cFNLTmpXWXp0WXdMQmdyVitTND0.png",
-          "url": "https://toss.im/_m/5QcEBvlw",
-          "_ts": 1786422495.3630888
         }
       ]
     },
