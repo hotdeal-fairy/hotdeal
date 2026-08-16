@@ -1158,15 +1158,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/12/29/16/3/dbb67dee-ce61-40ec-ab6a-75c531f9a7ec.jpg",
           "url": "https://link.coupang.com/a/f7sYLOlBoO",
           "_ts": 1786417793.3289979
-        },
-        {
-          "name": "바닐라코 로맨틱 블러쉬 립앤치크 3.7g, 11 발레리나, 1개",
-          "price": "3,600원",
-          "discount_rate": 70,
-          "priceAt": "08.11 11:05",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/23/16/9/7fc508aa-f2ef-4496-b25c-27f90ca2a190.jpg",
-          "url": "https://link.coupang.com/a/f7ol60qMvs",
-          "_ts": 1786413911.301713
         }
       ]
     },
@@ -1175,6 +1166,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "동아제약 셀파렉스 바로 알티지 오메가3, 1010mg, 10캡슐, 10박스",
+          "price": "9,980원",
+          "discount_rate": 80,
+          "priceAt": "08.16 11:18",
+          "image": "https://shopping.toss.im/live/temp/2026-08-12/d7e19f0a-8f32-430b-ac73-0eedc7c52555.jpeg",
+          "url": "https://toss.im/_m/dmpfzEDx",
+          "_ts": 1786846712.08004
+        },
         {
           "name": "리셀 샤워기 100, 1개 + 샤워기 필터, 3개",
           "price": "3,900원",
@@ -1651,15 +1651,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MWFiNTFm/QU1zbEs3VzBtK3piUzJTYmEzS1VGNUd1VzJabWxUdnBUbWh1bHJFRzBHcE8.png",
           "url": "https://toss.im/_m/rcvltl8i",
           "_ts": 1786418276.323961
-        },
-        {
-          "name": "봄내푸드 춘천닭갈비, 500g, 2개",
-          "price": "9,800원",
-          "discount_rate": 55,
-          "priceAt": "08.11 11:09",
-          "image": "https://shopping.toss.im/live/taca/ai/NzM2OTYy/VStBcDlGdUk5Uk5xak1kQXJhZ2Z5YnlKZmNyMDlkTmpVcVFpNzZvV0NCMD0.png",
-          "url": "https://toss.im/_m/jeaCpdpr",
-          "_ts": 1786414193.1532228
         }
       ]
     },
