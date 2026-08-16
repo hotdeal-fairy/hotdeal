@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "풀무원 식물성 지구식단 솥솥 비빔 주먹밥 (냉동), 500g, 2개",
+          "price": "10,770원",
+          "discount_rate": 40,
+          "priceAt": "08.16 16:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8a065d21-e254-48a0-8686-00cdea925894416159443963286105.png",
+          "url": "https://link.coupang.com/a/gf4FXrXtw4",
+          "_ts": 1786865895.628468
+        },
+        {
           "name": "폰즈 클리어 스파 퓨어 리무빙 클렌징 티슈, 30매, 2개",
           "price": "3,430원",
           "discount_rate": 61,
@@ -1158,42 +1167,6 @@
           "image": "https://image4.coupangcdn.com/image/vendor_inventory/image_audit/prod/8b803475-3309-4dbd-94e1-16691a830849_fixing_v2.png",
           "url": "https://link.coupang.com/a/f7Ryw8XhTg",
           "_ts": 1786438426.3676999
-        },
-        {
-          "name": "한율 달빛유자 브라이트닝 랩핑 마스크, 5개입, 1개",
-          "price": "3,560원",
-          "discount_rate": 77,
-          "priceAt": "08.11 16:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/06/17/15/7/2000360c-166d-4f38-8fc4-59aa4229163f.jpg",
-          "url": "https://link.coupang.com/a/f7LdhdB9MG",
-          "_ts": 1786433109.638647
-        },
-        {
-          "name": "우양 추억의 핫도그 (냉동)",
-          "price": "5,980원",
-          "discount_rate": 50,
-          "priceAt": "08.11 15:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/22abc50a-47b1-4ed4-85ee-966210a5cbab8320451781785641767.png",
-          "url": "https://link.coupang.com/a/f7Jpm53LpY",
-          "_ts": 1786431593.527565
-        },
-        {
-          "name": "2080 퓨어 치약 크리스탈솔트 화이트프레쉬민트향, 150g, 6개",
-          "price": "5,860원",
-          "discount_rate": 26,
-          "priceAt": "08.11 15:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3469625236325790-58511acb-6631-4d41-8241-8d5f2e2a475f.jpg",
-          "url": "https://link.coupang.com/a/f7JcrCvBJI",
-          "_ts": 1786431412.145337
-        },
-        {
-          "name": "삼성전자 갤럭시 Z플립7 SM-F766N",
-          "price": "789,000원",
-          "discount_rate": null,
-          "priceAt": "08.11 15:54",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f78b/2e1359c770e5c3e2080fb8147b3725a76b61c4ea1379bac06e157f087285.jpg",
-          "url": "https://link.coupang.com/a/f7IZhUsyES",
-          "_ts": 1786431242.504703
         }
       ]
     },
@@ -1687,15 +1660,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MmRjODJl/TThsL0V1RDJtY2NlVy9BK3c4TUg4UHc1a3dzRDlud2s3eU1EdmpqUXZFRT0.png",
           "url": "https://toss.im/_m/xrYLaqUv",
           "_ts": 1786438821.466774
-        },
-        {
-          "name": "티젠 베스트 콤부차 7종 세트, 5g, 10개입, 7박스",
-          "price": "17,955원",
-          "discount_rate": 63,
-          "priceAt": "08.11 16:03",
-          "image": "https://shopping.toss.im/live/taca/ai/YzZkMmRm/ZVJ0enpHMnpua3RMYlpaa2sxdHBteHpHV3o3a3BKeTJaN0dUNWNPME5saz0.png",
-          "url": "https://toss.im/_m/NvuVd7Uu",
-          "_ts": 1786431782.848414
         }
       ]
     },
