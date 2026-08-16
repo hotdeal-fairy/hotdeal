@@ -1176,6 +1176,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "크리스탈 생수, 무라벨, 500ml, 40개",
+          "price": "7,400원",
+          "discount_rate": 63,
+          "priceAt": "08.16 19:22",
+          "image": "https://shopping.toss.im/live/taca/ai/ODNjOTA0/QUk4Wkp5Yk95NDJHWERrNFBIQjVuajZrL0orR1BQRmowelBsYngrUXJMajU.png",
+          "url": "https://toss.im/_m/BrwVM08x",
+          "_ts": 1786875746.3117042
+        },
+        {
           "name": "순삭 떡볶이, 보통맛, 200g, 5팩",
           "price": "8,500원",
           "discount_rate": 59,
@@ -1651,15 +1660,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-21/d796096f-a50c-4ea9-8011-3b565bc1c2eb.png",
           "url": "https://toss.im/_m/7whBZOb8",
           "_ts": 1786445477.234619
-        },
-        {
-          "name": "풀무원 샘물 생수, 무라벨, 500ml, 80개",
-          "price": "14,990원",
-          "discount_rate": 57,
-          "priceAt": "08.11 19:19",
-          "image": "https://shopping.toss.im/live/taca/ai/NWY2NDdj/T013YzhtY3ptWStNekljMTFzeDZTMHR0MmVFNUpLV3RQVHhhTnNUeG9jaz0.png",
-          "url": "https://toss.im/_m/bgGxZrR5",
-          "_ts": 1786443575.524192
         }
       ]
     },
