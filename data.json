@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "멍냥빌리지 강아지 프루티파이, 216g, 1개, 배맛",
+          "price": "7,800원",
+          "discount_rate": 61,
+          "priceAt": "08.16 10:51",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/549679278324159-73012c5c-dcd4-4346-8645-24224b53548a.jpg",
+          "url": "https://link.coupang.com/a/gfFTguwMCq",
+          "_ts": 1786845084.537684
+        },
+        {
           "name": "군쯔 벨기에 프랄린 기프트 다크 초콜릿, 200g, 1개",
           "price": "5,510원",
           "discount_rate": 75,
@@ -1651,15 +1660,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NzM2OTYy/VStBcDlGdUk5Uk5xak1kQXJhZ2Z5YnlKZmNyMDlkTmpVcVFpNzZvV0NCMD0.png",
           "url": "https://toss.im/_m/jeaCpdpr",
           "_ts": 1786414193.1532228
-        },
-        {
-          "name": "행운샴푸 블랙, 500ml, 1개",
-          "price": "16,900원",
-          "discount_rate": 78,
-          "priceAt": "08.11 10:43",
-          "image": "https://shopping.toss.im/live/temp/2026-07-01/e9a6d2db-af54-4328-ba90-1140d2365d83.jpeg",
-          "url": "https://toss.im/_m/LrMCWvue",
-          "_ts": 1786412583.701947
         }
       ]
     },
