@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "슈퍼케어 라텍스장갑, 아이보리, M, 4개",
+          "price": "20,710원",
+          "discount_rate": 62,
+          "priceAt": "08.16 14:44",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/29683968616166-efe3a24a-cfe4-49df-a39d-574478832afc.jpg",
+          "url": "https://link.coupang.com/a/gfWuEVGwge",
+          "_ts": 1786859051.362349
+        },
+        {
           "name": "슈펜 투밴드 메리제인 운동화 HPCR5GS401",
           "price": "16,060원",
           "discount_rate": 59,
@@ -1687,15 +1696,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YzZkMmRm/ZVJ0enpHMnpua3RMYlpaa2sxdHBteHpHV3o3a3BKeTJaN0dUNWNPME5saz0.png",
           "url": "https://toss.im/_m/NvuVd7Uu",
           "_ts": 1786431782.848414
-        },
-        {
-          "name": "바디랩 서리태 순수두유 99.9, 190ml, 48개",
-          "price": "27,900원",
-          "discount_rate": 53,
-          "priceAt": "08.11 13:45",
-          "image": "https://shopping.toss.im/live/taca/ai/MDY2Y2Mw/WXFSbE84eFVUcXVsekZxckxOVGxPMTUwcXRYVnppcTFsVkpNdENveDFVND0.png",
-          "url": "https://toss.im/_m/r9CGV6K",
-          "_ts": 1786423549.579267
         }
       ]
     },
