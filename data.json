@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "폰즈 클리어 스파 퓨어 리무빙 클렌징 티슈, 30매, 2개",
+          "price": "3,430원",
+          "discount_rate": 61,
+          "priceAt": "08.16 15:15",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/11591172462527-6857e0b6-9a20-4695-b33e-505953db7cf0.png",
+          "url": "https://link.coupang.com/a/gfYD2r9Bqm",
+          "_ts": 1786860956.2453492
+        },
+        {
           "name": "슈퍼케어 라텍스장갑, 아이보리, M, 4개",
           "price": "20,710원",
           "discount_rate": 62,
@@ -1194,15 +1203,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83620480767071-f4d52e3f-f6e9-472d-9e36-4eaf8334b64a.png",
           "url": "https://link.coupang.com/a/f7H0vma5Jc",
           "_ts": 1786430419.1540759
-        },
-        {
-          "name": "실버리 쿨링 아이스 쿨스카프 넥쿨러",
-          "price": "3,300원",
-          "discount_rate": 86,
-          "priceAt": "08.11 14:49",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0028/229c18909672a7807dc891926f39e29207c9a65a31dc42d5f08b0990f568.png",
-          "url": "https://link.coupang.com/a/f7EledXyOi",
-          "_ts": 1786427343.387852
         }
       ]
     },
