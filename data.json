@@ -1203,6 +1203,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "교동 소고기 미역국, 500g, 5개",
+          "price": "14,200원",
+          "discount_rate": 48,
+          "priceAt": "08.16 13:00",
+          "image": "https://shopping.toss.im/live/taca/ai/NjExZDJi/QU5UV2FtNmJiNHpsWVdYODdzV3hiSk1ia3p0dk94T2xyUmVoU3RDT3hMczc.png",
+          "url": "https://toss.im/_m/PEmw1FH8",
+          "_ts": 1786852852.4315038
+        },
+        {
           "name": "푸드앳홈 오징어 젓갈, 1kg, 1팩",
           "price": "9,500원",
           "discount_rate": 58,
