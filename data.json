@@ -1185,6 +1185,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "아빠표 구운계란 중란, 30구, 1박스",
+          "price": "12,900원",
+          "discount_rate": 48,
+          "priceAt": "08.16 21:19",
+          "image": "https://shopping.toss.im/live/taca/ai/NjIzZjBk/QUpRNVg1TkljbTVRWUpiZVFQTm9uZkhqYjkrRGxqWUMzMnREb1U1VzNHdXc.png",
+          "url": "https://toss.im/_m/DZp78oss",
+          "_ts": 1786882767.671603
+        },
+        {
           "name": "산해직송 파김치, 1kg, 1개",
           "price": "10,900원",
           "discount_rate": 68,
