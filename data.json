@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "해태에이스 씬 솔티카라멜, 291g, 5개, 291g × 5개",
+          "price": "12,370원",
+          "discount_rate": 21,
+          "priceAt": "08.16 20:40",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1775d9cb-727c-4af2-84b8-302d5636459011126230418534914690.png",
+          "url": "https://link.coupang.com/a/gglRPQPYB2",
+          "_ts": 1786880403.8328168
+        },
+        {
           "name": "심플리앤 데스크 정리왕 다용도 연필꽂이, 핑크, 1개",
           "price": "3,970원",
           "discount_rate": 61,
@@ -1651,15 +1660,6 @@
           "image": "https://shopping.toss.im/2ba213b1-f72c-41b8-bceb-f89f559ea0b3.jpeg",
           "url": "https://toss.im/_m/pC35uV66",
           "_ts": 1786451253.65423
-        },
-        {
-          "name": "크리넥스 울트라클린, 3겹, 25m, 24롤, 2팩",
-          "price": "23,900원",
-          "discount_rate": 42,
-          "priceAt": "08.11 20:39",
-          "image": "https://shopping.toss.im/live/taca/ai/Mjc2NTI3/QUtNUHExVXZRM2NHMk5SVW5uSzRuaVhlWTlDVHVjci93cDROR0E5d3RLWDg.png",
-          "url": "https://toss.im/_m/vGBqRLjr",
-          "_ts": 1786448371.6164632
         }
       ]
     },
