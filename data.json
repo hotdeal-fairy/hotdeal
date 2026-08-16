@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "Tiger Pavilion 다기능 수납 트롤리",
+          "price": "5,990원",
+          "discount_rate": 50,
+          "priceAt": "08.16 12:13",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8d27/bbea2ae60c1617fbfa3721b7a6c58b05546cf3ea3ca995222f268978de2c.jpg",
+          "url": "https://link.coupang.com/a/gfLDKhHuai",
+          "_ts": 1786850013.042749
+        },
+        {
           "name": "김화농협 두루웰 GAP 인증 철원오대쌀 백미 상등급, 4kg, 2개",
           "price": "33,260원",
           "discount_rate": 54,
@@ -1176,15 +1185,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c266/ae7c82b9ef24ba0994056bf99795b05d56f45ee538020c4cd3df211ccd8d.png",
           "url": "https://link.coupang.com/a/f7vt0yXM4G",
           "_ts": 1786419909.0961049
-        },
-        {
-          "name": "오뚜기 리얼 프렌치 크로크무슈 오리지널 4개입 (냉동), 520g, 1개",
-          "price": "6,610원",
-          "discount_rate": 54,
-          "priceAt": "08.11 12:09",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/12/29/16/3/dbb67dee-ce61-40ec-ab6a-75c531f9a7ec.jpg",
-          "url": "https://link.coupang.com/a/f7sYLOlBoO",
-          "_ts": 1786417793.3289979
         }
       ]
     },
