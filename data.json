@@ -1122,15 +1122,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/04/25/17/1/395de04e-b0a5-45a0-9949-158dba888fb5.jpg",
           "url": "https://link.coupang.com/a/f9FPjCu2EK",
           "_ts": 1786532720.163928
-        },
-        {
-          "name": "햇반 단호박죽, 420g, 2개",
-          "price": "4,980원",
-          "discount_rate": 50,
-          "priceAt": "08.12 19:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/262267951648894-41addb8c-7e0a-4136-a686-af07701ff55c.jpg",
-          "url": "https://link.coupang.com/a/f9CX33FVbU",
-          "_ts": 1786530359.409025
         }
       ]
     },
@@ -1139,6 +1130,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "네이처바이 알로에 에센스 마스크팩, 100개입, 1세트",
+          "price": "13,610원",
+          "discount_rate": 72,
+          "priceAt": "08.17 19:33",
+          "image": "https://shopping.toss.im/live/temp/2026-01-02/387be3ab-6425-4464-8b70-d7431389b44c.jpeg",
+          "url": "https://toss.im/_m/LwBk8am8",
+          "_ts": 1786962812.485636
+        },
         {
           "name": "청우 계란과자, 40g, 12개",
           "price": "8,500원",
@@ -1615,15 +1615,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MjllNjkz/QUtDYmc4K0VrcFB1QnNORXJCckxPNXF2VGY4WWpRMTZMRVM1eVA4TDhDQWU.png",
           "url": "https://toss.im/_m/9MOZCuH8",
           "_ts": 1786575959.395065
-        },
-        {
-          "name": "텅스페이스 슈퍼포션 곤약쫀드기, 25g, 50봉",
-          "price": "11,900원",
-          "discount_rate": 60,
-          "priceAt": "08.12 19:22",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWIzMGRk/T1RPek8xenJ5UDdvVk4vQmd6SlBvd0QrTDBSdkFYcEJlc0hBL2kvRW5Zcz0.png",
-          "url": "https://toss.im/_m/XUZ2nibq",
-          "_ts": 1786530177.307872
         }
       ]
     },
