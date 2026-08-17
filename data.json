@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "바겐슈타이거 트레너 스탠304 수저 조리기구통",
+          "price": "11,800원",
+          "discount_rate": 25,
+          "priceAt": "08.17 10:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/21/17/9/eaaf0f49-132b-456c-8222-fab9854509d9.jpg",
+          "url": "https://link.coupang.com/a/ghht7KicDs",
+          "_ts": 1786928716.150795
+        },
+        {
           "name": "칠갑농산 가스오브시 액상스프, 200ml, 2개, 200ml × 2개",
           "price": "2,040원",
           "discount_rate": 46,
@@ -1095,15 +1104,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/b20450a4-3e9b-4243-af31-5f8ff7d4b3556792015659967700955.png",
           "url": "https://link.coupang.com/a/f9bkoAzHMW",
           "_ts": 1786507100.532923
-        },
-        {
-          "name": "오뚜기 뿌셔뿌셔 불고기맛",
-          "price": "10,640원",
-          "discount_rate": 34,
-          "priceAt": "08.12 09:51",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/85075928866233-25de33eb-1784-4226-b7f6-628f37b00e2a.jpg",
-          "url": "https://link.coupang.com/a/f8XYGFY7Oe",
-          "_ts": 1786495884.429538
         }
       ]
     },
