@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "광천김 핑크퐁 아기상어 유기원초 키즈김",
+          "price": "6,600원",
+          "discount_rate": 33,
+          "priceAt": "08.17 18:00",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/15643125823879-b2dd2e73-fc94-4aef-a14a-163fded2d846.jpg",
+          "url": "https://link.coupang.com/a/ghPsUSI9Dw",
+          "_ts": 1786957236.2695282
+        },
+        {
           "name": "도블레 칼집 나지 않는 도마세트 모던, 도마 소 스카이블루..., 1세트",
           "price": "43,800원",
           "discount_rate": 51,
@@ -1131,15 +1140,6 @@
           "image": "https://image12.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
           "url": "https://link.coupang.com/a/f9xx6dcFj2",
           "_ts": 1786525742.84775
-        },
-        {
-          "name": "햇반 듬뿍 누룽지 닭백숙죽, 2개, 420g",
-          "price": "5,980원",
-          "discount_rate": 50,
-          "priceAt": "08.12 17:52",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/f7592ae2-31d8-4cec-b519-ca5bc9bdc80d1790926491315590030.png",
-          "url": "https://link.coupang.com/a/f9wmohTgBw",
-          "_ts": 1786524774.56187
         }
       ]
     },
