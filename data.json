@@ -1113,6 +1113,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "추억의 찹쌀 바삭 누룽지칩, 502g, 2팩",
+          "price": "6,840원",
+          "discount_rate": 76,
+          "priceAt": "08.17 10:07",
+          "image": "https://shopping.toss.im/live/temp/2026-07-27/3f9a5686-87f2-4f4b-af9b-54ff53fa2567.jpeg",
+          "url": "https://toss.im/_m/3OwM3msr",
+          "_ts": 1786928839.363691
+        },
+        {
           "name": "아빠표 구운계란 중란, 30구, 1박스",
           "price": "12,900원",
           "discount_rate": 48,
