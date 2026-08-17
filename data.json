@@ -1122,24 +1122,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1351016630454358-1ab62844-fd18-4c02-9c5e-8bd8b5b130b4.jpg",
           "url": "https://link.coupang.com/a/f9hyahJd2i",
           "_ts": 1786512317.419549
-        },
-        {
-          "name": "고로고로 초강력 테이프클리너 리필",
-          "price": "8,120원",
-          "discount_rate": 29,
-          "priceAt": "08.12 13:01",
-          "image": "https://image14.coupangcdn.com/image/1025_amir_coupang_oct_80k/65c6/0869a349b04e0d02bd0f9f2407d877c519e33a674a2e0fa602f58524c3fa.jpg",
-          "url": "https://link.coupang.com/a/f9bAuxW3FY",
-          "_ts": 1786507303.105877
-        },
-        {
-          "name": "오리온 미쯔 황치즈 6p, 222g, 3개",
-          "price": "11,790원",
-          "discount_rate": null,
-          "priceAt": "08.12 12:58",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/b20450a4-3e9b-4243-af31-5f8ff7d4b3556792015659967700955.png",
-          "url": "https://link.coupang.com/a/f9bkoAzHMW",
-          "_ts": 1786507100.532923
         }
       ]
     },
@@ -1148,6 +1130,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
+          "price": "11,900원",
+          "discount_rate": 64,
+          "priceAt": "08.17 13:06",
+          "image": "https://shopping.toss.im/live/temp/2025-07-08/9c4e33f1-ab70-473e-9266-1aa0db486c23.jpeg",
+          "url": "https://toss.im/_m/Z7sd87HD",
+          "_ts": 1786939566.971891
+        },
         {
           "name": "이디야커피 바닐라 라떼, 500ml, 24개",
           "price": "27,500원",
