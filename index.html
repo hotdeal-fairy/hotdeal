@@ -48,7 +48,11 @@
 </main>
 
 <script>
-  fetch("data.json")
+  // 매번 다른 쿼리를 붙여 캐시를 우회한다 — GitHub Pages는 data.json에
+  // `cache-control: max-age=600`을 붙이는데, 이 파일은 하루 종일 갱신되는 목록이라
+  // 최대 10분 묵은 상품·랭킹이 보인다(2026-08-17: BEST50 안내 카톡을 받고 바로 연 사람에게
+  // 어제 날짜가 보였다). 약 100KB짜리 한 번 더 받는 비용보다 최신성이 중요하다.
+  fetch(`data.json?t=${Date.now()}`)
     .then((res) => res.json())
     .then(render)
     .catch(() => {
