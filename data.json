@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "칠갑농산 가스오브시 액상스프, 200ml, 2개, 200ml × 2개",
+          "price": "2,040원",
+          "discount_rate": 46,
+          "priceAt": "08.17 09:37",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9101f282-1a07-4b49-a99d-e058e29bef488207266599818455415.png",
+          "url": "https://link.coupang.com/a/ghfsHqjbIO",
+          "_ts": 1786927020.4145489
+        },
+        {
           "name": "풀무원 생물만두 (냉동), 300g, 4개",
           "price": "8,480원",
           "discount_rate": 58,
@@ -1095,42 +1104,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/85075928866233-25de33eb-1784-4226-b7f6-628f37b00e2a.jpg",
           "url": "https://link.coupang.com/a/f8XYGFY7Oe",
           "_ts": 1786495884.429538
-        },
-        {
-          "name": "마스마룰즈 래빗에코백 + 파우치 세트, 에코백(420 x 350 mm), 파우치(180 x 180 mm)",
-          "price": "27,900원",
-          "discount_rate": 41,
-          "priceAt": "08.12 09:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/ohtidnmb/eafa3b0d7ced44afbe2848e30bb4075c.jpg",
-          "url": "https://link.coupang.com/a/f8WxzmsCtM",
-          "_ts": 1786494803.219381
-        },
-        {
-          "name": "스킨푸드 블랙슈가 퍼펙트 스크럽 폼, 180g, 1개",
-          "price": "4,750원",
-          "discount_rate": 66,
-          "priceAt": "08.12 09:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4ce3/bd8da3c1659b32aa0bb37f4ca3aa9957da8a18101551a08d453951535b0e.jpg",
-          "url": "https://link.coupang.com/a/f8UERkCam4",
-          "_ts": 1786493098.76995
-        },
-        {
-          "name": "허쉬 초콜릿 칩 모찌 쿠키 5p, 90g, 18개, 90g × 18개",
-          "price": "9,400원",
-          "discount_rate": 64,
-          "priceAt": "08.12 08:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dae7/9f9c6676c6ecadb6358c34ac29fb97db39c7401870fe5188b8a1907f3a79.jpg",
-          "url": "https://link.coupang.com/a/f8SyXsqunk",
-          "_ts": 1786491381.069371
-        },
-        {
-          "name": "칙필에이 소스, 473ml, 3개",
-          "price": "19,950원",
-          "discount_rate": 34,
-          "priceAt": "08.12 08:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d35c/46c93724085883ef34a8b9eb8471c2e75c7e030540c56131f360236e83e3.jpg",
-          "url": "https://link.coupang.com/a/f8R6rZVveC",
-          "_ts": 1786490944.015637
         }
       ]
     },
