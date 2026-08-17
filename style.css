@@ -292,7 +292,10 @@ main {
 /* 랭킹 탭(BEST50) 전용 순위 컬럼. 격자 시절의 이미지 위 배지를 대체한다 — 리스트에서는
    숫자가 세로로 정렬돼 그 자체로 랭킹표처럼 읽히므로 판·그림자가 필요 없다. */
 .product-rank {
-  width: 24px;
+  /* 고정 width가 아니라 min-width다 — `LINKTREE_TOSS_BEST_TOP_N`을 100 이상으로 올리면
+     세 자리 순위가 24px 컬럼을 6px가량 넘어 썸네일을 침범한다(현재 운영값 50에서는
+     두 자리라 24px로 전부 정렬된다). */
+  min-width: 24px;
   flex-shrink: 0;
   text-align: center;
   font-size: 16px;
@@ -338,12 +341,15 @@ main {
   margin-top: 5px;
 }
 
+/* 가격·할인율은 절대 줄지 않는다(flex-shrink: 0) — 셋을 한 줄에 두는 구조라 폭이 모자라면
+   무엇이든 밀리는데, 잘려도 되는 건 경과시간뿐이다(아래에서 말줄임 처리). */
 .product-price {
   font-size: 16px;
   color: var(--text);
   font-weight: 800;
   letter-spacing: -0.03em;
   white-space: nowrap;
+  flex-shrink: 0;
 }
 
 /* 할인율을 가격 **앞**에 둔다 — 이 페이지에서 사람을 멈춰 세우는 값이라 먼저 읽혀야 한다. */
@@ -353,10 +359,14 @@ main {
   font-weight: 900;
   letter-spacing: -0.03em;
   white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .product-price-at {
   margin-left: auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
   font-size: 10.5px;
   color: var(--text-muted);
   font-weight: 600;

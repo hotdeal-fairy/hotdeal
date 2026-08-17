@@ -28,7 +28,7 @@
 <meta property="og:url" content="https://hotdeal-fairy.github.io/hotdeal/" />
 <meta property="og:image" content="https://hotdeal-fairy.github.io/hotdeal/images/og-image.jpg?v=2" />
 <!-- style.css 수정 시마다 ?v= 뒤 숫자를 올려 브라우저 캐시 무효화 (별도 빌드 단계가 없는 정적 사이트라 수동 관리) -->
-<link rel="stylesheet" href="style.css?v=11" />
+<link rel="stylesheet" href="style.css?v=12" />
 </head>
 <body>
 
@@ -205,11 +205,18 @@
               // "0위" 행이 생기고 `rank <= 3` 판정에도 걸려 1~3위 강조까지 받는다.
               const rank = Number(product._rank);
               const hasRank = Number.isFinite(rank) && rank >= 1;
+              // sanitizeUrl()이 막은 URL은 빈 문자열이 된다. 그걸 그대로 href에 넣으면
+              // "현재 페이지로 이동"하는 링크가 되는데, 행 전체가 링크인 지금 구조에서는
+              // 오탭 한 번에 페이지가 새로고침된다 — href 자체를 빼서 클릭되지 않게 한다.
+              const href = sanitizeUrl(product.url);
+              // 빈 src는 브라우저가 문서 URL을 이미지로 요청하게 만든다(HTML을 이미지로
+              // 받아 깨진 그림 + 불필요한 요청). 파이프라인이 쓰는 것과 같은 플레이스홀더로 대체.
+              const image = sanitizeUrl(product.image) || "images/placeholder.svg";
               return `
               <a class="product-row${hasRank && rank <= 3 ? " product-row-top" : ""}"
-                 href="${escapeHtml(sanitizeUrl(product.url))}" target="_blank" rel="noopener">
+                 ${href ? `href="${escapeHtml(href)}" target="_blank" rel="noopener"` : ""}>
                 ${hasRank ? `<span class="product-rank">${rank}</span>` : ""}
-                <img src="${escapeHtml(sanitizeUrl(product.image))}" alt="${escapeHtml(product.name)}" loading="lazy" referrerpolicy="no-referrer" />
+                <img src="${escapeHtml(image)}" alt="" loading="lazy" referrerpolicy="no-referrer" />
                 <span class="product-info">
                   <span class="product-name">${escapeHtml(product.name)}</span>
                   <span class="product-price-row">
