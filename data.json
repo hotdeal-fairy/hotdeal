@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "셀퓨전씨 워터핏 톤업 선 베이스 SPF50+ PA++++, 40ml, 1개",
+          "price": "10,900원",
+          "discount_rate": 39,
+          "priceAt": "08.17 14:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52606826240166-8ac1e7e1-4119-40cb-9032-a9e409d33256.jpg",
+          "url": "https://link.coupang.com/a/ghy91xr10m",
+          "_ts": 1786943580.5269172
+        },
+        {
           "name": "크리넥스 울트라클린 화이트, 25m, 24개입, 2개",
           "price": "21,230원",
           "discount_rate": 16,
@@ -1606,24 +1615,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MDhjNTg0/QUtyVmlGTDg5Z2pFSFBsV1dRSm5RU2JCS3ppazI1cm1sYWNsUHFrWm0vQ2Y.png",
           "url": "https://toss.im/_m/PEX6uXMz",
           "_ts": 1786526027.480151
-        },
-        {
-          "name": "집밥에 푸짐한 곱창전골, 1kg, 1개",
-          "price": "7,700원",
-          "discount_rate": 59,
-          "priceAt": "08.12 13:42",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWM0Y2Fk/QU8zUHZEbGx3VjZXNTJpdG45WXlNMGRwMklVemJUQm8zL1dLR1AvV0JPdXQ.png",
-          "url": "https://toss.im/_m/hqeEBjjx",
-          "_ts": 1786509750.756269
-        },
-        {
-          "name": "골드럽 섬유유연제 로즈핑크, 3.2L, 4개",
-          "price": "11,200원",
-          "discount_rate": 63,
-          "priceAt": "08.12 13:24",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/OWY3NWZk/VEdNVnlPSXptWmxYYytZM21NaG5jckNKNVNOcm5Jem1ZeGlNVnNqaE01az0.png",
-          "url": "https://toss.im/_m/1FDS4ohd",
-          "_ts": 1786508659.977301
         }
       ]
     },
