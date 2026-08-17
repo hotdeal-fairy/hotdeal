@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "서울우유 초코꿀딴지, 180ml, 48개",
+          "price": "28,830원",
+          "discount_rate": 42,
+          "priceAt": "08.17 18:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/20646592715345-99537f26-eb60-4f44-81d0-09f0bed7cae8.jpg",
+          "url": "https://link.coupang.com/a/ghS3LfBThc",
+          "_ts": 1786960254.2177038
+        },
+        {
           "name": "광천김 핑크퐁 아기상어 유기원초 키즈김",
           "price": "6,600원",
           "discount_rate": 33,
@@ -1122,15 +1131,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/262267951648894-41addb8c-7e0a-4136-a686-af07701ff55c.jpg",
           "url": "https://link.coupang.com/a/f9CX33FVbU",
           "_ts": 1786530359.409025
-        },
-        {
-          "name": "마이구미 자두 알맹이 젤리, 67g, 10개",
-          "price": "6,650원",
-          "discount_rate": null,
-          "priceAt": "08.12 18:43",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a0ff/3ac382b4d04c9983da5e3dbf6fc92460f61548f6c7bf5a72e33c1864a65d.jpg",
-          "url": "https://link.coupang.com/a/f9zYsIp380",
-          "_ts": 1786527814.2892349
         }
       ]
     },
@@ -1624,15 +1624,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZWIzMGRk/T1RPek8xenJ5UDdvVk4vQmd6SlBvd0QrTDBSdkFYcEJlc0hBL2kvRW5Zcz0.png",
           "url": "https://toss.im/_m/XUZ2nibq",
           "_ts": 1786530177.307872
-        },
-        {
-          "name": "세제의기본 과탄산소다, 2kg, 1개",
-          "price": "8,900원",
-          "discount_rate": 57,
-          "priceAt": "08.12 18:41",
-          "image": "https://shopping.toss.im/live/taca/ai/N2EzZDI1/QU1URXZZMk1aczdtY3h2d1l6T2ROYm5NUmxvY25HT2xiemV4enZQeFhEc1k.png",
-          "url": "https://toss.im/_m/DKDtJB31",
-          "_ts": 1786527715.938261
         }
       ]
     },
