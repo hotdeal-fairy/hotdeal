@@ -1131,15 +1131,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a0ff/3ac382b4d04c9983da5e3dbf6fc92460f61548f6c7bf5a72e33c1864a65d.jpg",
           "url": "https://link.coupang.com/a/f9zYsIp380",
           "_ts": 1786527814.2892349
-        },
-        {
-          "name": "하이뮨 프로틴 밸런스 L, 608g, 1개",
-          "price": "24,840원",
-          "discount_rate": 26,
-          "priceAt": "08.12 18:09",
-          "image": "https://image12.coupangcdn.com/image/retail/images/460804778143902-d136a245-a5ac-45c5-9da2-2d3c38b2e672.jpg",
-          "url": "https://link.coupang.com/a/f9xx6dcFj2",
-          "_ts": 1786525742.84775
         }
       ]
     },
@@ -1148,6 +1139,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "청우 계란과자, 40g, 12개",
+          "price": "8,500원",
+          "discount_rate": 55,
+          "priceAt": "08.17 18:13",
+          "image": "https://shopping.toss.im/live/taca/ai/NGYxNGJj/Y0dHMWRhZUtTNmRaTFpzMnJ5azlUK3BJcHRrNnlEUzA2VUhObTNUSTBtaz0.png",
+          "url": "https://toss.im/_m/jalRreED",
+          "_ts": 1786958036.504716
+        },
         {
           "name": "HC한우마을 1등급 한우 꽃등심, 450g, 1개",
           "price": "29,900원",
@@ -1633,15 +1633,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/N2EzZDI1/QU1URXZZMk1aczdtY3h2d1l6T2ROYm5NUmxvY25HT2xiemV4enZQeFhEc1k.png",
           "url": "https://toss.im/_m/DKDtJB31",
           "_ts": 1786527715.938261
-        },
-        {
-          "name": "바이퀸 데일리 블루베리주스 100퍼센트, 100ml, 30포, 1박스",
-          "price": "19,900원",
-          "discount_rate": 66,
-          "priceAt": "08.12 18:13",
-          "image": "https://shopping.toss.im/live/taca/ai/MDhjNTg0/QUtyVmlGTDg5Z2pFSFBsV1dRSm5RU2JCS3ppazI1cm1sYWNsUHFrWm0vQ2Y.png",
-          "url": "https://toss.im/_m/PEX6uXMz",
-          "_ts": 1786526027.480151
         }
       ]
     },
