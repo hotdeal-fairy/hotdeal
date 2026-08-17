@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "연화삼월 여름 즉각냉감 냉감이불 알러지케어 통기성 부드러운 아이스 차렵이불",
+          "price": "5,900원",
+          "discount_rate": 70,
+          "priceAt": "08.17 21:46",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/506c/e6a7b27d9b2da158006df50836135b3d11270d6ee6ad74efcc28819a1831.png",
+          "url": "https://link.coupang.com/a/gh5DF2sBqe",
+          "_ts": 1786970816.148282
+        },
+        {
           "name": "코카콜라 제로 제로 무라벨",
           "price": "13,030원",
           "discount_rate": 17,
@@ -1104,24 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/43cb3af1-1299-40e4-82c4-c812f1c287c7163952231258445698.png",
           "url": "https://link.coupang.com/a/f9PdSZ5WeG",
           "_ts": 1786540615.037374
-        },
-        {
-          "name": "크라운 비단박하캔디, 400g, 3개, 400g × 3개",
-          "price": "8,340원",
-          "discount_rate": 27,
-          "priceAt": "08.12 21:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/36361172832830-520dffd7-7092-4260-94e2-d992da0e5054.jpg",
-          "url": "https://link.coupang.com/a/f9MRBBo136",
-          "_ts": 1786538625.526979
-        },
-        {
-          "name": "거북이달린다 팔당오징어 (냉동), 2개, 400g",
-          "price": "14,800원",
-          "discount_rate": 22,
-          "priceAt": "08.12 21:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/72636239852012-c46e2e84-9f64-4b60-821e-b46ba172931e.jpg",
-          "url": "https://link.coupang.com/a/f9LmLUBbTU",
-          "_ts": 1786537367.0526211
         }
       ]
     },
