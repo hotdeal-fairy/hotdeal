@@ -1032,15 +1032,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/d154fbb1-9ca4-4d4e-99f5-9e54f24192086782480124067487611.png",
           "url": "https://link.coupang.com/a/gaYS3Zicqj",
           "_ts": 1786600807.042881
-        },
-        {
-          "name": "더미식 닭개장, 350g, 10개",
-          "price": "20,900원",
-          "discount_rate": 65,
-          "priceAt": "08.13 14:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c208e97b-f125-47a0-a49d-38417d18e5c16595452764069637003.png",
-          "url": "https://link.coupang.com/a/gaYr09Bfa0",
-          "_ts": 1786600386.4628868
         }
       ]
     },
@@ -1049,6 +1040,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉, 1개",
+          "price": "9,400원",
+          "discount_rate": 46,
+          "priceAt": "08.18 14:57",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWNlZWJm/YVhJMlN6dHlnM3kzSTNtRjdJM1NZMGJzRFp3eWF6SnovZFRzdFAyVTAwcz0.png",
+          "url": "https://toss.im/_m/X4a9035g",
+          "_ts": 1787032671.690285
+        },
         {
           "name": "한라식품 참치액, 900ml, 3개",
           "price": "18,800원",
