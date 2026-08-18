@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "수미칩 오리지널, 85g, 6개",
+          "price": "11,190원",
+          "discount_rate": null,
+          "priceAt": "08.18 11:42",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/581805366559763-101c8a7b-fa89-4079-b9d1-e314136d5107.jpg",
+          "url": "https://link.coupang.com/a/gi3eEG7Ssm",
+          "_ts": 1787020954.68415
+        },
+        {
           "name": "레스트립 귀편한 소음 차단 99.9% 실리콘 수면 귀마개 베이지, 1개입, 1세트",
           "price": "3,900원",
           "discount_rate": 48,
@@ -1516,15 +1525,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MjM4YWVh/Y1BHL3ZQV01lSE5ZOGMrT2NQVFBTNXh4czR5MHRNdFBlUEcwdEhqeDlMUT0.png",
           "url": "https://toss.im/_m/PBMv3Sr2",
           "_ts": 1786591686.07152
-        },
-        {
-          "name": "어촌명가 당일제조 수제 간장 참소라장, 500g, 2개",
-          "price": "19,400원",
-          "discount_rate": 67,
-          "priceAt": "08.13 11:06",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTIyOWUx/VzVYbHIxdnd0bTUrbWNFblNNdHArNXZiOHpBcld5elhJOWllQ0VVREFlYz0.png",
-          "url": "https://toss.im/_m/BR9Wigtc",
-          "_ts": 1786586775.466538
         }
       ]
     },
