@@ -1077,6 +1077,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "할리스 시그니처 아메리카노, 550ml, 24개",
+          "price": "24,990원",
+          "discount_rate": 67,
+          "priceAt": "08.18 11:02",
+          "image": "https://shopping.toss.im/live/taca/ai/MGZkYjE2/Sk1aZUQrbHcxUGpHUERqSHp3dTdoelphYXo0Y2ZzT1dQdFRsYWMya1VuST0.png",
+          "url": "https://toss.im/_m/PScsPEmj",
+          "_ts": 1787018542.6572511
+        },
+        {
           "name": "아보카도, 특대과, 230g내외, 10개, 1박스",
           "price": "11,800원",
           "discount_rate": 77,
@@ -1516,24 +1525,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZTIyOWUx/VzVYbHIxdnd0bTUrbWNFblNNdHArNXZiOHpBcld5elhJOWllQ0VVREFlYz0.png",
           "url": "https://toss.im/_m/BR9Wigtc",
           "_ts": 1786586775.466538
-        },
-        {
-          "name": "수뜰리에 클린 퍼퓸 포밍 핸드 워시, 블랑쉬향, 510ml, 2개",
-          "price": "3,500원",
-          "discount_rate": 91,
-          "priceAt": "08.13 10:42",
-          "image": "https://shopping.toss.im/live/temp/2025-07-23/b09a7cee-3f0c-4dc7-8e32-6a412bb7b102.jpeg",
-          "url": "https://toss.im/_m/Htftkjyd",
-          "_ts": 1786585343.396041
-        },
-        {
-          "name": "매일유업 매일두유 99.9 플레인, 190ml, 24개",
-          "price": "14,700원",
-          "discount_rate": 52,
-          "priceAt": "08.13 10:29",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2VhODc2/QU01YXpzWmlZODVqemx0cDJqR3dITU5OeTFXdTNTaHpHQ09aSTVuY3pZNzM.png",
-          "url": "https://toss.im/_m/Nnbrpxh7",
-          "_ts": 1786584567.230919
         }
       ]
     },
