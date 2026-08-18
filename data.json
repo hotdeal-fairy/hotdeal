@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "질레트 정품 프로글라이드 매뉴얼 면도기 핸들 + 면도날 12p, 1세트",
+          "price": "34,580원",
+          "discount_rate": 32,
+          "priceAt": "08.18 19:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97852537632724-fb32b67b-f60e-495a-9028-70a7c4a4a899.jpg",
+          "url": "https://link.coupang.com/a/gjCAzhzQbs",
+          "_ts": 1787050537.921341
+        },
+        {
           "name": "다다랜드 동물친구들 규조토 발매트",
           "price": "2,900원",
           "discount_rate": null,
@@ -1023,15 +1032,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e0b1/1537494d6b4dda2f383f4c1f9c6013265d7e438ca64520ad13960f1b332a.png",
           "url": "https://link.coupang.com/a/gbowCKSwdo",
           "_ts": 1786622301.7113001
-        },
-        {
-          "name": "풀무원 2분조리 국물떡볶이, 170g, 2개",
-          "price": "2,680원",
-          "discount_rate": 39,
-          "priceAt": "08.13 19:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2b4a/de11a628bfe3b6ec88a60620f1517f1beb1e8b9aaed3c25eacd45fbc3b28.jpg",
-          "url": "https://link.coupang.com/a/gbjNFcGH92",
-          "_ts": 1786618311.7633128
         }
       ]
     },
