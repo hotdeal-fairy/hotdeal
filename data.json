@@ -1005,15 +1005,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7734/c6a9d6ad511037f982ec292c8d7f91c6d3637021c2d2dd51e6739bc12ba9.jpg",
           "url": "https://link.coupang.com/a/gbac8lBJV6",
           "_ts": 1786610302.9289238
-        },
-        {
-          "name": "요미요미 튼튼주스 125ml, 8개",
-          "price": "4,900원",
-          "discount_rate": 49,
-          "priceAt": "08.13 16:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/177166490506508-0f362383-0f9f-47fa-a7d7-870be14ae6ca.jpg",
-          "url": "https://link.coupang.com/a/ga3K6B3QPY",
-          "_ts": 1786604861.67803
         }
       ]
     },
@@ -1022,6 +1013,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "올바른 파로 효소 골드, 3g, 30포, 6박스",
+          "price": "26,010원",
+          "discount_rate": 66,
+          "priceAt": "08.18 16:40",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTM0MTcz/Yk1uYmMyUnAyN2F5Y1czdG0zSE42K1RaWnBhbm1SOGJ5Y21mYXhLMDhEUT0.png",
+          "url": "https://toss.im/_m/vZMSB6Fy",
+          "_ts": 1787038829.904151
+        },
         {
           "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30M, 30롤, 2팩",
           "price": "19,900원",
@@ -1462,15 +1462,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZGE1NWEw/T2h3UEtmbzVhVDJvUGExdGtQM2R2UVBrTnFVLzhXdTAvd083VWdBYi9NQT0.png",
           "url": "https://toss.im/_m/jExyqCM5",
           "_ts": 1786664950.192449
-        },
-        {
-          "name": "이장네푸드 전통압착 통들기름 100%, 350ml, 4개",
-          "price": "24,900원",
-          "discount_rate": 76,
-          "priceAt": "08.13 16:14",
-          "image": "https://shopping.toss.im/live/taca/ai/NWNiMTM3/QU0vYytQTWJubnh4R0p5ZWRaU3Y4ODVyMENjT1c5RE0rVnVZZmJWYm1PMzU.png",
-          "url": "https://toss.im/_m/9N5uFR3B",
-          "_ts": 1786605277.248499
         }
       ]
     },
