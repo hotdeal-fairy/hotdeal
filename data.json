@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "아디다스 남성용 듀라모 RC2 운동화 JS4428",
+          "price": "33,270원",
+          "discount_rate": 58,
+          "priceAt": "08.18 17:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/07/01/17/1/dd0c9b1f-1768-405f-a964-de4465d38582.jpeg",
+          "url": "https://link.coupang.com/a/gjsWrVekeW",
+          "_ts": 1787042446.606996
+        },
+        {
           "name": "켈로그 프로틴 그래놀라 제로슈거, 350g, 2개",
           "price": "9,170원",
           "discount_rate": 18,
@@ -1005,15 +1014,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/564fd6d4-4b27-4076-b6b2-cdeddc04d21c8450160312271557467.png",
           "url": "https://link.coupang.com/a/gbe2jbIeoT",
           "_ts": 1786614312.202335
-        },
-        {
-          "name": "슬루나 스크래치 제로 양면 스펀지 수세미, 1개, 12개입",
-          "price": "2,980원",
-          "discount_rate": 40,
-          "priceAt": "08.13 17:38",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7734/c6a9d6ad511037f982ec292c8d7f91c6d3637021c2d2dd51e6739bc12ba9.jpg",
-          "url": "https://link.coupang.com/a/gbac8lBJV6",
-          "_ts": 1786610302.9289238
         }
       ]
     },
