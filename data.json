@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "리큐 진한겔 하이브리드 플로랄향 일반용 액상세제 리필, 2.1L, 4개",
+          "price": "11,520원",
+          "discount_rate": 36,
+          "priceAt": "08.18 10:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/761007085729374-b567084c-ea9c-4308-b1f9-a6abb12ade79.jpg",
+          "url": "https://link.coupang.com/a/giXVw5MIcC",
+          "_ts": 1787016396.9336472
+        },
+        {
           "name": "글라스락 퍼플에디션 원형 밀폐용기세트, 400ml, 4개",
           "price": "9,280원",
           "discount_rate": 57,
@@ -1050,15 +1059,6 @@
           "image": "https://img2c.coupangcdn.com/image/retail/images/1066049124660593-168c3d95-e66a-4552-bf87-4382fb8b9340.jpg",
           "url": "https://link.coupang.com/a/gaNbq7ymPY",
           "_ts": 1786590926.331108
-        },
-        {
-          "name": "켈로그 크랜베리 아몬드 그래놀라 시리얼, 550g, 2개",
-          "price": "8,550원",
-          "discount_rate": 33,
-          "priceAt": "08.13 09:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2827164638869185-deae896e-e571-46d4-a5af-2058b4bc654d.jpg",
-          "url": "https://link.coupang.com/a/gaBmOVDVKe",
-          "_ts": 1786581004.848667
         }
       ]
     },
@@ -1525,33 +1525,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Y2VhODc2/QU01YXpzWmlZODVqemx0cDJqR3dITU5OeTFXdTNTaHpHQ09aSTVuY3pZNzM.png",
           "url": "https://toss.im/_m/Nnbrpxh7",
           "_ts": 1786584567.230919
-        },
-        {
-          "name": "동화약품 까스활 코어농축액, 15ml, 24개",
-          "price": "14,900원",
-          "discount_rate": 51,
-          "priceAt": "08.13 09:38",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/NTAzNmFk/Tk12bVk1dU1tMXBaOUJtY2ppem04K1R6akd3ODNIR1QwMndUV3ptTTdLUT0.png",
-          "url": "https://toss.im/_m/rHeR1lRq",
-          "_ts": 1786581481.983715
-        },
-        {
-          "name": "센토 프라임 초미세 딥클린 점보 칫솔, 12개입, 1개",
-          "price": "8,900원",
-          "discount_rate": 64,
-          "priceAt": "08.13 09:21",
-          "image": "https://shopping.toss.im/live/temp/2025-11-24/3f550b97-794c-4e17-9fd9-d3269d6f6dd5.jpeg",
-          "url": "https://toss.im/_m/TREoY0Xu",
-          "_ts": 1786580508.210898
-        },
-        {
-          "name": "돌쇠네 수제 떡갈비, 120g, 10팩",
-          "price": "17,900원",
-          "discount_rate": 50,
-          "priceAt": "08.13 09:15",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDgwODI5/QU02SGxFdlJ3d3lZdndlZUxpdkRUTno5UTQ0YmRRUHpmWVNIOHk1Q3IzajM.png",
-          "url": "https://toss.im/_m/pbUA3Qlx",
-          "_ts": 1786580154.616472
         }
       ]
     },
