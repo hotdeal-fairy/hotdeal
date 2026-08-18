@@ -1041,6 +1041,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "삼형제 쪽파 파김치, 2kg, 1개",
+          "price": "9,900원",
+          "discount_rate": 38,
+          "priceAt": "08.18 19:38",
+          "image": "https://shopping.toss.im/live/taca/ai/NzMyZDQw/QVBPZi9qZFR6TjV1eHMxWnpUOFpNem44T2MyWjBmRHpkZ3YwcmJ1OVE5Wms.png",
+          "url": "https://toss.im/_m/zmhFToB9",
+          "_ts": 1787049533.115416
+        },
+        {
           "name": "이선별 밀크 카스테라, 개별포장, 28개, 1박스",
           "price": "15,400원",
           "discount_rate": 51,
