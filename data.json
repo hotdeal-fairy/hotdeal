@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "유리오 심플 미니 크로스백 여행 산책 보조가방",
+          "price": "3,900원",
+          "discount_rate": 80,
+          "priceAt": "08.18 18:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c5d9/0c41dd03a679c1cd459f600b3970395339ba4054377d7330cf65e19f524a.png",
+          "url": "https://link.coupang.com/a/gjyiiKZ63E",
+          "_ts": 1787046946.231675
+        },
+        {
           "name": "리챔 오리지널, 340g, 5개",
           "price": "14,450원",
           "discount_rate": 61,
@@ -1014,15 +1023,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/2b4a/de11a628bfe3b6ec88a60620f1517f1beb1e8b9aaed3c25eacd45fbc3b28.jpg",
           "url": "https://link.coupang.com/a/gbjNFcGH92",
           "_ts": 1786618311.7633128
-        },
-        {
-          "name": "쉐푸드 등심 통 돈까스 (냉동), 300g, 2개",
-          "price": "9,480원",
-          "discount_rate": 30,
-          "priceAt": "08.13 18:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/564fd6d4-4b27-4076-b6b2-cdeddc04d21c8450160312271557467.png",
-          "url": "https://link.coupang.com/a/gbe2jbIeoT",
-          "_ts": 1786614312.202335
         }
       ]
     },
