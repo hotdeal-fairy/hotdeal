@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "아임리얼 100 고농축 블루베리, 120ml, 24개",
+          "price": "15,000원",
+          "discount_rate": 28,
+          "priceAt": "08.18 13:10",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/591196110950012-09acc858-a8fc-4093-90e2-918db03a983b.jpg",
+          "url": "https://link.coupang.com/a/gi9CHnjCpg",
+          "_ts": 1787026233.275616
+        },
+        {
           "name": "풀무원 큰네모 유부초밥, 395g, 1개",
           "price": "3,990원",
           "discount_rate": 37,
@@ -1041,24 +1050,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/541814731239728-e387b70a-e081-489f-b8fd-e3420cae2160.jpg",
           "url": "https://link.coupang.com/a/gaUBBnGxki",
           "_ts": 1786597187.458575
-        },
-        {
-          "name": "오뚜기 맛있는 오리지널 핫도그 (냉동), 80g, 5개입, 6개",
-          "price": "22,300원",
-          "discount_rate": 63,
-          "priceAt": "08.13 13:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/84dbedcb-4741-4f2b-b493-956dfd7d90123415119474848962425.png",
-          "url": "https://link.coupang.com/a/gaQ5McYxgG",
-          "_ts": 1786594212.0086322
-        },
-        {
-          "name": "얼라이브 원스데일리 포 맨 멀티비타민, 80정, 1개",
-          "price": "23,320원",
-          "discount_rate": 21,
-          "priceAt": "08.13 13:10",
-          "image": "https://static.coupangcdn.com/image/retail/images/428647611897284-e9a70e91-42ea-448e-80f6-361b9b55cc4c.jpg",
-          "url": "https://link.coupang.com/a/gaQ5FfwfyC",
-          "_ts": 1786594206.3017511
         }
       ]
     },
