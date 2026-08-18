@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "클룹 애사비소다 오리지널, 500ml, 24개",
+          "price": "19,320원",
+          "discount_rate": 23,
+          "priceAt": "08.18 12:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/24599535340050-cb0e951e-5cc4-46ba-94d2-ddfc455ce91b.png",
+          "url": "https://link.coupang.com/a/gi8QUOt3ca",
+          "_ts": 1787025570.5672462
+        },
+        {
           "name": "아이깨끗해 핸드워시 순 파우더향 리필용, 450ml, 3개",
           "price": "7,300원",
           "discount_rate": 25,
@@ -1041,51 +1050,6 @@
           "image": "https://static.coupangcdn.com/image/retail/images/428647611897284-e9a70e91-42ea-448e-80f6-361b9b55cc4c.jpg",
           "url": "https://link.coupang.com/a/gaQ5FfwfyC",
           "_ts": 1786594206.3017511
-        },
-        {
-          "name": "오뚜기 가벼운 참치 더마일드, 135g, 8개",
-          "price": "11,480원",
-          "discount_rate": 50,
-          "priceAt": "08.13 12:58",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/91446869796237-81945456-b680-4025-8997-1b08fde7423d.jpg",
-          "url": "https://link.coupang.com/a/gaQeDVT7L2",
-          "_ts": 1786593514.533304
-        },
-        {
-          "name": "AHC 마스터즈 아쿠아 리치 선크림 SPF50+ PA++++, 30ml, 2개",
-          "price": "9,000원",
-          "discount_rate": 62,
-          "priceAt": "08.13 12:50",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4119157550861544-e8dcce7c-5071-49c5-81f5-76c7c7bc9070.jpg",
-          "url": "https://link.coupang.com/a/gaPDCsWOsK",
-          "_ts": 1786593059.946783
-        },
-        {
-          "name": "크라운 참쌀설병, 270g, 2개",
-          "price": "5,540원",
-          "discount_rate": 48,
-          "priceAt": "08.13 12:29",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/330441731394352-c70e36c2-7b6e-45f5-9ad8-0fe1dae71cc9.jpg",
-          "url": "https://link.coupang.com/a/gaN4Kl9CpM",
-          "_ts": 1786591754.404727
-        },
-        {
-          "name": "매일유업 바나나는 원래 하얗다 우유, 190ml, 12개",
-          "price": "5,800원",
-          "discount_rate": 46,
-          "priceAt": "08.13 12:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6ba3/0aad4003b85eb7676ca95520ff981ab96b74d6ee3e9769ddd4aa086b52e1.jpg",
-          "url": "https://link.coupang.com/a/gaN0EWIcIm",
-          "_ts": 1786591650.175136
-        },
-        {
-          "name": "토레타 이온음료, 500ml, 24개",
-          "price": "13,490원",
-          "discount_rate": 26,
-          "priceAt": "08.13 12:15",
-          "image": "https://img2c.coupangcdn.com/image/retail/images/1066049124660593-168c3d95-e66a-4552-bf87-4382fb8b9340.jpg",
-          "url": "https://link.coupang.com/a/gaNbq7ymPY",
-          "_ts": 1786590926.331108
         }
       ]
     },
@@ -1507,33 +1471,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NWNiMTM3/QU0vYytQTWJubnh4R0p5ZWRaU3Y4ODVyMENjT1c5RE0rVnVZZmJWYm1PMzU.png",
           "url": "https://toss.im/_m/9N5uFR3B",
           "_ts": 1786605277.248499
-        },
-        {
-          "name": "심야포차 양념 무뼈닭발, 300g, 3팩",
-          "price": "16,900원",
-          "discount_rate": 52,
-          "priceAt": "08.13 12:29",
-          "image": "https://shopping.toss.im/live/taca/ai/Mjg2Mjk1/QUtaVzdLZlpyZWVNMDFZOWthVytTdHk4N0lTWFJYZ2pGbGV3MFFieWhTdGs.png",
-          "url": "https://toss.im/_m/3tn7xGB3",
-          "_ts": 1786591760.44155
-        },
-        {
-          "name": "에이스퍼플리 고농축 핑크로즈 섬유유연제, 실내건조, 2.5L, 4통",
-          "price": "4,600원",
-          "discount_rate": 79,
-          "priceAt": "08.13 12:28",
-          "image": "https://shopping.toss.im/live/temp/2026-07-30/13c13abd-479e-43e2-a7b7-ee51aaa98988.jpeg",
-          "url": "https://toss.im/_m/Pi8TpToB",
-          "_ts": 1786591729.775574
-        },
-        {
-          "name": "비오바이 무가당 하이올레익 땅콩버터, 450g, 2개",
-          "price": "14,500원",
-          "discount_rate": 63,
-          "priceAt": "08.13 12:28",
-          "image": "https://shopping.toss.im/live/taca/ai/MjM4YWVh/Y1BHL3ZQV01lSE5ZOGMrT2NQVFBTNXh4czR5MHRNdFBlUEcwdEhqeDlMUT0.png",
-          "url": "https://toss.im/_m/PBMv3Sr2",
-          "_ts": 1786591686.07152
         }
       ]
     },
