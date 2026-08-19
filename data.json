@@ -987,15 +987,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4da3dc03-748e-4959-9a04-8411345df778823348270401346597.png",
           "url": "https://link.coupang.com/a/gcFafMb8W4",
           "_ts": 1786688336.991046
-        },
-        {
-          "name": "보니티 우베라떼 파우더 스틱, 20g, 10개입, 1개",
-          "price": "3,890원",
-          "discount_rate": 59,
-          "priceAt": "08.14 15:09",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/aa6e/c09c20ab982f78812ba5cab30ddd87e15e5baf0cb74f651e78840ca80f2a.jpg",
-          "url": "https://link.coupang.com/a/gcErGM2NZA",
-          "_ts": 1786687762.215904
         }
       ]
     },
@@ -1004,6 +995,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "옥돌김치 333 프리미엄 총각김치, 2kg, 1개",
+          "price": "14,900원",
+          "discount_rate": 51,
+          "priceAt": "08.19 15:15",
+          "image": "https://shopping.toss.im/live/taca/ai/MTU5ZjFi/QU14bU1WcTBjeVRCa3gzdUdaZWJHVWYrUmhWbzF2UnlXLy9DQU9ZSW04KzE.png",
+          "url": "https://toss.im/_m/1v9cPKZ1",
+          "_ts": 1787120104.477469
+        },
         {
           "name": "가벼운 반달 크로스백, 블랙, FREE, 1개",
           "price": "8,455원",
