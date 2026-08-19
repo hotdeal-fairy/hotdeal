@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "남양유업 요구르트, 65ml, 20개입, 1개",
+          "price": "3,080원",
+          "discount_rate": 50,
+          "priceAt": "08.19 19:07",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/125709798923165-edc67dea-f72c-4f09-aeab-30d8b9053655.jpg",
+          "url": "https://link.coupang.com/a/gld4GQxagK",
+          "_ts": 1787134068.054765
+        },
+        {
           "name": "비비드키친 저칼로리 머스터드소스, 320g, 1개",
           "price": "2,770원",
           "discount_rate": 21,
@@ -1005,15 +1014,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/202418860742753-410f1c63-f059-44b4-8d6f-e6750dbf905b.jpg",
           "url": "https://link.coupang.com/a/gcYpRHNgc0",
           "_ts": 1786704490.520322
-        },
-        {
-          "name": "헬시오리진스 피크노제놀 100mg 베지 캡슐, 120정, 1개",
-          "price": "69,980원",
-          "discount_rate": 25,
-          "priceAt": "08.14 19:05",
-          "image": "https://img5c.coupangcdn.com/image/vendor_inventory/image_audit/prod/3c9b44ea-e769-4778-951e-9ab470f4323d_fixing_v2.png",
-          "url": "https://link.coupang.com/a/gcVn1vbvMq",
-          "_ts": 1786701924.369985
         }
       ]
     },
