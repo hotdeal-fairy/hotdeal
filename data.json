@@ -1014,15 +1014,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1327632924357665-a8839ab4-4774-4f41-ad6e-35c22d6abc35.jpg",
           "url": "https://link.coupang.com/a/gc7CoWRRh7",
           "_ts": 1786712196.289449
-        },
-        {
-          "name": "풀무원 얇은피 꽉찬속 김치만두 (냉동), 400g, 4개",
-          "price": "10,160원",
-          "discount_rate": 20,
-          "priceAt": "08.14 20:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/28efdcc7-cc09-4049-85b5-42e92d67d4235288473887101975667.png",
-          "url": "https://link.coupang.com/a/gc27wFYwIm",
-          "_ts": 1786708419.6972969
         }
       ]
     },
@@ -1031,6 +1022,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "황파 양배추즙, 100ml, 100포",
+          "price": "27,500원",
+          "discount_rate": 38,
+          "priceAt": "08.19 21:29",
+          "image": "https://shopping.toss.im/live/taca/ai/YThiODA5/TWxTZlRrWjFUK3I1cjdhYUU2dFZOa0JBS1E1aFNMaExQLzk2UXpxMTh0RT0.png",
+          "url": "https://toss.im/_m/xCoCKchB",
+          "_ts": 1787142598.433992
+        },
         {
           "name": "샐리의법칙 트리플 순면이좋은날 생리대, 중형, 16매, 5팩",
           "price": "7,990원",
@@ -1543,15 +1543,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YjgyN2Zl/Yk5TZjJhZDdTdlN4YzI5VXo2VzE2MjhkUFkwdHFTWHRqd1M2UmZwUVVEbz0.png",
           "url": "https://toss.im/_m/bmmBclYp",
           "_ts": 1786711055.8810828
-        },
-        {
-          "name": "농부의 정육점 국내산 한돈 냉동 돼지목뼈, 4kg, 1개",
-          "price": "9,900원",
-          "discount_rate": 75,
-          "priceAt": "08.14 21:16",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/OTY3ODIz/Unk1VXlueU44dzYyTVNKdzQ5MUNrVjQyejZ1TkNaK2Foc3orVktyVXYyUT0.png",
-          "url": "https://toss.im/_m/p06cChp3",
-          "_ts": 1786709808.9526982
         }
       ]
     },
