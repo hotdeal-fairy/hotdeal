@@ -969,15 +969,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/aa6e/c09c20ab982f78812ba5cab30ddd87e15e5baf0cb74f651e78840ca80f2a.jpg",
           "url": "https://link.coupang.com/a/gcErGM2NZA",
           "_ts": 1786687762.215904
-        },
-        {
-          "name": "바겐슈타이거 스텐 304 펀칭찜기 1단, 18cm, 1개",
-          "price": "10,900원",
-          "discount_rate": 27,
-          "priceAt": "08.14 13:16",
-          "image": "https://static.coupangcdn.com/image/retail/images/391794855920735-d8304ca2-f10c-49d0-8309-c250827442d5.jpg",
-          "url": "https://link.coupang.com/a/gcwrTqCDSK",
-          "_ts": 1786680988.214973
         }
       ]
     },
@@ -986,6 +977,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "안국건강 아이원 루테인 지아잔틴 미니, 60캡슐, 3박스",
+          "price": "31,400원",
+          "discount_rate": 58,
+          "priceAt": "08.19 13:23",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWI3MmI4/QUp1eUpsYlp1YmJWVDQ3OWNaYk5ySkk0TG9mUk5xMHNIc0hnTnAybHNVbGk.png",
+          "url": "https://toss.im/_m/zQlQlxd3",
+          "_ts": 1787113417.023715
+        },
         {
           "name": "습기타파 제습제, 280g, 24개",
           "price": "15,700원",
@@ -1444,15 +1444,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-07-28/0c4bf6fe-c2e8-40ee-aeb6-ce062de0c2ce.jpeg",
           "url": "https://toss.im/_m/FounK7Ie",
           "_ts": 1786689926.0540931
-        },
-        {
-          "name": "국내산 오븐에 구운 수제 두부과자, 110g, 5개",
-          "price": "7,900원",
-          "discount_rate": 53,
-          "priceAt": "08.14 12:59",
-          "image": "https://shopping.toss.im/live/taca/ai/ODAzOTFj/VmpNaWJJd1Q4YVNiTFZqTFBaRjVsbk42b3VkbmpjczQzNk9LM3dWSHpBbz0.png",
-          "url": "https://toss.im/_m/B1g79357",
-          "_ts": 1786679940.565259
         }
       ]
     },
