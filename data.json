@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "쿨박사 쿨링티슈 데오 쿨링 시트 타올 쿨스카프 특대형, 7매입, 3개",
+          "price": "8,400원",
+          "discount_rate": 67,
+          "priceAt": "08.19 15:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8cf2/c94c5df144725b1fe0bd08c432d2214a78e80f0a3b2a2efad790c5996af3.jpg",
+          "url": "https://link.coupang.com/a/gkXSHTVHOu",
+          "_ts": 1787120471.400394
+        },
+        {
           "name": "벳플 동아제약 반려동물 락토덴탈 영양제, 30회분, 장건강/유산균, 1개",
           "price": "18,430원",
           "discount_rate": 47,
@@ -978,15 +987,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/269123568844795-f2f7fe4b-0a89-49fd-867a-ac36957f1574.jpg",
           "url": "https://link.coupang.com/a/gcGioti2yO",
           "_ts": 1786689283.4487622
-        },
-        {
-          "name": "뉴케어당플랜 저당 안심 크런치칩 어니언맛, 40g, 6개, 40g × 6개",
-          "price": "9,750원",
-          "discount_rate": 54,
-          "priceAt": "08.14 15:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4da3dc03-748e-4959-9a04-8411345df778823348270401346597.png",
-          "url": "https://link.coupang.com/a/gcFafMb8W4",
-          "_ts": 1786688336.991046
         }
       ]
     },
