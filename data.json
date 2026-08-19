@@ -924,15 +924,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/309525194242288-9f6d0437-8bb3-48ca-a901-840866d6bdb9.jpg",
           "url": "https://link.coupang.com/a/gcpuY6OBTo",
           "_ts": 1786675211.447561
-        },
-        {
-          "name": "무직타이거 미니꿀꽈배기, 3개, 400g",
-          "price": "9,900원",
-          "discount_rate": 25,
-          "priceAt": "08.14 09:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/80504870919055-ee52c397-5244-4a19-9a68-4bcd41f43eff.jpg",
-          "url": "https://link.coupang.com/a/gcfYVe9asS",
-          "_ts": 1786667178.990635
         }
       ]
     },
@@ -941,6 +932,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "청우 초코파이 찰떡, 860g, 1박스",
+          "price": "9,900원",
+          "discount_rate": 50,
+          "priceAt": "08.19 09:52",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/NmMxYzc5/VjhFcUg5WTVxWFM2dEJITlZwNnBhVmN3Q3EwTldpUzErbUFjUEFMRGQ0WT0.png",
+          "url": "https://toss.im/_m/X7VGDRFt",
+          "_ts": 1787100762.791189
+        },
         {
           "name": "풀무원 아임리얼 100 고농축 블루베리, 120ml, 24개",
           "price": "18,800원",
