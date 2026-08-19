@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "팬콧키즈 아동용 이큅먼트 로고패턴 리버서블 덕다운, 11T(10~11세), BABY BLUE",
+          "price": "19,370원",
+          "discount_rate": 57,
+          "priceAt": "08.20 08:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/kwkcthe4/e26380041d0b4282ae8f90b56294a653.jpg",
+          "url": "https://link.coupang.com/a/gl9jd9W8jY",
+          "_ts": 1787182123.034771
+        },
+        {
           "name": "라이스크리스피 트리트 더 오리지널, 22g, 24개",
           "price": "10,650원",
           "discount_rate": 65,
@@ -1041,15 +1050,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d589/9d4803ea74ce1d50bb65f3714d407f4a70fcd1cd68ea644f1c9172810191.jpg",
           "url": "https://link.coupang.com/a/gdY5ZoKKya",
           "_ts": 1786757128.457977
-        },
-        {
-          "name": "해태htb 갈배사이다 제로, 355ml, 24개",
-          "price": "10,320원",
-          "discount_rate": 19,
-          "priceAt": "08.15 07:57",
-          "image": "https://image8.coupangcdn.com/image/vendor_inventory/49f9/74d9c746d407351a18e1f4627dbd303a8dfd4d7547b91663c3b93f562bd2.jpg",
-          "url": "https://link.coupang.com/a/gdOyUOwBVI",
-          "_ts": 1786748250.584655
         }
       ]
     },
@@ -1543,15 +1543,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-10/1ceb45c9-affc-4555-a369-0858a9067b6a.png",
           "url": "https://toss.im/_m/lroLKJe2",
           "_ts": 1786753043.724898
-        },
-        {
-          "name": "오즈랜드 초코와플, 21.4g, 20봉, 1박스",
-          "price": "7,900원",
-          "discount_rate": 55,
-          "priceAt": "08.15 08:09",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDYyMjk4/QU95bDRkelhXbjBiV1dHTldzeFFvMHczeVZSYVZOSnU1eXUxdEZiZEZNdXQ.png",
-          "url": "https://toss.im/_m/jGC3jvz8",
-          "_ts": 1786748959.912944
         }
       ]
     },
