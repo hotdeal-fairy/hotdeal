@@ -1032,6 +1032,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "웅진식품 애사비 오리지널, 500ml, 24개",
+          "price": "14,900원",
+          "discount_rate": 48,
+          "priceAt": "08.19 19:20",
+          "image": "https://shopping.toss.im/live/taca/ai/MjJhNmY0/QUpsanJKbTFZMjM3dm9kMmxFSDRtMk9TbkdscmRwUkphMzRVYkp4L0hiYVU.png",
+          "url": "https://toss.im/_m/9YsxSnDp",
+          "_ts": 1787134806.799062
+        },
+        {
           "name": "종표 쫄깃 국수, 1.5kg, 1개",
           "price": "6,900원",
           "discount_rate": 60,
