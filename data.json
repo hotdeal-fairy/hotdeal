@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "지퍼락 간단 지퍼백, 5개, 소(S), 16개",
+          "price": "5,140원",
+          "discount_rate": 59,
+          "priceAt": "08.19 15:54",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fcb5/42a9d1f37ad56e6ef69e1e8dde561a252a40c72421281bec9ac0029c5d07.jpg",
+          "url": "https://link.coupang.com/a/gk0hBkg3wa",
+          "_ts": 1787122488.0725381
+        },
+        {
           "name": "쿨박사 쿨링티슈 데오 쿨링 시트 타올 쿨스카프 특대형, 7매입, 3개",
           "price": "8,400원",
           "discount_rate": 67,
@@ -969,24 +978,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/956585143903-583f1138-1e47-46c4-af75-c8ca35500bf1.jpg",
           "url": "https://link.coupang.com/a/gcKuptvWs8",
           "_ts": 1786692837.771979
-        },
-        {
-          "name": "죽염 시린고 치약, 120g, 6개",
-          "price": "10,340원",
-          "discount_rate": 87,
-          "priceAt": "08.14 15:47",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2855800774866476-1ecb10ee-d533-44ed-9fc0-ae97fb71348a.jpg",
-          "url": "https://link.coupang.com/a/gcHbTCdvyu",
-          "_ts": 1786690072.665262
-        },
-        {
-          "name": "미미네 어묵많이 국물떡볶이 (냉동), 570g, 2봉",
-          "price": "6,200원",
-          "discount_rate": 49,
-          "priceAt": "08.14 15:34",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/269123568844795-f2f7fe4b-0a89-49fd-867a-ac36957f1574.jpg",
-          "url": "https://link.coupang.com/a/gcGioti2yO",
-          "_ts": 1786689283.4487622
         }
       ]
     },
@@ -1480,15 +1471,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-11/b89e9801-99ac-459e-9765-3159525d965b.jpeg",
           "url": "https://toss.im/_m/tli7R7Dz",
           "_ts": 1786697321.5574028
-        },
-        {
-          "name": "일동후디스 하이뮨 프로틴 밸런스 액티브 밤티라미수 제로, 250ml, 18개",
-          "price": "19,900원",
-          "discount_rate": 64,
-          "priceAt": "08.14 15:45",
-          "image": "https://shopping.toss.im/live/temp/2025-07-28/0c4bf6fe-c2e8-40ee-aeb6-ce062de0c2ce.jpeg",
-          "url": "https://toss.im/_m/FounK7Ie",
-          "_ts": 1786689926.0540931
         }
       ]
     },
