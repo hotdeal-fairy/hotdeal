@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "켈로그 아몬드 푸레이크 시리얼, 600g, 2개",
+          "price": "8,240원",
+          "discount_rate": 16,
+          "priceAt": "08.20 07:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2749363576207821-be2d7df4-a98f-4f92-a71c-a414e3f9086b.jpg",
+          "url": "https://link.coupang.com/a/gl4NoLL79M",
+          "_ts": 1787178333.604314
+        },
+        {
           "name": "밀크터치 서양자두 비타 캡슐 클렌징폼, 300ml, 1개",
           "price": "10,840원",
           "discount_rate": 57,
@@ -1005,15 +1014,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/249244672828859-868f97b9-006e-49ba-a96b-8c554b35887f.jpg",
           "url": "https://link.coupang.com/a/gdM2UfXtvw",
           "_ts": 1786746977.670777
-        },
-        {
-          "name": "남향푸드또띠아 우리밀 또띠아 지름 20cm (냉동), 40g, 10개입, 1개",
-          "price": "6,200원",
-          "discount_rate": 38,
-          "priceAt": "08.15 07:16",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/02/13/14/3/44814b57-ae30-43ad-9ea3-63a3d78dc3b1.jpg",
-          "url": "https://link.coupang.com/a/gdLx9Mq6cC",
-          "_ts": 1786745765.026371
         }
       ]
     },
