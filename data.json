@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "나이키 헤리티지 레트로 페니 힙색 DR6266-370, 28x12.5x 7.5cm, 그린, 1개",
+          "price": "12,660원",
+          "discount_rate": 68,
+          "priceAt": "08.19 17:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/25/14/7/3456b929-8e74-4447-92bb-465df26ae705.png",
+          "url": "https://link.coupang.com/a/gk87imBkUm",
+          "_ts": 1787129903.076639
+        },
+        {
           "name": "다향 훈제오리 슬라이스, 150g, 1개",
           "price": "3,780원",
           "discount_rate": 29,
@@ -969,24 +978,6 @@
           "image": "https://img5c.coupangcdn.com/image/vendor_inventory/image_audit/prod/3c9b44ea-e769-4778-951e-9ab470f4323d_fixing_v2.png",
           "url": "https://link.coupang.com/a/gcVn1vbvMq",
           "_ts": 1786701924.369985
-        },
-        {
-          "name": "모구모구 복숭아맛 음료, 320ml, 24개",
-          "price": "16,680원",
-          "discount_rate": 23,
-          "priceAt": "08.14 17:50",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b866/ba322ff1bc282f433c6bc52efd5a1817fa7b14b326604d73d51551ec1976.jpg",
-          "url": "https://link.coupang.com/a/gcPWVrSlVI",
-          "_ts": 1786697419.1373281
-        },
-        {
-          "name": "신발 운동화 빨래 세탁망",
-          "price": "3,500원",
-          "discount_rate": 72,
-          "priceAt": "08.14 16:49",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/647e/7d63a41834cc396937dca44296f8b692ab335509163f07992ebf1edab3ff.png",
-          "url": "https://link.coupang.com/a/gcLuWxm6Nw",
-          "_ts": 1786693760.279126
         }
       ]
     },
@@ -1489,15 +1480,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/OTY3ODIz/Unk1VXlueU44dzYyTVNKdzQ5MUNrVjQyejZ1TkNaK2Foc3orVktyVXYyUT0.png",
           "url": "https://toss.im/_m/p06cChp3",
           "_ts": 1786709808.9526982
-        },
-        {
-          "name": "기능성 충격완화 아치깔창, 3P, 260mm, 3개",
-          "price": "10,900원",
-          "discount_rate": 56,
-          "priceAt": "08.14 17:48",
-          "image": "https://shopping.toss.im/live/temp/2026-08-11/b89e9801-99ac-459e-9765-3159525d965b.jpeg",
-          "url": "https://toss.im/_m/tli7R7Dz",
-          "_ts": 1786697321.5574028
         }
       ]
     },
