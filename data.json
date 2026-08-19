@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "아토앤오투 젖병&주방세제 무향, 480g, 1개",
+          "price": "8,900원",
+          "discount_rate": 41,
+          "priceAt": "08.19 12:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f333/24cc0ebebe13dbbeabb5136ddb55e37225adb214db73e6d4176ac4dc5fab.jpg",
+          "url": "https://link.coupang.com/a/gkLURklE8y",
+          "_ts": 1787110425.2929091
+        },
+        {
           "name": "아토팜 판테놀 로션, 200ml, 2개",
           "price": "29,750원",
           "discount_rate": 21,
@@ -969,15 +978,6 @@
           "image": "https://static.coupangcdn.com/image/retail/images/391794855920735-d8304ca2-f10c-49d0-8309-c250827442d5.jpg",
           "url": "https://link.coupang.com/a/gcwrTqCDSK",
           "_ts": 1786680988.214973
-        },
-        {
-          "name": "남양유업 드빈치 자연방목 체다치즈, 17g, 30개입, 2개",
-          "price": "9,980원",
-          "discount_rate": 50,
-          "priceAt": "08.14 11:40",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/309525194242288-9f6d0437-8bb3-48ca-a901-840866d6bdb9.jpg",
-          "url": "https://link.coupang.com/a/gcpuY6OBTo",
-          "_ts": 1786675211.447561
         }
       ]
     },
@@ -1453,24 +1453,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ODAzOTFj/VmpNaWJJd1Q4YVNiTFZqTFBaRjVsbk42b3VkbmpjczQzNk9LM3dWSHpBbz0.png",
           "url": "https://toss.im/_m/B1g79357",
           "_ts": 1786679940.565259
-        },
-        {
-          "name": "제스타 칫솔, 부드러운 미세모, 20개입, 1개",
-          "price": "9,400원",
-          "discount_rate": 67,
-          "priceAt": "08.14 11:42",
-          "image": "https://shopping.toss.im/live/taca/ai/MmU0OTMy/VlZUdWhlOFU3cW5rVE9RTDlFYTZpelRGaEFXRVRkOTZXWkZSRWRFbDd2ND0.png",
-          "url": "https://toss.im/_m/FIuoYaGi",
-          "_ts": 1786675335.6448781
-        },
-        {
-          "name": "제스프리 썬 골드키위, 중과, 11과, 1kg, 1팩",
-          "price": "8,400원",
-          "discount_rate": 63,
-          "priceAt": "08.14 11:33",
-          "image": "https://shopping.toss.im/live/temp/2026-04-24/e98af57f-712c-4b77-8353-ed42ee1545fb.jpeg",
-          "url": "https://toss.im/_m/Bu4CAfwd",
-          "_ts": 1786674834.169771
         }
       ]
     },
