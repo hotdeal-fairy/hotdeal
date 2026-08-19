@@ -978,6 +978,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "촉촉한 고구마, 50g, 10봉",
+          "price": "9,900원",
+          "discount_rate": 52,
+          "priceAt": "08.19 13:45",
+          "image": "https://shopping.toss.im/live/temp/2025-11-04/3c6bfaee-b83b-4f30-a213-501ffde208b9.jpeg",
+          "url": "https://toss.im/_m/LnAs0rmy",
+          "_ts": 1787114730.983134
+        },
+        {
           "name": "안국건강 아이원 루테인 지아잔틴 미니, 60캡슐, 3박스",
           "price": "31,400원",
           "discount_rate": 58,
