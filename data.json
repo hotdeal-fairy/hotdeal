@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "덴티본조르노 구취 치약, 100g, 3개",
+          "price": "7,220원",
+          "discount_rate": 16,
+          "priceAt": "08.20 10:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/214769729390749-d56a4b15-0bd4-42ea-a2f6-900b8c4eb3b9.jpg",
+          "url": "https://link.coupang.com/a/gmiZ9jOELI",
+          "_ts": 1787190260.9868171
+        },
+        {
           "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
           "price": "5,650원",
           "discount_rate": 31,
@@ -1068,15 +1077,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/df4d/bbcdf1c223786fea8af1d8860cb4ba54c0df4cc823a644ab71c3742e2f1a.png",
           "url": "https://link.coupang.com/a/geazjUGGZM",
           "_ts": 1786766841.530566
-        },
-        {
-          "name": "냉장고바지 여성 와이드 밴딩 팬츠 살랑살랑 냉감소재 여름 통풍바지 베이잉",
-          "price": "3,990원",
-          "discount_rate": 33,
-          "priceAt": "08.15 10:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d589/9d4803ea74ce1d50bb65f3714d407f4a70fcd1cd68ea644f1c9172810191.jpg",
-          "url": "https://link.coupang.com/a/gdY5ZoKKya",
-          "_ts": 1786757128.457977
         }
       ]
     },
@@ -1561,15 +1561,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Zjg5ZTMx/Ym1PYWttSmFTTnl6dUF6a1MzeGxZN1dGTkE1TUMxTnlsRUxYUWx0NlprOD0.png",
           "url": "https://toss.im/_m/9rvrkctx",
           "_ts": 1786761953.372888
-        },
-        {
-          "name": "인사이디 무선 칫솔 살균기, ITS-750, 화이트, 1개",
-          "price": "10,900원",
-          "discount_rate": 56,
-          "priceAt": "08.15 10:35",
-          "image": "https://shopping.toss.im/live/taca/ai/OGI0NWRk/SEJvZVhEanhQbHo0OFRqZ1BZNmg0VCtPU2RPMFlTMGY0WEU3RGpHTTQyST0.png",
-          "url": "https://toss.im/_m/fTPPdocs",
-          "_ts": 1786757721.993867
         }
       ]
     },
