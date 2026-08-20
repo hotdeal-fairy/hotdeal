@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오로나민씨 탄산 드링크, 120ml, 20개",
+          "price": "9,900원",
+          "discount_rate": 22,
+          "priceAt": "08.20 18:10",
+          "image": "https://image6.coupangcdn.com/image/retail/images/73008298501217-935598eb-f714-48d8-a76d-608f0cba65e6.png",
+          "url": "https://link.coupang.com/a/gmOR5O8g4y",
+          "_ts": 1787217019.315897
+        },
+        {
           "name": "롯데카스타드 오리지널, 230g, 3개",
           "price": "9,120원",
           "discount_rate": 14,
@@ -1167,24 +1176,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/233710054552606-953d25f1-3c26-4682-868e-3b048303645c.jpg",
           "url": "https://link.coupang.com/a/gewLSeAOL6",
           "_ts": 1786785371.2928588
-        },
-        {
-          "name": "반디BANDI 살롱드 네일 매니큐어, 7ml, SH110 페일블러쉬, 1개",
-          "price": "5,960원",
-          "discount_rate": 57,
-          "priceAt": "08.15 17:54",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/27/12/4/c2f6a8f3-11c1-47da-b8ad-2cf050b35c0c.jpg",
-          "url": "https://link.coupang.com/a/gevbFMEp3I",
-          "_ts": 1786784072.903442
-        },
-        {
-          "name": "베베쿡 처음먹는 어린이 장조림 메추리알, 100g, 2개",
-          "price": "4,800원",
-          "discount_rate": 44,
-          "priceAt": "08.15 17:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/244061530418279-42ce3550-4690-459f-8a56-90b94a7bb3f3.jpg",
-          "url": "https://link.coupang.com/a/gesJ2hszhk",
-          "_ts": 1786781984.098183
         }
       ]
     },
