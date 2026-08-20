@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "코에픽 알레르기 비염치료 의료기기 본체 + 프로브 2개 + 파우치, 1세트",
+          "price": "84,000원",
+          "discount_rate": 41,
+          "priceAt": "08.20 13:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7873741354078901-b36b8a01-7ba3-43e0-9ef1-1eccedac3461.jpg",
+          "url": "https://link.coupang.com/a/gmtBJJOJ0m",
+          "_ts": 1787199165.955953
+        },
+        {
           "name": "비오레 스킨케어 세안료 리치 모이스처, 130g, 2개",
           "price": "8,800원",
           "discount_rate": 49,
@@ -1104,24 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/138403170569287-c40a87ce-cfc8-4654-a090-30ea50b09f3d.jpg",
           "url": "https://link.coupang.com/a/gefYoEPJ8u",
           "_ts": 1786771267.357314
-        },
-        {
-          "name": "아크네스 퍼펙트 솔루션 폼클렌저, 200ml, 200ml, 2개",
-          "price": "16,920원",
-          "discount_rate": 39,
-          "priceAt": "08.15 13:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/343135773552823-591bae7d-9031-43fa-9a73-963034aba1c5.jpg",
-          "url": "https://link.coupang.com/a/geaID8h2WG",
-          "_ts": 1786766900.071312
-        },
-        {
-          "name": "레인보우 LED 키보드 딸깍이 키캡 키링 9구, 1개, 디스코 9구",
-          "price": "2,500원",
-          "discount_rate": 75,
-          "priceAt": "08.15 13:07",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/df4d/bbcdf1c223786fea8af1d8860cb4ba54c0df4cc823a644ab71c3742e2f1a.png",
-          "url": "https://link.coupang.com/a/geazjUGGZM",
-          "_ts": 1786766841.530566
         }
       ]
     },
