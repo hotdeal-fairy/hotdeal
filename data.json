@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "펄세스 스테비아 마일드 커피믹스, 9.6g, 20개입, 5개",
+          "price": "22,620원",
+          "discount_rate": 54,
+          "priceAt": "08.20 19:14",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5214509318710-1286d285-11de-41eb-8c83-a9a32d5f3469.jpg",
+          "url": "https://link.coupang.com/a/gmTr3pjtYq",
+          "_ts": 1787220862.9752939
+        },
+        {
           "name": "오로나민씨 탄산 드링크, 120ml, 20개",
           "price": "9,900원",
           "discount_rate": 22,
@@ -1651,15 +1660,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/NzFlMzZi/QUtidnRtT2EvRnVvU1psb3NTempzMXlyVk5vZzFWZjlSQnptdEFDbkNDa3o.png",
           "url": "https://toss.im/_m/FtHDddqo",
           "_ts": 1786797200.144348
-        },
-        {
-          "name": "오가닉프렌즈 정성 용융소금 구운소금, 250g, 1개",
-          "price": "9,800원",
-          "discount_rate": 62,
-          "priceAt": "08.15 19:12",
-          "image": "https://shopping.toss.im/live/taca/ai/NTc2NzE3/U1B0MUhlY2Q1Wk1oSERMRyt6TFpxSUxqenpXZk9xQmE3amhmMHJFTmNTMD0.png",
-          "url": "https://toss.im/_m/nR9frrVu",
-          "_ts": 1786788731.773857
         }
       ]
     },
