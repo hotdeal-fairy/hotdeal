@@ -1149,42 +1149,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/337a/92d8d8b988ac7540cff92617e18f20af87d05d39f51f5b32107d136947cd.jpg",
           "url": "https://link.coupang.com/a/geINet7O9c",
           "_ts": 1786795463.321555
-        },
-        {
-          "name": "나인위시스 VB 프리미엄 톤업크림 SPF21 50ml+30ml",
-          "price": "8,870원",
-          "discount_rate": 81,
-          "priceAt": "08.15 20:44",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1106903832502767-2a5be978-549a-481a-b899-5fe2a191d41b.jpg",
-          "url": "https://link.coupang.com/a/geHktCUAWi",
-          "_ts": 1786794296.455195
-        },
-        {
-          "name": "풀무원 더블 치즈폭포 돈카츠 (냉동), 560g, 1개, 560g × 1개",
-          "price": "15,900원",
-          "discount_rate": 29,
-          "priceAt": "08.15 20:23",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/p9yfm1v8/6801e397c3fb48f3a00a1645fdd3e564.jpg",
-          "url": "https://link.coupang.com/a/geFScJbUui",
-          "_ts": 1786793039.0413399
-        },
-        {
-          "name": "데이라이크 다꾸 스티커 스티커북, 1세트, 혼합컬러",
-          "price": "4,480원",
-          "discount_rate": 44,
-          "priceAt": "08.15 19:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0fde/7639780da8b9550bc1b585340a5efe93703f738895439a57711252c361e8.png",
-          "url": "https://link.coupang.com/a/geD7lGJdzE",
-          "_ts": 1786791567.211831
-        },
-        {
-          "name": "아몬드브리즈 초콜릿 제로슈거 음료, 190ml, 24개",
-          "price": "14,550원",
-          "discount_rate": 20,
-          "priceAt": "08.15 19:50",
-          "image": "https://img3c.coupangcdn.com/image/retail/images/2026/04/13/18/3/de91e848-e3dd-421a-9f9e-9cf037ad9a21.jpg",
-          "url": "https://link.coupang.com/a/geDuNd6UnI",
-          "_ts": 1786791017.349395
         }
       ]
     },
@@ -1193,6 +1157,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "웰루츠 냉동 애플망고, 페루산, 1kg, 2개",
+          "price": "9,900원",
+          "discount_rate": 50,
+          "priceAt": "08.20 20:46",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDQxN2Fm/QU1KenpNU1hTNU14N1laNTI1bVR1SG1iRXVXT2JHRTdMMHZGWTIvTTBPenc.png",
+          "url": "https://toss.im/_m/3zEYJvrd",
+          "_ts": 1787226388.300428
+        },
         {
           "name": "에버튼하우스 에그쿠커, DIHY-ES38, 1개",
           "price": "8,900원",
