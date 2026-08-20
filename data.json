@@ -1068,6 +1068,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "바이탈포션 슈퍼 글루타씨온 앰플, 18ml, 1개",
+          "price": "7,700원",
+          "discount_rate": 69,
+          "priceAt": "08.20 10:01",
+          "image": "https://shopping.toss.im/live/temp/2026-06-18/46001376-e75e-4eef-881c-37ad9f02efaf.png",
+          "url": "https://toss.im/_m/5iun7ut2",
+          "_ts": 1787187714.4764538
+        },
+        {
           "name": "농가살리기 전통 호박 인절미, 20g, 75개",
           "price": "12,900원",
           "discount_rate": 50,
