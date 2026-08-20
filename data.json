@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "짜파게티 140g, 5개",
+          "price": "4,500원",
+          "discount_rate": 13,
+          "priceAt": "08.20 11:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/825592908312-ac4fe7f0-9052-4f0c-9801-bc7369a5a778.png",
+          "url": "https://link.coupang.com/a/gmlEqP8fIa",
+          "_ts": 1787192485.616079
+        },
+        {
           "name": "덴티본조르노 구취 치약, 100g, 3개",
           "price": "7,220원",
           "discount_rate": 16,
