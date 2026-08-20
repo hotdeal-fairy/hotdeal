@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "연세우유 마카다미아 초코우유, 190ml, 24개",
+          "price": "10,590원",
+          "discount_rate": 25,
+          "priceAt": "08.20 12:06",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6821556924382-9c5635be-6ee0-4495-a809-7bac9ebf24a2.jpg",
+          "url": "https://link.coupang.com/a/gmoS2j1EjY",
+          "_ts": 1787195202.327391
+        },
+        {
           "name": "짜파게티 140g, 5개",
           "price": "4,500원",
           "discount_rate": 13,
@@ -1561,15 +1570,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-07-23/9fdc3c8f-ca9b-43d1-926f-b9b0cb8f4e04.jpeg",
           "url": "https://toss.im/_m/JfCkfhOD",
           "_ts": 1786767839.863359
-        },
-        {
-          "name": "비타멜라 유기농 애플사이다비니거, 1L, 1개",
-          "price": "6,500원",
-          "discount_rate": 53,
-          "priceAt": "08.15 11:45",
-          "image": "https://shopping.toss.im/live/taca/ai/Zjg5ZTMx/Ym1PYWttSmFTTnl6dUF6a1MzeGxZN1dGTkE1TUMxTnlsRUxYUWx0NlprOD0.png",
-          "url": "https://toss.im/_m/9rvrkctx",
-          "_ts": 1786761953.372888
         }
       ]
     },
