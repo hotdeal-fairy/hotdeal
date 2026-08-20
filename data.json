@@ -1140,6 +1140,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "푸드앳홈 한입 바삭 마늘 바게트, 40g, 10개",
+          "price": "6,500원",
+          "discount_rate": 56,
+          "priceAt": "08.20 14:57",
+          "image": "https://shopping.toss.im/live/temp/2025-01-21/8b5ba25c-12b5-4a1d-bab7-73cd19c703ff.jpeg",
+          "url": "https://toss.im/_m/7x9pPPOt",
+          "_ts": 1787205430.8067021
+        },
+        {
           "name": "고궁 통참깨 참기름, 350ml, 4개",
           "price": "20,900원",
           "discount_rate": 65,
