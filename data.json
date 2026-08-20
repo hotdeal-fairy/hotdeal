@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "동원에프앤비 비엔나소시지, 1kg, 2개",
+          "price": "15,300원",
+          "discount_rate": 30,
+          "priceAt": "08.20 16:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/298b766e-3113-48c2-81f7-a6b73f8f71752495719546385791253.png",
+          "url": "https://link.coupang.com/a/gmGZM22s56",
+          "_ts": 1787210406.9766889
+        },
+        {
           "name": "태블릿PC 3단 케이스, 갤럭시탭S6 10.5 2019 T865/T860/T866N, 블랙, 1개",
           "price": "1,550원",
           "discount_rate": 82,
@@ -1158,15 +1167,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/244061530418279-42ce3550-4690-459f-8a56-90b94a7bb3f3.jpg",
           "url": "https://link.coupang.com/a/gesJ2hszhk",
           "_ts": 1786781984.098183
-        },
-        {
-          "name": "파워에이드 마운틴 블라스트, 600ml, 20개",
-          "price": "17,480원",
-          "discount_rate": 17,
-          "priceAt": "08.15 16:19",
-          "image": "https://img1c.coupangcdn.com/image/retail/images/36145048252261-5d1ae7f2-d59b-4194-baef-461793e3195b.jpg",
-          "url": "https://link.coupang.com/a/geoo3u8phs",
-          "_ts": 1786778345.481601
         }
       ]
     },
