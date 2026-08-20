@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "불닭볶음면 로제 140g, 32개",
+          "price": "33,600원",
+          "discount_rate": 30,
+          "priceAt": "08.21 08:43",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2358762503772178-1940079d-3afa-405c-9a5e-5cff64e3cdfc.jpg",
+          "url": "https://link.coupang.com/a/gnPfTUO5jU",
+          "_ts": 1787269398.251847
+        },
+        {
           "name": "비비드키친 저칼로리 크레이지핫소스, 315g, 2개, 315g × 2개",
           "price": "4,200원",
           "discount_rate": 32,
@@ -1104,15 +1113,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/21/18/3/cb225f5c-5f7d-49e1-9504-1fe0a7ab6f43.jpg",
           "url": "https://link.coupang.com/a/gfwOlwUwLI",
           "_ts": 1786837532.4084108
-        },
-        {
-          "name": "모던하우스 ON 미유 디저트 포크, 아이보리 + 그린, 포크 4p, 1세트",
-          "price": "2,900원",
-          "discount_rate": 67,
-          "priceAt": "08.16 08:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/hymer2qi/8d5f2f494a2b446ba5731225b0411f5b.jpg",
-          "url": "https://link.coupang.com/a/gfu8JeQW0y",
-          "_ts": 1786836057.885947
         }
       ]
     },
