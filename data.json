@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "LARSA 버터, 250g, 2개",
+          "price": "7,120원",
+          "discount_rate": 33,
+          "priceAt": "08.20 14:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7bd3ac6b-0612-4664-a3d7-2072dcbac5a4737621405002259564.png",
+          "url": "https://link.coupang.com/a/gmzehycmtM",
+          "_ts": 1787203886.314962
+        },
+        {
           "name": "해표 해바라기유, 900ml, 1개",
           "price": "3,990원",
           "discount_rate": 35,
@@ -1113,15 +1122,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/64901507888671-65372b68-b0f9-4e5e-a075-4991474080be.png",
           "url": "https://link.coupang.com/a/gemZa0nw16",
           "_ts": 1786777155.548738
-        },
-        {
-          "name": "서울우유 뽀로로 칼슘왕 치즈 180g, 18g, 10개입, 2개",
-          "price": "4,580원",
-          "discount_rate": 44,
-          "priceAt": "08.15 14:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/138403170569287-c40a87ce-cfc8-4654-a090-30ea50b09f3d.jpg",
-          "url": "https://link.coupang.com/a/gefYoEPJ8u",
-          "_ts": 1786771267.357314
         }
       ]
     },
@@ -1588,15 +1588,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-27/cc9a864c-18bd-4f9b-9087-da5a46e42f05.jpeg",
           "url": "https://toss.im/_m/N6D48Rbi",
           "_ts": 1786785034.0207942
-        },
-        {
-          "name": "리벤스 사선컷팅 돌돌이 테이프크리너 리필, 9입, 1개",
-          "price": "8,900원",
-          "discount_rate": 57,
-          "priceAt": "08.15 14:09",
-          "image": "https://shopping.toss.im/live/taca/ai/YzU0M2U2/QUt0MlZZdXExcldOVFVpU3BTMVNXcWZqTnF4MFV5eWlaZFRJcmJhcEpGbmE.png",
-          "url": "https://toss.im/_m/rAdTsesd",
-          "_ts": 1786770560.534004
         }
       ]
     },
