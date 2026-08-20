@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "비비드키친 저칼로리 크레이지핫소스, 315g, 2개, 315g × 2개",
+          "price": "4,200원",
+          "discount_rate": 32,
+          "priceAt": "08.21 08:15",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/63390236451653-cba367f8-242b-4e70-9451-1fe8ff4b9724.png",
+          "url": "https://link.coupang.com/a/gnNhjzFqHk",
+          "_ts": 1787267737.984622
+        },
+        {
           "name": "키즈레시피 여아용 별 나그랑 원피스, 핑크, 13호",
           "price": "3,970원",
           "discount_rate": 75,
@@ -1104,69 +1113,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/hymer2qi/8d5f2f494a2b446ba5731225b0411f5b.jpg",
           "url": "https://link.coupang.com/a/gfu8JeQW0y",
           "_ts": 1786836057.885947
-        },
-        {
-          "name": "티젠 얼그레이홍차, 1.6g, 20개입, 2개",
-          "price": "3,000원",
-          "discount_rate": null,
-          "priceAt": "08.16 07:37",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/89713382146170-886f4567-eecf-4274-bcab-f3a0b38be1ac.jpg",
-          "url": "https://link.coupang.com/a/gfrSI93m3M",
-          "_ts": 1786833429.3094919
-        },
-        {
-          "name": "오리온 초코칩 쿠키 미니, 48g, 16개",
-          "price": "8,580원",
-          "discount_rate": 22,
-          "priceAt": "08.16 07:31",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1375970143942823-45d8c171-fdf8-4dc7-a29d-c0676095866b.png",
-          "url": "https://link.coupang.com/a/gfryYUnfno",
-          "_ts": 1786833093.3397708
-        },
-        {
-          "name": "호무로 쿨네스트 아이스 냉감패드",
-          "price": "19,950원",
-          "discount_rate": 74,
-          "priceAt": "08.16 07:30",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/90112158728315-9ba7454b-d560-46f9-8f02-5eee39099aa0.jpg",
-          "url": "https://link.coupang.com/a/gfrvdjQZVY",
-          "_ts": 1786833051.0885718
-        },
-        {
-          "name": "오뚜기 가벼운참치 살코기, 135g, 8개",
-          "price": "11,480원",
-          "discount_rate": 23,
-          "priceAt": "08.16 07:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/725046880764696-0e252d85-fc0a-4119-b4d4-ddc7f3fa110e.jpg",
-          "url": "https://link.coupang.com/a/gfrsidAkb6",
-          "_ts": 1786832964.1981812
-        },
-        {
-          "name": "청정원 토마토 스파게티소스, 600g, 3개",
-          "price": "9,350원",
-          "discount_rate": 68,
-          "priceAt": "08.16 07:25",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/09/11/4/ca602455-dfcd-44d9-ab56-dbcc5317d2a6.jpg",
-          "url": "https://link.coupang.com/a/gfq6zoGo32",
-          "_ts": 1786832706.922729
-        },
-        {
-          "name": "케라시스 케라마이드 극손상 클리닉 트리트먼트, 200ml, 2개",
-          "price": "4,690원",
-          "discount_rate": 82,
-          "priceAt": "08.16 07:24",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/359294482773608-99268fef-8654-4158-b0d3-d6a07557fe17.jpg",
-          "url": "https://link.coupang.com/a/gfq0GsuHPo",
-          "_ts": 1786832656.470774
-        },
-        {
-          "name": "로셴 스윗 드롭 캔디, 1kg, 1개, 1kg × 1개",
-          "price": "8,880원",
-          "discount_rate": 22,
-          "priceAt": "08.16 07:12",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1826899153610113-26e75ebe-240a-41a6-b8c2-636855948a63.jpg",
-          "url": "https://link.coupang.com/a/gfp9PlWCtM",
-          "_ts": 1786831944.1219552
         }
       ]
     },
@@ -1642,24 +1588,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-12/d7e19f0a-8f32-430b-ac73-0eedc7c52555.jpeg",
           "url": "https://toss.im/_m/dmpfzEDx",
           "_ts": 1786846712.08004
-        },
-        {
-          "name": "리셀 샤워기 100, 1개 + 샤워기 필터, 3개",
-          "price": "3,900원",
-          "discount_rate": 82,
-          "priceAt": "08.16 08:04",
-          "image": "https://shopping.toss.im/live/temp/2026-01-27/cdf9ce44-e161-4544-89d3-badba0eb1707.png",
-          "url": "https://toss.im/_m/PS8xoMxD",
-          "_ts": 1786835055.738278
-        },
-        {
-          "name": "비비드키친 저당 브리또, 피자 2개 + 제육 2개 + 불고기 2개, 1세트",
-          "price": "12,700원",
-          "discount_rate": 50,
-          "priceAt": "08.16 07:41",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZmQxMmYz/SnljdDRWaitjZEU1MGFZKzFrazdPRTBHbU9QeU9EMkRoMEhnL2huRER3az0.png",
-          "url": "https://toss.im/_m/xxOMMzcv",
-          "_ts": 1786833681.3506079
         }
       ]
     },
