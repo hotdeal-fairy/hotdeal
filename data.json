@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "애슐리 시카고 딥디쉬피자 (냉동), 406g, 1개, 4팩",
+          "price": "25,900원",
+          "discount_rate": 35,
+          "priceAt": "08.20 10:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1488308182763739-e26245a7-ec8d-406e-ba8c-f324c9642e2d.jpg",
+          "url": "https://link.coupang.com/a/gmgHzI5q68",
+          "_ts": 1787188330.109469
+        },
+        {
           "name": "비비고 직화 참기름김, 54g, 1개, 54g × 1개",
           "price": "4,800원",
           "discount_rate": 26,
@@ -1552,15 +1561,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OGI0NWRk/SEJvZVhEanhQbHo0OFRqZ1BZNmg0VCtPU2RPMFlTMGY0WEU3RGpHTTQyST0.png",
           "url": "https://toss.im/_m/fTPPdocs",
           "_ts": 1786757721.993867
-        },
-        {
-          "name": "맛장군 열무김치, 2kg, 1팩",
-          "price": "9,900원",
-          "discount_rate": 72,
-          "priceAt": "08.15 10:04",
-          "image": "https://shopping.toss.im/live/temp/2026-04-21/af86d4da-e1ab-4491-b61f-c32e0c5c1f69.jpeg",
-          "url": "https://toss.im/_m/JHR2htoh",
-          "_ts": 1786755863.735612
         }
       ]
     },
