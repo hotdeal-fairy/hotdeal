@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "프로그 라텍스 컴포트 고무장갑, 애쉬블루, 대(L), 6세트",
+          "price": "8,220원",
+          "discount_rate": 69,
+          "priceAt": "08.21 13:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/69560594966312-ee351bd3-b661-4c22-b0f9-647a79aec13f.jpg",
+          "url": "https://link.coupang.com/a/gn7GzWMyES",
+          "_ts": 1787284870.684136
+        },
+        {
           "name": "파워에이드 마운틴블라스트 무라벨, 355ml, 20개",
           "price": "12,820원",
           "discount_rate": 23,
@@ -1041,15 +1050,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/15/9/0/45635de2-6962-44e2-a632-b6b121c02e77.jpg",
           "url": "https://link.coupang.com/a/gfRDIqmkBU",
           "_ts": 1786854971.16174
-        },
-        {
-          "name": "캠핑 천장형 선풍기 천장형 실링팬 서큘레이터 라이트 조명 가정 텐트용, FS-01",
-          "price": "9,500원",
-          "discount_rate": 76,
-          "priceAt": "08.16 12:56",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fd90/5eca4e8915dce750ea52e32c1574d7dadc4dc1d90192cb6f7cc800127bdb.png",
-          "url": "https://link.coupang.com/a/gfOL89VzRA",
-          "_ts": 1786852575.27982
         }
       ]
     },
@@ -1516,15 +1516,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-19/2f207d20-1ceb-446b-a623-b85b45c3a5b7.png",
           "url": "https://toss.im/_m/l0nDBnF3",
           "_ts": 1786862757.094754
-        },
-        {
-          "name": "교동 소고기 미역국, 500g, 5개",
-          "price": "14,200원",
-          "discount_rate": 48,
-          "priceAt": "08.16 13:00",
-          "image": "https://shopping.toss.im/live/taca/ai/NjExZDJi/QU5UV2FtNmJiNHpsWVdYODdzV3hiSk1ia3p0dk94T2xyUmVoU3RDT3hMczc.png",
-          "url": "https://toss.im/_m/PEmw1FH8",
-          "_ts": 1786852852.4315038
         }
       ]
     },
