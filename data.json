@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "루나 프로 포토 피니셔 팩트파우더 8g, 2호블러파우더, 2개, 2호블러파우더 × 2개",
+          "price": "17,200원",
+          "discount_rate": 69,
+          "priceAt": "08.21 21:12",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/332317071513980-a48e2883-7c46-4ed6-9f54-e08565fdde1f.png",
+          "url": "https://link.coupang.com/a/goGO6PnwGa",
+          "_ts": 1787314374.59165
+        },
+        {
           "name": "ROYAI ONE 차량 햇빛가리개 차량앞유리 햇빛가리개, 140*70cm, 2개, 티타늄 실버",
           "price": "3,200원",
           "discount_rate": 59,
@@ -1041,15 +1050,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/169566104885914-d5fe7805-b5b7-4336-a979-e61f2f6fc497.jpg",
           "url": "https://link.coupang.com/a/gg4yeOsnfM",
           "_ts": 1786917846.2358232
-        },
-        {
-          "name": "에코맘의산골이유식 산골쌀참, 자색고구마, 25g, 2개",
-          "price": "2,700원",
-          "discount_rate": 50,
-          "priceAt": "08.16 21:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/19ba75e4-a780-4bdd-acf6-0f46f9e0ef518824555503788646934.png",
-          "url": "https://link.coupang.com/a/ggogFbbPc4",
-          "_ts": 1786882344.537792
         }
       ]
     },
@@ -1534,15 +1534,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NjIzZjBk/QUpRNVg1TkljbTVRWUpiZVFQTm9uZkhqYjkrRGxqWUMzMnREb1U1VzNHdXc.png",
           "url": "https://toss.im/_m/DZp78oss",
           "_ts": 1786882767.671603
-        },
-        {
-          "name": "산해직송 파김치, 1kg, 1개",
-          "price": "10,900원",
-          "discount_rate": 68,
-          "priceAt": "08.16 20:58",
-          "image": "https://shopping.toss.im/live/taca/ai/YTc3Y2Y2/QUoxSFBMQ1l5YkdHampjMFp1TVc0eG5neWR6ZEFBcTFHd0dQWUFZSFA4Uk0.png",
-          "url": "https://toss.im/_m/19un0qrd",
-          "_ts": 1786881482.27262
         }
       ]
     },
