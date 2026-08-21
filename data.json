@@ -1050,15 +1050,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/19ba75e4-a780-4bdd-acf6-0f46f9e0ef518824555503788646934.png",
           "url": "https://link.coupang.com/a/ggogFbbPc4",
           "_ts": 1786882344.537792
-        },
-        {
-          "name": "해태에이스 씬 솔티카라멜, 291g, 5개, 291g × 5개",
-          "price": "12,370원",
-          "discount_rate": 21,
-          "priceAt": "08.16 20:40",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1775d9cb-727c-4af2-84b8-302d5636459011126230418534914690.png",
-          "url": "https://link.coupang.com/a/gglRPQPYB2",
-          "_ts": 1786880403.8328168
         }
       ]
     },
@@ -1067,6 +1058,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "올바른 멀티 비타민 미네랄 액상 이뮨샷 맥스, 7개입, 4박스",
+          "price": "25,947원",
+          "discount_rate": 56,
+          "priceAt": "08.21 20:46",
+          "image": "https://shopping.toss.im/live/taca/ai/ODBhNzhm/THRIN1BPWmN6bmJHUEg3U244bW1hMmJKK2FubUhOdk16blEybkI3RWFaaz0.png",
+          "url": "https://toss.im/_m/F3FAxMt8",
+          "_ts": 1787312799.305632
+        },
         {
           "name": "지리산수 생수, 라벨랜덤, 2L, 18개",
           "price": "9,400원",
