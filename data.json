@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오뚜기 양조 식초, 1.5L, 10개",
+          "price": "11,940원",
+          "discount_rate": 33,
+          "priceAt": "08.21 16:18",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/234529577735981-c04d4f53-204a-4cbd-8b8d-513e1581211e.jpg",
+          "url": "https://link.coupang.com/a/golOviWXMP",
+          "_ts": 1787296734.750717
+        },
+        {
           "name": "페브리즈 화장실용 강력탈취 플러스 비치형 다우니 클린코튼향 탈취제 본품, 18.9ml, 1개",
           "price": "10,500원",
           "discount_rate": 41,
@@ -1068,15 +1077,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/8a065d21-e254-48a0-8686-00cdea925894416159443963286105.png",
           "url": "https://link.coupang.com/a/gf4FXrXtw4",
           "_ts": 1786865895.628468
-        },
-        {
-          "name": "폰즈 클리어 스파 퓨어 리무빙 클렌징 티슈, 30매, 2개",
-          "price": "3,430원",
-          "discount_rate": 61,
-          "priceAt": "08.16 15:15",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/11591172462527-6857e0b6-9a20-4695-b33e-505953db7cf0.png",
-          "url": "https://link.coupang.com/a/gfYD2r9Bqm",
-          "_ts": 1786860956.2453492
         }
       ]
     },
@@ -1552,15 +1552,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZmFhZDlk/V1hQR1p1eGpHUTJWNTRNZGx0ZmhMWEtiQkxtb2JTVDF4ZW5Ua0g2bEZ2bz0.png",
           "url": "https://toss.im/_m/pVYD985q",
           "_ts": 1786871949.7634308
-        },
-        {
-          "name": "럽센트 스크럽 워시, 플라워마켓 화이트튤립, 500ml, 2개",
-          "price": "11,610원",
-          "discount_rate": 78,
-          "priceAt": "08.16 15:45",
-          "image": "https://shopping.toss.im/live/temp/2026-05-19/2f207d20-1ceb-446b-a623-b85b45c3a5b7.png",
-          "url": "https://toss.im/_m/l0nDBnF3",
-          "_ts": 1786862757.094754
         }
       ]
     },
