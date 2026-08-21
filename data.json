@@ -1077,15 +1077,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/176e/475ad508e67598ef8d7f55448936e05a00e46ed52d1ae1cf43eba02e0f14.jpg",
           "url": "https://link.coupang.com/a/ggccmFBUUm",
           "_ts": 1786872210.3790011
-        },
-        {
-          "name": "베지밀 뼈에좋은 칼슘두유 검은콩 깨 쌀, 190ml, 16개",
-          "price": "7,000원",
-          "discount_rate": 30,
-          "priceAt": "08.16 17:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/260106547735918-cfb8fbd9-ff17-4d41-904a-07c7846a48ce.jpg",
-          "url": "https://link.coupang.com/a/ggas7VtWKq",
-          "_ts": 1786870781.944391
         }
       ]
     },
@@ -1094,6 +1085,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "닭다리 통살 춘천닭갈비, 500g, 2개",
+          "price": "10,900원",
+          "discount_rate": 67,
+          "priceAt": "08.21 18:23",
+          "image": "https://shopping.toss.im/live/product/64907/4f140fbd-07d6-4860-b0ff-48898892a6a3.png",
+          "url": "https://toss.im/_m/lszSbbDk",
+          "_ts": 1787304209.6644092
+        },
         {
           "name": "초록 이량 와사비잎 추출물, 600mg, 120정, 2개",
           "price": "39,500원",
@@ -1561,15 +1561,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ODNjOTA0/QUk4Wkp5Yk95NDJHWERrNFBIQjVuajZrL0orR1BQRmowelBsYngrUXJMajU.png",
           "url": "https://toss.im/_m/BrwVM08x",
           "_ts": 1786875746.3117042
-        },
-        {
-          "name": "순삭 떡볶이, 보통맛, 200g, 5팩",
-          "price": "8,500원",
-          "discount_rate": 59,
-          "priceAt": "08.16 18:19",
-          "image": "https://shopping.toss.im/live/taca/ai/ZmFhZDlk/V1hQR1p1eGpHUTJWNTRNZGx0ZmhMWEtiQkxtb2JTVDF4ZW5Ua0g2bEZ2bz0.png",
-          "url": "https://toss.im/_m/pVYD985q",
-          "_ts": 1786871949.7634308
         }
       ]
     },
