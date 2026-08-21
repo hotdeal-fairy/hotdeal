@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "닥터지 더모이스처 배리어디 인텐스 크림, 100ml, 1개",
+          "price": "11,300원",
+          "discount_rate": 23,
+          "priceAt": "08.21 10:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/49182354679531-2f424bd9-37b9-40e4-aa9d-b52a7c5f1b1d.jpg",
+          "url": "https://link.coupang.com/a/gnWwuvTHxc",
+          "_ts": 1787275500.33168
+        },
+        {
           "name": "모던하우스 WOW 스퀘어 배스 매트 2p, 민트, 60 x 40 cm",
           "price": "5,000원",
           "discount_rate": 54,
@@ -1095,15 +1104,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37bbc2bc-9f0e-497e-be36-69622c1056e49404659442119362821.png",
           "url": "https://link.coupang.com/a/gfEtDMMpZA",
           "_ts": 1786843925.8405278
-        },
-        {
-          "name": "데일리라이크 러브 에디션 핸들 플레이트 세트",
-          "price": "8,600원",
-          "discount_rate": 62,
-          "priceAt": "08.16 09:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/24/11/3/2c8485df-c8a8-4c5f-86fc-6d36999ab08f.jpg",
-          "url": "https://link.coupang.com/a/gfB9h2RbHw",
-          "_ts": 1786841942.988849
         }
       ]
     },
