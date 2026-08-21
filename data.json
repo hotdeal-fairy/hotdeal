@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "크리오 덴티메이트 뉴토탈케어 치약, 150g, 6개",
+          "price": "4,720원",
+          "discount_rate": 52,
+          "priceAt": "08.22 08:41",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/146204985428955-56f8c69f-cb7f-4a08-ba5b-545bdc38ba7f.png",
+          "url": "https://link.coupang.com/a/gpt3m73K8W",
+          "_ts": 1787355709.220545
+        },
+        {
           "name": "연세우유 소화가 잘되는 우유 고칼슘",
           "price": "9,860원",
           "discount_rate": 26,
@@ -1050,15 +1059,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9101f282-1a07-4b49-a99d-e058e29bef488207266599818455415.png",
           "url": "https://link.coupang.com/a/ghfsHqjbIO",
           "_ts": 1786927020.4145489
-        },
-        {
-          "name": "풀무원 생물만두 (냉동), 300g, 4개",
-          "price": "8,480원",
-          "discount_rate": 58,
-          "priceAt": "08.17 08:22",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/e5a3f8dd-c7b2-4f69-9fcc-53d85522bfba2612128825190929810.png",
-          "url": "https://link.coupang.com/a/gg96Gf19bM",
-          "_ts": 1786922552.147145
         }
       ]
     },
