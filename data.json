@@ -1050,33 +1050,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fd90/5eca4e8915dce750ea52e32c1574d7dadc4dc1d90192cb6f7cc800127bdb.png",
           "url": "https://link.coupang.com/a/gfOL89VzRA",
           "_ts": 1786852575.27982
-        },
-        {
-          "name": "풀무원 크림 파스타, 150g, 5개",
-          "price": "8,690원",
-          "discount_rate": 30,
-          "priceAt": "08.16 12:46",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/13827036104861-294dc530-a995-467f-aa78-473338af5863.jpg",
-          "url": "https://link.coupang.com/a/gfN5FcSQSq",
-          "_ts": 1786851969.487985
-        },
-        {
-          "name": "Tiger Pavilion 다기능 수납 트롤리",
-          "price": "5,990원",
-          "discount_rate": 50,
-          "priceAt": "08.16 12:13",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8d27/bbea2ae60c1617fbfa3721b7a6c58b05546cf3ea3ca995222f268978de2c.jpg",
-          "url": "https://link.coupang.com/a/gfLDKhHuai",
-          "_ts": 1786850013.042749
-        },
-        {
-          "name": "김화농협 두루웰 GAP 인증 철원오대쌀 백미 상등급, 4kg, 2개",
-          "price": "33,260원",
-          "discount_rate": 54,
-          "priceAt": "08.16 12:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/35312207263417-005368ee-b535-4a7e-bb02-4c6274202baf.jpg",
-          "url": "https://link.coupang.com/a/gfKLAeiKAK",
-          "_ts": 1786849201.3025181
         }
       ]
     },
@@ -1085,6 +1058,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "반건조 민어, 특왕, 37cm급, 300g, 5팩",
+          "price": "31,500원",
+          "discount_rate": 68,
+          "priceAt": "08.21 12:54",
+          "image": "https://shopping.toss.im/live/taca/ai/OWY5MzVh/QUpvL3NqVzNOTm9lZ2hJcG5zbFNHRjl4VDB3bDVZNG9Kd2Fja3V0b2EvdEg.png",
+          "url": "https://toss.im/_m/XEsbgBY9",
+          "_ts": 1787284496.205751
+        },
         {
           "name": "밀바랩 제주 프루넬라 비건 콜라겐 주름 탄력 아이패치, 60매, 1개",
           "price": "8,500원",
