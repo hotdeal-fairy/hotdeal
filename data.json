@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "하이뮨 프로틴 밸런스 액티브 식물성 단백질 음료, 250ml, 18개",
+          "price": "23,940원",
+          "discount_rate": 23,
+          "priceAt": "08.21 22:20",
+          "image": "https://image14.coupangcdn.com/image/retail/images/86509264762290-55c19421-ff97-46a6-9e50-c388b1d1babb.jpg",
+          "url": "https://link.coupang.com/a/goLE2GmPRs",
+          "_ts": 1787318436.572791
+        },
+        {
           "name": "루나 프로 포토 피니셔 팩트파우더 8g, 2호블러파우더, 2개, 2호블러파우더 × 2개",
           "price": "17,200원",
           "discount_rate": 69,
@@ -1525,15 +1534,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-27/3f9a5686-87f2-4f4b-af9b-54ff53fa2567.jpeg",
           "url": "https://toss.im/_m/3OwM3msr",
           "_ts": 1786928839.363691
-        },
-        {
-          "name": "아빠표 구운계란 중란, 30구, 1박스",
-          "price": "12,900원",
-          "discount_rate": 48,
-          "priceAt": "08.16 21:19",
-          "image": "https://shopping.toss.im/live/taca/ai/NjIzZjBk/QUpRNVg1TkljbTVRWUpiZVFQTm9uZkhqYjkrRGxqWUMzMnREb1U1VzNHdXc.png",
-          "url": "https://toss.im/_m/DZp78oss",
-          "_ts": 1786882767.671603
         }
       ]
     },
