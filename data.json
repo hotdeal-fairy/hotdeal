@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "연세우유 소화가 잘되는 우유 고칼슘",
+          "price": "9,860원",
+          "discount_rate": 26,
+          "priceAt": "08.22 08:11",
+          "image": "https://image3.coupangcdn.com/image/retail/images/2000289981942562-f0a7da06-dabf-4f52-ae3f-a57a60086431.jpg",
+          "url": "https://link.coupang.com/a/gprSyuRxnw",
+          "_ts": 1787353883.4114518
+        },
+        {
           "name": "하이뮨 프로틴 밸런스 액티브 식물성 단백질 음료, 250ml, 18개",
           "price": "23,940원",
           "discount_rate": 23,
@@ -1050,15 +1059,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/e5a3f8dd-c7b2-4f69-9fcc-53d85522bfba2612128825190929810.png",
           "url": "https://link.coupang.com/a/gg96Gf19bM",
           "_ts": 1786922552.147145
-        },
-        {
-          "name": "AHC 마이크로 퓨어 워터 착붙 마스크 시트 33ml, 10개입, 2개",
-          "price": "7,850원",
-          "discount_rate": 87,
-          "priceAt": "08.17 07:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/169566104885914-d5fe7805-b5b7-4336-a979-e61f2f6fc497.jpg",
-          "url": "https://link.coupang.com/a/gg4yeOsnfM",
-          "_ts": 1786917846.2358232
         }
       ]
     },
