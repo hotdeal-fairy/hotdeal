@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스키틀즈 오리지날 펀사이즈 캔디, 345g, 1개",
+          "price": "5,580원",
+          "discount_rate": 20,
+          "priceAt": "08.21 09:36",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9d69/850b75a152b2513343be0b3f3d7f4b5d670bb12a49d66176a9be0628345b.jpg",
+          "url": "https://link.coupang.com/a/gnS2Xwn4Kq",
+          "_ts": 1787272581.5084538
+        },
+        {
           "name": "불닭볶음면 로제 140g, 32개",
           "price": "33,600원",
           "discount_rate": 30,
@@ -1077,42 +1086,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/24/11/3/2c8485df-c8a8-4c5f-86fc-6d36999ab08f.jpg",
           "url": "https://link.coupang.com/a/gfB9h2RbHw",
           "_ts": 1786841942.988849
-        },
-        {
-          "name": "요거 카메라 렌즈 풀커버 강화유리 휴대폰 액정보호필름, 2개",
-          "price": "4,830원",
-          "discount_rate": 75,
-          "priceAt": "08.16 09:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/103904794972316-cfc48b5b-0d88-4aa4-92b5-e406c245c6c4.png",
-          "url": "https://link.coupang.com/a/gfyu7xzqwK",
-          "_ts": 1786838921.746179
-        },
-        {
-          "name": "모던하우스 키치키치캣 원터치 보틀, 그린, 500ml, 1개",
-          "price": "4,720원",
-          "discount_rate": 20,
-          "priceAt": "08.16 08:52",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1138311993749745-9bdbeaf8-7ba1-4bb6-9be1-c5dcf7afa090.jpg",
-          "url": "https://link.coupang.com/a/gfxkuijIKi",
-          "_ts": 1786837979.023905
-        },
-        {
-          "name": "슈펜키즈 아동용 벨크로 패딩부츠 HPKV7D4V8U",
-          "price": "4,140원",
-          "discount_rate": 91,
-          "priceAt": "08.16 08:48",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/23407677894201-a1de6a70-7c92-49e9-bf52-82ec2fe47474.jpg",
-          "url": "https://link.coupang.com/a/gfw6EF8tyu",
-          "_ts": 1786837733.869714
-        },
-        {
-          "name": "모던하우스 샌드토이 바다친구들 바스켓 세트, 혼합색상, 500g, 1개",
-          "price": "5,530원",
-          "discount_rate": 30,
-          "priceAt": "08.16 08:45",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/21/18/3/cb225f5c-5f7d-49e1-9504-1fe0a7ab6f43.jpg",
-          "url": "https://link.coupang.com/a/gfwOlwUwLI",
-          "_ts": 1786837532.4084108
         }
       ]
     },
