@@ -1059,24 +1059,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2022/11/02/15/2/d4e290e4-0964-4e8e-a283-b542dcd3d55f.jpg",
           "url": "https://link.coupang.com/a/ggjeSpqXCe",
           "_ts": 1786878202.704112
-        },
-        {
-          "name": "필라델피아 치즈케익 플레인 (냉동), 794g, 1개",
-          "price": "19,830원",
-          "discount_rate": 17,
-          "priceAt": "08.16 18:52",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/984835739899420-3dc3338b-50f3-4328-b454-2dfe99d2d062.jpg",
-          "url": "https://link.coupang.com/a/ggegvr5C7E",
-          "_ts": 1786873972.007164
-        },
-        {
-          "name": "루메이크 길이조절 정전기 먼지흡착 먼지털이 고리 포함, 화이트(본품1개+리..., 1세트",
-          "price": "3,900원",
-          "discount_rate": 29,
-          "priceAt": "08.16 18:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/176e/475ad508e67598ef8d7f55448936e05a00e46ed52d1ae1cf43eba02e0f14.jpg",
-          "url": "https://link.coupang.com/a/ggccmFBUUm",
-          "_ts": 1786872210.3790011
         }
       ]
     },
@@ -1085,6 +1067,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "팬톤 25W 듀얼포트 어댑터 RCE-2521ACLKR, 그레이, 1개",
+          "price": "4,900원",
+          "discount_rate": 87,
+          "priceAt": "08.21 19:42",
+          "image": "https://shopping.toss.im/live/taca/ai/NTkzOGZm/UExZK1BtWStIRHgyV3l6dG04ZG03TW1EOFlTbHlkblRkbndOUzRlbGRqdz0.png",
+          "url": "https://toss.im/_m/jAvnHHSf",
+          "_ts": 1787308969.042384
+        },
         {
           "name": "닭다리 통살 춘천닭갈비, 500g, 2개",
           "price": "10,900원",
@@ -1552,15 +1543,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NTcwMjIw/QVBpSmEwYjBnM3JMOEVRODQvZ0J0OVI0NDhjYytNZFBxNGNVLzg3eHd3Zzk.png",
           "url": "https://toss.im/_m/lRN21kmx",
           "_ts": 1786878443.763531
-        },
-        {
-          "name": "크리스탈 생수, 무라벨, 500ml, 40개",
-          "price": "7,400원",
-          "discount_rate": 63,
-          "priceAt": "08.16 19:22",
-          "image": "https://shopping.toss.im/live/taca/ai/ODNjOTA0/QUk4Wkp5Yk95NDJHWERrNFBIQjVuajZrL0orR1BQRmowelBsYngrUXJMajU.png",
-          "url": "https://toss.im/_m/BrwVM08x",
-          "_ts": 1786875746.3117042
         }
       ]
     },
