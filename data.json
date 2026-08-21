@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "파워에이드 마운틴블라스트 무라벨, 355ml, 20개",
+          "price": "12,820원",
+          "discount_rate": 23,
+          "priceAt": "08.21 11:55",
+          "image": "https://image7.coupangcdn.com/image/retail/images/3791012530342-62232d3f-aa6f-4929-98e6-09442c8e391d.jpg",
+          "url": "https://link.coupang.com/a/gn2YFIS3B6",
+          "_ts": 1787280917.622436
+        },
+        {
           "name": "도브초콜릿 밀크, 228g, 1개",
           "price": "6,110원",
           "discount_rate": 30,
@@ -1068,33 +1077,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/35312207263417-005368ee-b535-4a7e-bb02-4c6274202baf.jpg",
           "url": "https://link.coupang.com/a/gfKLAeiKAK",
           "_ts": 1786849201.3025181
-        },
-        {
-          "name": "2080 자일리톨 애플민트 치약, 110g, 5개",
-          "price": "4,860원",
-          "discount_rate": 61,
-          "priceAt": "08.16 11:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/b976d2ab-063a-4af1-8a24-d851ae7b595b2120365632573283131.png",
-          "url": "https://link.coupang.com/a/gfJozKfJwO",
-          "_ts": 1786848027.254899
-        },
-        {
-          "name": "켈로그 아몬드 푸레이크, 600g, 3개",
-          "price": "12,120원",
-          "discount_rate": 55,
-          "priceAt": "08.16 11:23",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/345163836946496-31290a3d-a97c-430a-9ddd-f5a5c67193b8.jpg",
-          "url": "https://link.coupang.com/a/gfH9kQghqu",
-          "_ts": 1786847004.4465668
-        },
-        {
-          "name": "멍냥빌리지 강아지 프루티파이, 216g, 1개, 배맛",
-          "price": "7,800원",
-          "discount_rate": 61,
-          "priceAt": "08.16 10:51",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/549679278324159-73012c5c-dcd4-4346-8645-24224b53548a.jpg",
-          "url": "https://link.coupang.com/a/gfFTguwMCq",
-          "_ts": 1786845084.537684
         }
       ]
     },
@@ -1561,33 +1543,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NjExZDJi/QU5UV2FtNmJiNHpsWVdYODdzV3hiSk1ia3p0dk94T2xyUmVoU3RDT3hMczc.png",
           "url": "https://toss.im/_m/PEmw1FH8",
           "_ts": 1786852852.4315038
-        },
-        {
-          "name": "푸드앳홈 오징어 젓갈, 1kg, 1팩",
-          "price": "9,500원",
-          "discount_rate": 58,
-          "priceAt": "08.16 11:43",
-          "image": "https://shopping.toss.im/live/temp/2026-03-19/9abb176c-76ab-4a1a-b475-0d9f6c22482f.jpeg",
-          "url": "https://toss.im/_m/5ZsNjgUb",
-          "_ts": 1786848211.521697
-        },
-        {
-          "name": "앙쥬 모이스처 알로에 폼클렌징, 100ml, 10개",
-          "price": "9,900원",
-          "discount_rate": 90,
-          "priceAt": "08.16 11:34",
-          "image": "https://shopping.toss.im/live/taca/ai/Y2Q5N2Q5/QUpPMjhjUjY2VEQ3bkJZUEwyT0Q4SE1ZL00rQmd6dG5YbnpHR0xtWFVQZEc.png",
-          "url": "https://toss.im/_m/7bViW8eB",
-          "_ts": 1786847680.668399
-        },
-        {
-          "name": "동아제약 셀파렉스 바로 알티지 오메가3, 1010mg, 10캡슐, 10박스",
-          "price": "9,980원",
-          "discount_rate": 80,
-          "priceAt": "08.16 11:18",
-          "image": "https://shopping.toss.im/live/temp/2026-08-12/d7e19f0a-8f32-430b-ac73-0eedc7c52555.jpeg",
-          "url": "https://toss.im/_m/dmpfzEDx",
-          "_ts": 1786846712.08004
         }
       ]
     },
