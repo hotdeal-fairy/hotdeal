@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "더미식 김치콩나물국, 350g, 6개",
+          "price": "10,500원",
+          "discount_rate": 33,
+          "priceAt": "08.21 14:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/849328820437617-0196ca14-398b-46aa-9f80-195078204434.jpg",
+          "url": "https://link.coupang.com/a/goe36txTbw",
+          "_ts": 1787291068.688608
+        },
+        {
           "name": "샤워메이트 블루밍 바디워시 로즈 앤 체리블러썸, 900g, 2개",
           "price": "6,210원",
           "discount_rate": 29,
@@ -1050,15 +1059,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/11591172462527-6857e0b6-9a20-4695-b33e-505953db7cf0.png",
           "url": "https://link.coupang.com/a/gfYD2r9Bqm",
           "_ts": 1786860956.2453492
-        },
-        {
-          "name": "슈퍼케어 라텍스장갑, 아이보리, M, 4개",
-          "price": "20,710원",
-          "discount_rate": 62,
-          "priceAt": "08.16 14:44",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/29683968616166-efe3a24a-cfe4-49df-a39d-574478832afc.jpg",
-          "url": "https://link.coupang.com/a/gfWuEVGwge",
-          "_ts": 1786859051.362349
         }
       ]
     },
