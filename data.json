@@ -1023,15 +1023,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/84666596335600-71deecd5-7e4d-411c-8aba-57c5feb6c7f9.jpg",
           "url": "https://link.coupang.com/a/ghtHRbwHBY",
           "_ts": 1786939000.6839879
-        },
-        {
-          "name": "플랫첼 크리스프 오리지날, 65g, 5개",
-          "price": "3,160원",
-          "discount_rate": 50,
-          "priceAt": "08.17 12:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/903fb0bd-a3a7-492a-aa89-1b5f9acf959f3265209088473018387.png",
-          "url": "https://link.coupang.com/a/ghqv9P1Hqu",
-          "_ts": 1786936289.912758
         }
       ]
     },
@@ -1040,6 +1031,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "사조 올리브유 참치, 100g, 8개",
+          "price": "15,900원",
+          "discount_rate": 50,
+          "priceAt": "08.22 12:56",
+          "image": "https://shopping.toss.im/live/temp/2026-05-18/cdb5b051-3a65-4895-8ba4-8947d6ff559b.jpeg",
+          "url": "https://toss.im/_m/D2wAHaT6",
+          "_ts": 1787370967.599957
+        },
         {
           "name": "달콤쫀득 영동 상주 햇곶감, 500g, 3봉",
           "price": "26,900원",
