@@ -1032,24 +1032,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/903fb0bd-a3a7-492a-aa89-1b5f9acf959f3265209088473018387.png",
           "url": "https://link.coupang.com/a/ghqv9P1Hqu",
           "_ts": 1786936289.912758
-        },
-        {
-          "name": "팔도 비빔장 시그니처, 310g, 2개",
-          "price": "4,880원",
-          "discount_rate": 47,
-          "priceAt": "08.17 11:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/f1fb1c7d-0416-4224-a0af-2c3448c8fb3d2402218402527249640.png",
-          "url": "https://link.coupang.com/a/ghm5W3lbFI",
-          "_ts": 1786933416.2675571
-        },
-        {
-          "name": "바겐슈타이거 인덕션 IH 에델 계란말이팬 + 실리콘뒤집개 크림미스트 세트, 24cm, 1개",
-          "price": "18,810원",
-          "discount_rate": 35,
-          "priceAt": "08.17 11:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/11/11/0/b62b6576-33ce-409e-8421-50422f802bad.jpg",
-          "url": "https://link.coupang.com/a/ghmsuGA29Y",
-          "_ts": 1786932924.9470851
         }
       ]
     },
@@ -1058,6 +1040,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "달콤쫀득 영동 상주 햇곶감, 500g, 3봉",
+          "price": "26,900원",
+          "discount_rate": 61,
+          "priceAt": "08.22 12:06",
+          "image": "https://shopping.toss.im/live/taca/ai/NzA2ZTQ1/QUptYllsaW5uNnRXdDJnMFppVG1KSXdsakprN2Radk1sbGl6R0NicXA3SmE.png",
+          "url": "https://toss.im/_m/JHoxZyYq",
+          "_ts": 1787368004.400981
+        },
         {
           "name": "바세린 리프팅 리페어 로션, 1L, 2개",
           "price": "9,900원",
@@ -1516,15 +1507,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-07-08/9c4e33f1-ab70-473e-9266-1aa0db486c23.jpeg",
           "url": "https://toss.im/_m/Z7sd87HD",
           "_ts": 1786939566.971891
-        },
-        {
-          "name": "이디야커피 바닐라 라떼, 500ml, 24개",
-          "price": "27,500원",
-          "discount_rate": 59,
-          "priceAt": "08.17 12:05",
-          "image": "https://shopping.toss.im/live/taca/ai/MTA0ZDll/REdPMGxISExTMk9PSFBDY1dlT09rYktjVzJlUFFhU1ljYXRiWjQ1VXBKdz0.png",
-          "url": "https://toss.im/_m/NqnqAN8h",
-          "_ts": 1786935947.95564
         }
       ]
     },
