@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "뿌요 소다 젤리 사우어, 52g, 12개",
+          "price": "7,020원",
+          "discount_rate": 36,
+          "priceAt": "08.22 22:35",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/01/18/13/1/a085c1d2-c556-4c93-8be4-49cc47798b75.png",
+          "url": "https://link.coupang.com/a/gqrBx2Nwm4",
+          "_ts": 1787405709.3172622
+        },
+        {
           "name": "하인즈 토마토 케찹, 570g, 2개",
           "price": "5,960원",
           "discount_rate": 21,
@@ -1498,15 +1507,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MGZkYjE2/Sk1aZUQrbHcxUGpHUERqSHp3dTdoelphYXo0Y2ZzT1dQdFRsYWMya1VuST0.png",
           "url": "https://toss.im/_m/PScsPEmj",
           "_ts": 1787018542.6572511
-        },
-        {
-          "name": "아보카도, 특대과, 230g내외, 10개, 1박스",
-          "price": "11,800원",
-          "discount_rate": 77,
-          "priceAt": "08.17 21:51",
-          "image": "https://shopping.toss.im/live/temp/2026-02-23/3bff2369-70a5-4bc0-8f04-be3ca0b5ba47.jpeg",
-          "url": "https://toss.im/_m/BixmG5I",
-          "_ts": 1786971079.1181161
         }
       ]
     },
