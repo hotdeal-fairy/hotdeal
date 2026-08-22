@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "하인즈 토마토 케찹, 570g, 2개",
+          "price": "5,960원",
+          "discount_rate": 21,
+          "priceAt": "08.22 21:25",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/935482836197634-37774e8f-4332-4c94-bf3a-3b23145a6c56.jpg",
+          "url": "https://link.coupang.com/a/gqmDyPp1SS",
+          "_ts": 1787401534.927125
+        },
+        {
           "name": "오뚜기 컵누들 똠얌꿍 쌀국수, 44g, 15개",
           "price": "11,130원",
           "discount_rate": 28,
@@ -1023,15 +1032,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/506c/e6a7b27d9b2da158006df50836135b3d11270d6ee6ad74efcc28819a1831.png",
           "url": "https://link.coupang.com/a/gh5DF2sBqe",
           "_ts": 1786970816.148282
-        },
-        {
-          "name": "코카콜라 제로 제로 무라벨",
-          "price": "13,030원",
-          "discount_rate": 17,
-          "priceAt": "08.17 20:28",
-          "image": "https://image15.coupangcdn.com/image/retail/images/763923949485522-786b0053-fb3b-4733-a8ae-e446ac716c29.jpg",
-          "url": "https://link.coupang.com/a/ghZ1TMembY",
-          "_ts": 1786966106.3797052
         }
       ]
     },
