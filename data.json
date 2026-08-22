@@ -1050,24 +1050,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/11/11/0/b62b6576-33ce-409e-8421-50422f802bad.jpg",
           "url": "https://link.coupang.com/a/ghmsuGA29Y",
           "_ts": 1786932924.9470851
-        },
-        {
-          "name": "바겐슈타이거 트레너 스탠304 수저 조리기구통",
-          "price": "11,800원",
-          "discount_rate": 25,
-          "priceAt": "08.17 10:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/21/17/9/eaaf0f49-132b-456c-8222-fab9854509d9.jpg",
-          "url": "https://link.coupang.com/a/ghht7KicDs",
-          "_ts": 1786928716.150795
-        },
-        {
-          "name": "칠갑농산 가스오브시 액상스프, 200ml, 2개, 200ml × 2개",
-          "price": "2,040원",
-          "discount_rate": 46,
-          "priceAt": "08.17 09:37",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9101f282-1a07-4b49-a99d-e058e29bef488207266599818455415.png",
-          "url": "https://link.coupang.com/a/ghfsHqjbIO",
-          "_ts": 1786927020.4145489
         }
       ]
     },
@@ -1076,6 +1058,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "바리스타룰스 원데이 무라벨, 디카페인 아메리카노, 350ml, 20개",
+          "price": "15,900원",
+          "discount_rate": 68,
+          "priceAt": "08.22 10:33",
+          "image": "https://shopping.toss.im/live/temp/2025-06-25/e768bc07-15bb-4cc6-919d-703742181018.jpeg",
+          "url": "https://toss.im/_m/JS50VNT",
+          "_ts": 1787362436.776117
+        },
         {
           "name": "올바른 멀티 비타민 미네랄 액상 이뮨샷 맥스, 7개입, 4박스",
           "price": "25,947원",
@@ -1534,15 +1525,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-23/f896f180-69ac-4666-98fd-f395a4e89425.jpeg",
           "url": "https://toss.im/_m/B0xL2tSz",
           "_ts": 1786931291.807652
-        },
-        {
-          "name": "추억의 찹쌀 바삭 누룽지칩, 502g, 2팩",
-          "price": "6,840원",
-          "discount_rate": 76,
-          "priceAt": "08.17 10:07",
-          "image": "https://shopping.toss.im/live/temp/2026-07-27/3f9a5686-87f2-4f4b-af9b-54ff53fa2567.jpeg",
-          "url": "https://toss.im/_m/3OwM3msr",
-          "_ts": 1786928839.363691
         }
       ]
     },
