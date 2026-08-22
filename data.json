@@ -1068,6 +1068,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "햇반 윤기가득 쌀밥, 210g, 24개",
+          "price": "24,900원",
+          "discount_rate": 28,
+          "priceAt": "08.22 17:31",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/ZjBlNDQ3/V0dTOUhyWWNjMnhQbTQyMkdjWm1aZXh2R1pIeE1NTm5BN0U4bWV2QncyUT0.png",
+          "url": "https://toss.im/_m/r1LTNpAC",
+          "_ts": 1787387507.8691998
+        },
+        {
           "name": "순수공감 프라임 물티슈, 캡형, 70gsm, 72매, 10팩",
           "price": "9,900원",
           "discount_rate": 64,
@@ -1525,15 +1534,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NGYxNGJj/Y0dHMWRhZUtTNmRaTFpzMnJ5azlUK3BJcHRrNnlEUzA2VUhObTNUSTBtaz0.png",
           "url": "https://toss.im/_m/jalRreED",
           "_ts": 1786958036.504716
-        },
-        {
-          "name": "HC한우마을 1등급 한우 꽃등심, 450g, 1개",
-          "price": "29,900원",
-          "discount_rate": 50,
-          "priceAt": "08.17 17:21",
-          "image": "https://shopping.toss.im/live/temp/2025-01-09/1101c550-4c54-4ba9-b440-a45021196954.jpeg",
-          "url": "https://toss.im/_m/7jWILWAj",
-          "_ts": 1786954913.035329
         }
       ]
     },
