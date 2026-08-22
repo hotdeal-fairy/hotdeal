@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "다이쇼 다타키 오이 소스, 150ml, 3개",
+          "price": "6,730원",
+          "discount_rate": 28,
+          "priceAt": "08.22 13:03",
+          "image": "https://image10.coupangcdn.com/image/vendor_inventory/5526/c0d6882f866bc04292ff6dcac1439038dd59991759daacd6048804776a80.jpg",
+          "url": "https://link.coupang.com/a/gpMI7596US",
+          "_ts": 1787371385.816589
+        },
+        {
           "name": "다노클리닉 아쿠아 세럼 AS, 250ml, 2개",
           "price": "16,130원",
           "discount_rate": 42,
@@ -1014,15 +1023,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/52606826240166-8ac1e7e1-4119-40cb-9032-a9e409d33256.jpg",
           "url": "https://link.coupang.com/a/ghy91xr10m",
           "_ts": 1786943580.5269172
-        },
-        {
-          "name": "크리넥스 울트라클린 화이트, 25m, 24개입, 2개",
-          "price": "21,230원",
-          "discount_rate": 16,
-          "priceAt": "08.17 12:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/84666596335600-71deecd5-7e4d-411c-8aba-57c5feb6c7f9.jpg",
-          "url": "https://link.coupang.com/a/ghtHRbwHBY",
-          "_ts": 1786939000.6839879
         }
       ]
     },
