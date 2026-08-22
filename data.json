@@ -1059,6 +1059,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "바세린 리프팅 리페어 로션, 1L, 2개",
+          "price": "9,900원",
+          "discount_rate": 50,
+          "priceAt": "08.22 11:12",
+          "image": "https://shopping.toss.im/live/temp/2026-06-09/e21432af-77e2-4b27-9387-de137c40d155.png",
+          "url": "https://toss.im/_m/TLOXN0F9",
+          "_ts": 1787364752.6093671
+        },
+        {
           "name": "바리스타룰스 원데이 무라벨, 디카페인 아메리카노, 350ml, 20개",
           "price": "15,900원",
           "discount_rate": 68,
@@ -1516,15 +1525,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MTA0ZDll/REdPMGxISExTMk9PSFBDY1dlT09rYktjVzJlUFFhU1ljYXRiWjQ1VXBKdz0.png",
           "url": "https://toss.im/_m/NqnqAN8h",
           "_ts": 1786935947.95564
-        },
-        {
-          "name": "행남자기 라인듀오 2인 홈세트, 14피스, 화이트, 1세트",
-          "price": "17,900원",
-          "discount_rate": 92,
-          "priceAt": "08.17 10:48",
-          "image": "https://shopping.toss.im/live/temp/2026-06-23/f896f180-69ac-4666-98fd-f395a4e89425.jpeg",
-          "url": "https://toss.im/_m/B0xL2tSz",
-          "_ts": 1786931291.807652
         }
       ]
     },
