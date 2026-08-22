@@ -1059,6 +1059,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "순수공감 프라임 물티슈, 캡형, 70gsm, 72매, 10팩",
+          "price": "9,900원",
+          "discount_rate": 64,
+          "priceAt": "08.22 16:46",
+          "image": "https://shopping.toss.im/live/temp/2026-08-07/9ddc1e81-e47e-45bb-b22d-fcf14f772c82.jpeg",
+          "url": "https://toss.im/_m/ZA7IrPoC",
+          "_ts": 1787384788.502526
+        },
+        {
           "name": "사조 올리브유 참치, 100g, 8개",
           "price": "15,900원",
           "discount_rate": 50,
@@ -1516,15 +1525,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-01-09/1101c550-4c54-4ba9-b440-a45021196954.jpeg",
           "url": "https://toss.im/_m/7jWILWAj",
           "_ts": 1786954913.035329
-        },
-        {
-          "name": "리버티 입는 오버나이트 코튼커버 생리대 팬티형, 대형, 4매, 5팩",
-          "price": "9,700원",
-          "discount_rate": 62,
-          "priceAt": "08.17 16:19",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZDRiN2Jk/WmNKWXZkMW1qZE9nWHMxVGZIenc3ZHRFK216OWdZZkRoTXY0UEV1RmxKST0.png",
-          "url": "https://toss.im/_m/Hy3n9y4c",
-          "_ts": 1786951185.771132
         }
       ]
     },
