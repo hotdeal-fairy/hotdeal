@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "바자르 얼음결 3중직 냉감 밴딩 패드, 격자 화이트, SS, 쿨매트",
+          "price": "6,960원",
+          "discount_rate": 75,
+          "priceAt": "08.22 15:08",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/buidywq4/a40ea2d047e141a386fd365c9d1891dd.jpg",
+          "url": "https://link.coupang.com/a/gpVFc4gCUC",
+          "_ts": 1787378899.828129
+        },
+        {
           "name": "프로그 파우더프리 3.0 니트릴장갑, 화이트, M, 2개",
           "price": "11,190원",
           "discount_rate": 34,
@@ -1023,24 +1032,6 @@
           "image": "https://image2.coupangcdn.com/image/retail/images/306084028283475-24d50b8c-9b4f-4e3d-86ab-1f8bc961c187.jpg",
           "url": "https://link.coupang.com/a/ghOdEqATiS",
           "_ts": 1786956189.912652
-        },
-        {
-          "name": "해피홈 멸균밴드 S 혼합형, 1개",
-          "price": "3,280원",
-          "discount_rate": 9,
-          "priceAt": "08.17 15:07",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/61598505491327-9ec81f7a-e8fd-42e0-9b27-a122be6df00a.png",
-          "url": "https://link.coupang.com/a/ghC3MWsoEu",
-          "_ts": 1786946872.767683
-        },
-        {
-          "name": "쿠쿠 W8300 공기청정기 96.8㎡, AC-28W20FWS, 화이트",
-          "price": "177,290원",
-          "discount_rate": 28,
-          "priceAt": "08.17 14:56",
-          "image": "https://image1.coupangcdn.com/image/vendor_inventory/3805/e3f354c4380040f44de9638ab15bdd199d45209987b3784ec62b96177bab.jpg",
-          "url": "https://link.coupang.com/a/ghChlENfyu",
-          "_ts": 1786946164.373268
         }
       ]
     },
