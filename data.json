@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "더마팩토리 나이아신아마이드 20% 세럼, 30ml, 2개",
+          "price": "8,400원",
+          "discount_rate": 25,
+          "priceAt": "08.23 22:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/40523558702679-a35b106e-8f1f-4711-821e-8aec38f019e8.jpg",
+          "url": "https://link.coupang.com/a/gr30L1rEOW",
+          "_ts": 1787490012.859475
+        },
+        {
           "name": "사조 참치액, 2.1kg, 1개",
           "price": "8,840원",
           "discount_rate": 18,
@@ -1480,15 +1489,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/NmMxYzc5/VjhFcUg5WTVxWFM2dEJITlZwNnBhVmN3Q3EwTldpUzErbUFjUEFMRGQ0WT0.png",
           "url": "https://toss.im/_m/X7VGDRFt",
           "_ts": 1787100762.791189
-        },
-        {
-          "name": "풀무원 아임리얼 100 고농축 블루베리, 120ml, 24개",
-          "price": "18,800원",
-          "discount_rate": 57,
-          "priceAt": "08.18 21:03",
-          "image": "https://shopping.toss.im/live/taca/ai/N2I4NWNh/QU44ZW1td3NZWFN6NGFIWjU4YW5MeFlhSHR6cDZsNHJOcVhwMVlkR3RDcDU.png",
-          "url": "https://toss.im/_m/RX3GKurD",
-          "_ts": 1787054601.350299
         }
       ]
     },
