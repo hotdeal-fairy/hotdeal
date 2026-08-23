@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "파워에이드 제로, 600ml, 20개",
+          "price": "14,530원",
+          "discount_rate": 21,
+          "priceAt": "08.23 13:34",
+          "image": "https://image11.coupangcdn.com/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
+          "url": "https://link.coupang.com/a/grtTFocEGy",
+          "_ts": 1787459690.4529312
+        },
+        {
           "name": "허브앤리빙 홈 디퓨저, 시그니처우디, 520ml, 2개",
           "price": "15,660원",
           "discount_rate": 55,
@@ -978,15 +987,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/168016890112572-8b2a257e-f8e0-4c04-b573-0181255fff46.jpg",
           "url": "https://link.coupang.com/a/gjhtZQsndI",
           "_ts": 1787032864.6394591
-        },
-        {
-          "name": "소안도 프리미엄 구운 김밥김, 130g, 1개입, 3개",
-          "price": "23,700원",
-          "discount_rate": 28,
-          "priceAt": "08.18 13:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/92382520497520-a16f2201-aa2e-4511-8977-2852ce9b81f0.jpg",
-          "url": "https://link.coupang.com/a/gja3zKiRtB",
-          "_ts": 1787027433.004042
         }
       ]
     },
