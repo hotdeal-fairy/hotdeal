@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "호무로 쿨네스트 냉감이불, 화이트, Q",
+          "price": "22,540원",
+          "discount_rate": 57,
+          "priceAt": "08.23 14:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1356176665799474-5a71d777-b681-4fa1-abf2-e0ab20b05160.jpg",
+          "url": "https://link.coupang.com/a/grySaQbN00",
+          "_ts": 1787463868.279528
+        },
+        {
           "name": "만나다 미국산 씨없는 청포도, 1.8kg, 1개",
           "price": "19,340원",
           "discount_rate": 21,
@@ -1489,24 +1498,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZWNlZWJm/YVhJMlN6dHlnM3kzSTNtRjdJM1NZMGJzRFp3eWF6SnovZFRzdFAyVTAwcz0.png",
           "url": "https://toss.im/_m/X4a9035g",
           "_ts": 1787032671.690285
-        },
-        {
-          "name": "한라식품 참치액, 900ml, 3개",
-          "price": "18,800원",
-          "discount_rate": 54,
-          "priceAt": "08.18 14:33",
-          "image": "https://shopping.toss.im/live/taca/ai/NGRmYTY3/QUo4REQvRnd2UDhQNHZ5Qi9oOERlbEdCNngrdTlFdmx6eHUwWDYvdVZQaHg.png",
-          "url": "https://toss.im/_m/Lk3rD9av",
-          "_ts": 1787031238.607116
-        },
-        {
-          "name": "리벤스 로얄플러스 물티슈, 캡형, 70매, 10팩",
-          "price": "9,900원",
-          "discount_rate": 67,
-          "priceAt": "08.18 14:04",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDdjNzBj/TDJXKys3VE9kLy9hM3YrL3l0UC96NkY3M3Y0M0lXbjdKNkcyODFyVS8rMD0.png",
-          "url": "https://toss.im/_m/n8n3ctr2",
-          "_ts": 1787029473.364912
         }
       ]
     },
