@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "알찬해 바로바로 낙새우 볶음 (냉동), 450g, 1개",
+          "price": "11,590원",
+          "discount_rate": 8,
+          "priceAt": "08.23 19:28",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/04/18/16/6/462ffd56-cfe9-4a43-a678-32926da90591.jpg",
+          "url": "https://link.coupang.com/a/grS9mCRYmO",
+          "_ts": 1787480893.850042
+        },
+        {
           "name": "세타필 베이비 데일리 로션, 400ml, 1개",
           "price": "9,750원",
           "discount_rate": 16,
@@ -969,33 +978,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97852537632724-fb32b67b-f60e-495a-9028-70a7c4a4a899.jpg",
           "url": "https://link.coupang.com/a/gjCAzhzQbs",
           "_ts": 1787050537.921341
-        },
-        {
-          "name": "다다랜드 동물친구들 규조토 발매트",
-          "price": "2,900원",
-          "discount_rate": null,
-          "priceAt": "08.18 19:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/whh0hrjw/b9c01b69e6dd4afeac60a4c012d0f363.jpg",
-          "url": "https://link.coupang.com/a/gjztMz2Y9s",
-          "_ts": 1787048014.6704252
-        },
-        {
-          "name": "유리오 심플 미니 크로스백 여행 산책 보조가방",
-          "price": "3,900원",
-          "discount_rate": 80,
-          "priceAt": "08.18 18:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c5d9/0c41dd03a679c1cd459f600b3970395339ba4054377d7330cf65e19f524a.png",
-          "url": "https://link.coupang.com/a/gjyiiKZ63E",
-          "_ts": 1787046946.231675
-        },
-        {
-          "name": "리챔 오리지널, 340g, 5개",
-          "price": "14,450원",
-          "discount_rate": 61,
-          "priceAt": "08.18 18:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/161699966703126-d938ac94-579c-4cd7-966f-d9048cba5d40.jpg",
-          "url": "https://link.coupang.com/a/gjxsY8lUeO",
-          "_ts": 1787046236.973191
         }
       ]
     },
@@ -1489,15 +1471,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NzMyZDQw/QVBPZi9qZFR6TjV1eHMxWnpUOFpNem44T2MyWjBmRHpkZ3YwcmJ1OVE5Wms.png",
           "url": "https://toss.im/_m/zmhFToB9",
           "_ts": 1787049533.115416
-        },
-        {
-          "name": "이선별 밀크 카스테라, 개별포장, 28개, 1박스",
-          "price": "15,400원",
-          "discount_rate": 51,
-          "priceAt": "08.18 19:08",
-          "image": "https://shopping.toss.im/live/temp/2026-05-28/6c7ab71a-3621-4595-8650-ab95f3dc4796.jpeg",
-          "url": "https://toss.im/_m/V7nZkelC",
-          "_ts": 1787047719.781075
         }
       ]
     },
