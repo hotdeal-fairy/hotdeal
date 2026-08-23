@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스피세프 나방파리 초파리 트랩 벼룩파리 끈끈이 제거, 29g, 3개",
+          "price": "3,000원",
+          "discount_rate": 23,
+          "priceAt": "08.23 22:50",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f464/a07dbbca799056f48ab3b963b48eeb721b22654358bad99ca6b0aaec085d.jpg",
+          "url": "https://link.coupang.com/a/gr7zHDtfu8",
+          "_ts": 1787493004.9003038
+        },
+        {
           "name": "더마팩토리 나이아신아마이드 20% 세럼, 30ml, 2개",
           "price": "8,400원",
           "discount_rate": 25,
@@ -987,15 +996,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/946c/265bd2dfdd5325fe04e1a84e3ad543222e1edfdf0f417baa47bee7370690.png",
           "url": "https://link.coupang.com/a/gkt4ezQw3w",
           "_ts": 1787095439.129607
-        },
-        {
-          "name": "간 건강 밀크씨슬 캡슐 해독과 배독 효과 간 기능 개선 간 건강을 지키는 자연 유래 성분 자연 성분, 120회분, 1개",
-          "price": "12,900원",
-          "discount_rate": 46,
-          "priceAt": "08.18 22:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5f74/885ed0285d7d06d648e05308a780539f0eac263092a67ad5b35987eac706.jpg",
-          "url": "https://link.coupang.com/a/gjLSGEcLT2",
-          "_ts": 1787058337.730316
         }
       ]
     },
