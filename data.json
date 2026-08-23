@@ -996,6 +996,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "경남제약 맥주효모 비오틴셀렌, 60정, 2개",
+          "price": "10,900원",
+          "discount_rate": 81,
+          "priceAt": "08.23 19:53",
+          "image": "https://shopping.toss.im/live/taca/ai/NmIwNGIx/QU00YjdOTk9YczJ4Y2JrYkhvYkdlM09jNU9IaDV5eURSNG1rR21tRDVYeWU.png",
+          "url": "https://toss.im/_m/DcfxNa16",
+          "_ts": 1787482437.968491
+        },
+        {
           "name": "푸르밀 플레인 요거트, 2kg, 1개",
           "price": "8,900원",
           "discount_rate": 44,
@@ -1471,15 +1480,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-07-10/adb74550-6827-4434-b284-09f5a76f4773.png",
           "url": "https://toss.im/_m/tdJXczW",
           "_ts": 1787050976.592376
-        },
-        {
-          "name": "삼형제 쪽파 파김치, 2kg, 1개",
-          "price": "9,900원",
-          "discount_rate": 38,
-          "priceAt": "08.18 19:38",
-          "image": "https://shopping.toss.im/live/taca/ai/NzMyZDQw/QVBPZi9qZFR6TjV1eHMxWnpUOFpNem44T2MyWjBmRHpkZ3YwcmJ1OVE5Wms.png",
-          "url": "https://toss.im/_m/zmhFToB9",
-          "_ts": 1787049533.115416
         }
       ]
     },
