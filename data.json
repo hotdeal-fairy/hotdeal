@@ -987,33 +987,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/92382520497520-a16f2201-aa2e-4511-8977-2852ce9b81f0.jpg",
           "url": "https://link.coupang.com/a/gja3zKiRtB",
           "_ts": 1787027433.004042
-        },
-        {
-          "name": "아임리얼 100 고농축 블루베리, 120ml, 24개",
-          "price": "15,000원",
-          "discount_rate": 28,
-          "priceAt": "08.18 13:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/591196110950012-09acc858-a8fc-4093-90e2-918db03a983b.jpg",
-          "url": "https://link.coupang.com/a/gi9CHnjCpg",
-          "_ts": 1787026233.275616
-        },
-        {
-          "name": "풀무원 큰네모 유부초밥, 395g, 1개",
-          "price": "3,990원",
-          "discount_rate": 37,
-          "priceAt": "08.18 13:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2022/12/15/15/7/411d9322-095f-42d8-983f-5918f9a585ca.jpg",
-          "url": "https://link.coupang.com/a/gi8WcExTsi",
-          "_ts": 1787025652.401186
-        },
-        {
-          "name": "클룹 애사비소다 오리지널, 500ml, 24개",
-          "price": "19,320원",
-          "discount_rate": 23,
-          "priceAt": "08.18 12:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/24599535340050-cb0e951e-5cc4-46ba-94d2-ddfc455ce91b.png",
-          "url": "https://link.coupang.com/a/gi8QUOt3ca",
-          "_ts": 1787025570.5672462
         }
       ]
     },
@@ -1022,6 +995,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "슈퍼딥큐 캡슐세제, 포레스트향, 8g, 100개입, 1개",
+          "price": "6,900원",
+          "discount_rate": 68,
+          "priceAt": "08.23 13:21",
+          "image": "https://shopping.toss.im/live/temp/2026-05-29/2156e0a5-e101-4bfd-9de6-89cdca2505a7.jpeg",
+          "url": "https://toss.im/_m/dXBTapM",
+          "_ts": 1787458873.8795369
+        },
         {
           "name": "연세두유 고단백 아몬드&잣, 190ml, 32팩",
           "price": "18,900원",
