@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "뿌요 팔도 코코뿌요 제로 애플망고, 280ml, 24개",
+          "price": "12,230원",
+          "discount_rate": 34,
+          "priceAt": "08.24 08:47",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/07/17/5/c1b4bbbf-81a7-4032-b62c-d7d188634a0d.png",
+          "url": "https://link.coupang.com/a/gsOfBm7ZAG",
+          "_ts": 1787528836.249295
+        },
+        {
           "name": "조네츠 참깨 마늘 후리카케, 100g, 2개, 100g × 2개",
           "price": "10,820원",
           "discount_rate": 38,
@@ -1023,15 +1032,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/ozxfmrsw/83973023bf1543d3bdfdd6367f20905b.jpg",
           "url": "https://link.coupang.com/a/gkxQ07sIOO",
           "_ts": 1787098618.392098
-        },
-        {
-          "name": "요거 클리어 범퍼 젤리 휴대폰 케이스",
-          "price": "9,910원",
-          "discount_rate": 48,
-          "priceAt": "08.19 08:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/946c/265bd2dfdd5325fe04e1a84e3ad543222e1edfdf0f417baa47bee7370690.png",
-          "url": "https://link.coupang.com/a/gkt4ezQw3w",
-          "_ts": 1787095439.129607
         }
       ]
     },
