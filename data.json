@@ -1041,6 +1041,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "아스파시아 모이스트 업 페이스 미스트 알로에, 150ml, 2개",
+          "price": "6,900원",
+          "discount_rate": 65,
+          "priceAt": "08.23 11:20",
+          "image": "https://shopping.toss.im/live/temp/2026-05-08/59a26a03-9718-4476-b36a-d7c975777b01.png",
+          "url": "https://toss.im/_m/hbVN5gks",
+          "_ts": 1787451620.381757
+        },
+        {
           "name": "대한민국농수산 사각 옥수수술빵, 350g, 5개",
           "price": "11,900원",
           "discount_rate": 52,
@@ -1507,15 +1516,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZDdjNzBj/TDJXKys3VE9kLy9hM3YrL3l0UC96NkY3M3Y0M0lXbjdKNkcyODFyVS8rMD0.png",
           "url": "https://toss.im/_m/n8n3ctr2",
           "_ts": 1787029473.364912
-        },
-        {
-          "name": "할리스 시그니처 아메리카노, 550ml, 24개",
-          "price": "24,990원",
-          "discount_rate": 67,
-          "priceAt": "08.18 11:02",
-          "image": "https://shopping.toss.im/live/taca/ai/MGZkYjE2/Sk1aZUQrbHcxUGpHUERqSHp3dTdoelphYXo0Y2ZzT1dQdFRsYWMya1VuST0.png",
-          "url": "https://toss.im/_m/PScsPEmj",
-          "_ts": 1787018542.6572511
         }
       ]
     },
