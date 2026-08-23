@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "허브앤리빙 홈 디퓨저, 시그니처우디, 520ml, 2개",
+          "price": "15,660원",
+          "discount_rate": 55,
+          "priceAt": "08.23 10:58",
+          "image": "https://img4a.coupangcdn.com/image/retail/images/202280580264440-aa77241e-8125-4305-aebb-0fa1d4aed4be.jpg",
+          "url": "https://link.coupang.com/a/griIfpaZZk",
+          "_ts": 1787450300.2086148
+        },
+        {
           "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
           "price": "3,360원",
           "discount_rate": 32,
@@ -1023,24 +1032,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/581805366559763-101c8a7b-fa89-4079-b9d1-e314136d5107.jpg",
           "url": "https://link.coupang.com/a/gi3eEG7Ssm",
           "_ts": 1787020954.68415
-        },
-        {
-          "name": "레스트립 귀편한 소음 차단 99.9% 실리콘 수면 귀마개 베이지, 1개입, 1세트",
-          "price": "3,900원",
-          "discount_rate": 48,
-          "priceAt": "08.18 10:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/86b8/9f12dddac3cec8227548fa922e16b1811999947781acafac8581ed71dd74.png",
-          "url": "https://link.coupang.com/a/giXTyLqxeC",
-          "_ts": 1787016437.748896
-        },
-        {
-          "name": "리큐 진한겔 하이브리드 플로랄향 일반용 액상세제 리필, 2.1L, 4개",
-          "price": "11,520원",
-          "discount_rate": 36,
-          "priceAt": "08.18 10:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/761007085729374-b567084c-ea9c-4308-b1f9-a6abb12ade79.jpg",
-          "url": "https://link.coupang.com/a/giXVw5MIcC",
-          "_ts": 1787016396.9336472
         }
       ]
     },
