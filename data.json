@@ -987,24 +987,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/161699966703126-d938ac94-579c-4cd7-966f-d9048cba5d40.jpg",
           "url": "https://link.coupang.com/a/gjxsY8lUeO",
           "_ts": 1787046236.973191
-        },
-        {
-          "name": "아디다스 남성용 듀라모 RC2 운동화 JS4428",
-          "price": "33,270원",
-          "discount_rate": 58,
-          "priceAt": "08.18 17:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/07/01/17/1/dd0c9b1f-1768-405f-a964-de4465d38582.jpeg",
-          "url": "https://link.coupang.com/a/gjsWrVekeW",
-          "_ts": 1787042446.606996
-        },
-        {
-          "name": "켈로그 프로틴 그래놀라 제로슈거, 350g, 2개",
-          "price": "9,170원",
-          "discount_rate": 18,
-          "priceAt": "08.18 17:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/459040088212780-402b8405-47ed-4e8a-94be-b5150d50c14b.jpg",
-          "url": "https://link.coupang.com/a/gjp4KebEUS",
-          "_ts": 1787040048.463923
         }
       ]
     },
@@ -1013,6 +995,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "심플쿡 냉동밥 전자레인지 용기, 인디핑크, 400ml, 8개, 2세트",
+          "price": "6,500원",
+          "discount_rate": 74,
+          "priceAt": "08.23 17:50",
+          "image": "https://shopping.toss.im/live/taca/ai/MzUyNDBm/QUpZMkRrWkMyZHN4U1ZQWXpmVFptMXVXWnBabW95VG10cXBrT2NrNXllZHI.png",
+          "url": "https://toss.im/_m/hOi6WPEi",
+          "_ts": 1787475048.6999838
+        },
         {
           "name": "싱하소다워터, 325ml, 24개",
           "price": "18,800원",
