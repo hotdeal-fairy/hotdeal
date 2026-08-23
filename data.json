@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "사조 참치액, 2.1kg, 1개",
+          "price": "8,840원",
+          "discount_rate": 18,
+          "priceAt": "08.23 19:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/428628870750950-e5202f75-3767-43bb-a9ab-8d4204bdc58c.jpg",
+          "url": "https://link.coupang.com/a/grVleipcvA",
+          "_ts": 1787482733.3852532
+        },
+        {
           "name": "카카오프렌즈 CS 칫솔살균기, CSTS-04, 핑크",
           "price": "16,650원",
           "discount_rate": 38,
@@ -978,15 +987,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5f74/885ed0285d7d06d648e05308a780539f0eac263092a67ad5b35987eac706.jpg",
           "url": "https://link.coupang.com/a/gjLSGEcLT2",
           "_ts": 1787058337.730316
-        },
-        {
-          "name": "질레트 정품 프로글라이드 매뉴얼 면도기 핸들 + 면도날 12p, 1세트",
-          "price": "34,580원",
-          "discount_rate": 32,
-          "priceAt": "08.18 19:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/97852537632724-fb32b67b-f60e-495a-9028-70a7c4a4a899.jpg",
-          "url": "https://link.coupang.com/a/gjCAzhzQbs",
-          "_ts": 1787050537.921341
         }
       ]
     },
