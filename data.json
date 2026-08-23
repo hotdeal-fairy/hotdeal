@@ -1014,24 +1014,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/24599535340050-cb0e951e-5cc4-46ba-94d2-ddfc455ce91b.png",
           "url": "https://link.coupang.com/a/gi8QUOt3ca",
           "_ts": 1787025570.5672462
-        },
-        {
-          "name": "아이깨끗해 핸드워시 순 파우더향 리필용, 450ml, 3개",
-          "price": "7,300원",
-          "discount_rate": 25,
-          "priceAt": "08.18 11:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/792324356323897-387e9c80-2bca-40af-95f6-8487331a8083.png",
-          "url": "https://link.coupang.com/a/gi3nO34fsG",
-          "_ts": 1787020977.981966
-        },
-        {
-          "name": "수미칩 오리지널, 85g, 6개",
-          "price": "11,190원",
-          "discount_rate": null,
-          "priceAt": "08.18 11:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/581805366559763-101c8a7b-fa89-4079-b9d1-e314136d5107.jpg",
-          "url": "https://link.coupang.com/a/gi3eEG7Ssm",
-          "_ts": 1787020954.68415
         }
       ]
     },
@@ -1040,6 +1022,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "올바른 두뇌 인지력엔 포스파티딜세린 PS 300, 300mg, 30포, 3개",
+          "price": "21,800원",
+          "discount_rate": 72,
+          "priceAt": "08.23 11:58",
+          "image": "https://shopping.toss.im/live/taca/ai/NzEzZGU4/STdiQnBwdFA1SHRlZVQzR0YvRzgxRk9KazB1dkNWY04vMlgwbzNyVUtkQT0.png",
+          "url": "https://toss.im/_m/5SjRCD1m",
+          "_ts": 1787453921.702349
+        },
         {
           "name": "아스파시아 모이스트 업 페이스 미스트 알로에, 150ml, 2개",
           "price": "6,900원",
