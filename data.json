@@ -1023,15 +1023,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/799199304499564-5bf07335-5216-4e65-8a15-72f99f1c0216.jpg",
           "url": "https://link.coupang.com/a/gk9434rDqu",
           "_ts": 1787130712.494161
-        },
-        {
-          "name": "나이키 헤리티지 레트로 페니 힙색 DR6266-370, 28x12.5x 7.5cm, 그린, 1개",
-          "price": "12,660원",
-          "discount_rate": 68,
-          "priceAt": "08.19 17:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/25/14/7/3456b929-8e74-4447-92bb-465df26ae705.png",
-          "url": "https://link.coupang.com/a/gk87imBkUm",
-          "_ts": 1787129903.076639
         }
       ]
     },
@@ -1040,6 +1031,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "코코에르 뽀송 에어 바디 드라이어, JNSB-BD238H, 화이트, 1개",
+          "price": "27,920원",
+          "discount_rate": 85,
+          "priceAt": "08.24 18:10",
+          "image": "https://shopping.toss.im/live/temp/2026-05-03/d500292d-1c7e-41e1-947e-9b3774405b8e.jpeg",
+          "url": "https://toss.im/_m/5BEGqNHD",
+          "_ts": 1787562605.367081
+        },
         {
           "name": "서울우유 커피타운 아메리카노, 350ml, 20개",
           "price": "16,900원",
@@ -1534,15 +1534,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MjJhNmY0/QUpsanJKbTFZMjM3dm9kMmxFSDRtMk9TbkdscmRwUkphMzRVYkp4L0hiYVU.png",
           "url": "https://toss.im/_m/9YsxSnDp",
           "_ts": 1787134806.799062
-        },
-        {
-          "name": "종표 쫄깃 국수, 1.5kg, 1개",
-          "price": "6,900원",
-          "discount_rate": 60,
-          "priceAt": "08.19 18:04",
-          "image": "https://shopping.toss.im/live/taca/ai/MGQxMWZk/V3RjZU5tMW0rUFRoejJIMkJhemxpSDZjRmgvQ1BQcTVxOUFKWGxWRFMyaz0.png",
-          "url": "https://toss.im/_m/j1fM3ilC",
-          "_ts": 1787130271.1244678
         }
       ]
     },
