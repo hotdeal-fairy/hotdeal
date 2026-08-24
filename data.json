@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "비비드키친 저당 닭가슴살 브리또 숯불매콤 (냉동), 125g, 4개, 1개입",
+          "price": "8,580원",
+          "discount_rate": 35,
+          "priceAt": "08.24 09:20",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1f59c87c-2aca-4ae7-bacc-6cff788d767616331962386323376067.png",
+          "url": "https://link.coupang.com/a/gsQDGjf5ZA",
+          "_ts": 1787530841.686087
+        },
+        {
           "name": "뿌요 팔도 코코뿌요 제로 애플망고, 280ml, 24개",
           "price": "12,230원",
           "discount_rate": 34,
@@ -1023,15 +1032,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6fb2/2960740ac4e164f2eedf25b58f558502350765926c1d6de636ea431ce862.jpg",
           "url": "https://link.coupang.com/a/gkBpuqH5oa",
           "_ts": 1787101604.409211
-        },
-        {
-          "name": "팬콧 아동용 팝아이즈 에센셜 스트라이프 롱슬리브, PINK, 9T",
-          "price": "4,140원",
-          "discount_rate": 82,
-          "priceAt": "08.19 09:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/ozxfmrsw/83973023bf1543d3bdfdd6367f20905b.jpg",
-          "url": "https://link.coupang.com/a/gkxQ07sIOO",
-          "_ts": 1787098618.392098
         }
       ]
     },
