@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스텐 다용도 사각볼 4종세트 304 스테인리스 채칼 세척볼 채반, 1세트, 4종",
+          "price": "9,900원",
+          "discount_rate": 42,
+          "priceAt": "08.24 18:30",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e6ba/7d62c4e571b1d9e55b437a3160aba6d84b5949ff09e4d1487ca598d82d85.jpg",
+          "url": "https://link.coupang.com/a/gttUnTyHmK",
+          "_ts": 1787563813.063529
+        },
+        {
           "name": "노멀라이프 15엽 리모컨 스탠드 선풍기 퓨어 화이트, NL-25EF04WH",
           "price": "25,900원",
           "discount_rate": 42,
@@ -1005,24 +1014,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/oa2oix44/439ffeaf666842df842835b4dddb4c70.jpg",
           "url": "https://link.coupang.com/a/glbD3SV0PA",
           "_ts": 1787132025.68056
-        },
-        {
-          "name": "레노버 2026 아이디어패드 슬림 3 15AHP10 라이젠5 라이젠 8000 시리즈, Luna Grey, 83KA0075KR, 256GB, 16GB, Free DOS",
-          "price": "799,000원",
-          "discount_rate": 6,
-          "priceAt": "08.19 18:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/18/10/9/35aaa396-cf07-47ea-b23f-9265d5ec5d09.jpg",
-          "url": "https://link.coupang.com/a/glbmj2ULq8",
-          "_ts": 1787131786.133718
-        },
-        {
-          "name": "함소아 유기농 보라 당근 포도 주스, 125ml, 24개",
-          "price": "10,130원",
-          "discount_rate": 15,
-          "priceAt": "08.19 18:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/799199304499564-5bf07335-5216-4e65-8a15-72f99f1c0216.jpg",
-          "url": "https://link.coupang.com/a/gk9434rDqu",
-          "_ts": 1787130712.494161
         }
       ]
     },
