@@ -996,24 +996,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/125709798923165-edc67dea-f72c-4f09-aeab-30d8b9053655.jpg",
           "url": "https://link.coupang.com/a/gld4GQxagK",
           "_ts": 1787134068.054765
-        },
-        {
-          "name": "비비드키친 저칼로리 머스터드소스, 320g, 1개",
-          "price": "2,770원",
-          "discount_rate": 21,
-          "priceAt": "08.19 18:35",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/63392091134059-5ca0aa78-5ef9-439e-8199-eb111986daf7.jpg",
-          "url": "https://link.coupang.com/a/glbLknHeSa",
-          "_ts": 1787132124.045973
-        },
-        {
-          "name": "창화당 남대문시장 가메골 왕만두 (냉동), 340g, 1개",
-          "price": "4,830원",
-          "discount_rate": 42,
-          "priceAt": "08.19 18:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/oa2oix44/439ffeaf666842df842835b4dddb4c70.jpg",
-          "url": "https://link.coupang.com/a/glbD3SV0PA",
-          "_ts": 1787132025.68056
         }
       ]
     },
@@ -1022,6 +1004,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "광동제약 타우린 2000, 120ml, 20개",
+          "price": "9,900원",
+          "discount_rate": 44,
+          "priceAt": "08.24 18:49",
+          "image": "https://shopping.toss.im/live/taca/ai/MzU5ODBk/QUp2eFp0bkZxL1Q4WmN2WnM1WThabThydzVtVTFDOXVhM1F2dHlNTDBIN2M.png",
+          "url": "https://toss.im/_m/d7zV7hZ6",
+          "_ts": 1787564941.0516322
+        },
         {
           "name": "코코에르 뽀송 에어 바디 드라이어, JNSB-BD238H, 화이트, 1개",
           "price": "27,920원",
