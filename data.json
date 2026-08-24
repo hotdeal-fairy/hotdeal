@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "아리얼 스트레스 릴리빙 퓨어풀 클렌징 티슈, 80매입, 2개",
+          "price": "5,170원",
+          "discount_rate": 24,
+          "priceAt": "08.25 08:44",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/140247461073473-3a254cd5-8351-4fa8-b8d5-b5f29e3876d7.png",
+          "url": "https://link.coupang.com/a/gusX8kT3Yq",
+          "_ts": 1787615080.1498141
+        },
+        {
           "name": "토레타 제로 이온음료, 500ml, 24개",
           "price": "13,870원",
           "discount_rate": 23,
@@ -924,24 +933,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2950145979951512-2f396baf-8c84-467f-89e5-f715b36379fa.jpg",
           "url": "https://link.coupang.com/a/gmerA54Clw",
           "_ts": 1787186434.222285
-        },
-        {
-          "name": "팬콧키즈 아동용 이큅먼트 로고패턴 리버서블 덕다운, 11T(10~11세), BABY BLUE",
-          "price": "19,370원",
-          "discount_rate": 57,
-          "priceAt": "08.20 08:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/kwkcthe4/e26380041d0b4282ae8f90b56294a653.jpg",
-          "url": "https://link.coupang.com/a/gl9jd9W8jY",
-          "_ts": 1787182123.034771
-        },
-        {
-          "name": "라이스크리스피 트리트 더 오리지널, 22g, 24개",
-          "price": "10,650원",
-          "discount_rate": 65,
-          "priceAt": "08.20 07:49",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2018/12/12/12/5/ec01f5a0-5615-47f7-b036-ad5191f6bbc7.jpg",
-          "url": "https://link.coupang.com/a/gl6vWTLy4O",
-          "_ts": 1787179776.473446
         }
       ]
     },
