@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "곰곰 돌돌말이 대패삼겹살 (냉동), 1.5kg, 1개, 1.5kg × 1개",
+          "price": "10,780원",
+          "discount_rate": 37,
+          "priceAt": "08.24 16:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/61699212767076-b7c7ecb5-df1b-44c3-afdd-9d3625c60a70.jpg",
+          "url": "https://link.coupang.com/a/gtltAML79w",
+          "_ts": 1787556732.867502
+        },
+        {
           "name": "돌돌말이 대패삼겹살 바로구이 (냉동), 1kg, 1개",
           "price": "7,190원",
           "discount_rate": 35,
@@ -1023,15 +1032,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/869274672162016-06eb765a-e5b5-452b-8c98-527e1eed7abe.jpg",
           "url": "https://link.coupang.com/a/gk265v5cey",
           "_ts": 1787124862.1520488
-        },
-        {
-          "name": "코멧 위생롤백, 특대(XL), 500개입, 1개",
-          "price": "6,990원",
-          "discount_rate": 29,
-          "priceAt": "08.19 16:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1512888250218036-9fc6b936-0925-4b86-82ec-394815b8a313.jpg",
-          "url": "https://link.coupang.com/a/gk2PBeE6O4",
-          "_ts": 1787124625.7249238
         }
       ]
     },
