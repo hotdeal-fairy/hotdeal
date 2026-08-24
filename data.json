@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "유기농본 유기농 순면 울트라슬림 생리대, 중형, 30개입, 3개",
+          "price": "12,660원",
+          "discount_rate": 45,
+          "priceAt": "08.24 15:48",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/51995504818540-fc5db486-be69-4e5d-afdb-76c598de9aed.jpg",
+          "url": "https://link.coupang.com/a/gtikf8DACy",
+          "_ts": 1787554087.956557
+        },
+        {
           "name": "터블 이지클린 텀블러 발포 세정제 클리너 대용량 100p, 800g, 1개",
           "price": "16,590원",
           "discount_rate": 25,
@@ -1005,24 +1014,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fcb5/42a9d1f37ad56e6ef69e1e8dde561a252a40c72421281bec9ac0029c5d07.jpg",
           "url": "https://link.coupang.com/a/gk0hBkg3wa",
           "_ts": 1787122488.0725381
-        },
-        {
-          "name": "쿨박사 쿨링티슈 데오 쿨링 시트 타올 쿨스카프 특대형, 7매입, 3개",
-          "price": "8,400원",
-          "discount_rate": 67,
-          "priceAt": "08.19 15:21",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8cf2/c94c5df144725b1fe0bd08c432d2214a78e80f0a3b2a2efad790c5996af3.jpg",
-          "url": "https://link.coupang.com/a/gkXSHTVHOu",
-          "_ts": 1787120471.400394
-        },
-        {
-          "name": "벳플 동아제약 반려동물 락토덴탈 영양제, 30회분, 장건강/유산균, 1개",
-          "price": "18,430원",
-          "discount_rate": 47,
-          "priceAt": "08.19 14:55",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/30/15/8/969440d1-9676-4e11-a4bc-15177425c071.jpg",
-          "url": "https://link.coupang.com/a/gkV3RXDxRY",
-          "_ts": 1787118943.546787
         }
       ]
     },
@@ -1525,15 +1516,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ODAwOWRl/QU81U0hlMlp4TTgwU3ptYVZwak95bEtha2xwUlZwREpWMWpuSzFxbk94UmE.png",
           "url": "https://toss.im/_m/nmLaOn4B",
           "_ts": 1787123228.9986382
-        },
-        {
-          "name": "옥돌김치 333 프리미엄 총각김치, 2kg, 1개",
-          "price": "14,900원",
-          "discount_rate": 51,
-          "priceAt": "08.19 15:15",
-          "image": "https://shopping.toss.im/live/taca/ai/MTU5ZjFi/QU14bU1WcTBjeVRCa3gzdUdaZWJHVWYrUmhWbzF2UnlXLy9DQU9ZSW04KzE.png",
-          "url": "https://toss.im/_m/1v9cPKZ1",
-          "_ts": 1787120104.477469
         }
       ]
     },
