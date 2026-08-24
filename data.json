@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "케라시스 어드밴스드 10X 리페어 앰플 헤어팩, 1L, 1개",
+          "price": "6,750원",
+          "discount_rate": 39,
+          "priceAt": "08.24 13:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2f9b/a8859e176c73f55e76edc74096fc70ad5ae9687f25a6282d1613a0edc7de.jpg",
+          "url": "https://link.coupang.com/a/gs8dBtMIzk",
+          "_ts": 1787545601.674379
+        },
+        {
           "name": "마더케이 휴대용 프리미엄 아기 물티슈 캡형, 75g, 20매, 12개",
           "price": "8,250원",
           "discount_rate": 54,
@@ -1534,15 +1543,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-11-04/3c6bfaee-b83b-4f30-a213-501ffde208b9.jpeg",
           "url": "https://toss.im/_m/LnAs0rmy",
           "_ts": 1787114730.983134
-        },
-        {
-          "name": "안국건강 아이원 루테인 지아잔틴 미니, 60캡슐, 3박스",
-          "price": "31,400원",
-          "discount_rate": 58,
-          "priceAt": "08.19 13:23",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWI3MmI4/QUp1eUpsYlp1YmJWVDQ3OWNaYk5ySkk0TG9mUk5xMHNIc0hnTnAybHNVbGk.png",
-          "url": "https://toss.im/_m/zQlQlxd3",
-          "_ts": 1787113417.023715
         }
       ]
     },
