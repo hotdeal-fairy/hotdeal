@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "이롬 황성주 박사의 국산콩 무가당 검은콩 고칼슘 두유, 16개, 190ml",
+          "price": "8,920원",
+          "discount_rate": 21,
+          "priceAt": "08.24 19:35",
+          "image": "https://img5c.coupangcdn.com/image/retail/images/2026/05/19/15/0/9ec9e4dc-3fec-4cd3-8fa8-24bcb1b1562c.jpg",
+          "url": "https://link.coupang.com/a/gtyyL9VuXA",
+          "_ts": 1787567716.4003751
+        },
+        {
           "name": "스텐 다용도 사각볼 4종세트 304 스테인리스 채칼 세척볼 채반, 1세트, 4종",
           "price": "9,900원",
           "discount_rate": 42,
@@ -978,24 +987,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/59635531821762-32003800-83a6-4a62-857d-5af68e4d94a5.jpg",
           "url": "https://link.coupang.com/a/glkZeTUle8",
           "_ts": 1787139869.496206
-        },
-        {
-          "name": "남성용 듀아크1995 스몰로고 멀티웨어 스웻셔츠 조거팬츠 셋업, 3XL, 옐로우",
-          "price": "8,510원",
-          "discount_rate": 76,
-          "priceAt": "08.19 19:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/08/03/16/0/8c7bed5c-cadf-47e8-9d86-02d5f4842dda.jpg",
-          "url": "https://link.coupang.com/a/glekjyKPNQ",
-          "_ts": 1787134279.087743
-        },
-        {
-          "name": "남양유업 요구르트, 65ml, 20개입, 1개",
-          "price": "3,080원",
-          "discount_rate": 50,
-          "priceAt": "08.19 19:07",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/125709798923165-edc67dea-f72c-4f09-aeab-30d8b9053655.jpg",
-          "url": "https://link.coupang.com/a/gld4GQxagK",
-          "_ts": 1787134068.054765
         }
       ]
     },
@@ -1507,15 +1498,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NDg3Zjg4/QUtmUy9IcHNXbG1jbFVCS2pSZU5wMlB3WnBoc04zS2pnNTFLUjRPZHlIeTY.png",
           "url": "https://toss.im/_m/fztZ1mix",
           "_ts": 1787137293.41766
-        },
-        {
-          "name": "웅진식품 애사비 오리지널, 500ml, 24개",
-          "price": "14,900원",
-          "discount_rate": 48,
-          "priceAt": "08.19 19:20",
-          "image": "https://shopping.toss.im/live/taca/ai/MjJhNmY0/QUpsanJKbTFZMjM3dm9kMmxFSDRtMk9TbkdscmRwUkphMzRVYkp4L0hiYVU.png",
-          "url": "https://toss.im/_m/9YsxSnDp",
-          "_ts": 1787134806.799062
         }
       ]
     },
