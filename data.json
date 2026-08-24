@@ -978,15 +978,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0e64/9cfb32eee2a8ac857455bbca7301e3ddeae0845113278c5fb584f2eb80e9.jpg",
           "url": "https://link.coupang.com/a/gl3LenV8Ro",
           "_ts": 1787177464.536319
-        },
-        {
-          "name": "레이즈 씨위드 감자칩, 170g, 5개",
-          "price": "15,350원",
-          "discount_rate": 48,
-          "priceAt": "08.19 20:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/59635531821762-32003800-83a6-4a62-857d-5af68e4d94a5.jpg",
-          "url": "https://link.coupang.com/a/glkZeTUle8",
-          "_ts": 1787139869.496206
         }
       ]
     },
@@ -995,6 +986,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "일양약품 일양 비타민C&D 1000, 100정, 1개",
+          "price": "7,900원",
+          "discount_rate": 39,
+          "priceAt": "08.24 21:30",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/YWY5MTc2/QUk4TFR4RjQ1dUFjai9HUFkva09ja1FIY1Izay9nempNeVRNSm5hNk05Mko.png",
+          "url": "https://toss.im/_m/h6Da9gIu",
+          "_ts": 1787574604.8245
+        },
         {
           "name": "과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
           "price": "13,800원",
@@ -1489,15 +1489,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Mjc4MzYy/Wmh0OEtmNWFPYkRIUmhpVndZL3hDanFValRtbDByUzFGck1UVXBsTC9Taz0.png",
           "url": "https://toss.im/_m/tzO2b2Va",
           "_ts": 1787186041.241081
-        },
-        {
-          "name": "황파 양배추즙, 100ml, 100포",
-          "price": "27,500원",
-          "discount_rate": 38,
-          "priceAt": "08.19 21:29",
-          "image": "https://shopping.toss.im/live/taca/ai/YThiODA5/TWxTZlRrWjFUK3I1cjdhYUU2dFZOa0JBS1E1aFNMaExQLzk2UXpxMTh0RT0.png",
-          "url": "https://toss.im/_m/xCoCKchB",
-          "_ts": 1787142598.433992
         }
       ]
     },
