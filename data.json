@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "웰라쥬 리얼 히알루로닉 블루 100 앰플 100ml + 75ml 세트, 1개",
+          "price": "24,710원",
+          "discount_rate": 28,
+          "priceAt": "08.25 07:26",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1393840165716393-990b09e7-d9b6-4212-b1cd-bc2d2f5141a1.jpg",
+          "url": "https://link.coupang.com/a/gunmk7Qffw",
+          "_ts": 1787610370.159978
+        },
+        {
           "name": "이롬 황성주 박사의 국산콩 무가당 검은콩 고칼슘 두유, 16개, 190ml",
           "price": "8,920원",
           "discount_rate": 21,
@@ -942,42 +951,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0fc6/2d1a507274ec6e48a123eff52f70a857f0123b9499bae4746548ee397a76.jpg",
           "url": "https://link.coupang.com/a/gl4QtQojxd",
           "_ts": 1787178374.903302
-        },
-        {
-          "name": "케라시스 프로폴리스 데미지 리페어 샴푸, 1L, 2개",
-          "price": "8,500원",
-          "discount_rate": 29,
-          "priceAt": "08.20 07:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/10558181385931-c99b53f9-b40b-4b91-bad5-a6eb6c9a49cd.jpg",
-          "url": "https://link.coupang.com/a/gl4PisvZAW",
-          "_ts": 1787178358.817324
-        },
-        {
-          "name": "갈치 튀김용 10마리 1 kg 국내산, 1kg, 1개",
-          "price": "10,760원",
-          "discount_rate": 18,
-          "priceAt": "08.20 07:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/64d2/f56c42a9c27fdd089c57d29e002248ffc8991f9746d5b5e4d59f064d5442.jpg",
-          "url": "https://link.coupang.com/a/gl4Oi1bpsG",
-          "_ts": 1787178345.341165
-        },
-        {
-          "name": "켈로그 아몬드 푸레이크 시리얼, 600g, 2개",
-          "price": "8,240원",
-          "discount_rate": 16,
-          "priceAt": "08.20 07:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2749363576207821-be2d7df4-a98f-4f92-a71c-a414e3f9086b.jpg",
-          "url": "https://link.coupang.com/a/gl4NoLL79M",
-          "_ts": 1787178333.604314
-        },
-        {
-          "name": "밀크터치 서양자두 비타 캡슐 클렌징폼, 300ml, 1개",
-          "price": "10,840원",
-          "discount_rate": 57,
-          "priceAt": "08.20 07:11",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0e64/9cfb32eee2a8ac857455bbca7301e3ddeae0845113278c5fb584f2eb80e9.jpg",
-          "url": "https://link.coupang.com/a/gl3LenV8Ro",
-          "_ts": 1787177464.536319
         }
       ]
     },
