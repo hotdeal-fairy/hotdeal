@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "홈스타 핑크파워 욕실 찌든때 클리너, 750ml, 2개",
+          "price": "8,850원",
+          "discount_rate": 26,
+          "priceAt": "08.24 10:40",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259610319417673-0c82f803-0be8-4422-af2a-de9110469104.jpg",
+          "url": "https://link.coupang.com/a/gsWlcbOdWe",
+          "_ts": 1787535629.0826461
+        },
+        {
           "name": "오뗄 추억의 카스테라 핫도그 라이트 (냉동), 50g, 1개, 25개입",
           "price": "9,900원",
           "discount_rate": 27,
@@ -1032,15 +1041,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/486108869072039-cce68610-c5c9-460f-beee-78f894835866.jpg",
           "url": "https://link.coupang.com/a/gkEl0mzOeW",
           "_ts": 1787104076.020822
-        },
-        {
-          "name": "콜라겐 비타민C 캡슐 저분자 피쉬콜라겐 피부탄력 미백 비타민 영양제, 60회분, 1개",
-          "price": "12,900원",
-          "discount_rate": 82,
-          "priceAt": "08.19 10:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6fb2/2960740ac4e164f2eedf25b58f558502350765926c1d6de636ea431ce862.jpg",
-          "url": "https://link.coupang.com/a/gkBpuqH5oa",
-          "_ts": 1787101604.409211
         }
       ]
     },
@@ -1534,15 +1534,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/M2FiNjQ3/QU9Uc3pUYkoyNlJzTVVtZG1XU2JXaE5tekdKV2JNbVZMYjJwU3R1Wm1iV2s.png",
           "url": "https://toss.im/_m/1deZhDK",
           "_ts": 1787106252.457937
-        },
-        {
-          "name": "청우 초코파이 찰떡, 860g, 1박스",
-          "price": "9,900원",
-          "discount_rate": 50,
-          "priceAt": "08.19 09:52",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/NmMxYzc5/VjhFcUg5WTVxWFM2dEJITlZwNnBhVmN3Q3EwTldpUzErbUFjUEFMRGQ0WT0.png",
-          "url": "https://toss.im/_m/X7VGDRFt",
-          "_ts": 1787100762.791189
         }
       ]
     },
