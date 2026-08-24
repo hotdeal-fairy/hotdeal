@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "광천김 핑크퐁 아기상어 무조미 키즈김, 무조미김, 15g, 2개",
+          "price": "6,600원",
+          "discount_rate": 32,
+          "priceAt": "08.24 16:00",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1421311606013115-1a70b6d1-843c-4a0f-ad20-86fcbd7231a4.png",
+          "url": "https://link.coupang.com/a/gtjdJkyKc0",
+          "_ts": 1787554839.038802
+        },
+        {
           "name": "유기농본 유기농 순면 울트라슬림 생리대, 중형, 30개입, 3개",
           "price": "12,660원",
           "discount_rate": 45,
@@ -1005,15 +1014,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1512888250218036-9fc6b936-0925-4b86-82ec-394815b8a313.jpg",
           "url": "https://link.coupang.com/a/gk2PBeE6O4",
           "_ts": 1787124625.7249238
-        },
-        {
-          "name": "지퍼락 간단 지퍼백, 5개, 소(S), 16개",
-          "price": "5,140원",
-          "discount_rate": 59,
-          "priceAt": "08.19 15:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fcb5/42a9d1f37ad56e6ef69e1e8dde561a252a40c72421281bec9ac0029c5d07.jpg",
-          "url": "https://link.coupang.com/a/gk0hBkg3wa",
-          "_ts": 1787122488.0725381
         }
       ]
     },
