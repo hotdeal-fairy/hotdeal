@@ -1023,15 +1023,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/30/15/8/969440d1-9676-4e11-a4bc-15177425c071.jpg",
           "url": "https://link.coupang.com/a/gkV3RXDxRY",
           "_ts": 1787118943.546787
-        },
-        {
-          "name": "베지밀 검은콩과 검은참깨 두유, 190ml, 16개",
-          "price": "7,630원",
-          "discount_rate": 29,
-          "priceAt": "08.19 14:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3179198237901-2594b0b1-b620-4c9e-b3f3-4a58e5ba6769.jpg",
-          "url": "https://link.coupang.com/a/gkS1nhJ5aK",
-          "_ts": 1787116391.006829
         }
       ]
     },
@@ -1040,6 +1031,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+          "price": "11,780원",
+          "discount_rate": 54,
+          "priceAt": "08.24 14:31",
+          "image": "https://shopping.toss.im/live/temp/2025-08-16/583742ce-0d94-4d21-b53f-341a22dc0bc6.jpeg",
+          "url": "https://toss.im/_m/5Aq8NaeC",
+          "_ts": 1787549515.4506361
+        },
         {
           "name": "당연구소 귀리뻥, 40g, 10봉",
           "price": "8,900원",
@@ -1534,15 +1534,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MTU5ZjFi/QU14bU1WcTBjeVRCa3gzdUdaZWJHVWYrUmhWbzF2UnlXLy9DQU9ZSW04KzE.png",
           "url": "https://toss.im/_m/1v9cPKZ1",
           "_ts": 1787120104.477469
-        },
-        {
-          "name": "가벼운 반달 크로스백, 블랙, FREE, 1개",
-          "price": "8,455원",
-          "discount_rate": 57,
-          "priceAt": "08.19 13:59",
-          "image": "https://shopping.toss.im/live/temp/2026-04-02/bdfaa0a2-c9ff-4bf2-8f22-02aae8e3b962.jpeg",
-          "url": "https://toss.im/_m/X0KkqArj",
-          "_ts": 1787115580.475629
         }
       ]
     },
