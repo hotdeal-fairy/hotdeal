@@ -1041,6 +1041,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "서울우유 커피타운 아메리카노, 350ml, 20개",
+          "price": "16,900원",
+          "discount_rate": 57,
+          "priceAt": "08.24 17:49",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTYxMmRh/QUoybUpURlMxcnRwSGFUNDQwc3NrbU81Tk5scDRsVE5MZHR4VDhjbHJUS1U.png",
+          "url": "https://toss.im/_m/bopAprHf",
+          "_ts": 1787561387.133229
+        },
+        {
           "name": "오쿡 소스 닭가슴살볼, 매콤까르보나라맛 100g 2개 + 크림치즈맛 100g 2개 + 핫치즈맛 100g 2개 + 바베큐맛 100g 2개, 8개입",
           "price": "9,800원",
           "discount_rate": 59,
