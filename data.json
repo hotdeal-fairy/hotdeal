@@ -834,15 +834,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5214509318710-1286d285-11de-41eb-8c83-a9a32d5f3469.jpg",
           "url": "https://link.coupang.com/a/gmTr3pjtYq",
           "_ts": 1787220862.9752939
-        },
-        {
-          "name": "오로나민씨 탄산 드링크, 120ml, 20개",
-          "price": "9,900원",
-          "discount_rate": 22,
-          "priceAt": "08.20 18:10",
-          "image": "https://image6.coupangcdn.com/image/retail/images/73008298501217-935598eb-f714-48d8-a76d-608f0cba65e6.png",
-          "url": "https://link.coupang.com/a/gmOR5O8g4y",
-          "_ts": 1787217019.315897
         }
       ]
     },
@@ -851,6 +842,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "메이홉 26년형 바디트리머 6in1 제모기 모근제거+제모면도기, MA-0400, 오로라 화이트, 1개",
+          "price": "33,800원",
+          "discount_rate": 51,
+          "priceAt": "08.25 18:30",
+          "image": "https://shopping.toss.im/live/taca/ai/NWI4MDJm/QU9OWTg1NGNMc0ZiY3M2OFBjUHdEa1E4SDhQQWpqaytoY1BCUEQ5Q3RkVnE.png",
+          "url": "https://toss.im/_m/BIBLNNpo",
+          "_ts": 1787650206.477092
+        },
         {
           "name": "퍼니트 리얼 밀크씨슬, 90정, 1병",
           "price": "9,900원",
