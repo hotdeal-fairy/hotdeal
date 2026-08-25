@@ -951,15 +951,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1488308182763739-e26245a7-ec8d-406e-ba8c-f324c9642e2d.jpg",
           "url": "https://link.coupang.com/a/gmgHzI5q68",
           "_ts": 1787188330.109469
-        },
-        {
-          "name": "비비고 직화 참기름김, 54g, 1개, 54g × 1개",
-          "price": "4,800원",
-          "discount_rate": 26,
-          "priceAt": "08.20 09:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2950145979951512-2f396baf-8c84-467f-89e5-f715b36379fa.jpg",
-          "url": "https://link.coupang.com/a/gmerA54Clw",
-          "_ts": 1787186434.222285
         }
       ]
     },
@@ -968,6 +959,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
+          "price": "8,900원",
+          "discount_rate": 70,
+          "priceAt": "08.25 10:10",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWI1NzBm/QVBHMFpvZmZ3ZTloWXZSWTVaNXgrM1J5OUY2bG14RGgyUEwwVjZjdWxLRjY.png",
+          "url": "https://toss.im/_m/zAU7Jbin",
+          "_ts": 1787620234.4580438
+        },
         {
           "name": "일양약품 일양 비타민C&D 1000, 100정, 1개",
           "price": "7,900원",
@@ -1453,24 +1453,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YWI3MDZm/QUxidnRjZm8vbVdXNGR4c3RHanMyM3U3RWJ0bEt4RHliU3NRTjgvckVHeS8.png",
           "url": "https://toss.im/_m/niFowHqn",
           "_ts": 1787199939.0769322
-        },
-        {
-          "name": "바이탈포션 슈퍼 글루타씨온 앰플, 18ml, 1개",
-          "price": "7,700원",
-          "discount_rate": 69,
-          "priceAt": "08.20 10:01",
-          "image": "https://shopping.toss.im/live/temp/2026-06-18/46001376-e75e-4eef-881c-37ad9f02efaf.png",
-          "url": "https://toss.im/_m/5iun7ut2",
-          "_ts": 1787187714.4764538
-        },
-        {
-          "name": "농가살리기 전통 호박 인절미, 20g, 75개",
-          "price": "12,900원",
-          "discount_rate": 50,
-          "priceAt": "08.20 09:34",
-          "image": "https://shopping.toss.im/live/taca/ai/Mjc4MzYy/Wmh0OEtmNWFPYkRIUmhpVndZL3hDanFValRtbDByUzFGck1UVXBsTC9Taz0.png",
-          "url": "https://toss.im/_m/tzO2b2Va",
-          "_ts": 1787186041.241081
         }
       ]
     },
