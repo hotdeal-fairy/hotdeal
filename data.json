@@ -852,60 +852,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/298b766e-3113-48c2-81f7-a6b73f8f71752495719546385791253.png",
           "url": "https://link.coupang.com/a/gmGZM22s56",
           "_ts": 1787210406.9766889
-        },
-        {
-          "name": "태블릿PC 3단 케이스, 갤럭시탭S6 10.5 2019 T865/T860/T866N, 블랙, 1개",
-          "price": "1,550원",
-          "discount_rate": 82,
-          "priceAt": "08.20 15:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/691844956236836-a8411cc1-4ca1-4e99-89ad-2996131b51b9.jpg",
-          "url": "https://link.coupang.com/a/gmFhv0nyP6",
-          "_ts": 1787208967.559137
-        },
-        {
-          "name": "롯데제로 연양갱 50g x 6p, 300g, 3개",
-          "price": "8,640원",
-          "discount_rate": 28,
-          "priceAt": "08.20 15:30",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/78461082231687-07cf7fe0-4fa7-48c3-904f-98a0990c1ee5.jpg",
-          "url": "https://link.coupang.com/a/gmDqkTXh7s",
-          "_ts": 1787207407.873933
-        },
-        {
-          "name": "팬틴 케라틴 열보호 노워시 트리트먼트, 140ml, 1개",
-          "price": "6,900원",
-          "discount_rate": 27,
-          "priceAt": "08.20 15:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/94879077561150-aca20a01-e4ff-4e49-a18e-66af520879d8.jpg",
-          "url": "https://link.coupang.com/a/gmC2inGPiC",
-          "_ts": 1787207082.3613288
-        },
-        {
-          "name": "립톤 아이스티 믹스 복숭아맛, 14g, 150개입, 1개",
-          "price": "18,490원",
-          "discount_rate": 23,
-          "priceAt": "08.20 15:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/7550/eaa1a86f94ea81fbb4f078c2754f6455ff11ac046d46e2e89ee8822ba03b.jpg",
-          "url": "https://link.coupang.com/a/gmCqagsfLM",
-          "_ts": 1787206565.513401
-        },
-        {
-          "name": "홍초 음용식초 석류, 900ml, 1개",
-          "price": "5,010원",
-          "discount_rate": 23,
-          "priceAt": "08.20 15:13",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2820564781520638-9ea982a9-18c7-4b54-b368-8aa617ad867d.jpg",
-          "url": "https://link.coupang.com/a/gmCexFJm5k",
-          "_ts": 1787206408.66888
-        },
-        {
-          "name": "옵티프리 퓨어모이스트 렌즈세정액 + 렌즈케이스, 420ml, 1세트",
-          "price": "7,870원",
-          "discount_rate": 25,
-          "priceAt": "08.20 14:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1515737762578799-9477353b-589f-42e5-a6d4-e694cd0e5391.jpg",
-          "url": "https://link.coupang.com/a/gmz1nMe6F2",
-          "_ts": 1787204551.0707479
         }
       ]
     },
@@ -914,6 +860,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "제스타 습기제거제, 라벤더향, 250g, 18개",
+          "price": "13,500원",
+          "discount_rate": 41,
+          "priceAt": "08.25 16:00",
+          "image": "https://shopping.toss.im/live/taca/ai/MjQ4OWU0/QU9IakEvZTJIMzhjQTlzOGYwdVpwT0V6TGRLMVpsdDYySEdUdlJoekpQZWs.png",
+          "url": "https://toss.im/_m/54tsQXnr",
+          "_ts": 1787641249.454208
+        },
         {
           "name": "샘트리 맛 병아리콩 오리지널, 개별포장, 400g, 1개",
           "price": "9,900원",
@@ -1408,24 +1363,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MjY2YTMy/QUlqa0FlWkw5Qi93YnR4MkpENjhlWFFpWm1rSEowbElkUEIzckdQeFJoL00.png",
           "url": "https://toss.im/_m/HcANPSd1",
           "_ts": 1787210465.984851
-        },
-        {
-          "name": "모나리자 미용티슈, 250매, 6개입, 2팩",
-          "price": "15,900원",
-          "discount_rate": 62,
-          "priceAt": "08.20 15:59",
-          "image": "https://shopping.toss.im/live/taca/ai/MDFjMzY5/QU16cmUxSTdEOHM0ZEkvTFhNc2VNMXIwNUpUbEtuQWM3N2J4NUtlS1VCdFk.png",
-          "url": "https://toss.im/_m/rYKwDuRt",
-          "_ts": 1787209171.0950809
-        },
-        {
-          "name": "푸드앳홈 한입 바삭 마늘 바게트, 40g, 10개",
-          "price": "6,500원",
-          "discount_rate": 56,
-          "priceAt": "08.20 14:57",
-          "image": "https://shopping.toss.im/live/temp/2025-01-21/8b5ba25c-12b5-4a1d-bab7-73cd19c703ff.jpeg",
-          "url": "https://toss.im/_m/7x9pPPOt",
-          "_ts": 1787205430.8067021
         }
       ]
     },
