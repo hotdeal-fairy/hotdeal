@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "Apple 아이폰 17 Pro Max 자급제, 실버, 256GB",
+          "price": "1,778,770원",
+          "discount_rate": 10,
+          "priceAt": "08.25 19:38",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/48241665932179-74159c18-e386-42f0-a2b6-5e19e8d2fe29.jpg",
+          "url": "https://link.coupang.com/a/gvdFV1KGqq",
+          "_ts": 1787654296.198163
+        },
+        {
           "name": "아디다스피트니스 에센셜 벨크로 헬스장갑, 화이트, L (14.5 x 9 x 2.5 cm), 1개",
           "price": "14,400원",
           "discount_rate": 49,
@@ -816,24 +825,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/545912709172853-ec5b2950-c44a-46a1-ab5e-6f71fda809d1.jpg",
           "url": "https://link.coupang.com/a/gmVZsgOwoK",
           "_ts": 1787222994.3504121
-        },
-        {
-          "name": "비트 스트롱 세븐 일반용 액상세제 본품, 3L, 1개",
-          "price": "6,930원",
-          "discount_rate": 30,
-          "priceAt": "08.20 19:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9255007731219502-ca336967-05cb-416c-8682-3cf4bc0e38ce.jpg",
-          "url": "https://link.coupang.com/a/gmUrCiwojk",
-          "_ts": 1787221696.088056
-        },
-        {
-          "name": "펄세스 스테비아 마일드 커피믹스, 9.6g, 20개입, 5개",
-          "price": "22,620원",
-          "discount_rate": 54,
-          "priceAt": "08.20 19:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5214509318710-1286d285-11de-41eb-8c83-a9a32d5f3469.jpg",
-          "url": "https://link.coupang.com/a/gmTr3pjtYq",
-          "_ts": 1787220862.9752939
         }
       ]
     },
@@ -1354,15 +1345,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZDQxN2Fm/QU1KenpNU1hTNU14N1laNTI1bVR1SG1iRXVXT2JHRTdMMHZGWTIvTTBPenc.png",
           "url": "https://toss.im/_m/3zEYJvrd",
           "_ts": 1787226388.300428
-        },
-        {
-          "name": "에버튼하우스 에그쿠커, DIHY-ES38, 1개",
-          "price": "8,900원",
-          "discount_rate": 35,
-          "priceAt": "08.20 19:25",
-          "image": "https://shopping.toss.im/live/taca/ai/NGVmZGJl/QUpVblN0eFltTFVyNXh0cTFqaFRwaW5saVp0bW15YTB1ZVNjYTVaS1VOVnI.png",
-          "url": "https://toss.im/_m/p3ejEete",
-          "_ts": 1787221556.147032
         }
       ]
     },
