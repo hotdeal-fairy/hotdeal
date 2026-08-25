@@ -843,6 +843,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
+          "price": "5,190원",
+          "discount_rate": 24,
+          "priceAt": "08.25 18:53",
+          "image": "https://shopping.toss.im/live/taca/ai/MmUwZGZh/QU42M01rdWx0S1d6MGFrOXV4dHMwNDI3ZEdXVXZWWkxWclZrUzJ3bW9mVGI.png",
+          "url": "https://toss.im/_m/drGU5MNz",
+          "_ts": 1787651601.279978
+        },
+        {
           "name": "메이홉 26년형 바디트리머 6in1 제모기 모근제거+제모면도기, MA-0400, 오로라 화이트, 1개",
           "price": "33,800원",
           "discount_rate": 51,
@@ -1354,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NGVmZGJl/QUpVblN0eFltTFVyNXh0cTFqaFRwaW5saVp0bW15YTB1ZVNjYTVaS1VOVnI.png",
           "url": "https://toss.im/_m/p3ejEete",
           "_ts": 1787221556.147032
-        },
-        {
-          "name": "맛장군 갓김치, 3kg, 1개",
-          "price": "11,900원",
-          "discount_rate": 60,
-          "priceAt": "08.20 18:41",
-          "image": "https://shopping.toss.im/live/temp/2025-04-11/79ecd49a-4412-4184-bd28-aaa663b596c8.jpeg",
-          "url": "https://toss.im/_m/z5P6BVAn",
-          "_ts": 1787218878.5418801
         }
       ]
     },
