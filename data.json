@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "르샤트라1802 인퓨전 드라이시트 섬유유연제 뮤게부케 본품, 140개입, 1개",
+          "price": "8,800원",
+          "discount_rate": 71,
+          "priceAt": "08.25 11:01",
+          "image": "https://img4c.coupangcdn.com/image/vendor_inventory/0e6a/a6cabe5641d4a2d4eec77a4f85b6418d7065edf7092765bdbd2d6529428c.jpg",
+          "url": "https://link.coupang.com/a/guCIRuSOQ0",
+          "_ts": 1787623269.717968
+        },
+        {
           "name": "지엔씨푸드 오사카식 타코야끼 문어 18% 50입 (냉동), 1kg, 2개",
           "price": "11,400원",
           "discount_rate": 24,
@@ -924,15 +933,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/825592908312-ac4fe7f0-9052-4f0c-9801-bc7369a5a778.png",
           "url": "https://link.coupang.com/a/gmlEqP8fIa",
           "_ts": 1787192485.616079
-        },
-        {
-          "name": "덴티본조르노 구취 치약, 100g, 3개",
-          "price": "7,220원",
-          "discount_rate": 16,
-          "priceAt": "08.20 10:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/214769729390749-d56a4b15-0bd4-42ea-a2f6-900b8c4eb3b9.jpg",
-          "url": "https://link.coupang.com/a/gmiZ9jOELI",
-          "_ts": 1787190260.9868171
         }
       ]
     },
