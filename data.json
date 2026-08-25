@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "다향 무항생제 인증 우리땅 오리 다리살 슬라이스 (냉장), 500g, 1개",
+          "price": "7,290원",
+          "discount_rate": 51,
+          "priceAt": "08.26 08:45",
+          "image": "https://img2c.coupangcdn.com/image/retail/images/925859633293643-50ab81f4-1584-4e3f-8543-cfdb6f5a0f0f.jpg",
+          "url": "https://link.coupang.com/a/gv7XrCe6hM",
+          "_ts": 1787701551.8305368
+        },
+        {
           "name": "하림 치킨너겟 2 (냉동), 1kg, 2개",
           "price": "15,989원",
           "discount_rate": 36,
@@ -789,24 +798,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9d69/850b75a152b2513343be0b3f3d7f4b5d670bb12a49d66176a9be0628345b.jpg",
           "url": "https://link.coupang.com/a/gnS2Xwn4Kq",
           "_ts": 1787272581.5084538
-        },
-        {
-          "name": "불닭볶음면 로제 140g, 32개",
-          "price": "33,600원",
-          "discount_rate": 30,
-          "priceAt": "08.21 08:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2358762503772178-1940079d-3afa-405c-9a5e-5cff64e3cdfc.jpg",
-          "url": "https://link.coupang.com/a/gnPfTUO5jU",
-          "_ts": 1787269398.251847
-        },
-        {
-          "name": "비비드키친 저칼로리 크레이지핫소스, 315g, 2개, 315g × 2개",
-          "price": "4,200원",
-          "discount_rate": 32,
-          "priceAt": "08.21 08:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/63390236451653-cba367f8-242b-4e70-9451-1fe8ff4b9724.png",
-          "url": "https://link.coupang.com/a/gnNhjzFqHk",
-          "_ts": 1787267737.984622
         }
       ]
     },
