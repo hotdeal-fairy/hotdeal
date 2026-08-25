@@ -906,51 +906,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/45029396348416-c0eec265-9242-4800-a57f-00c30ba55333.jpg",
           "url": "https://link.coupang.com/a/gmu9JLsVgW",
           "_ts": 1787200466.0962071
-        },
-        {
-          "name": "코에픽 알레르기 비염치료 의료기기 본체 + 프로브 2개 + 파우치, 1세트",
-          "price": "84,000원",
-          "discount_rate": 41,
-          "priceAt": "08.20 13:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7873741354078901-b36b8a01-7ba3-43e0-9ef1-1eccedac3461.jpg",
-          "url": "https://link.coupang.com/a/gmtBJJOJ0m",
-          "_ts": 1787199165.955953
-        },
-        {
-          "name": "비오레 스킨케어 세안료 리치 모이스처, 130g, 2개",
-          "price": "8,800원",
-          "discount_rate": 49,
-          "priceAt": "08.20 13:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7c1c/8a434a50cd42fd778ccd664e1f34560d2194f6c9a568e107144c1a1e21c2.jpg",
-          "url": "https://link.coupang.com/a/gms9m3ht4S",
-          "_ts": 1787198779.5456982
-        },
-        {
-          "name": "연화삼월 여름 시원한 패드 차가운 침대패드 냉감패드 냉감 쿨매트, JT 화이트, 슈퍼싱글 110x200",
-          "price": "6,960원",
-          "discount_rate": 42,
-          "priceAt": "08.20 13:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d72a/8b497c54503e72670f42414989f29503713a104a77167f30f0d657e36c81.jpg",
-          "url": "https://link.coupang.com/a/gmsVntmZbg",
-          "_ts": 1787198590.605705
-        },
-        {
-          "name": "스탠리 아이스플로우 플립 스트로 2.0 텀블러, 피치 로즈, 887ml, 1개",
-          "price": "27,590원",
-          "discount_rate": 44,
-          "priceAt": "08.20 12:47",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/10/16/2/5db3d399-55b6-44a1-a79e-c247c34a23bf.jpg",
-          "url": "https://link.coupang.com/a/gmrN04L2LA",
-          "_ts": 1787197651.25681
-        },
-        {
-          "name": "연세우유 마카다미아 초코우유, 190ml, 24개",
-          "price": "10,590원",
-          "discount_rate": 25,
-          "priceAt": "08.20 12:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6821556924382-9c5635be-6ee0-4495-a809-7bac9ebf24a2.jpg",
-          "url": "https://link.coupang.com/a/gmoS2j1EjY",
-          "_ts": 1787195202.327391
         }
       ]
     },
@@ -959,6 +914,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "취영루 담백 물만두, 165g, 10개",
+          "price": "22,400원",
+          "discount_rate": 56,
+          "priceAt": "08.25 13:13",
+          "image": "https://shopping.toss.im/live/taca/ai/NTY1MDIy/TjZWamJ6cVF2Ri9jM2ZrSWZtK2ZXQU5TQndBZFVnZEt6Qm5GVWtrdU1vRT0.png",
+          "url": "https://toss.im/_m/ft0kKrEj",
+          "_ts": 1787631230.857592
+        },
         {
           "name": "닥터지 메디 UV 울트라 선 선크림, 50ml, 2개",
           "price": "13,180원",
