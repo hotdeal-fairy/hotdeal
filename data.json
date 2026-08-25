@@ -834,15 +834,6 @@
           "image": "https://image6.coupangcdn.com/image/retail/images/73008298501217-935598eb-f714-48d8-a76d-608f0cba65e6.png",
           "url": "https://link.coupang.com/a/gmOR5O8g4y",
           "_ts": 1787217019.315897
-        },
-        {
-          "name": "롯데카스타드 오리지널, 230g, 3개",
-          "price": "9,120원",
-          "discount_rate": 14,
-          "priceAt": "08.20 16:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/59652462433537-b46826be-ce01-4c30-a97a-181d18e1ce27.png",
-          "url": "https://link.coupang.com/a/gmJG6nDzki",
-          "_ts": 1787212670.51431
         }
       ]
     },
@@ -851,6 +842,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "퍼니트 리얼 밀크씨슬, 90정, 1병",
+          "price": "9,900원",
+          "discount_rate": 50,
+          "priceAt": "08.25 17:33",
+          "image": "https://shopping.toss.im/live/taca/ai/NWNiNDNk/QU9PZVNEa2VkbkROU1lMSExiYThWTE5NWXg3VXdjbWxGcjB0T0ZyVnd1cWw.png",
+          "url": "https://toss.im/_m/bsMvuQBu",
+          "_ts": 1787646810.8461819
+        },
         {
           "name": "에브리워터 무라벨, 2L, 24개",
           "price": "10,990원",
