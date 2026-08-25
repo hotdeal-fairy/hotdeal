@@ -843,15 +843,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/59652462433537-b46826be-ce01-4c30-a97a-181d18e1ce27.png",
           "url": "https://link.coupang.com/a/gmJG6nDzki",
           "_ts": 1787212670.51431
-        },
-        {
-          "name": "나랑드사이다 제로 파인애플, 350ml, 20개",
-          "price": "9,900원",
-          "discount_rate": 33,
-          "priceAt": "08.20 16:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/0d49/372d374413629a1e5db37a9064037d36d2db9155eeadf43fd48866a207a5.jpg",
-          "url": "https://link.coupang.com/a/gmHBTRbAEm",
-          "_ts": 1787210922.664299
         }
       ]
     },
@@ -860,6 +851,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "에브리워터 무라벨, 2L, 24개",
+          "price": "10,990원",
+          "discount_rate": 54,
+          "priceAt": "08.25 16:37",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2M1OWIz/VnNiTVcrRnhjaGtmbW1IbWltM2N3L1hCTmpBUnVpTTdtbkg5aDF4SGlQND0.png",
+          "url": "https://toss.im/_m/VL0WJTZv",
+          "_ts": 1787643475.6993039
+        },
         {
           "name": "제스타 습기제거제, 라벤더향, 250g, 18개",
           "price": "13,500원",
@@ -1354,15 +1354,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-04-11/79ecd49a-4412-4184-bd28-aaa663b596c8.jpeg",
           "url": "https://toss.im/_m/z5P6BVAn",
           "_ts": 1787218878.5418801
-        },
-        {
-          "name": "목우촌 허브 갈릭 훈제오리 슬라이스, 210g, 6개",
-          "price": "23,900원",
-          "discount_rate": 52,
-          "priceAt": "08.20 16:21",
-          "image": "https://shopping.toss.im/live/taca/ai/MjY2YTMy/QUlqa0FlWkw5Qi93YnR4MkpENjhlWFFpWm1rSEowbElkUEIzckdQeFJoL00.png",
-          "url": "https://toss.im/_m/HcANPSd1",
-          "_ts": 1787210465.984851
         }
       ]
     },
