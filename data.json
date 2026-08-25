@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "클리덴트 치아교정기 세정폼, 150ml, 1개",
+          "price": "7,990원",
+          "discount_rate": 56,
+          "priceAt": "08.25 21:15",
+          "image": "https://image14.coupangcdn.com/image/retail/images/2025/06/19/13/3/d9c91d08-32b5-44da-b138-832ac5df658e.jpg",
+          "url": "https://link.coupang.com/a/gvkD0LBPLU",
+          "_ts": 1787660145.309443
+        },
+        {
           "name": "Apple 아이폰 17 Pro Max 자급제, 실버, 256GB",
           "price": "1,778,770원",
           "discount_rate": 10,
@@ -807,15 +816,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/264471576377036-a906d997-18b6-43ee-91de-b34af72cd0f7.jpg",
           "url": "https://link.coupang.com/a/gm7L3vGN2G",
           "_ts": 1787232890.442643
-        },
-        {
-          "name": "피죤 건조기용 시그니처 시트 섬유유연제 미스틱레인 본품, 130개입, 1개",
-          "price": "7,930원",
-          "discount_rate": 27,
-          "priceAt": "08.20 21:13",
-          "image": "https://image14.coupangcdn.com/image/retail/images/609377338660433-c6bbd4bf-0336-44bb-9acc-7be5af13bdeb.jpg",
-          "url": "https://link.coupang.com/a/gm1WJU3gBw",
-          "_ts": 1787227997.4083269
         }
       ]
     },
@@ -1327,24 +1327,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OGY1ZmVi/QU0yTW5PWUdXWlBOTW1hZGpwbG5jQmpwcG1MUjU1NkRhellZVGovWmFUSGY.png",
           "url": "https://toss.im/_m/h1qwQP7v",
           "_ts": 1787273265.93062
-        },
-        {
-          "name": "외갓집 송탄 서정리 부대찌개 550, 550g, 3개 + 오뚜기 라면사리, 110g, 1개, 1세트",
-          "price": "12,990원",
-          "discount_rate": 51,
-          "priceAt": "08.20 21:07",
-          "image": "https://shopping.toss.im/live/temp/2026-08-12/835247c5-8ec5-414d-ba2e-a2315bc43d06.jpeg",
-          "url": "https://toss.im/_m/tGBBfWAy",
-          "_ts": 1787227634.557219
-        },
-        {
-          "name": "웰루츠 냉동 애플망고, 페루산, 1kg, 2개",
-          "price": "9,900원",
-          "discount_rate": 50,
-          "priceAt": "08.20 20:46",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDQxN2Fm/QU1KenpNU1hTNU14N1laNTI1bVR1SG1iRXVXT2JHRTdMMHZGWTIvTTBPenc.png",
-          "url": "https://toss.im/_m/3zEYJvrd",
-          "_ts": 1787226388.300428
         }
       ]
     },
