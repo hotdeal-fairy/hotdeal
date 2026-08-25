@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "글라스락 렌지쿡 볶음밥 덮밥 전자레인지 용기 1.03L, 투명, 2개",
+          "price": "11,960원",
+          "discount_rate": 68,
+          "priceAt": "08.25 14:40",
+          "image": "https://image12.coupangcdn.com/image/retail/images/426114575617869-d3849482-4987-49af-b7df-ff0406d8dd87.jpg",
+          "url": "https://link.coupang.com/a/guSqPM4qjs",
+          "_ts": 1787636459.415124
+        },
+        {
           "name": "BRUNO 스탠드 선풍기 BSF-2119W + 더스트백",
           "price": "19,900원",
           "discount_rate": 56,
@@ -897,24 +906,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1515737762578799-9477353b-589f-42e5-a6d4-e694cd0e5391.jpg",
           "url": "https://link.coupang.com/a/gmz1nMe6F2",
           "_ts": 1787204551.0707479
-        },
-        {
-          "name": "LARSA 버터, 250g, 2개",
-          "price": "7,120원",
-          "discount_rate": 33,
-          "priceAt": "08.20 14:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7bd3ac6b-0612-4664-a3d7-2072dcbac5a4737621405002259564.png",
-          "url": "https://link.coupang.com/a/gmzehycmtM",
-          "_ts": 1787203886.314962
-        },
-        {
-          "name": "해표 해바라기유, 900ml, 1개",
-          "price": "3,990원",
-          "discount_rate": 35,
-          "priceAt": "08.20 13:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/45029396348416-c0eec265-9242-4800-a57f-00c30ba55333.jpg",
-          "url": "https://link.coupang.com/a/gmu9JLsVgW",
-          "_ts": 1787200466.0962071
         }
       ]
     },
