@@ -933,24 +933,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/214769729390749-d56a4b15-0bd4-42ea-a2f6-900b8c4eb3b9.jpg",
           "url": "https://link.coupang.com/a/gmiZ9jOELI",
           "_ts": 1787190260.9868171
-        },
-        {
-          "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
-          "price": "5,650원",
-          "discount_rate": 31,
-          "priceAt": "08.20 10:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/67558851664189-c0ce92d3-9e30-4cb5-9d64-a8453707f263.jpg",
-          "url": "https://link.coupang.com/a/gmhcFmLpTM",
-          "_ts": 1787188751.089406
-        },
-        {
-          "name": "애슐리 시카고 딥디쉬피자 (냉동), 406g, 1개, 4팩",
-          "price": "25,900원",
-          "discount_rate": 35,
-          "priceAt": "08.20 10:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1488308182763739-e26245a7-ec8d-406e-ba8c-f324c9642e2d.jpg",
-          "url": "https://link.coupang.com/a/gmgHzI5q68",
-          "_ts": 1787188330.109469
         }
       ]
     },
@@ -959,6 +941,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "닥터지 메디 UV 울트라 선 선크림, 50ml, 2개",
+          "price": "13,180원",
+          "discount_rate": 62,
+          "priceAt": "08.25 10:37",
+          "image": "https://shopping.toss.im/live/taca/ai/MTk1NDY1/YjFTTzlqTW4wMzdzK0R3ZEZnUGh3K0gwa3hZZVAzNzQ0ZmdoQndFRjN2dz0.png",
+          "url": "https://toss.im/_m/JoOi9r16",
+          "_ts": 1787621868.570071
+        },
         {
           "name": "대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
           "price": "8,900원",
