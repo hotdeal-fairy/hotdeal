@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "농심 라뽁구리 큰사발면 105g, 3개",
+          "price": "3,660원",
+          "discount_rate": null,
+          "priceAt": "08.26 10:33",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/370368137178149-56451333-031a-4e91-b704-e7350e8a5903.jpg",
+          "url": "https://link.coupang.com/a/gwfC6pG11M",
+          "_ts": 1787707993.2390358
+        },
+        {
           "name": "로보락 로봇청소기, Q8+, 화이트",
           "price": "279,000원",
           "discount_rate": 65,
@@ -771,15 +780,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/90db/498ce20dc5f7bda47deec9f36163070334cc27269005a03a3b62dd4be5a0.jpg",
           "url": "https://link.coupang.com/a/gnXODzF48G",
           "_ts": 1787276585.460746
-        },
-        {
-          "name": "닥터지 더모이스처 배리어디 인텐스 크림, 100ml, 1개",
-          "price": "11,300원",
-          "discount_rate": 23,
-          "priceAt": "08.21 10:25",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/49182354679531-2f424bd9-37b9-40e4-aa9d-b52a7c5f1b1d.jpg",
-          "url": "https://link.coupang.com/a/gnWwuvTHxc",
-          "_ts": 1787275500.33168
         }
       ]
     },
@@ -1291,15 +1291,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OWY5MzVh/QUpvL3NqVzNOTm9lZ2hJcG5zbFNHRjl4VDB3bDVZNG9Kd2Fja3V0b2EvdEg.png",
           "url": "https://toss.im/_m/XEsbgBY9",
           "_ts": 1787284496.205751
-        },
-        {
-          "name": "밀바랩 제주 프루넬라 비건 콜라겐 주름 탄력 아이패치, 60매, 1개",
-          "price": "8,500원",
-          "discount_rate": 59,
-          "priceAt": "08.21 10:29",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/NjY3Y2Qw/V01icktaYnFweG1adEZSbVJ6U3FwN2JhcFIxV2E3V29XdFhHWTJNd1VwUT0.png",
-          "url": "https://toss.im/_m/jBMkF4kh",
-          "_ts": 1787275789.1675909
         }
       ]
     },
