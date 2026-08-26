@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "에브리봇 침구 로봇청소기, 화이트, X1",
+          "price": "199,000원",
+          "discount_rate": 22,
+          "priceAt": "08.26 14:31",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/16/18/1/9d9927f2-2cf3-4b26-b5f5-12a666c4fdad.jpg",
+          "url": "https://link.coupang.com/a/gwwC0uhAqW",
+          "_ts": 1787722265.688204
+        },
+        {
           "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미, 8개입, 1개",
           "price": "5,990원",
           "discount_rate": 65,
@@ -1282,15 +1291,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZTZjNDY4/UHZrZFhxOHB6d3ZIU1Z2RGZ2VDRvOVFjMWF0VlZPS3p2VlFxdFloandjQT0.png",
           "url": "https://toss.im/_m/JWNisvii",
           "_ts": 1787292680.677206
-        },
-        {
-          "name": "엠앤엠즈 미니 튜브, 35g, 24개",
-          "price": "17,400원",
-          "discount_rate": 60,
-          "priceAt": "08.21 14:07",
-          "image": "https://shopping.toss.im/live/taca/ai/OTdmZTQx/V1diRzkrOUxxU2JXdERranprbFN4bVBaU2ZISnBWWHNhbGk4YWJTMFo1ND0.png",
-          "url": "https://toss.im/_m/1llm4Jbv",
-          "_ts": 1787288826.6269288
         }
       ]
     },
