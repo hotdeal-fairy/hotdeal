@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "샘표 조선 국산100% 고추장, 1kg, 1개",
+          "price": "12,180원",
+          "discount_rate": 63,
+          "priceAt": "08.26 17:01",
+          "image": "https://image9.coupangcdn.com/image/retail/images/4946407368838769-927738f7-37c8-4e61-86dc-1eb25f8b29c7.jpg",
+          "url": "https://link.coupang.com/a/gwHnWbU5dc",
+          "_ts": 1787731297.0695949
+        },
+        {
           "name": "팔도 진국 설렁탕면 100g, 32개",
           "price": "19,570원",
           "discount_rate": 36,
@@ -735,24 +744,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/59821ca2-0401-4fa0-b299-e39c0396e86a1485166157908955537.jpg",
           "url": "https://link.coupang.com/a/goCq5z3AGH",
           "_ts": 1787310690.7741828
-        },
-        {
-          "name": "사푸토 스트링 치즈 (냉장), 28g, 24개입, 1개",
-          "price": "9,580원",
-          "discount_rate": 35,
-          "priceAt": "08.21 16:24",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/291185514241495-70427132-59c8-4af8-85f8-a5db89e7d804.jpg",
-          "url": "https://link.coupang.com/a/gomc8ww0VE",
-          "_ts": 1787297067.834013
-        },
-        {
-          "name": "오랄비 고탄력 초미세모 그린티 랜덤색상, 6개입, 2개",
-          "price": "9,900원",
-          "discount_rate": 25,
-          "priceAt": "08.21 16:23",
-          "image": "https://img1a.coupangcdn.com/image/retail/images/208019942026684-9d2dbe1c-401e-449c-b46b-321c3700024d.jpg",
-          "url": "https://link.coupang.com/a/gol9DHgTrU",
-          "_ts": 1787297020.470183
         }
       ]
     },
@@ -1273,15 +1264,6 @@
           "image": "https://shopping.toss.im/live/product/64907/4f140fbd-07d6-4860-b0ff-48898892a6a3.png",
           "url": "https://toss.im/_m/lszSbbDk",
           "_ts": 1787304209.6644092
-        },
-        {
-          "name": "초록 이량 와사비잎 추출물, 600mg, 120정, 2개",
-          "price": "39,500원",
-          "discount_rate": 54,
-          "priceAt": "08.21 16:52",
-          "image": "https://shopping.toss.im/live/taca/ai/MzhhYzE0/QUpMWk9lZDhlZFkrcWVmMmZOYS9wcFJ0YkZ2RHVGemRZWWJSYkU1TlFLSzU.png",
-          "url": "https://toss.im/_m/N7yoVbre",
-          "_ts": 1787298778.404038
         }
       ]
     },
