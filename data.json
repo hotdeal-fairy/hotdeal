@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품, 3.2L, 1개",
+          "price": "7,950원",
+          "discount_rate": 56,
+          "priceAt": "08.26 20:25",
+          "image": "https://img3c.coupangcdn.com/image/retail/images/57158726844058-5f532d39-0cbe-4379-ac54-9f6c2593b978.jpg",
+          "url": "https://link.coupang.com/a/gwVZm7mami",
+          "_ts": 1787743558.617095
+        },
+        {
           "name": "화이트샌즈 뉴 라자르 라피아 블랙밴드 썬캡, 코코아, FREE(55~60cm)",
           "price": "26,740원",
           "discount_rate": 48,
@@ -771,15 +780,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/332317071513980-a48e2883-7c46-4ed6-9f54-e08565fdde1f.png",
           "url": "https://link.coupang.com/a/goGO6PnwGa",
           "_ts": 1787314374.59165
-        },
-        {
-          "name": "ROYAI ONE 차량 햇빛가리개 차량앞유리 햇빛가리개, 140*70cm, 2개, 티타늄 실버",
-          "price": "3,200원",
-          "discount_rate": 59,
-          "priceAt": "08.21 20:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/59821ca2-0401-4fa0-b299-e39c0396e86a1485166157908955537.jpg",
-          "url": "https://link.coupang.com/a/goCq5z3AGH",
-          "_ts": 1787310690.7741828
         }
       ]
     },
@@ -1300,24 +1300,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ODBhNzhm/THRIN1BPWmN6bmJHUEg3U244bW1hMmJKK2FubUhOdk16blEybkI3RWFaaz0.png",
           "url": "https://toss.im/_m/F3FAxMt8",
           "_ts": 1787312799.305632
-        },
-        {
-          "name": "지리산수 생수, 라벨랜덤, 2L, 18개",
-          "price": "9,400원",
-          "discount_rate": 64,
-          "priceAt": "08.21 20:06",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZTE2NGNm/T1RrV25oNlRqenppeDNEbm0ya1BIQzRmY0dYSGpGamJjTFN6RnBselpHUT0.png",
-          "url": "https://toss.im/_m/XZB7vjCp",
-          "_ts": 1787310363.669705
-        },
-        {
-          "name": "팬톤 25W 듀얼포트 어댑터 RCE-2521ACLKR, 그레이, 1개",
-          "price": "4,900원",
-          "discount_rate": 87,
-          "priceAt": "08.21 19:42",
-          "image": "https://shopping.toss.im/live/taca/ai/NTkzOGZm/UExZK1BtWStIRHgyV3l6dG04ZG03TW1EOFlTbHlkblRkbndOUzRlbGRqdz0.png",
-          "url": "https://toss.im/_m/jAvnHHSf",
-          "_ts": 1787308969.042384
         }
       ]
     },
