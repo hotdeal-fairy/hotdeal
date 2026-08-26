@@ -771,6 +771,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "바다모아 김자반 돌자반볶음, 500g, 1개",
+          "price": "8,900원",
+          "discount_rate": 40,
+          "priceAt": "08.26 18:00",
+          "image": "https://shopping.toss.im/live/taca/ai/YjNmMDA0/QUkwR2ZPempSdG16UGZnMmE5YTVic3cyNjlMTnlaYVpzKzVFSnphd0JkYko.png",
+          "url": "https://toss.im/_m/lNXWwdgd",
+          "_ts": 1787734827.064748
+        },
+        {
           "name": "더 빅토리아, 플레인, 500ml, 20개",
           "price": "7,200원",
           "discount_rate": 59,
