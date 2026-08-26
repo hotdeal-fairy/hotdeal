@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "세스코마이랩 기름때세정제 파워, 500ml, 1개",
+          "price": "6,270원",
+          "discount_rate": 45,
+          "priceAt": "08.26 12:01",
+          "image": "https://img2a.coupangcdn.com/image/retail/images/2023/10/25/10/7/22081602-3335-48f4-b749-930680c9a211.jpg",
+          "url": "https://link.coupang.com/a/gwlXT5GHCe",
+          "_ts": 1787713312.316048
+        },
+        {
           "name": "농심 라뽁구리 큰사발면 105g, 3개",
           "price": "3,660원",
           "discount_rate": null,
@@ -762,24 +771,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/69560594966312-ee351bd3-b661-4c22-b0f9-647a79aec13f.jpg",
           "url": "https://link.coupang.com/a/gn7GzWMyES",
           "_ts": 1787284870.684136
-        },
-        {
-          "name": "파워에이드 마운틴블라스트 무라벨, 355ml, 20개",
-          "price": "12,820원",
-          "discount_rate": 23,
-          "priceAt": "08.21 11:55",
-          "image": "https://image7.coupangcdn.com/image/retail/images/3791012530342-62232d3f-aa6f-4929-98e6-09442c8e391d.jpg",
-          "url": "https://link.coupang.com/a/gn2YFIS3B6",
-          "_ts": 1787280917.622436
-        },
-        {
-          "name": "도브초콜릿 밀크, 228g, 1개",
-          "price": "6,110원",
-          "discount_rate": 30,
-          "priceAt": "08.21 10:43",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/90db/498ce20dc5f7bda47deec9f36163070334cc27269005a03a3b62dd4be5a0.jpg",
-          "url": "https://link.coupang.com/a/gnXODzF48G",
-          "_ts": 1787276585.460746
         }
       ]
     },
