@@ -771,6 +771,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "구워먹는 할루미치즈, 200g, 3개",
+          "price": "8,890원",
+          "discount_rate": 59,
+          "priceAt": "08.26 18:50",
+          "image": "https://shopping.toss.im/live/temp/2026-06-30/ade7ab0a-5ebe-489c-a02a-66196e0122ca.png",
+          "url": "https://toss.im/_m/bYiJDbZ5",
+          "_ts": 1787737815.809898
+        },
+        {
           "name": "모노플랫 대왕 칫솔, 10개입, 1팩",
           "price": "7,900원",
           "discount_rate": 38,
@@ -1291,15 +1300,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NTkzOGZm/UExZK1BtWStIRHgyV3l6dG04ZG03TW1EOFlTbHlkblRkbndOUzRlbGRqdz0.png",
           "url": "https://toss.im/_m/jAvnHHSf",
           "_ts": 1787308969.042384
-        },
-        {
-          "name": "닭다리 통살 춘천닭갈비, 500g, 2개",
-          "price": "10,900원",
-          "discount_rate": 67,
-          "priceAt": "08.21 18:23",
-          "image": "https://shopping.toss.im/live/product/64907/4f140fbd-07d6-4860-b0ff-48898892a6a3.png",
-          "url": "https://toss.im/_m/lszSbbDk",
-          "_ts": 1787304209.6644092
         }
       ]
     },
