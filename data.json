@@ -762,24 +762,6 @@
           "image": "https://img1c.coupangcdn.com/image/retail/images/177276253501721-5594e5b1-f464-4cde-9600-ea177eb76b50.jpg",
           "url": "https://link.coupang.com/a/goeqe3UTtY",
           "_ts": 1787290528.632628
-        },
-        {
-          "name": "폰타나 시칠리아 페페론치노 아라비아따 파스타 토마토소스, 600g, 4개",
-          "price": "12,080원",
-          "discount_rate": 70,
-          "priceAt": "08.21 13:22",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/187067843643780-33884154-fa5e-4a86-9a6a-97bdcfe2c8e9.jpg",
-          "url": "https://link.coupang.com/a/gn9eVplCIC",
-          "_ts": 1787286177.323315
-        },
-        {
-          "name": "프로그 라텍스 컴포트 고무장갑, 애쉬블루, 대(L), 6세트",
-          "price": "8,220원",
-          "discount_rate": 69,
-          "priceAt": "08.21 13:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/69560594966312-ee351bd3-b661-4c22-b0f9-647a79aec13f.jpg",
-          "url": "https://link.coupang.com/a/gn7GzWMyES",
-          "_ts": 1787284870.684136
         }
       ]
     },
@@ -788,6 +770,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
+          "price": "31,500원",
+          "discount_rate": 43,
+          "priceAt": "08.26 13:38",
+          "image": "https://shopping.toss.im/live/taca/ai/Zjg1MDlh/SncvU1dsaTJKYXl4NGR1aEx4bTIxbGh2UzBxYnN2V2xwTmthU1ZsazViWT0.png",
+          "url": "https://toss.im/_m/dJOG7g9w",
+          "_ts": 1787719109.9260328
+        },
         {
           "name": "자동 변기세정제 맥스, 320g, 4개",
           "price": "6,990원",
@@ -1291,15 +1282,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/OTdmZTQx/V1diRzkrOUxxU2JXdERranprbFN4bVBaU2ZISnBWWHNhbGk4YWJTMFo1ND0.png",
           "url": "https://toss.im/_m/1llm4Jbv",
           "_ts": 1787288826.6269288
-        },
-        {
-          "name": "반건조 민어, 특왕, 37cm급, 300g, 5팩",
-          "price": "31,500원",
-          "discount_rate": 68,
-          "priceAt": "08.21 12:54",
-          "image": "https://shopping.toss.im/live/taca/ai/OWY5MzVh/QUpvL3NqVzNOTm9lZ2hJcG5zbFNHRjl4VDB3bDVZNG9Kd2Fja3V0b2EvdEg.png",
-          "url": "https://toss.im/_m/XEsbgBY9",
-          "_ts": 1787284496.205751
         }
       ]
     },
