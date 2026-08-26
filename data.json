@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "풀무원 동치미 물냉면 2인 + 함흥 비빔냉면 2인, 1.306kg, 2개",
+          "price": "9,680원",
+          "discount_rate": 34,
+          "priceAt": "08.26 22:32",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1270869676835330-582f4187-fbbc-4336-8b25-eec2be9de078.png",
+          "url": "https://link.coupang.com/a/gw40zZiNFs",
+          "_ts": 1787751131.672652
+        },
+        {
           "name": "돈시몬 착즙 토마토 주스, 200ml, 6개",
           "price": "6,390원",
           "discount_rate": 34,
@@ -771,15 +780,6 @@
           "image": "https://image3.coupangcdn.com/image/retail/images/2000289981942562-f0a7da06-dabf-4f52-ae3f-a57a60086431.jpg",
           "url": "https://link.coupang.com/a/gprSyuRxnw",
           "_ts": 1787353883.4114518
-        },
-        {
-          "name": "하이뮨 프로틴 밸런스 액티브 식물성 단백질 음료, 250ml, 18개",
-          "price": "23,940원",
-          "discount_rate": 23,
-          "priceAt": "08.21 22:20",
-          "image": "https://image14.coupangcdn.com/image/retail/images/86509264762290-55c19421-ff97-46a6-9e50-c388b1d1babb.jpg",
-          "url": "https://link.coupang.com/a/goLE2GmPRs",
-          "_ts": 1787318436.572791
         }
       ]
     },
