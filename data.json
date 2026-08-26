@@ -780,33 +780,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/49182354679531-2f424bd9-37b9-40e4-aa9d-b52a7c5f1b1d.jpg",
           "url": "https://link.coupang.com/a/gnWwuvTHxc",
           "_ts": 1787275500.33168
-        },
-        {
-          "name": "모던하우스 WOW 스퀘어 배스 매트 2p, 민트, 60 x 40 cm",
-          "price": "5,000원",
-          "discount_rate": 54,
-          "priceAt": "08.21 09:53",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/bunlbyn7/39e278d7a0ad4b8d86855b4a6a95c123.jpg",
-          "url": "https://link.coupang.com/a/gnUionpTtA",
-          "_ts": 1787273629.975649
-        },
-        {
-          "name": "몽쉘 생크림 케이크 오리지널, 408g, 3개",
-          "price": "10,100원",
-          "discount_rate": 25,
-          "priceAt": "08.21 09:42",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/486411376325740-9966e872-4ffb-40d6-9fd3-4795140737ad.png",
-          "url": "https://link.coupang.com/a/gnTr8bIULs",
-          "_ts": 1787272922.1915882
-        },
-        {
-          "name": "스키틀즈 오리지날 펀사이즈 캔디, 345g, 1개",
-          "price": "5,580원",
-          "discount_rate": 20,
-          "priceAt": "08.21 09:36",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9d69/850b75a152b2513343be0b3f3d7f4b5d670bb12a49d66176a9be0628345b.jpg",
-          "url": "https://link.coupang.com/a/gnS2Xwn4Kq",
-          "_ts": 1787272581.5084538
         }
       ]
     },
@@ -815,6 +788,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "아임닭 맛있는 닭가슴살 김치 볶음밥, 200g, 20개",
+          "price": "27,900원",
+          "discount_rate": 60,
+          "priceAt": "08.26 10:05",
+          "image": "https://shopping.toss.im/live/temp/2026-03-26/38cd653b-5602-471f-8306-a61ed4942d87.jpeg",
+          "url": "https://toss.im/_m/zQPcGMgw",
+          "_ts": 1787706317.734967
+        },
         {
           "name": "쉬블림로브 멀티 지퍼 나일론 크로스백, 블랙, 1개",
           "price": "8,900원",
@@ -1318,15 +1300,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/NjY3Y2Qw/V01icktaYnFweG1adEZSbVJ6U3FwN2JhcFIxV2E3V29XdFhHWTJNd1VwUT0.png",
           "url": "https://toss.im/_m/jBMkF4kh",
           "_ts": 1787275789.1675909
-        },
-        {
-          "name": "푸드앳홈 양념명란젓 파지, 1kg, 1개",
-          "price": "12,700원",
-          "discount_rate": 52,
-          "priceAt": "08.21 09:47",
-          "image": "https://shopping.toss.im/live/taca/ai/OGY1ZmVi/QU0yTW5PWUdXWlBOTW1hZGpwbG5jQmpwcG1MUjU1NkRhellZVGovWmFUSGY.png",
-          "url": "https://toss.im/_m/h1qwQP7v",
-          "_ts": 1787273265.93062
         }
       ]
     },
