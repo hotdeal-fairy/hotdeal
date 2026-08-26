@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "돈시몬 착즙 토마토 주스, 200ml, 6개",
+          "price": "6,390원",
+          "discount_rate": 34,
+          "priceAt": "08.26 20:52",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/74599821571368-79f78a2e-9d8c-4630-a13c-79df9ff2a57a.png",
+          "url": "https://link.coupang.com/a/gwXSx5hFJs",
+          "_ts": 1787745145.5357141
+        },
+        {
           "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품, 3.2L, 1개",
           "price": "7,950원",
           "discount_rate": 56,
@@ -1291,15 +1300,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-06-25/e768bc07-15bb-4cc6-919d-703742181018.jpeg",
           "url": "https://toss.im/_m/JS50VNT",
           "_ts": 1787362436.776117
-        },
-        {
-          "name": "올바른 멀티 비타민 미네랄 액상 이뮨샷 맥스, 7개입, 4박스",
-          "price": "25,947원",
-          "discount_rate": 56,
-          "priceAt": "08.21 20:46",
-          "image": "https://shopping.toss.im/live/taca/ai/ODBhNzhm/THRIN1BPWmN6bmJHUEg3U244bW1hMmJKK2FubUhOdk16blEybkI3RWFaaz0.png",
-          "url": "https://toss.im/_m/F3FAxMt8",
-          "_ts": 1787312799.305632
         }
       ]
     },
