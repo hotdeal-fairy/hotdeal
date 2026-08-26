@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "[물 섞지 않은 무설탕] 당 0% 알룰로스 함유 제로 생강청 생강차, 1개, 1개입, 590g",
+          "price": "9,400원",
+          "discount_rate": 30,
+          "priceAt": "08.26 15:27",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1f9d/a36d341cd868ef2414f654b37de7ecd549b5f12474024438b8f3b28ae005.jpg",
+          "url": "https://link.coupang.com/a/gwAEniuq1Q",
+          "_ts": 1787725642.56865
+        },
+        {
           "name": "에브리봇 침구 로봇청소기, 화이트, X1",
           "price": "199,000원",
           "discount_rate": 22,
@@ -744,33 +753,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/234529577735981-c04d4f53-204a-4cbd-8b8d-513e1581211e.jpg",
           "url": "https://link.coupang.com/a/golOviWXMP",
           "_ts": 1787296734.750717
-        },
-        {
-          "name": "페브리즈 화장실용 강력탈취 플러스 비치형 다우니 클린코튼향 탈취제 본품, 18.9ml, 1개",
-          "price": "10,500원",
-          "discount_rate": 41,
-          "priceAt": "08.21 15:04",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/125602849653887-874445a3-3d3c-4407-8c44-ae16ea024e9c.jpg",
-          "url": "https://link.coupang.com/a/goguvCqYRU",
-          "_ts": 1787292265.6744761
-        },
-        {
-          "name": "후버 오렌지주스, 200ml, 60개",
-          "price": "33,280원",
-          "discount_rate": 36,
-          "priceAt": "08.21 14:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1843290747400392-1d7a5c5c-5bae-41cc-ac22-eb4c575967cd.jpg",
-          "url": "https://link.coupang.com/a/gofUy41KRU",
-          "_ts": 1787291778.814049
-        },
-        {
-          "name": "더미식 김치콩나물국, 350g, 6개",
-          "price": "10,500원",
-          "discount_rate": 33,
-          "priceAt": "08.21 14:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/849328820437617-0196ca14-398b-46aa-9f80-195078204434.jpg",
-          "url": "https://link.coupang.com/a/goe36txTbw",
-          "_ts": 1787291068.688608
         }
       ]
     },
@@ -1282,15 +1264,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MzhhYzE0/QUpMWk9lZDhlZFkrcWVmMmZOYS9wcFJ0YkZ2RHVGemRZWWJSYkU1TlFLSzU.png",
           "url": "https://toss.im/_m/N7yoVbre",
           "_ts": 1787298778.404038
-        },
-        {
-          "name": "지그비 빅헤드 초미세모 칫솔, 12개입, 1세트",
-          "price": "8,900원",
-          "discount_rate": 72,
-          "priceAt": "08.21 15:11",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTZjNDY4/UHZrZFhxOHB6d3ZIU1Z2RGZ2VDRvOVFjMWF0VlZPS3p2VlFxdFloandjQT0.png",
-          "url": "https://toss.im/_m/JWNisvii",
-          "_ts": 1787292680.677206
         }
       ]
     },
