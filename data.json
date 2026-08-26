@@ -771,6 +771,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "신발 세탁망, 그레이, 19x39cm, 2개",
+          "price": "6,900원",
+          "discount_rate": 32,
+          "priceAt": "08.26 15:52",
+          "image": "https://shopping.toss.im/live/taca/ai/ZjZkMTZh/QUtWNnBVcWRZbFU1ZGVKdjhzdk9ucms1NWpCZFlCM0NEL3dHT2hnWGVLM2w.png",
+          "url": "https://toss.im/_m/5loz6wKa",
+          "_ts": 1787727161.1941912
+        },
+        {
           "name": "집밥에 나주곰탕, 600g, 5팩",
           "price": "17,900원",
           "discount_rate": 54,
