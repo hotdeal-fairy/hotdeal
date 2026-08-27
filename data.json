@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "배홍동 막국수 114g, 12개",
+          "price": "9,000원",
+          "discount_rate": 24,
+          "priceAt": "08.27 20:33",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/603635707696969-e3ae84a1-3930-41a5-becf-a4a9a0c7b5a0.jpg",
+          "url": "https://link.coupang.com/a/gyBpqcn0YC",
+          "_ts": 1787830394.3785138
+        },
+        {
           "name": "샤오미 Xiaomi 67W 케이블 일체형 보조 배터리 20000mAh C타입, PB2067, 스카이블루",
           "price": "29,200원",
           "discount_rate": 36,
@@ -1363,33 +1372,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NTNmNTJh/Y2Zob2NuWjg5YlAyZExabjNaeGgrWVdjUHc4dEFUeHB3NVR5US9aQlQ3dz0.png",
           "url": "https://toss.im/_m/roSpDwqi",
           "_ts": 1787403038.899453
-        },
-        {
-          "name": "하람떡방 쑥 인절미, 100g, 10개",
-          "price": "9,900원",
-          "discount_rate": 61,
-          "priceAt": "08.22 20:19",
-          "image": "https://shopping.toss.im/live/taca/ai/OWVhMzVi/QU9aMWJPczVhcGpOT1JsbnJuVW1MbEhHNTJxeXhzNzV5N1FaYm9hN0dGWlI.png",
-          "url": "https://toss.im/_m/RPT252Xb",
-          "_ts": 1787397592.595123
-        },
-        {
-          "name": "올챌린지 뽑아쓰는 3겹 키친타월 그레이, 100매, 9개",
-          "price": "7,900원",
-          "discount_rate": 60,
-          "priceAt": "08.22 19:59",
-          "image": "https://shopping.toss.im/live/taca/ai/NDdmYzU2/QUpaVFN6bExPMHBMWEppV09iV2tVc1JLbENwTUtXWjRTNjFyZVdOalM0MFo.png",
-          "url": "https://toss.im/_m/HPepPOF3",
-          "_ts": 1787396390.418391
-        },
-        {
-          "name": "매일유업 아몬드브리즈 언스위트, 190ml, 24개",
-          "price": "14,900원",
-          "discount_rate": 52,
-          "priceAt": "08.22 19:37",
-          "image": "https://shopping.toss.im/live/taca/ai/YTAyOTc5/QUxWU1Z0cDlHbEtwaStWR2xUcE9ySm5MWnBOTFpPU2NtenBzeXRlR29Tb2s.png",
-          "url": "https://toss.im/_m/x2w3BE9r",
-          "_ts": 1787395021.990335
         }
       ]
     },
