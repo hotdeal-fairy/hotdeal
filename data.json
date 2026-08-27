@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "조이펫 강아지 야채와 과일 동결건조 간식, 오리고기, 30g, 4개",
+          "price": "7,720원",
+          "discount_rate": 45,
+          "priceAt": "08.27 16:38",
+          "image": "https://image4.coupangcdn.com/image/rs_quotation_api/pnamnfwq/371b5ef0f5a74751ac6a67dfaecceca4.jpg",
+          "url": "https://link.coupang.com/a/gykCjTM5V6",
+          "_ts": 1787816295.8526201
+        },
+        {
           "name": "이금기 팬더 굴소스 파우치, 2kg, 1개, 2kg × 1개",
           "price": "6,100원",
           "discount_rate": 45,
@@ -798,15 +807,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1290318040807041-1c430a26-25b5-41e6-a05d-fa0c05544ec2.jpg",
           "url": "https://link.coupang.com/a/gp4CwugbSe",
           "_ts": 1787386411.56722
-        },
-        {
-          "name": "농심 삼계탕 사발면 85g, 6개",
-          "price": "8,980원",
-          "discount_rate": null,
-          "priceAt": "08.22 16:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/07/20/11/1/aea88120-c47d-40bf-a143-34cf2d714dbd.png",
-          "url": "https://link.coupang.com/a/gpZYlzIn4C",
-          "_ts": 1787382509.198296
         }
       ]
     },
