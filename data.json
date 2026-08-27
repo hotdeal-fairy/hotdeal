@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "해태제과 구운감자, 24g, 2개",
+          "price": "670원",
+          "discount_rate": null,
+          "priceAt": "08.27 20:59",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/209799032595664-f29d6c61-d470-483d-8939-0a8a8cfafd45.jpg",
+          "url": "https://link.coupang.com/a/gyDgSWeAfc",
+          "_ts": 1787831958.59445
+        },
+        {
           "name": "배홍동 막국수 114g, 12개",
           "price": "9,000원",
           "discount_rate": 24,
