@@ -834,6 +834,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스킨구하리 리바이브 테라피 엔에프 앰플, 30ml, 1개",
+          "price": "12,900원",
+          "discount_rate": 71,
+          "priceAt": "08.27 11:16",
+          "image": "https://shopping.toss.im/live/temp/2026-08-06/51487c2b-8145-497d-9410-19c35936206c.jpeg",
+          "url": "https://toss.im/_m/bvwb7Vjw",
+          "_ts": 1787797009.703294
+        },
+        {
           "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
           "price": "18,900원",
           "discount_rate": 24,
@@ -1345,15 +1354,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NzA2ZTQ1/QUptYllsaW5uNnRXdDJnMFppVG1KSXdsakprN2Radk1sbGl6R0NicXA3SmE.png",
           "url": "https://toss.im/_m/JHoxZyYq",
           "_ts": 1787368004.400981
-        },
-        {
-          "name": "바세린 리프팅 리페어 로션, 1L, 2개",
-          "price": "9,900원",
-          "discount_rate": 50,
-          "priceAt": "08.22 11:12",
-          "image": "https://shopping.toss.im/live/temp/2026-06-09/e21432af-77e2-4b27-9387-de137c40d155.png",
-          "url": "https://toss.im/_m/TLOXN0F9",
-          "_ts": 1787364752.6093671
         }
       ]
     },
