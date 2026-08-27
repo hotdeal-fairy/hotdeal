@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "머슬팜 컴뱃 크런치 스포츠 프로틴 바 초콜릿 케이크 12개입, 684g, 1개",
+          "price": "24,880원",
+          "discount_rate": 43,
+          "priceAt": "08.27 09:05",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/9c3fa8fc-8c94-4602-99a7-829d68f5ef34_fixing_v2.png",
+          "url": "https://link.coupang.com/a/gxOiuyAGQK",
+          "_ts": 1787789159.5208828
+        },
+        {
           "name": "팔도비빔면 컵 115g, 48개",
           "price": "31,660원",
           "discount_rate": 27,
@@ -780,24 +789,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cea9/b4771b46cadfdecd0914607cd0f25864ba9b65aa065813c7cc15e85710ae.jpg",
           "url": "https://link.coupang.com/a/gpwbDaeSCj",
           "_ts": 1787357500.361064
-        },
-        {
-          "name": "크리오 덴티메이트 뉴토탈케어 치약, 150g, 6개",
-          "price": "4,720원",
-          "discount_rate": 52,
-          "priceAt": "08.22 08:41",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/146204985428955-56f8c69f-cb7f-4a08-ba5b-545bdc38ba7f.png",
-          "url": "https://link.coupang.com/a/gpt3m73K8W",
-          "_ts": 1787355709.220545
-        },
-        {
-          "name": "연세우유 소화가 잘되는 우유 고칼슘",
-          "price": "9,860원",
-          "discount_rate": 26,
-          "priceAt": "08.22 08:11",
-          "image": "https://image3.coupangcdn.com/image/retail/images/2000289981942562-f0a7da06-dabf-4f52-ae3f-a57a60086431.jpg",
-          "url": "https://link.coupang.com/a/gprSyuRxnw",
-          "_ts": 1787353883.4114518
         }
       ]
     },
