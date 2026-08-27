@@ -807,24 +807,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/07/20/11/1/aea88120-c47d-40bf-a143-34cf2d714dbd.png",
           "url": "https://link.coupang.com/a/gpZYlzIn4C",
           "_ts": 1787382509.198296
-        },
-        {
-          "name": "양반 쇠고기죽, 420g, 2개",
-          "price": "4,980원",
-          "discount_rate": null,
-          "priceAt": "08.22 15:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/29125855684892-53b2e9fa-7f0b-47c5-8f73-1885afd4167b.png",
-          "url": "https://link.coupang.com/a/gpYzvjNcqG",
-          "_ts": 1787381333.146668
-        },
-        {
-          "name": "바자르 얼음결 3중직 냉감 밴딩 패드, 격자 화이트, SS, 쿨매트",
-          "price": "6,960원",
-          "discount_rate": 75,
-          "priceAt": "08.22 15:08",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/buidywq4/a40ea2d047e141a386fd365c9d1891dd.jpg",
-          "url": "https://link.coupang.com/a/gpVFc4gCUC",
-          "_ts": 1787378899.828129
         }
       ]
     },
@@ -833,6 +815,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "몸보신 문어 해신탕, 2kg, 1개",
+          "price": "23,590원",
+          "discount_rate": 40,
+          "priceAt": "08.27 15:55",
+          "image": "https://shopping.toss.im/live/temp/2026-06-29/ea1cd943-4d59-4f87-84c8-c3fda89f144d.jpeg",
+          "url": "https://toss.im/_m/dwm7yZsj",
+          "_ts": 1787813754.498778
+        },
         {
           "name": "애슐리 시그니처 등심 스테이크, 소스포함, 200g, 4개",
           "price": "26,460원",
