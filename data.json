@@ -807,15 +807,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/935482836197634-37774e8f-4332-4c94-bf3a-3b23145a6c56.jpg",
           "url": "https://link.coupang.com/a/gqmDyPp1SS",
           "_ts": 1787401534.927125
-        },
-        {
-          "name": "오뚜기 컵누들 똠얌꿍 쌀국수, 44g, 15개",
-          "price": "11,130원",
-          "discount_rate": 28,
-          "priceAt": "08.22 17:13",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1290318040807041-1c430a26-25b5-41e6-a05d-fa0c05544ec2.jpg",
-          "url": "https://link.coupang.com/a/gp4CwugbSe",
-          "_ts": 1787386411.56722
         }
       ]
     },
@@ -824,6 +815,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "교동 사골곰탕, 500g, 18개",
+          "price": "14,240원",
+          "discount_rate": 73,
+          "priceAt": "08.27 18:19",
+          "image": "https://shopping.toss.im/live/temp/2025-12-15/8c6380d4-abb8-4592-903b-3b022fa12cde.jpeg",
+          "url": "https://toss.im/_m/zegrcsBs",
+          "_ts": 1787822357.1993222
+        },
         {
           "name": "떴닭 로스트 치킨, 1kg, 2개",
           "price": "12,540원",
@@ -1363,15 +1363,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YTAyOTc5/QUxWU1Z0cDlHbEtwaStWR2xUcE9ySm5MWnBOTFpPU2NtenBzeXRlR29Tb2s.png",
           "url": "https://toss.im/_m/x2w3BE9r",
           "_ts": 1787395021.990335
-        },
-        {
-          "name": "햇반 윤기가득 쌀밥, 210g, 24개",
-          "price": "24,900원",
-          "discount_rate": 28,
-          "priceAt": "08.22 17:31",
-          "image": "https://shopping.toss.im/live/taca/ai/v2/ZjBlNDQ3/V0dTOUhyWWNjMnhQbTQyMkdjWm1aZXh2R1pIeE1NTm5BN0U4bWV2QncyUT0.png",
-          "url": "https://toss.im/_m/r1LTNpAC",
-          "_ts": 1787387507.8691998
         }
       ]
     },
