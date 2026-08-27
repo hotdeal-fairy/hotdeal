@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "보노 콘스프, 57g, 10개, 57g × 10개",
+          "price": "15,220원",
+          "discount_rate": 33,
+          "priceAt": "08.27 10:57",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cded/19b39a6165c072844409ec1ea78e805bdfb074d41b3117b153743c0b5cd3.jpg",
+          "url": "https://link.coupang.com/a/gxWiu0PiIS",
+          "_ts": 1787795877.226068
+        },
+        {
           "name": "삼립 초코블랑 쿠키, 14g, 60개",
           "price": "10,980원",
           "discount_rate": 32,
@@ -1336,15 +1345,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-09/e21432af-77e2-4b27-9387-de137c40d155.png",
           "url": "https://toss.im/_m/TLOXN0F9",
           "_ts": 1787364752.6093671
-        },
-        {
-          "name": "바리스타룰스 원데이 무라벨, 디카페인 아메리카노, 350ml, 20개",
-          "price": "15,900원",
-          "discount_rate": 68,
-          "priceAt": "08.22 10:33",
-          "image": "https://shopping.toss.im/live/temp/2025-06-25/e768bc07-15bb-4cc6-919d-703742181018.jpeg",
-          "url": "https://toss.im/_m/JS50VNT",
-          "_ts": 1787362436.776117
         }
       ]
     },
