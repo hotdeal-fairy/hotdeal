@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "홈스타 락스와 세제 후로랄파인, 750ml, 6개",
+          "price": "10,890원",
+          "discount_rate": 25,
+          "priceAt": "08.27 13:21",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/430530046401509-3d012ce2-f13f-49fb-a357-b413d95b063a.jpg",
+          "url": "https://link.coupang.com/a/gx6xdqsEF2",
+          "_ts": 1787804472.495253
+        },
+        {
           "name": "메종오브제 시에르 딜라잇 커트러리 샤틴 4인 수저세트, 실버, 숟가락 + 젓가락, 4세트",
           "price": "7,360원",
           "discount_rate": 40,
@@ -807,33 +816,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c8fc71d8-3b13-4170-af0c-f42e465fc9c95664268961587554600.png",
           "url": "https://link.coupang.com/a/gpOAXJa1Bs",
           "_ts": 1787372954.5819259
-        },
-        {
-          "name": "로보락 Qrevo Curv 2 Flow 커브2 로봇청소기, EWFD53HRR, 화이트",
-          "price": "776,080원",
-          "discount_rate": 22,
-          "priceAt": "08.22 13:18",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/12/14/9/d10dbe99-1950-4eb5-9779-e90d972e962e.jpg",
-          "url": "https://link.coupang.com/a/gpNNef4KYe",
-          "_ts": 1787372283.241556
-        },
-        {
-          "name": "고급진 제주 흑돼지 백년초 왕구이용 (냉동), 1kg, 1개",
-          "price": "13,990원",
-          "discount_rate": 39,
-          "priceAt": "08.22 13:03",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/937098172457199-4a51dab4-3a88-4830-a2b8-b9c4ecb40090.jpg",
-          "url": "https://link.coupang.com/a/gpMLS0A2ea",
-          "_ts": 1787371424.9017
-        },
-        {
-          "name": "다이쇼 다타키 오이 소스, 150ml, 3개",
-          "price": "6,730원",
-          "discount_rate": 28,
-          "priceAt": "08.22 13:03",
-          "image": "https://image10.coupangcdn.com/image/vendor_inventory/5526/c0d6882f866bc04292ff6dcac1439038dd59991759daacd6048804776a80.jpg",
-          "url": "https://link.coupang.com/a/gpMI7596US",
-          "_ts": 1787371385.816589
         }
       ]
     },
@@ -1363,15 +1345,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-07/9ddc1e81-e47e-45bb-b22d-fcf14f772c82.jpeg",
           "url": "https://toss.im/_m/ZA7IrPoC",
           "_ts": 1787384788.502526
-        },
-        {
-          "name": "사조 올리브유 참치, 100g, 8개",
-          "price": "15,900원",
-          "discount_rate": 50,
-          "priceAt": "08.22 12:56",
-          "image": "https://shopping.toss.im/live/temp/2026-05-18/cdb5b051-3a65-4895-8ba4-8947d6ff559b.jpeg",
-          "url": "https://toss.im/_m/D2wAHaT6",
-          "_ts": 1787370967.599957
         }
       ]
     },
