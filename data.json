@@ -780,15 +780,6 @@
           "image": "https://image10.coupangcdn.com/image/vendor_inventory/5526/c0d6882f866bc04292ff6dcac1439038dd59991759daacd6048804776a80.jpg",
           "url": "https://link.coupang.com/a/gpMI7596US",
           "_ts": 1787371385.816589
-        },
-        {
-          "name": "다노클리닉 아쿠아 세럼 AS, 250ml, 2개",
-          "price": "16,130원",
-          "discount_rate": 42,
-          "priceAt": "08.22 09:11",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cea9/b4771b46cadfdecd0914607cd0f25864ba9b65aa065813c7cc15e85710ae.jpg",
-          "url": "https://link.coupang.com/a/gpwbDaeSCj",
-          "_ts": 1787357500.361064
         }
       ]
     },
@@ -797,6 +788,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
+          "price": "18,900원",
+          "discount_rate": 24,
+          "priceAt": "08.27 09:56",
+          "image": "https://shopping.toss.im/live/taca/ai/ODdlMGY5/WnR6a3k4emJsWnJwa3pNZWJiT21NZWptS0dXa3pxR1RrUnpUWTNSWVljST0.png",
+          "url": "https://toss.im/_m/3dG91zF4",
+          "_ts": 1787792209.849004
+        },
         {
           "name": "마포나루터 돼지목살왕구이, 500g, 3팩",
           "price": "13,900원",
