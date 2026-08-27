@@ -816,15 +816,6 @@
           "image": "https://image4.coupangcdn.com/image/retail/images/107125368712625-b4c34ef5-fbdf-4d1f-8dc3-0aafa8c31148.jpg",
           "url": "https://link.coupang.com/a/gpUokSUa7M",
           "_ts": 1787377823.045629
-        },
-        {
-          "name": "폰타나 스프레드 무화과 & 월넛 잼, 280g, 2개",
-          "price": "8,970원",
-          "discount_rate": null,
-          "priceAt": "08.22 13:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/c8fc71d8-3b13-4170-af0c-f42e465fc9c95664268961587554600.png",
-          "url": "https://link.coupang.com/a/gpOAXJa1Bs",
-          "_ts": 1787372954.5819259
         }
       ]
     },
@@ -833,6 +824,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "또드림마켓 미니오이, 특품, 1kg, 1박스",
+          "price": "7,400원",
+          "discount_rate": 53,
+          "priceAt": "08.27 13:35",
+          "image": "https://shopping.toss.im/live/temp/2025-08-07/10537e27-0204-4622-94b5-c4341be8c51a.jpeg",
+          "url": "https://toss.im/_m/j7DoO4sc",
+          "_ts": 1787805310.121342
+        },
         {
           "name": "고깃집왕건 고추장 제육볶음, 1kg, 1개",
           "price": "7,320원",
