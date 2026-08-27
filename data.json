@@ -843,6 +843,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
+          "price": "8,730원",
+          "discount_rate": 51,
+          "priceAt": "08.27 12:32",
+          "image": "https://shopping.toss.im/live/temp/2025-12-16/7abc2a0c-20a3-4f5a-9cc2-757f64d5cf4a.jpeg",
+          "url": "https://toss.im/_m/nKSuV7cq",
+          "_ts": 1787801571.328356
+        },
+        {
           "name": "스킨구하리 리바이브 테라피 엔에프 앰플, 30ml, 1개",
           "price": "12,900원",
           "discount_rate": 71,
