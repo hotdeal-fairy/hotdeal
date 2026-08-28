@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "맑은내일 양파껍질차, 500ml, 24개",
+          "price": "24,150원",
+          "discount_rate": 65,
+          "priceAt": "08.28 18:32",
+          "image": "https://image13.coupangcdn.com/image/vendor_inventory/image_audit/prod/99200944-08c7-4db5-844f-978cf336e1b3_fixing_v2.png",
+          "url": "https://link.coupang.com/a/gz7EuPr6Fo",
+          "_ts": 1787909523.3588128
+        },
+        {
           "name": "센토 주니어 세이프 딥클린 초미세모 어린이 칫솔 스텝3, 혼합색상, 12개입, 2세트",
           "price": "11,160원",
           "discount_rate": 49,
@@ -1408,15 +1417,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NmIwNGIx/QU00YjdOTk9YczJ4Y2JrYkhvYkdlM09jNU9IaDV5eURSNG1rR21tRDVYeWU.png",
           "url": "https://toss.im/_m/DcfxNa16",
           "_ts": 1787482437.968491
-        },
-        {
-          "name": "푸르밀 플레인 요거트, 2kg, 1개",
-          "price": "8,900원",
-          "discount_rate": 44,
-          "priceAt": "08.23 18:10",
-          "image": "https://shopping.toss.im/live/taca/ai/MDkxNTg5/QUtWRFdjOVpqN013ampHc1RtdFlXaDZjNW9XeGN6bDdUNHpIcERTblVFdnI.png",
-          "url": "https://toss.im/_m/NCqjsuD4",
-          "_ts": 1787476246.992497
         }
       ]
     },
