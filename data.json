@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "개성 왕만두 (냉동), 1.2kg, 2개",
+          "price": "13,620원",
+          "discount_rate": 41,
+          "priceAt": "08.28 19:45",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/15093778825607-2e5dde4a-56e0-427c-96b3-57d7f9e9f129.jpg",
+          "url": "https://link.coupang.com/a/gAcVrpFxDg",
+          "_ts": 1787913950.734752
+        },
+        {
           "name": "모리나가 제과 포테롱 감자 스틱 45g 10개, 45g, 10개",
           "price": "12,250원",
           "discount_rate": 50,
@@ -879,24 +888,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/428628870750950-e5202f75-3767-43bb-a9ab-8d4204bdc58c.jpg",
           "url": "https://link.coupang.com/a/grVleipcvA",
           "_ts": 1787482733.3852532
-        },
-        {
-          "name": "카카오프렌즈 CS 칫솔살균기, CSTS-04, 핑크",
-          "price": "16,650원",
-          "discount_rate": 38,
-          "priceAt": "08.23 19:29",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/07/11/13/0/c5e09cc0-e9d0-4d06-9521-cdc1610fbe69.jpg",
-          "url": "https://link.coupang.com/a/grTgh4kKDA",
-          "_ts": 1787480987.119775
-        },
-        {
-          "name": "알찬해 바로바로 낙새우 볶음 (냉동), 450g, 1개",
-          "price": "11,590원",
-          "discount_rate": 8,
-          "priceAt": "08.23 19:28",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/04/18/16/6/462ffd56-cfe9-4a43-a678-32926da90591.jpg",
-          "url": "https://link.coupang.com/a/grS9mCRYmO",
-          "_ts": 1787480893.850042
         }
       ]
     },
