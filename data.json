@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "르샤트라1802 인퓨전 섬유유연제 피오니부케 본품",
+          "price": "12,830원",
+          "discount_rate": 65,
+          "priceAt": "08.28 16:49",
+          "image": "https://image12.coupangcdn.com/image/1025_amir_coupang_oct_80k/ff8a/c3f4a6c454da67b60a4e10c816ea365a79807b9ffbe5c1101416acce82ab.jpg",
+          "url": "https://link.coupang.com/a/gz0isTxoqq",
+          "_ts": 1787903347.708315
+        },
+        {
           "name": "피죤 초고농축 섬유유연제 체리블라썸, 1.3L, 3개",
           "price": "9,590원",
           "discount_rate": 39,
@@ -1399,15 +1408,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MzUyNDBm/QUpZMkRrWkMyZHN4U1ZQWXpmVFptMXVXWnBabW95VG10cXBrT2NrNXllZHI.png",
           "url": "https://toss.im/_m/hOi6WPEi",
           "_ts": 1787475048.6999838
-        },
-        {
-          "name": "싱하소다워터, 325ml, 24개",
-          "price": "18,800원",
-          "discount_rate": 50,
-          "priceAt": "08.23 16:44",
-          "image": "https://shopping.toss.im/live/taca/ai/M2RmMGZi/SkxDblBkcHBHUEUya0tIckI2bGVHTHg1c2VkcGxuUEdsbW5neHl0VWNNND0.png",
-          "url": "https://toss.im/_m/jIXxKrWz",
-          "_ts": 1787471094.329671
         }
       ]
     },
