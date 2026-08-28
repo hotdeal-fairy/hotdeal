@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "에브리봇 AI 클린케어 올인원 로봇청소기",
+          "price": "399,070원",
+          "discount_rate": 71,
+          "priceAt": "08.28 22:04",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/329367478607484-6a7dec73-d554-4f97-beef-31cf9cb636c3.jpg",
+          "url": "https://link.coupang.com/a/gAmOqcgNsy",
+          "_ts": 1787922251.888897
+        },
+        {
           "name": "해태제과 오예스, 360g, 3개",
           "price": "9,810원",
           "discount_rate": 13,
@@ -888,15 +897,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f464/a07dbbca799056f48ab3b963b48eeb721b22654358bad99ca6b0aaec085d.jpg",
           "url": "https://link.coupang.com/a/gr7zHDtfu8",
           "_ts": 1787493004.9003038
-        },
-        {
-          "name": "더마팩토리 나이아신아마이드 20% 세럼, 30ml, 2개",
-          "price": "8,400원",
-          "discount_rate": 25,
-          "priceAt": "08.23 22:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/40523558702679-a35b106e-8f1f-4711-821e-8aec38f019e8.jpg",
-          "url": "https://link.coupang.com/a/gr30L1rEOW",
-          "_ts": 1787490012.859475
         }
       ]
     },
