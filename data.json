@@ -879,15 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/40523558702679-a35b106e-8f1f-4711-821e-8aec38f019e8.jpg",
           "url": "https://link.coupang.com/a/gr30L1rEOW",
           "_ts": 1787490012.859475
-        },
-        {
-          "name": "사조 참치액, 2.1kg, 1개",
-          "price": "8,840원",
-          "discount_rate": 18,
-          "priceAt": "08.23 19:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/428628870750950-e5202f75-3767-43bb-a9ab-8d4204bdc58c.jpg",
-          "url": "https://link.coupang.com/a/grVleipcvA",
-          "_ts": 1787482733.3852532
         }
       ]
     },
@@ -896,6 +887,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "부산포차 꼬치어묵, 400g, 3봉",
+          "price": "9,980원",
+          "discount_rate": 37,
+          "priceAt": "08.28 20:31",
+          "image": "https://shopping.toss.im/live/taca/ai/NmE0Yzk5/UkFySGthUFRZNlZsbUxKY1NWWGtyVnNpQ3I4SHZ3bTJsbkowbThTdm5RRT0.png",
+          "url": "https://toss.im/_m/F4m1jcXy",
+          "_ts": 1787916677.29199
+        },
         {
           "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
           "price": "7,260원",
@@ -1408,24 +1408,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZjE3NDA3/QUljZTlyWDYwcXJVdGVKRnJTN2J1eVZxWlZaTGhRa3JVblNrMU5zcFVTOGs.png",
           "url": "https://toss.im/_m/ZlJGSgRo",
           "_ts": 1787484830.00408
-        },
-        {
-          "name": "파벡스 오븐형 에어프라이어 FX-231A, 18L, 아이보리 , 1개",
-          "price": "52,500원",
-          "discount_rate": 62,
-          "priceAt": "08.23 20:13",
-          "image": "https://shopping.toss.im/live/taca/ai/MDhlNzA0/UzVPMnRpdFRNWk81Y2RhN3Q0eXJ6a3B0Wm16cnpjMWtiV1JwbTZTMGxwTT0.png",
-          "url": "https://toss.im/_m/RcKoqGKj",
-          "_ts": 1787483630.518328
-        },
-        {
-          "name": "경남제약 맥주효모 비오틴셀렌, 60정, 2개",
-          "price": "10,900원",
-          "discount_rate": 81,
-          "priceAt": "08.23 19:53",
-          "image": "https://shopping.toss.im/live/taca/ai/NmIwNGIx/QU00YjdOTk9YczJ4Y2JrYkhvYkdlM09jNU9IaDV5eURSNG1rR21tRDVYeWU.png",
-          "url": "https://toss.im/_m/DcfxNa16",
-          "_ts": 1787482437.968491
         }
       ]
     },
