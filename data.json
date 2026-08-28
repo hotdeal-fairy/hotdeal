@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "센토 주니어 세이프 고불소 구취케어 비건 어린이치약 포도향, 120g, 4개",
+          "price": "8,740원",
+          "discount_rate": 59,
+          "priceAt": "08.28 21:13",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/308440530851449-8abfc250-7183-4aa7-a080-26d63fb04168.png",
+          "url": "https://link.coupang.com/a/gAi7l59lCe",
+          "_ts": 1787919185.1955972
+        },
+        {
           "name": "개성 왕만두 (냉동), 1.2kg, 2개",
           "price": "13,620원",
           "discount_rate": 41,
@@ -1399,15 +1408,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Nzc5ZWMz/WnR1dGFWTHRZY3hhSkIwellhM0czT0pKMXRhazB5a3JXV1JVNXQxRW90UT0.png",
           "url": "https://toss.im/_m/7nNHXved",
           "_ts": 1787531726.5369442
-        },
-        {
-          "name": "통통 찰순대, 500g, 2팩",
-          "price": "9,900원",
-          "discount_rate": 28,
-          "priceAt": "08.23 20:33",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjE3NDA3/QUljZTlyWDYwcXJVdGVKRnJTN2J1eVZxWlZaTGhRa3JVblNrMU5zcFVTOGs.png",
-          "url": "https://toss.im/_m/ZlJGSgRo",
-          "_ts": 1787484830.00408
         }
       ]
     },
