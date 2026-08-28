@@ -879,15 +879,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/04/18/16/6/462ffd56-cfe9-4a43-a678-32926da90591.jpg",
           "url": "https://link.coupang.com/a/grS9mCRYmO",
           "_ts": 1787480893.850042
-        },
-        {
-          "name": "세타필 베이비 데일리 로션, 400ml, 1개",
-          "price": "9,750원",
-          "discount_rate": 16,
-          "priceAt": "08.23 18:01",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4015727893534-22bb65af-b241-4be3-8f86-5004c5cc47af.jpg",
-          "url": "https://link.coupang.com/a/grMWrbBaGO",
-          "_ts": 1787475681.074502
         }
       ]
     },
@@ -896,6 +887,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
+          "price": "12,540원",
+          "discount_rate": 63,
+          "priceAt": "08.28 18:03",
+          "image": "https://shopping.toss.im/live/temp/2025-12-11/cd8e28fd-c3bf-4cf8-b210-8e62ff51fe68.jpeg",
+          "url": "https://toss.im/_m/Fwi7rm9h",
+          "_ts": 1787907825.819755
+        },
         {
           "name": "수입 대패삼겹, 1kg, 2팩",
           "price": "15,040원",
@@ -1417,15 +1417,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MDkxNTg5/QUtWRFdjOVpqN013ampHc1RtdFlXaDZjNW9XeGN6bDdUNHpIcERTblVFdnI.png",
           "url": "https://toss.im/_m/NCqjsuD4",
           "_ts": 1787476246.992497
-        },
-        {
-          "name": "심플쿡 냉동밥 전자레인지 용기, 인디핑크, 400ml, 8개, 2세트",
-          "price": "6,500원",
-          "discount_rate": 74,
-          "priceAt": "08.23 17:50",
-          "image": "https://shopping.toss.im/live/taca/ai/MzUyNDBm/QUpZMkRrWkMyZHN4U1ZQWXpmVFptMXVXWnBabW95VG10cXBrT2NrNXllZHI.png",
-          "url": "https://toss.im/_m/hOi6WPEi",
-          "_ts": 1787475048.6999838
         }
       ]
     },
