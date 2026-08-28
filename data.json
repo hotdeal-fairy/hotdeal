@@ -888,6 +888,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "연안식당 부추꼬막비빔장, 150g, 3개",
+          "price": "14,540원",
+          "discount_rate": 51,
+          "priceAt": "08.28 13:26",
+          "image": "https://shopping.toss.im/live/temp/2026-02-20/91d47f63-0415-492b-a453-cf813c750c12.jpeg",
+          "url": "https://toss.im/_m/77zKRTV",
+          "_ts": 1787891205.289176
+        },
+        {
           "name": "피죤 액츠 실내건조 세탁세제, 일반드럼겸용, 3L, 3개",
           "price": "20,900원",
           "discount_rate": 50,
@@ -1399,15 +1408,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-21/d5028bcf-d7e5-4c64-83a3-270111b182f6.jpeg",
           "url": "https://toss.im/_m/tpgscwI8",
           "_ts": 1787467750.725707
-        },
-        {
-          "name": "슈퍼딥큐 캡슐세제, 포레스트향, 8g, 100개입, 1개",
-          "price": "6,900원",
-          "discount_rate": 68,
-          "priceAt": "08.23 13:21",
-          "image": "https://shopping.toss.im/live/temp/2026-05-29/2156e0a5-e101-4bfd-9de6-89cdca2505a7.jpeg",
-          "url": "https://toss.im/_m/dXBTapM",
-          "_ts": 1787458873.8795369
         }
       ]
     },
