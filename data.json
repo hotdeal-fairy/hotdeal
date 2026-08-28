@@ -897,6 +897,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "수입 대패삼겹, 1kg, 2팩",
+          "price": "15,040원",
+          "discount_rate": 62,
+          "priceAt": "08.28 17:07",
+          "image": "https://shopping.toss.im/live/temp/2026-08-04/900dfa86-ac6c-46b5-87fd-c1ad501781e8.jpeg",
+          "url": "https://toss.im/_m/3La36Dy3",
+          "_ts": 1787904436.178323
+        },
+        {
           "name": "혼카레 도쿄식 정통 민찌카레, 오리지널, 210g, 10개",
           "price": "23,800원",
           "discount_rate": 65,
