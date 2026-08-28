@@ -870,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4015727893534-22bb65af-b241-4be3-8f86-5004c5cc47af.jpg",
           "url": "https://link.coupang.com/a/grMWrbBaGO",
           "_ts": 1787475681.074502
-        },
-        {
-          "name": "더미식 비빔면 138g, 8개",
-          "price": "6,000원",
-          "discount_rate": 18,
-          "priceAt": "08.23 15:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/34194217288493-d597c29d-6730-4b89-b02a-7c2d9ee123ca.jpg",
-          "url": "https://link.coupang.com/a/grDS7Jbjxc",
-          "_ts": 1787468077.130016
         }
       ]
     },
@@ -887,6 +878,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "혼카레 도쿄식 정통 민찌카레, 오리지널, 210g, 10개",
+          "price": "23,800원",
+          "discount_rate": 65,
+          "priceAt": "08.28 15:56",
+          "image": "https://shopping.toss.im/live/temp/2026-07-22/3ca6cfea-f863-4860-b14d-25134c831ee9.jpeg",
+          "url": "https://toss.im/_m/BnaXv3lh",
+          "_ts": 1787900189.717747
+        },
         {
           "name": "고기중독 닭다리 북채, 1kg, 2팩",
           "price": "12,380원",
@@ -1408,15 +1408,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/M2RmMGZi/SkxDblBkcHBHUEUya0tIckI2bGVHTHg1c2VkcGxuUEdsbW5neHl0VWNNND0.png",
           "url": "https://toss.im/_m/jIXxKrWz",
           "_ts": 1787471094.329671
-        },
-        {
-          "name": "씨제이 유기농 맛밤, 42g, 21개",
-          "price": "21,980원",
-          "discount_rate": 51,
-          "priceAt": "08.23 15:49",
-          "image": "https://shopping.toss.im/live/temp/2026-08-21/d5028bcf-d7e5-4c64-83a3-270111b182f6.jpeg",
-          "url": "https://toss.im/_m/tpgscwI8",
-          "_ts": 1787467750.725707
         }
       ]
     },
