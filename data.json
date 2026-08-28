@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오뚜기 X.O.교자 (냉동), 1.008kg, 1개, 1.008kg × 1개",
+          "price": "6,590원",
+          "discount_rate": 32,
+          "priceAt": "08.28 10:02",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6320027936479-72291c9f-0730-44f9-921c-6f9e23ee364c.jpg",
+          "url": "https://link.coupang.com/a/gzxeRlHb2G",
+          "_ts": 1787878949.021333
+        },
+        {
           "name": "띵크유어도그티 강아지 딩고껌 중형 6P, 치킨, 240g, 2개",
           "price": "3,700원",
           "discount_rate": 65,
@@ -843,15 +852,6 @@
           "image": "https://img4a.coupangcdn.com/image/retail/images/202280580264440-aa77241e-8125-4305-aebb-0fa1d4aed4be.jpg",
           "url": "https://link.coupang.com/a/griIfpaZZk",
           "_ts": 1787450300.2086148
-        },
-        {
-          "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
-          "price": "3,360원",
-          "discount_rate": 32,
-          "priceAt": "08.23 09:34",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/06/19/10/2/714d9d96-7e7d-4bb7-a31d-00e49679ba88.jpg",
-          "url": "https://link.coupang.com/a/grcKMEqV0m",
-          "_ts": 1787445296.880836
         }
       ]
     },
@@ -1390,15 +1390,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-08/59a26a03-9718-4476-b36a-d7c975777b01.png",
           "url": "https://toss.im/_m/hbVN5gks",
           "_ts": 1787451620.381757
-        },
-        {
-          "name": "대한민국농수산 사각 옥수수술빵, 350g, 5개",
-          "price": "11,900원",
-          "discount_rate": 52,
-          "priceAt": "08.23 09:49",
-          "image": "https://shopping.toss.im/live/taca/ai/OTAyNjY0/QU0xanZBZnU2UGdIQVBwbno3K0pJZzkrZUJxN1BQaDNBK1ZDRzNPT0RwZVU.png",
-          "url": "https://toss.im/_m/JgJEQvhC",
-          "_ts": 1787446149.847799
         }
       ]
     },
