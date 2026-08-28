@@ -870,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/22159754007926-4b4fb281-7030-4683-9438-0f06ca8173e8.jpg",
           "url": "https://link.coupang.com/a/grvAJT55Vs",
           "_ts": 1787461113.202683
-        },
-        {
-          "name": "파워에이드 제로, 600ml, 20개",
-          "price": "14,530원",
-          "discount_rate": 21,
-          "priceAt": "08.23 13:34",
-          "image": "https://image11.coupangcdn.com/image/retail/images/5393230486688-34423626-75ea-47f7-b83c-bd0f3ca24d99.jpg",
-          "url": "https://link.coupang.com/a/grtTFocEGy",
-          "_ts": 1787459690.4529312
         }
       ]
     },
@@ -887,6 +878,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "고기중독 닭다리 북채, 1kg, 2팩",
+          "price": "12,380원",
+          "discount_rate": 68,
+          "priceAt": "08.28 13:53",
+          "image": "https://shopping.toss.im/live/temp/2026-06-21/49760286-df18-49af-9c70-2c27287f6b7c.jpeg",
+          "url": "https://toss.im/_m/xLawfafc",
+          "_ts": 1787892831.4345222
+        },
         {
           "name": "연안식당 부추꼬막비빔장, 150g, 3개",
           "price": "14,540원",
