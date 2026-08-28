@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "케라시스 히트 액티브 극손상 바르는 트리트먼트, 220ml, 3개",
+          "price": "10,470원",
+          "discount_rate": 33,
+          "priceAt": "08.28 12:55",
+          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/84857876178922-d12ca807-5bd1-4374-9f72-fe27669c9985.png",
+          "url": "https://link.coupang.com/a/gzJA7LA1y8",
+          "_ts": 1787889326.391506
+        },
+        {
           "name": "락앤락 비스프리 퓨어 직사각 칸칸이 밀폐용기 라이트그린, 1L, 1개",
           "price": "6,200원",
           "discount_rate": 61,
@@ -1399,24 +1408,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-29/2156e0a5-e101-4bfd-9de6-89cdca2505a7.jpeg",
           "url": "https://toss.im/_m/dXBTapM",
           "_ts": 1787458873.8795369
-        },
-        {
-          "name": "연세두유 고단백 아몬드&잣, 190ml, 32팩",
-          "price": "18,900원",
-          "discount_rate": 52,
-          "priceAt": "08.23 12:44",
-          "image": "https://shopping.toss.im/live/temp/2026-03-18/26f5e724-97bc-4b2a-97e6-7b631de5e028.jpeg",
-          "url": "https://toss.im/_m/PsPvaWQv",
-          "_ts": 1787456683.692105
-        },
-        {
-          "name": "올바른 두뇌 인지력엔 포스파티딜세린 PS 300, 300mg, 30포, 3개",
-          "price": "21,800원",
-          "discount_rate": 72,
-          "priceAt": "08.23 11:58",
-          "image": "https://shopping.toss.im/live/taca/ai/NzEzZGU4/STdiQnBwdFA1SHRlZVQzR0YvRzgxRk9KazB1dkNWY04vMlgwbzNyVUtkQT0.png",
-          "url": "https://toss.im/_m/5SjRCD1m",
-          "_ts": 1787453921.702349
         }
       ]
     },
