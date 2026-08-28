@@ -906,6 +906,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
+          "price": "7,260원",
+          "discount_rate": 54,
+          "priceAt": "08.28 19:06",
+          "image": "https://shopping.toss.im/live/temp/2026-06-24/b785d96f-49c4-44e1-8e5f-da2020ca503f.png",
+          "url": "https://toss.im/_m/bItn99Sp",
+          "_ts": 1787911608.392446
+        },
+        {
           "name": "한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
           "price": "12,540원",
           "discount_rate": 63,
