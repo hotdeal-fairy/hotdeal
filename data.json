@@ -861,6 +861,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "피죤 액츠 실내건조 세탁세제, 일반드럼겸용, 3L, 3개",
+          "price": "20,900원",
+          "discount_rate": 50,
+          "priceAt": "08.28 11:23",
+          "image": "https://shopping.toss.im/live/temp/2026-08-27/9ab91638-342e-4397-a8f7-a8252331e5c2.jpeg",
+          "url": "https://toss.im/_m/3uHirVjx",
+          "_ts": 1787883787.632371
+        },
+        {
           "name": "오뚜기 오뚜기밥, 210g, 36개",
           "price": "32,700원",
           "discount_rate": 37,
@@ -1390,15 +1399,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NzEzZGU4/STdiQnBwdFA1SHRlZVQzR0YvRzgxRk9KazB1dkNWY04vMlgwbzNyVUtkQT0.png",
           "url": "https://toss.im/_m/5SjRCD1m",
           "_ts": 1787453921.702349
-        },
-        {
-          "name": "아스파시아 모이스트 업 페이스 미스트 알로에, 150ml, 2개",
-          "price": "6,900원",
-          "discount_rate": 65,
-          "priceAt": "08.23 11:20",
-          "image": "https://shopping.toss.im/live/temp/2026-05-08/59a26a03-9718-4476-b36a-d7c975777b01.png",
-          "url": "https://toss.im/_m/hbVN5gks",
-          "_ts": 1787451620.381757
         }
       ]
     },
