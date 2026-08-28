@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "굿데이 강아지 건강한 육포",
+          "price": "7,930원",
+          "discount_rate": 46,
+          "priceAt": "08.28 14:22",
+          "image": "https://img1a.coupangcdn.com/image/retail/images/2026/03/22/9/2/cee52b31-96e2-44c9-ac60-7b1b16e9e63c.jpg",
+          "url": "https://link.coupang.com/a/gzPN0mh4yi",
+          "_ts": 1787894538.804679
+        },
+        {
           "name": "케라시스 히트 액티브 극손상 바르는 트리트먼트, 220ml, 3개",
           "price": "10,470원",
           "discount_rate": 33,
@@ -861,15 +870,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1356176665799474-5a71d777-b681-4fa1-abf2-e0ab20b05160.jpg",
           "url": "https://link.coupang.com/a/grySaQbN00",
           "_ts": 1787463868.279528
-        },
-        {
-          "name": "만나다 미국산 씨없는 청포도, 1.8kg, 1개",
-          "price": "19,340원",
-          "discount_rate": 21,
-          "priceAt": "08.23 13:58",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/22159754007926-4b4fb281-7030-4683-9438-0f06ca8173e8.jpg",
-          "url": "https://link.coupang.com/a/grvAJT55Vs",
-          "_ts": 1787461113.202683
         }
       ]
     },
