@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "제이픽스 MJ인테리어 식탁의자, 크림, 2개",
+          "price": "41,250원",
+          "discount_rate": 74,
+          "priceAt": "08.29 09:55",
+          "image": "https://img2c.coupangcdn.com/image/retail/images/335622895288887-bad06ec7-6601-4579-865e-5f1da2c0274c.jpg",
+          "url": "https://link.coupang.com/a/gBbF8FXrBk",
+          "_ts": 1787964959.408759
+        },
+        {
           "name": "웅진 K헤리티지 에디션 500ml x 4종 x 6p + 굿즈 랜덤발송 세트, 1세트",
           "price": "12,920원",
           "discount_rate": 38,
@@ -852,24 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259610319417673-0c82f803-0be8-4422-af2a-de9110469104.jpg",
           "url": "https://link.coupang.com/a/gsWlcbOdWe",
           "_ts": 1787535629.0826461
-        },
-        {
-          "name": "오뗄 추억의 카스테라 핫도그 라이트 (냉동), 50g, 1개, 25개입",
-          "price": "9,900원",
-          "discount_rate": 27,
-          "priceAt": "08.24 09:50",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/1zknibgp/2ab2316dc3344739a1f082742f7d0bbe.jpg",
-          "url": "https://link.coupang.com/a/gsSMsh8qyG",
-          "_ts": 1787532639.443752
-        },
-        {
-          "name": "비비드키친 저당 닭가슴살 브리또 숯불매콤 (냉동), 125g, 4개, 1개입",
-          "price": "8,580원",
-          "discount_rate": 35,
-          "priceAt": "08.24 09:20",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1f59c87c-2aca-4ae7-bacc-6cff788d767616331962386323376067.png",
-          "url": "https://link.coupang.com/a/gsQDGjf5ZA",
-          "_ts": 1787530841.686087
         }
       ]
     },
@@ -1390,15 +1381,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZWUyYWUy/ZHN2VTN0aytxVHUycDFyV2Eza3BKdVdrWGxtSTFoUTRmelN2eHl0UVVEND0.png",
           "url": "https://toss.im/_m/RTFzypWe",
           "_ts": 1787536588.086519
-        },
-        {
-          "name": "광천김 바삭바삭 모둠 광천 김자반, 40g, 10봉",
-          "price": "10,900원",
-          "discount_rate": 50,
-          "priceAt": "08.24 09:35",
-          "image": "https://shopping.toss.im/live/taca/ai/Nzc5ZWMz/WnR1dGFWTHRZY3hhSkIwellhM0czT0pKMXRhazB5a3JXV1JVNXQxRW90UT0.png",
-          "url": "https://toss.im/_m/7nNHXved",
-          "_ts": 1787531726.5369442
         }
       ]
     },
