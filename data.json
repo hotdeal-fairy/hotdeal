@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "청정원순창 우리쌀로 만든 100% 국산 고추장, 1kg, 1개",
+          "price": "10,480원",
+          "discount_rate": 63,
+          "priceAt": "08.29 16:10",
+          "image": "https://image13.coupangcdn.com/image/retail/images/2099550543706664-ded0047d-f362-4a96-ab7e-b3a7855bb5d2.jpg",
+          "url": "https://link.coupang.com/a/gBCqfQa0HY",
+          "_ts": 1787987415.0192142
+        },
+        {
           "name": "해피콜 클래식 다이아몬드 냄비세트 6종, 혼합색상, 냄비 6종, 1세트",
           "price": "178,900원",
           "discount_rate": 78,
@@ -843,24 +852,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/68332966771236-06e4d002-762e-441c-a90d-7b9e2b807b19.jpg",
           "url": "https://link.coupang.com/a/gtkjxOJ37s",
           "_ts": 1787555757.481617
-        },
-        {
-          "name": "광천김 핑크퐁 아기상어 무조미 키즈김, 무조미김, 15g, 2개",
-          "price": "6,600원",
-          "discount_rate": 32,
-          "priceAt": "08.24 16:00",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1421311606013115-1a70b6d1-843c-4a0f-ad20-86fcbd7231a4.png",
-          "url": "https://link.coupang.com/a/gtjdJkyKc0",
-          "_ts": 1787554839.038802
-        },
-        {
-          "name": "유기농본 유기농 순면 울트라슬림 생리대, 중형, 30개입, 3개",
-          "price": "12,660원",
-          "discount_rate": 45,
-          "priceAt": "08.24 15:48",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/51995504818540-fc5db486-be69-4e5d-afdb-76c598de9aed.jpg",
-          "url": "https://link.coupang.com/a/gtikf8DACy",
-          "_ts": 1787554087.956557
         }
       ]
     },
