@@ -888,6 +888,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오뚜기 열라면, 120g, 20봉",
+          "price": "14,300원",
+          "discount_rate": 24,
+          "priceAt": "08.29 11:49",
+          "image": "https://shopping.toss.im/live/temp/2026-02-06/85ffb9f7-0dc0-4718-bad8-378875231c71.jpeg",
+          "url": "https://toss.im/_m/rLnRmY42",
+          "_ts": 1787971774.24848
+        },
+        {
           "name": "마켓상상 유러피안 샐러드, 3-4종 랜덤, 1kg, 1박스",
           "price": "10,900원",
           "discount_rate": 56,
@@ -1372,15 +1381,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NjcwMWRh/ZlU3cFhKd3VIc2REeHJZNWVjN2g1K1p4TmpHWm1ac09jL0ZHcCtuUXFWZz0.png",
           "url": "https://toss.im/_m/nPSLWcSl",
           "_ts": 1787544689.3296902
-        },
-        {
-          "name": "순살 양념 목살구이, 600g, 3개",
-          "price": "16,900원",
-          "discount_rate": 57,
-          "priceAt": "08.24 11:42",
-          "image": "https://shopping.toss.im/live/taca/ai/MTkyMTNl/QUp0cFQ3Q0pXZmd5QjZ5NVNYY0dRSDdqUWlGdzU4TS96S29CZU5JYVgwemc.png",
-          "url": "https://toss.im/_m/vWnaDt72",
-          "_ts": 1787539325.7820978
         }
       ]
     },
