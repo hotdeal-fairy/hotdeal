@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "퍼기 인덕션 무연마제 통 5중 스텐 316 후라이펜, 16cm, 1개",
+          "price": "48,930원",
+          "discount_rate": 59,
+          "priceAt": "08.29 13:45",
+          "image": "https://img2c.coupangcdn.com/image/retail/images/900745583605953-922d4c9a-3937-4c5d-ba36-bcb0e7895f1f.png",
+          "url": "https://link.coupang.com/a/gBr5RClKxw",
+          "_ts": 1787978739.621068
+        },
+        {
           "name": "유로푸드 유기농 레몬주스, 500ml, 2개",
           "price": "10,510원",
           "discount_rate": 56,
@@ -852,15 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/320870341592549-fd4215d4-8d5c-4063-be5c-5da6ac177e63.jpg",
           "url": "https://link.coupang.com/a/gs91tVakcm",
           "_ts": 1787547116.5807319
-        },
-        {
-          "name": "케라시스 어드밴스드 10X 리페어 앰플 헤어팩, 1L, 1개",
-          "price": "6,750원",
-          "discount_rate": 39,
-          "priceAt": "08.24 13:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2f9b/a8859e176c73f55e76edc74096fc70ad5ae9687f25a6282d1613a0edc7de.jpg",
-          "url": "https://link.coupang.com/a/gs8dBtMIzk",
-          "_ts": 1787545601.674379
         }
       ]
     },
