@@ -825,6 +825,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "똑순이 알고니 알탕, 700g, 2개",
+          "price": "13,900원",
+          "discount_rate": 44,
+          "priceAt": "08.29 18:11",
+          "image": "https://shopping.toss.im/live/temp/2026-04-03/509167b1-d26e-4383-abdf-63fadee64c54.jpeg",
+          "url": "https://toss.im/_m/jr1xrTLo",
+          "_ts": 1787994691.402535
+        },
+        {
           "name": "산지로드 소갈비살, 1kg, 1개",
           "price": "27,900원",
           "discount_rate": 39,
@@ -1291,15 +1300,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MzU5ODBk/QUp2eFp0bkZxL1Q4WmN2WnM1WThabThydzVtVTFDOXVhM1F2dHlNTDBIN2M.png",
           "url": "https://toss.im/_m/d7zV7hZ6",
           "_ts": 1787564941.0516322
-        },
-        {
-          "name": "코코에르 뽀송 에어 바디 드라이어, JNSB-BD238H, 화이트, 1개",
-          "price": "27,920원",
-          "discount_rate": 85,
-          "priceAt": "08.24 18:10",
-          "image": "https://shopping.toss.im/live/temp/2026-05-03/d500292d-1c7e-41e1-947e-9b3774405b8e.jpeg",
-          "url": "https://toss.im/_m/5BEGqNHD",
-          "_ts": 1787562605.367081
         }
       ]
     },
