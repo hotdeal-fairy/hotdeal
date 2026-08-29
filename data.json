@@ -816,15 +816,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e6ba/7d62c4e571b1d9e55b437a3160aba6d84b5949ff09e4d1487ca598d82d85.jpg",
           "url": "https://link.coupang.com/a/gttUnTyHmK",
           "_ts": 1787563813.063529
-        },
-        {
-          "name": "노멀라이프 15엽 리모컨 스탠드 선풍기 퓨어 화이트, NL-25EF04WH",
-          "price": "25,900원",
-          "discount_rate": 42,
-          "priceAt": "08.24 17:23",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/134944990144766-047904e7-896a-4325-ada3-06659b60e595.jpg",
-          "url": "https://link.coupang.com/a/gto9AaJsya",
-          "_ts": 1787559820.5557811
         }
       ]
     },
@@ -833,6 +824,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "산지로드 소갈비살, 1kg, 1개",
+          "price": "27,900원",
+          "discount_rate": 39,
+          "priceAt": "08.29 17:51",
+          "image": "https://shopping.toss.im/live/temp/2026-03-18/f18cf1b8-618f-4397-942d-09fed91a1455.jpeg",
+          "url": "https://toss.im/_m/9fN1lYFa",
+          "_ts": 1787993491.041754
+        },
         {
           "name": "어촌명가 당일제조 수제 간장 참소라장, 500g, 2개",
           "price": "15,390원",
@@ -1300,15 +1300,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-05-03/d500292d-1c7e-41e1-947e-9b3774405b8e.jpeg",
           "url": "https://toss.im/_m/5BEGqNHD",
           "_ts": 1787562605.367081
-        },
-        {
-          "name": "서울우유 커피타운 아메리카노, 350ml, 20개",
-          "price": "16,900원",
-          "discount_rate": 57,
-          "priceAt": "08.24 17:49",
-          "image": "https://shopping.toss.im/live/taca/ai/ZTYxMmRh/QUoybUpURlMxcnRwSGFUNDQwc3NrbU81Tk5scDRsVE5MZHR4VDhjbHJUS1U.png",
-          "url": "https://toss.im/_m/bopAprHf",
-          "_ts": 1787561387.133229
         }
       ]
     },
