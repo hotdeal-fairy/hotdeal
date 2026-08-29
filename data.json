@@ -861,24 +861,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/07/28/14/3/a4307ecf-de06-4d3d-8f8d-37a1c1bbd619.jpg",
           "url": "https://link.coupang.com/a/gs7IQwcgSW",
           "_ts": 1787545184.679871
-        },
-        {
-          "name": "네파키즈 HYPE 23 운동화 KLGEC60, 다크그린, 200",
-          "price": "26,930원",
-          "discount_rate": 63,
-          "priceAt": "08.24 11:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/624423100469676-98fd0e77-c4da-40fb-9574-d9fbaf1f471f.jpg",
-          "url": "https://link.coupang.com/a/gs1QoZtPJk",
-          "_ts": 1787540247.247164
-        },
-        {
-          "name": "바이탈프로그램 비타민C 1000mg, 200정, 1개",
-          "price": "8,920원",
-          "discount_rate": 23,
-          "priceAt": "08.24 11:53",
-          "image": "https://image12.coupangcdn.com/image/retail/images/989605916623240-02949ac5-8ff6-4a47-a3fa-b7b82f0eba07.jpg",
-          "url": "https://link.coupang.com/a/gs1ytanMpo",
-          "_ts": 1787540004.731002
         }
       ]
     },
@@ -887,6 +869,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "신지모루 슬림 포켓 방수팩, IPX8, 4중잠금, 화이트, 1개",
+          "price": "4,610원",
+          "discount_rate": 48,
+          "priceAt": "08.29 12:09",
+          "image": "https://shopping.toss.im/live/temp/2025-08-25/fc7c812b-25ed-4fcc-99ff-cbc77238fa5c.jpeg",
+          "url": "https://toss.im/_m/Fq1tnk5A",
+          "_ts": 1787972961.138189
+        },
         {
           "name": "오뚜기 열라면, 120g, 20봉",
           "price": "14,300원",
