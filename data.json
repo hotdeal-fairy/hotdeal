@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "신라명과 달보드레 카스테라, 576g, 1박스",
+          "price": "13,940원",
+          "discount_rate": 26,
+          "priceAt": "08.29 11:26",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1051791055390386-af7cc7ea-7dbf-42b8-982f-d10ff0408c43.jpg",
+          "url": "https://link.coupang.com/a/gBh6UqUv9w",
+          "_ts": 1787970360.616608
+        },
+        {
           "name": "코카콜라 제로 레몬라임, 190ml, 30개",
           "price": "12,870원",
           "discount_rate": 26,
@@ -861,15 +870,6 @@
           "image": "https://image12.coupangcdn.com/image/retail/images/989605916623240-02949ac5-8ff6-4a47-a3fa-b7b82f0eba07.jpg",
           "url": "https://link.coupang.com/a/gs1ytanMpo",
           "_ts": 1787540004.731002
-        },
-        {
-          "name": "홈스타 핑크파워 욕실 찌든때 클리너, 750ml, 2개",
-          "price": "8,850원",
-          "discount_rate": 26,
-          "priceAt": "08.24 10:40",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/259610319417673-0c82f803-0be8-4422-af2a-de9110469104.jpg",
-          "url": "https://link.coupang.com/a/gsWlcbOdWe",
-          "_ts": 1787535629.0826461
         }
       ]
     },
@@ -1372,24 +1372,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MTkyMTNl/QUp0cFQ3Q0pXZmd5QjZ5NVNYY0dRSDdqUWlGdzU4TS96S29CZU5JYVgwemc.png",
           "url": "https://toss.im/_m/vWnaDt72",
           "_ts": 1787539325.7820978
-        },
-        {
-          "name": "이디야커피 스페셜 골드블렌드 리치크레마 커피믹스, 11g, 200개입, 1개",
-          "price": "22,000원",
-          "discount_rate": 34,
-          "priceAt": "08.24 11:06",
-          "image": "https://shopping.toss.im/live/taca/ai/N2YwYmJi/WnVzZUQ5NmY0ZVN4Wk95YjVWQ2Jid0t2Ykt6K3E3RFRRMlJiYkpWUXRKTT0.png",
-          "url": "https://toss.im/_m/rUtlDyer",
-          "_ts": 1787537172.2033432
-        },
-        {
-          "name": "아스파시아 퍼퓸 샤워 코롱 돌체베르, 150ml, 2개",
-          "price": "9,500원",
-          "discount_rate": 81,
-          "priceAt": "08.24 10:56",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWUyYWUy/ZHN2VTN0aytxVHUycDFyV2Eza3BKdVdrWGxtSTFoUTRmelN2eHl0UVVEND0.png",
-          "url": "https://toss.im/_m/RTFzypWe",
-          "_ts": 1787536588.086519
         }
       ]
     },
