@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스파클 무라벨 천연암반수 안전한생수 깨끗한물 미네랄워터, 1L, 24개",
+          "price": "9,200원",
+          "discount_rate": 53,
+          "priceAt": "08.30 08:08",
+          "image": "https://img3a.coupangcdn.com/image/vendor_inventory/4f30/6f195d367bdcba764c7029e0200a82d8746317d21581f43ff2f6574f9c8e.jpg",
+          "url": "https://link.coupang.com/a/gCISk65C5Q",
+          "_ts": 1788044888.7672288
+        },
+        {
           "name": "완전두유 검은콩 17곡 고칼슘, 190ml, 60개",
           "price": "18,800원",
           "discount_rate": 51,
@@ -807,24 +816,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/140247461073473-3a254cd5-8351-4fa8-b8d5-b5f29e3876d7.png",
           "url": "https://link.coupang.com/a/gusX8kT3Yq",
           "_ts": 1787615080.1498141
-        },
-        {
-          "name": "토레타 제로 이온음료, 500ml, 24개",
-          "price": "13,870원",
-          "discount_rate": 23,
-          "priceAt": "08.25 07:46",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/531156914724635-1634eb00-f21e-4a0f-b1f7-159ee8f76e76.jpg",
-          "url": "https://link.coupang.com/a/guoNQAhTIO",
-          "_ts": 1787611582.4386911
-        },
-        {
-          "name": "웰라쥬 리얼 히알루로닉 블루 100 앰플 100ml + 75ml 세트, 1개",
-          "price": "24,710원",
-          "discount_rate": 28,
-          "priceAt": "08.25 07:26",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1393840165716393-990b09e7-d9b6-4212-b1cd-bc2d2f5141a1.jpg",
-          "url": "https://link.coupang.com/a/gunmk7Qffw",
-          "_ts": 1787610370.159978
         }
       ]
     },
