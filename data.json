@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "완전두유 검은콩 17곡 고칼슘, 190ml, 60개",
+          "price": "18,800원",
+          "discount_rate": 51,
+          "priceAt": "08.29 20:32",
+          "image": "https://image4.coupangcdn.com/image/retail/images/317162269483160-4890680e-57f9-4445-a75e-aedb4ca9e4c9.jpg",
+          "url": "https://link.coupang.com/a/gBVcnKyNky",
+          "_ts": 1788003175.8808692
+        },
+        {
           "name": "스너글 허거블 코튼 클린 앤 케어 캡슐세제, 27개입, 1개",
           "price": "8,990원",
           "discount_rate": 67,
@@ -1291,15 +1300,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/v2/YWY5MTc2/QUk4TFR4RjQ1dUFjai9HUFkva09ja1FIY1Izay9nempNeVRNSm5hNk05Mko.png",
           "url": "https://toss.im/_m/h6Da9gIu",
           "_ts": 1787574604.8245
-        },
-        {
-          "name": "과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
-          "price": "13,800원",
-          "discount_rate": 58,
-          "priceAt": "08.24 20:06",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWM2YTc4/YWVXV0laWWFhYzc4Zno5QjFQckovaXRsYmUvSjV6d2JOakRUNVRaeDAyVT0.png",
-          "url": "https://toss.im/_m/D38hz5z9",
-          "_ts": 1787569571.141782
         }
       ]
     },
