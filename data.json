@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "해피콜 클래식 다이아몬드 냄비세트 6종, 혼합색상, 냄비 6종, 1세트",
+          "price": "178,900원",
+          "discount_rate": 78,
+          "priceAt": "08.29 15:09",
+          "image": "https://image5.coupangcdn.com/image/vendor_inventory/320e/f5de7398969a0ba10bfb9cad0717509a1b227957840433868c5386195d19.jpg",
+          "url": "https://link.coupang.com/a/gBx6sz9dZY",
+          "_ts": 1787983786.608074
+        },
+        {
           "name": "FRANKLIIN 유아용 주방세제 리필, 1개, 450ml",
           "price": "5,530원",
           "discount_rate": 53,
@@ -1345,15 +1354,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-10/1e4fe51d-5eff-40b9-82e5-057e3a8529d9.png",
           "url": "https://toss.im/_m/RrVPGMGo",
           "_ts": 1787557308.285059
-        },
-        {
-          "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-          "price": "11,780원",
-          "discount_rate": 54,
-          "priceAt": "08.24 14:31",
-          "image": "https://shopping.toss.im/live/temp/2025-08-16/583742ce-0d94-4d21-b53f-341a22dc0bc6.jpeg",
-          "url": "https://toss.im/_m/5Aq8NaeC",
-          "_ts": 1787549515.4506361
         }
       ]
     },
