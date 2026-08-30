@@ -807,6 +807,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "닭다리살 파닭꼬치, 40-50g, 20개, 1세트",
+          "price": "16,500원",
+          "discount_rate": 51,
+          "priceAt": "08.30 17:45",
+          "image": "https://shopping.toss.im/live/temp/2026-08-18/c00ef28b-3a97-4ed5-8845-c06e14deee5c.png",
+          "url": "https://toss.im/_m/Jn6WcfP5",
+          "_ts": 1788079547.8905
+        },
+        {
           "name": "더맛 우삼겹, 250g, 4개",
           "price": "16,900원",
           "discount_rate": 47,
@@ -1282,15 +1291,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NWI4MDJm/QU9OWTg1NGNMc0ZiY3M2OFBjUHdEa1E4SDhQQWpqaytoY1BCUEQ5Q3RkVnE.png",
           "url": "https://toss.im/_m/BIBLNNpo",
           "_ts": 1787650206.477092
-        },
-        {
-          "name": "퍼니트 리얼 밀크씨슬, 90정, 1병",
-          "price": "9,900원",
-          "discount_rate": 50,
-          "priceAt": "08.25 17:33",
-          "image": "https://shopping.toss.im/live/taca/ai/NWNiNDNk/QU9PZVNEa2VkbkROU1lMSExiYThWTE5NWXg3VXdjbWxGcjB0T0ZyVnd1cWw.png",
-          "url": "https://toss.im/_m/bsMvuQBu",
-          "_ts": 1787646810.8461819
         }
       ]
     },
