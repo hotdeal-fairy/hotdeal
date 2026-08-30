@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 2개",
+          "price": "8,870원",
+          "discount_rate": 68,
+          "priceAt": "08.30 09:16",
+          "image": "https://img3a.coupangcdn.com/image/retail/images/4933194884785669-7be9e3e3-404c-4d1b-b859-8b032c20038d.jpg",
+          "url": "https://link.coupang.com/a/gCNKeIQ1bE",
+          "_ts": 1788048976.7903612
+        },
+        {
           "name": "스파클 무라벨 천연암반수 안전한생수 깨끗한물 미네랄워터, 1L, 24개",
           "price": "9,200원",
           "discount_rate": 53,
@@ -798,24 +807,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/30b4bdbf-0a4a-4249-a6c8-e41eb355cc951214074347403708812.png",
           "url": "https://link.coupang.com/a/guvIEHmmqa",
           "_ts": 1787617389.710884
-        },
-        {
-          "name": "트윅스 미니스 초코바, 990g, 1개",
-          "price": "13,770원",
-          "discount_rate": 19,
-          "priceAt": "08.25 08:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/900127335040693-5d2dc46f-def1-4114-806c-749164689af0.jpg",
-          "url": "https://link.coupang.com/a/gutTUTitrg",
-          "_ts": 1787615862.8460019
-        },
-        {
-          "name": "아리얼 스트레스 릴리빙 퓨어풀 클렌징 티슈, 80매입, 2개",
-          "price": "5,170원",
-          "discount_rate": 24,
-          "priceAt": "08.25 08:44",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/140247461073473-3a254cd5-8351-4fa8-b8d5-b5f29e3876d7.png",
-          "url": "https://link.coupang.com/a/gusX8kT3Yq",
-          "_ts": 1787615080.1498141
         }
       ]
     },
