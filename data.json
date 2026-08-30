@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "엘리자베스아덴 그린티 바디로션, 500ml, 2개",
+          "price": "27,390원",
+          "discount_rate": 40,
+          "priceAt": "08.30 16:16",
+          "image": "https://static.coupangcdn.com/image/vendor_inventory/d00c/c56ee3880bd26cffcd54987515261c342cce5aa6f0d299e0db0c510865cb.jpg",
+          "url": "https://link.coupang.com/a/gDhMw7svEi",
+          "_ts": 1788074196.416679
+        },
+        {
           "name": "인블룸 스텐 싱크대 배수구망 + 커버 세트, 1개입, 1세트",
           "price": "9,930원",
           "discount_rate": 68,
@@ -1273,15 +1282,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Y2M1OWIz/VnNiTVcrRnhjaGtmbW1IbWltM2N3L1hCTmpBUnVpTTdtbkg5aDF4SGlQND0.png",
           "url": "https://toss.im/_m/VL0WJTZv",
           "_ts": 1787643475.6993039
-        },
-        {
-          "name": "제스타 습기제거제, 라벤더향, 250g, 18개",
-          "price": "13,500원",
-          "discount_rate": 41,
-          "priceAt": "08.25 16:00",
-          "image": "https://shopping.toss.im/live/taca/ai/MjQ4OWU0/QU9IakEvZTJIMzhjQTlzOGYwdVpwT0V6TGRLMVpsdDYySEdUdlJoekpQZWs.png",
-          "url": "https://toss.im/_m/54tsQXnr",
-          "_ts": 1787641249.454208
         }
       ]
     },
