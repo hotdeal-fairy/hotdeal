@@ -789,15 +789,6 @@
           "image": "https://image14.coupangcdn.com/image/retail/images/2025/06/19/13/3/d9c91d08-32b5-44da-b138-832ac5df658e.jpg",
           "url": "https://link.coupang.com/a/gvkD0LBPLU",
           "_ts": 1787660145.309443
-        },
-        {
-          "name": "Apple 아이폰 17 Pro Max 자급제, 실버, 256GB",
-          "price": "1,778,770원",
-          "discount_rate": 10,
-          "priceAt": "08.25 19:38",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/48241665932179-74159c18-e386-42f0-a2b6-5e19e8d2fe29.jpg",
-          "url": "https://link.coupang.com/a/gvdFV1KGqq",
-          "_ts": 1787654296.198163
         }
       ]
     },
@@ -806,6 +797,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
+          "price": "58,805원",
+          "discount_rate": 80,
+          "priceAt": "08.30 20:37",
+          "image": "https://shopping.toss.im/live/temp/2026-07-13/12251a6b-52f2-454b-a7a2-4505757a22ed.jpeg",
+          "url": "https://toss.im/_m/lxAu6C2B",
+          "_ts": 1788089872.9397728
+        },
         {
           "name": "CJ제일제당 고메 소바바치킨 순살 5종, 소이허니 240g 1개 + 양념 240g 1개 + 마쏘킥 240g 1개 + 레드핫 240g 1개 + 황금홀릭 240g 1개, 1세트",
           "price": "23,900원",
@@ -1273,15 +1273,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/M2U0Mjgx/QitQdysrSHJQemU4TG9QRDlLejRmcGJzRDRkTDlKTDRhOEh0SERwUS91VT0.png",
           "url": "https://toss.im/_m/nNQO1Rg8",
           "_ts": 1787661893.95431
-        },
-        {
-          "name": "별미촌 알타리 총각김치, 2kg, 1박스",
-          "price": "9,900원",
-          "discount_rate": 47,
-          "priceAt": "08.25 20:06",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjkzOTFj/QUtJa3lMSVBmVHQyai9YbkxEalRIeXl2aXZXaXZKNnEzbUI3ZUl5ZTVUQUs.png",
-          "url": "https://toss.im/_m/FiO70m7i",
-          "_ts": 1787655997.987227
         }
       ]
     },
