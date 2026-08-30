@@ -771,33 +771,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/9ptiokdm/0041fee87d1442d0a174097ac2614cb9.jpg",
           "url": "https://link.coupang.com/a/guFU6zDNim",
           "_ts": 1787625954.416905
-        },
-        {
-          "name": "그릭데이 크런치 리얼카카오 그래놀라 시리얼, 150g, 2개",
-          "price": "9,900원",
-          "discount_rate": 36,
-          "priceAt": "08.25 11:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1861339793683-049e5a48-521f-4617-b4ab-1427ffa9d6b4.jpg",
-          "url": "https://link.coupang.com/a/guCYpCgyom",
-          "_ts": 1787623479.981973
-        },
-        {
-          "name": "몽크슈 액상 위드 알룰로스, 1.3kg, 1개",
-          "price": "9,240원",
-          "discount_rate": 39,
-          "priceAt": "08.25 11:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/4415/322a21c186c520b10d9b63b6b42e7e6c0e68d329001246ba68ff4032b744.jpg",
-          "url": "https://link.coupang.com/a/guCQCkNXSS",
-          "_ts": 1787623374.381857
-        },
-        {
-          "name": "르샤트라1802 인퓨전 드라이시트 섬유유연제 뮤게부케 본품, 140개입, 1개",
-          "price": "8,800원",
-          "discount_rate": 71,
-          "priceAt": "08.25 11:01",
-          "image": "https://img4c.coupangcdn.com/image/vendor_inventory/0e6a/a6cabe5641d4a2d4eec77a4f85b6418d7065edf7092765bdbd2d6529428c.jpg",
-          "url": "https://link.coupang.com/a/guCIRuSOQ0",
-          "_ts": 1787623269.717968
         }
       ]
     },
@@ -806,6 +779,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "달구벌 돼지 생막창 세트, 500g, 2봉",
+          "price": "12,900원",
+          "discount_rate": 35,
+          "priceAt": "08.30 11:13",
+          "image": "https://shopping.toss.im/live/taca/ai/Y2RhZjBj/ZHdRQ0pDc0FINGhQRnd5S1FPejYyT2FNQU53Yy9nQmMrYnpKL2J0MDUyaz0.png",
+          "url": "https://toss.im/_m/ZfW7XEJD",
+          "_ts": 1788056007.9453309
+        },
         {
           "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
           "price": "12,150원",
