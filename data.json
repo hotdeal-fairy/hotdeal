@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "풀무원 새콤달콤 국산콩 두부로 만든 유부초밥, 330g, 1개, 330g × 1개",
+          "price": "3,990원",
+          "discount_rate": 43,
+          "priceAt": "08.30 21:17",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1565248345646481-1ebf6135-5191-46ef-b781-785b9f75c6f7.jpg",
+          "url": "https://link.coupang.com/a/gDDiLd4H6G",
+          "_ts": 1788092264.656687
+        },
+        {
           "name": "코멧 시그니처 아기물티슈 엠보싱 캡형 저자극 더마테스트 시험완료, 55g, 100매, 10개",
           "price": "9,990원",
           "discount_rate": 58,
@@ -789,15 +798,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/425303835215979-2a387de4-8051-4ec1-8257-e73db093af0c.jpg",
           "url": "https://link.coupang.com/a/gvrwiPxMgC",
           "_ts": 1787665919.9110131
-        },
-        {
-          "name": "클리덴트 치아교정기 세정폼, 150ml, 1개",
-          "price": "7,990원",
-          "discount_rate": 56,
-          "priceAt": "08.25 21:15",
-          "image": "https://image14.coupangcdn.com/image/retail/images/2025/06/19/13/3/d9c91d08-32b5-44da-b138-832ac5df658e.jpg",
-          "url": "https://link.coupang.com/a/gvkD0LBPLU",
-          "_ts": 1787660145.309443
         }
       ]
     },
