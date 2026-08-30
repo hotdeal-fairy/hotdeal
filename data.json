@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "아띠래빗 유아 논슬립 길이조절 옷걸이, 샌드베이지, 20개",
+          "price": "7,900원",
+          "discount_rate": 51,
+          "priceAt": "08.30 10:47",
+          "image": "https://img4c.coupangcdn.com/image/retail/images/1676590897110-aa9e7e5f-6d6e-47f5-b5d9-7513338bbb27.jpg",
+          "url": "https://link.coupang.com/a/gCUgHKUpNI",
+          "_ts": 1788054454.5377579
+        },
+        {
           "name": "케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 2개",
           "price": "8,870원",
           "discount_rate": 68,
@@ -789,24 +798,6 @@
           "image": "https://img4c.coupangcdn.com/image/vendor_inventory/0e6a/a6cabe5641d4a2d4eec77a4f85b6418d7065edf7092765bdbd2d6529428c.jpg",
           "url": "https://link.coupang.com/a/guCIRuSOQ0",
           "_ts": 1787623269.717968
-        },
-        {
-          "name": "지엔씨푸드 오사카식 타코야끼 문어 18% 50입 (냉동), 1kg, 2개",
-          "price": "11,400원",
-          "discount_rate": 24,
-          "priceAt": "08.25 09:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5319e38b-77e6-4016-929a-328ae19238a38996154481267408017.png",
-          "url": "https://link.coupang.com/a/guv2yvYOgS",
-          "_ts": 1787617658.858042
-        },
-        {
-          "name": "비비수산 깔끔하고 간편한 해물모둠 (냉동), 2개, 600g",
-          "price": "8,900원",
-          "discount_rate": 39,
-          "priceAt": "08.25 09:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/30b4bdbf-0a4a-4249-a6c8-e41eb355cc951214074347403708812.png",
-          "url": "https://link.coupang.com/a/guvIEHmmqa",
-          "_ts": 1787617389.710884
         }
       ]
     },
@@ -1273,24 +1264,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NTY1MDIy/TjZWamJ6cVF2Ri9jM2ZrSWZtK2ZXQU5TQndBZFVnZEt6Qm5GVWtrdU1vRT0.png",
           "url": "https://toss.im/_m/ft0kKrEj",
           "_ts": 1787631230.857592
-        },
-        {
-          "name": "닥터지 메디 UV 울트라 선 선크림, 50ml, 2개",
-          "price": "13,180원",
-          "discount_rate": 62,
-          "priceAt": "08.25 10:37",
-          "image": "https://shopping.toss.im/live/taca/ai/MTk1NDY1/YjFTTzlqTW4wMzdzK0R3ZEZnUGh3K0gwa3hZZVAzNzQ0ZmdoQndFRjN2dz0.png",
-          "url": "https://toss.im/_m/JoOi9r16",
-          "_ts": 1787621868.570071
-        },
-        {
-          "name": "대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
-          "price": "8,900원",
-          "discount_rate": 70,
-          "priceAt": "08.25 10:10",
-          "image": "https://shopping.toss.im/live/taca/ai/ZWI1NzBm/QVBHMFpvZmZ3ZTloWXZSWTVaNXgrM1J5OUY2bG14RGgyUEwwVjZjdWxLRjY.png",
-          "url": "https://toss.im/_m/zAU7Jbin",
-          "_ts": 1787620234.4580438
         }
       ]
     },
