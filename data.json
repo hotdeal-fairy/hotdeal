@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "빅파이 딸기, 216g, 6개",
+          "price": "9,210원",
+          "discount_rate": 52,
+          "priceAt": "08.30 11:47",
+          "image": "https://image13.coupangcdn.com/image/retail/images/56699480070443-df926087-d80a-48ef-9074-d52631302b18.jpg",
+          "url": "https://link.coupang.com/a/gCYzyazTGu",
+          "_ts": 1788058067.551404
+        },
+        {
           "name": "아띠래빗 유아 논슬립 길이조절 옷걸이, 샌드베이지, 20개",
           "price": "7,900원",
           "discount_rate": 51,
@@ -762,15 +771,6 @@
           "image": "https://static.coupangcdn.com/image/retail/images/6670204994200929-a5c0246f-ea7f-43ac-8753-1c8f35b83e0c.jpg",
           "url": "https://link.coupang.com/a/guMhSgtNZc",
           "_ts": 1787631300.003459
-        },
-        {
-          "name": "동원 개성 김치 감자만두 (냉동), 1.2kg, 1개",
-          "price": "6,740원",
-          "discount_rate": 50,
-          "priceAt": "08.25 11:45",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/9ptiokdm/0041fee87d1442d0a174097ac2614cb9.jpg",
-          "url": "https://link.coupang.com/a/guFU6zDNim",
-          "_ts": 1787625954.416905
         }
       ]
     },
