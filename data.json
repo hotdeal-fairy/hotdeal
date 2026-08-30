@@ -789,15 +789,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/48241665932179-74159c18-e386-42f0-a2b6-5e19e8d2fe29.jpg",
           "url": "https://link.coupang.com/a/gvdFV1KGqq",
           "_ts": 1787654296.198163
-        },
-        {
-          "name": "아디다스피트니스 에센셜 벨크로 헬스장갑, 화이트, L (14.5 x 9 x 2.5 cm), 1개",
-          "price": "14,400원",
-          "discount_rate": 49,
-          "priceAt": "08.25 17:54",
-          "image": "https://img2c.coupangcdn.com/image/retail/images/63682381991865-243a4993-3a02-4adb-8b08-fe92b19085d5.jpg",
-          "url": "https://link.coupang.com/a/gu6g7IHyj6",
-          "_ts": 1787648080.493195
         }
       ]
     },
@@ -806,6 +797,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "CJ제일제당 고메 소바바치킨 순살 5종, 소이허니 240g 1개 + 양념 240g 1개 + 마쏘킥 240g 1개 + 레드핫 240g 1개 + 황금홀릭 240g 1개, 1세트",
+          "price": "23,900원",
+          "discount_rate": 42,
+          "priceAt": "08.30 19:33",
+          "image": "https://shopping.toss.im/live/temp/2026-06-10/0545516d-8844-4dce-9c31-5dee5efd03bb.jpeg",
+          "url": "https://toss.im/_m/nqnUmWad",
+          "_ts": 1788086039.241874
+        },
         {
           "name": "닭다리살 파닭꼬치, 40-50g, 20개, 1세트",
           "price": "16,500원",
@@ -1273,24 +1273,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZjkzOTFj/QUtJa3lMSVBmVHQyai9YbkxEalRIeXl2aXZXaXZKNnEzbUI3ZUl5ZTVUQUs.png",
           "url": "https://toss.im/_m/FiO70m7i",
           "_ts": 1787655997.987227
-        },
-        {
-          "name": "이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
-          "price": "5,190원",
-          "discount_rate": 24,
-          "priceAt": "08.25 18:53",
-          "image": "https://shopping.toss.im/live/taca/ai/MmUwZGZh/QU42M01rdWx0S1d6MGFrOXV4dHMwNDI3ZEdXVXZWWkxWclZrUzJ3bW9mVGI.png",
-          "url": "https://toss.im/_m/drGU5MNz",
-          "_ts": 1787651601.279978
-        },
-        {
-          "name": "메이홉 26년형 바디트리머 6in1 제모기 모근제거+제모면도기, MA-0400, 오로라 화이트, 1개",
-          "price": "33,800원",
-          "discount_rate": 51,
-          "priceAt": "08.25 18:30",
-          "image": "https://shopping.toss.im/live/taca/ai/NWI4MDJm/QU9OWTg1NGNMc0ZiY3M2OFBjUHdEa1E4SDhQQWpqaytoY1BCUEQ5Q3RkVnE.png",
-          "url": "https://toss.im/_m/BIBLNNpo",
-          "_ts": 1787650206.477092
         }
       ]
     },
