@@ -798,6 +798,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "프로버블리 어성초 중성 비누, 110g, 7개",
+          "price": "12,900원",
+          "discount_rate": 41,
+          "priceAt": "08.30 14:15",
+          "image": "https://shopping.toss.im/live/temp/2026-08-13/5551192d-84be-4338-992c-a06f2d6c3077.jpeg",
+          "url": "https://toss.im/_m/dIVA31nt",
+          "_ts": 1788066924.915904
+        },
+        {
           "name": "푸드앳홈 명태회무침, 1kg, 1개",
           "price": "14,900원",
           "discount_rate": 56,
