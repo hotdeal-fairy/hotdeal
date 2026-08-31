@@ -789,24 +789,6 @@
           "image": "https://img3c.coupangcdn.com/image/retail/images/57158726844058-5f532d39-0cbe-4379-ac54-9f6c2593b978.jpg",
           "url": "https://link.coupang.com/a/gwVZm7mami",
           "_ts": 1787743558.617095
-        },
-        {
-          "name": "화이트샌즈 뉴 라자르 라피아 블랙밴드 썬캡, 코코아, FREE(55~60cm)",
-          "price": "26,740원",
-          "discount_rate": 48,
-          "priceAt": "08.26 18:56",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1566183770606764-11e29bdb-3e7d-4353-8d0c-d9abc5c65c56.jpg",
-          "url": "https://link.coupang.com/a/gwPAntklxc",
-          "_ts": 1787738180.204875
-        },
-        {
-          "name": "듀라셀 오리지널 알카라인 AA 건전지 20p + AAA 건전지 20p, 40개입, 1세트",
-          "price": "18,970원",
-          "discount_rate": 51,
-          "priceAt": "08.26 18:53",
-          "image": "https://image5.coupangcdn.com/image/vendor_inventory/image_audit/prod/8b803475-3309-4dbd-94e1-16691a830849_fixing_v2.png",
-          "url": "https://link.coupang.com/a/gwPnuzcVJk",
-          "_ts": 1787738005.724158
         }
       ]
     },
@@ -815,6 +797,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+          "price": "12,988원",
+          "discount_rate": 50,
+          "priceAt": "08.31 19:22",
+          "image": "https://shopping.toss.im/live/temp/2025-08-16/583742ce-0d94-4d21-b53f-341a22dc0bc6.jpeg",
+          "url": "https://toss.im/_m/tbZhu1or",
+          "_ts": 1788171737.417229
+        },
         {
           "name": "에이팔란스 제트 쿨링 휴대용 냉각 손선풍기 K300 Pro, 블랙, 1개",
           "price": "9,900원",
@@ -1282,15 +1273,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZTM5YTc1/SmM4a2hlTHRucFFhTk5zd3EyQlpMeFRiUnE5VUcyYjN0WXc0UTFxMGFzOD0.png",
           "url": "https://toss.im/_m/HiD40uVl",
           "_ts": 1787747367.162389
-        },
-        {
-          "name": "구워먹는 할루미치즈, 200g, 3개",
-          "price": "8,890원",
-          "discount_rate": 59,
-          "priceAt": "08.26 18:50",
-          "image": "https://shopping.toss.im/live/temp/2026-06-30/ade7ab0a-5ebe-489c-a02a-66196e0122ca.png",
-          "url": "https://toss.im/_m/bYiJDbZ5",
-          "_ts": 1787737815.809898
         }
       ]
     },
