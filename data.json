@@ -807,24 +807,6 @@
           "image": "https://image9.coupangcdn.com/image/retail/images/4946407368838769-927738f7-37c8-4e61-86dc-1eb25f8b29c7.jpg",
           "url": "https://link.coupang.com/a/gwHnWbU5dc",
           "_ts": 1787731297.0695949
-        },
-        {
-          "name": "팔도 진국 설렁탕면 100g, 32개",
-          "price": "19,570원",
-          "discount_rate": 36,
-          "priceAt": "08.26 15:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/24/15/1/7eedfc55-af79-404f-9808-a0a37e09df89.jpg",
-          "url": "https://link.coupang.com/a/gwA6Z8qc4i",
-          "_ts": 1787726029.951513
-        },
-        {
-          "name": "[물 섞지 않은 무설탕] 당 0% 알룰로스 함유 제로 생강청 생강차, 1개, 1개입, 590g",
-          "price": "9,400원",
-          "discount_rate": 30,
-          "priceAt": "08.26 15:27",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1f9d/a36d341cd868ef2414f654b37de7ecd549b5f12474024438b8f3b28ae005.jpg",
-          "url": "https://link.coupang.com/a/gwAEniuq1Q",
-          "_ts": 1787725642.56865
         }
       ]
     },
@@ -833,6 +815,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "스파클 생수, 무라벨, 500ml, 80개",
+          "price": "16,490원",
+          "discount_rate": 31,
+          "priceAt": "08.31 15:43",
+          "image": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
+          "url": "https://toss.im/_m/1EIShi5g",
+          "_ts": 1788158628.356193
+        },
         {
           "name": "외갓집 진심 육개장, 600g, 3개",
           "price": "8,990원",
