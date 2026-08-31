@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "김수열줄넘기 뉴롱키 SY-004, 파랑, 240cm, 1개",
+          "price": "3,190원",
+          "discount_rate": 48,
+          "priceAt": "08.31 09:55",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/08/20/16/6/8117a613-f66b-4437-9dbc-769a8c39b40a.jpg",
+          "url": "https://link.coupang.com/a/gEvqOP0UhM",
+          "_ts": 1788137713.361641
+        },
+        {
           "name": "에뛰드 베이킹 파우더 비비 딥 클렌징 폼 300g + 300g 세트, 1세트",
           "price": "6,800원",
           "discount_rate": 50,
@@ -816,24 +825,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/370368137178149-56451333-031a-4e91-b704-e7350e8a5903.jpg",
           "url": "https://link.coupang.com/a/gwfC6pG11M",
           "_ts": 1787707993.2390358
-        },
-        {
-          "name": "로보락 로봇청소기, Q8+, 화이트",
-          "price": "279,000원",
-          "discount_rate": 65,
-          "priceAt": "08.26 09:12",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/02/17/4/4a47f7ed-78fa-4ea7-9cf4-bf1027b8b2a0.jpg",
-          "url": "https://link.coupang.com/a/gv9Qfz6PQq",
-          "_ts": 1787703133.4651892
-        },
-        {
-          "name": "다향 무항생제 인증 우리땅 오리 다리살 슬라이스 (냉장), 500g, 1개",
-          "price": "7,290원",
-          "discount_rate": 51,
-          "priceAt": "08.26 08:45",
-          "image": "https://img2c.coupangcdn.com/image/retail/images/925859633293643-50ab81f4-1584-4e3f-8543-cfdb6f5a0f0f.jpg",
-          "url": "https://link.coupang.com/a/gv7XrCe6hM",
-          "_ts": 1787701551.8305368
         }
       ]
     },
