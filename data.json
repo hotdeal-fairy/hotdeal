@@ -798,6 +798,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "채선당 소고기 샤브샤브, 895g, 1개 + 굴림만두전골, 790g, 1개",
+          "price": "19,900원",
+          "discount_rate": 50,
+          "priceAt": "08.31 19:52",
+          "image": "https://shopping.toss.im/live/temp/2025-11-10/3c3578d5-31af-4321-acc4-98f6645c65c6.jpeg",
+          "url": "https://toss.im/_m/T4iZF3Eu",
+          "_ts": 1788173526.026528
+        },
+        {
           "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
           "price": "12,988원",
           "discount_rate": 50,
