@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "프라이드 흰다리 새우살 (냉동), 900g, 1개",
+          "price": "11,620원",
+          "discount_rate": 31,
+          "priceAt": "08.31 10:39",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/32401523907208-fb6320ba-84e4-4aef-b2d9-534266d3e1b3.jpg",
+          "url": "https://link.coupang.com/a/gEyzRW8INg",
+          "_ts": 1788140355.920641
+        },
+        {
           "name": "이지앤프리 블랙킵 에디션 냉장고 정리 용기 750ml, 10개입, 1세트",
           "price": "7,440원",
           "discount_rate": 58,
@@ -825,15 +834,6 @@
           "image": "https://img2a.coupangcdn.com/image/retail/images/2023/10/25/10/7/22081602-3335-48f4-b749-930680c9a211.jpg",
           "url": "https://link.coupang.com/a/gwlXT5GHCe",
           "_ts": 1787713312.316048
-        },
-        {
-          "name": "농심 라뽁구리 큰사발면 105g, 3개",
-          "price": "3,660원",
-          "discount_rate": null,
-          "priceAt": "08.26 10:33",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/370368137178149-56451333-031a-4e91-b704-e7350e8a5903.jpg",
-          "url": "https://link.coupang.com/a/gwfC6pG11M",
-          "_ts": 1787707993.2390358
         }
       ]
     },
@@ -1309,15 +1309,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/Zjg1MDlh/SncvU1dsaTJKYXl4NGR1aEx4bTIxbGh2UzBxYnN2V2xwTmthU1ZsazViWT0.png",
           "url": "https://toss.im/_m/dJOG7g9w",
           "_ts": 1787719109.9260328
-        },
-        {
-          "name": "자동 변기세정제 맥스, 320g, 4개",
-          "price": "6,990원",
-          "discount_rate": 53,
-          "priceAt": "08.26 10:36",
-          "image": "https://shopping.toss.im/live/taca/ai/ZDU2N2Iw/QU01NHFWVlpvMUhKeDNrZjNzOVoyNXRmWTV4Y2NSVlVUMW43VFNSVjNrMHg.png",
-          "url": "https://toss.im/_m/50EgoECa",
-          "_ts": 1787708162.9175649
         }
       ]
     },
