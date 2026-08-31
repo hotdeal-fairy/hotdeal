@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "앳킨스 초콜릿 캐러멜 무스 바 5개입, 170g, 1개, 170g × 1개",
+          "price": "9,240원",
+          "discount_rate": 35,
+          "priceAt": "09.01 07:53",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/820e/0731aaa17fe21c0107303d0ae57f7ef74b34ff702ad6deee55ed52c024b5.jpg",
+          "url": "https://link.coupang.com/a/gF1ENSyhxY",
+          "_ts": 1788216827.872263
+        },
+        {
           "name": "엘라스틴 닥터노비드 탈모증상완화 지루성 두피용 약산성 비듬 샴푸, 50ml, 1개",
           "price": "100원",
           "discount_rate": 97,
@@ -780,15 +789,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/b72a40e9-f2b8-4d0e-90ad-0cb0e464a4d810501437374414649.png",
           "url": "https://link.coupang.com/a/gxI9U9dyEK",
           "_ts": 1787784845.0890691
-        },
-        {
-          "name": "스카치 쓰리엠 원터치 테이프 디스펜서 + 매직테이프 리필 2롤, 핑크, 1세트",
-          "price": "11,830원",
-          "discount_rate": 29,
-          "priceAt": "08.27 07:19",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d1f9/88f995fb4834304adf3ef85935975aa691905018305c9a807bc630ce33a0.jpg",
-          "url": "https://link.coupang.com/a/gxGFJKt5mS",
-          "_ts": 1787782757.9376268
         }
       ]
     },
