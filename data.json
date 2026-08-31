@@ -825,6 +825,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "신선하랑 구운 계란 중란, 60구, 1개",
+          "price": "18,900원",
+          "discount_rate": 45,
+          "priceAt": "08.31 16:22",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWVlZDdh/WVh2UDRkNm5NSHN1L0NCTEpWcDljM0ZVL0p4N1FOOFg4VURieEVmd0l6cz0.png",
+          "url": "https://toss.im/_m/pDLrVIFs",
+          "_ts": 1788160974.984715
+        },
+        {
           "name": "스파클 생수, 무라벨, 500ml, 80개",
           "price": "16,490원",
           "discount_rate": 31,
@@ -1300,24 +1309,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YjNmMDA0/QUkwR2ZPempSdG16UGZnMmE5YTVic3cyNjlMTnlaYVpzKzVFSnphd0JkYko.png",
           "url": "https://toss.im/_m/lNXWwdgd",
           "_ts": 1787734827.064748
-        },
-        {
-          "name": "더 빅토리아, 플레인, 500ml, 20개",
-          "price": "7,200원",
-          "discount_rate": 59,
-          "priceAt": "08.26 16:20",
-          "image": "https://shopping.toss.im/live/taca/ai/NWQ4OTBi/QU0zanR1dTNHOGtrTjRQc1REOUxiWWVTdkVzUWJVU1NiRzlrdG14TlpNMlQ.png",
-          "url": "https://toss.im/_m/Dhw70f4h",
-          "_ts": 1787728803.9891
-        },
-        {
-          "name": "신발 세탁망, 그레이, 19x39cm, 2개",
-          "price": "6,900원",
-          "discount_rate": 32,
-          "priceAt": "08.26 15:52",
-          "image": "https://shopping.toss.im/live/taca/ai/ZjZkMTZh/QUtWNnBVcWRZbFU1ZGVKdjhzdk9ucms1NWpCZFlCM0NEL3dHT2hnWGVLM2w.png",
-          "url": "https://toss.im/_m/5loz6wKa",
-          "_ts": 1787727161.1941912
         }
       ]
     },
