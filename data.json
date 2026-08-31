@@ -825,24 +825,6 @@
           "image": "https://image8.coupangcdn.com/image/retail/images/374857959409947-07e13cd2-bf10-4480-81b1-e7c748917fa7.jpg",
           "url": "https://link.coupang.com/a/gwucvrvUqG",
           "_ts": 1787720227.284448
-        },
-        {
-          "name": "포스트 콘푸라이트 시리얼, 1.1kg, 1개",
-          "price": "6,970원",
-          "discount_rate": 15,
-          "priceAt": "08.26 12:23",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/36100620740813-0fdc611a-8e47-4953-94d1-2c396860105b.jpg",
-          "url": "https://link.coupang.com/a/gwntXF9TDE",
-          "_ts": 1787714586.417803
-        },
-        {
-          "name": "세스코마이랩 기름때세정제 파워, 500ml, 1개",
-          "price": "6,270원",
-          "discount_rate": 45,
-          "priceAt": "08.26 12:01",
-          "image": "https://img2a.coupangcdn.com/image/retail/images/2023/10/25/10/7/22081602-3335-48f4-b749-930680c9a211.jpg",
-          "url": "https://link.coupang.com/a/gwlXT5GHCe",
-          "_ts": 1787713312.316048
         }
       ]
     },
@@ -851,6 +833,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "찬바다 신안 활새우, 1kg, 1팩",
+          "price": "25,900원",
+          "discount_rate": 48,
+          "priceAt": "08.31 12:33",
+          "image": "https://shopping.toss.im/live/temp/2025-08-20/2129a656-1fc1-40ea-8909-b38c6da15b96.png",
+          "url": "https://toss.im/_m/lKvnXr1l",
+          "_ts": 1788147219.7648041
+        },
         {
           "name": "깨끗한나라 순수한면 ZERO, 중형, 16개입, 4팩",
           "price": "9,900원",
