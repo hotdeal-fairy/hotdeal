@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "베베앙 120 유아물티슈 캡형, 50g, 120매, 10개",
+          "price": "9,600원",
+          "discount_rate": 63,
+          "priceAt": "08.31 17:18",
+          "image": "https://image11.coupangcdn.com/image/retail/images/1423721803262108-18b9773d-b5e2-4ccc-b3c7-cb3ed11ad1af.jpg",
+          "url": "https://link.coupang.com/a/gE06Ny1dAW",
+          "_ts": 1788164310.041857
+        },
+        {
           "name": "아임리빙 중량업 블랙라인 호텔용 마이크로필에버 베개솜 지퍼형, 화이트, 40 x 60 cm, 2개",
           "price": "12,890원",
           "discount_rate": 46,
@@ -798,24 +807,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/ca8c0395-b7ce-412b-990d-0a487c3a37b38255773754395633790.png",
           "url": "https://link.coupang.com/a/gwIPGjnn7A",
           "_ts": 1787732510.474491
-        },
-        {
-          "name": "바다원 바베큐 조미 오징어, 300g, 1개",
-          "price": "9,980원",
-          "discount_rate": 23,
-          "priceAt": "08.26 17:16",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/291047188788867-cd19b50a-3e8f-4ed7-aa69-8b15af2ab83c.png",
-          "url": "https://link.coupang.com/a/gwIspPiazc",
-          "_ts": 1787732195.286168
-        },
-        {
-          "name": "샘표 조선 국산100% 고추장, 1kg, 1개",
-          "price": "12,180원",
-          "discount_rate": 63,
-          "priceAt": "08.26 17:01",
-          "image": "https://image9.coupangcdn.com/image/retail/images/4946407368838769-927738f7-37c8-4e61-86dc-1eb25f8b29c7.jpg",
-          "url": "https://link.coupang.com/a/gwHnWbU5dc",
-          "_ts": 1787731297.0695949
         }
       ]
     },
