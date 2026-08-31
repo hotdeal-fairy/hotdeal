@@ -825,15 +825,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1f9d/a36d341cd868ef2414f654b37de7ecd549b5f12474024438b8f3b28ae005.jpg",
           "url": "https://link.coupang.com/a/gwAEniuq1Q",
           "_ts": 1787725642.56865
-        },
-        {
-          "name": "에브리봇 침구 로봇청소기, 화이트, X1",
-          "price": "199,000원",
-          "discount_rate": 22,
-          "priceAt": "08.26 14:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/16/18/1/9d9927f2-2cf3-4b26-b5f5-12a666c4fdad.jpg",
-          "url": "https://link.coupang.com/a/gwwC0uhAqW",
-          "_ts": 1787722265.688204
         }
       ]
     },
@@ -842,6 +833,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "외갓집 진심 육개장, 600g, 3개",
+          "price": "8,990원",
+          "discount_rate": 70,
+          "priceAt": "08.31 14:39",
+          "image": "https://shopping.toss.im/live/taca/ai/ZGE1NWEw/T2h3UEtmbzVhVDJvUGExdGtQM2R2UVBrTnFVLzhXdTAvd083VWdBYi9NQT0.png",
+          "url": "https://toss.im/_m/jExyqCM5",
+          "_ts": 1788154761.992105
+        },
         {
           "name": "한울 정성가득 비빔밥용 나물세트, 125g, 10개",
           "price": "26,900원",
@@ -1318,15 +1318,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZjZkMTZh/QUtWNnBVcWRZbFU1ZGVKdjhzdk9ucms1NWpCZFlCM0NEL3dHT2hnWGVLM2w.png",
           "url": "https://toss.im/_m/5loz6wKa",
           "_ts": 1787727161.1941912
-        },
-        {
-          "name": "집밥에 나주곰탕, 600g, 5팩",
-          "price": "17,900원",
-          "discount_rate": 54,
-          "priceAt": "08.26 14:36",
-          "image": "https://shopping.toss.im/live/taca/ai/YmE3N2Vj/QUlYOUpLZmx6ajg1UStKNk85aU16Z2ZKdVlpM3NaK0haeWR3TWZSOE1KL08.png",
-          "url": "https://toss.im/_m/bWkUjkqw",
-          "_ts": 1787722591.4799309
         }
       ]
     },
