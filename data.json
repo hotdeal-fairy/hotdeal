@@ -843,6 +843,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "양계장청년 난각1번 자연방사 상황버섯 먹여 키운 무항생제 유정란 달걀, 40구, 1박스",
+          "price": "22,500원",
+          "discount_rate": 30,
+          "priceAt": "08.31 10:27",
+          "image": "https://shopping.toss.im/live/taca/ai/ZThhMTYy/SVRad25ld3lFVXdHN1dOenROZms3RXNwSE9RU3hCc0hFcDIyOGExakcyWT0.png",
+          "url": "https://toss.im/_m/x75w1mph",
+          "_ts": 1788139638.719612
+        },
+        {
           "name": "애슐리 통새우 볶음밥, 280g, 6개입, 1개",
           "price": "12,990원",
           "discount_rate": 31,
@@ -1309,15 +1318,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/ZDU2N2Iw/QU01NHFWVlpvMUhKeDNrZjNzOVoyNXRmWTV4Y2NSVlVUMW43VFNSVjNrMHg.png",
           "url": "https://toss.im/_m/50EgoECa",
           "_ts": 1787708162.9175649
-        },
-        {
-          "name": "아임닭 맛있는 닭가슴살 김치 볶음밥, 200g, 20개",
-          "price": "27,900원",
-          "discount_rate": 60,
-          "priceAt": "08.26 10:05",
-          "image": "https://shopping.toss.im/live/temp/2026-03-26/38cd653b-5602-471f-8306-a61ed4942d87.jpeg",
-          "url": "https://toss.im/_m/zQPcGMgw",
-          "_ts": 1787706317.734967
         }
       ]
     },
