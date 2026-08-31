@@ -825,15 +825,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/16/18/1/9d9927f2-2cf3-4b26-b5f5-12a666c4fdad.jpg",
           "url": "https://link.coupang.com/a/gwwC0uhAqW",
           "_ts": 1787722265.688204
-        },
-        {
-          "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미, 8개입, 1개",
-          "price": "5,990원",
-          "discount_rate": 65,
-          "priceAt": "08.26 13:57",
-          "image": "https://image8.coupangcdn.com/image/retail/images/374857959409947-07e13cd2-bf10-4480-81b1-e7c748917fa7.jpg",
-          "url": "https://link.coupang.com/a/gwucvrvUqG",
-          "_ts": 1787720227.284448
         }
       ]
     },
@@ -842,6 +833,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "한울 정성가득 비빔밥용 나물세트, 125g, 10개",
+          "price": "26,900원",
+          "discount_rate": 39,
+          "priceAt": "08.31 14:01",
+          "image": "https://shopping.toss.im/live/taca/ai/NDhjNDZl/UnRqd2NwOXIwNE5wTmo3ZXBQYk5pUnJENDNabVdEdUo4YXl5bkY2RlRYQT0.png",
+          "url": "https://toss.im/_m/J2TOVeGj",
+          "_ts": 1788152485.173975
+        },
         {
           "name": "찬바다 신안 활새우, 1kg, 1팩",
           "price": "25,900원",
@@ -1318,15 +1318,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/YmE3N2Vj/QUlYOUpLZmx6ajg1UStKNk85aU16Z2ZKdVlpM3NaK0haeWR3TWZSOE1KL08.png",
           "url": "https://toss.im/_m/bWkUjkqw",
           "_ts": 1787722591.4799309
-        },
-        {
-          "name": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
-          "price": "31,500원",
-          "discount_rate": 43,
-          "priceAt": "08.26 13:38",
-          "image": "https://shopping.toss.im/live/taca/ai/Zjg1MDlh/SncvU1dsaTJKYXl4NGR1aEx4bTIxbGh2UzBxYnN2V2xwTmthU1ZsazViWT0.png",
-          "url": "https://toss.im/_m/dJOG7g9w",
-          "_ts": 1787719109.9260328
         }
       ]
     },
