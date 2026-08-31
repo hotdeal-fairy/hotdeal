@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "2+1 출시하자마자 1위 퓨어그램 모공이별 딥클렌징폼 제주 그린티 저자극 폼클렌징 120ml, 120ml, 3개",
+          "price": "10,900원",
+          "discount_rate": 44,
+          "priceAt": "08.31 18:48",
+          "image": "https://image4.coupangcdn.com/image/vendor_inventory/7d67/8f90c031be8d7e38e9838e05e75380bebcd4ce4755e981135018af3e9258.jpg",
+          "url": "https://link.coupang.com/a/gE7yXIQcSG",
+          "_ts": 1788169729.3795378
+        },
+        {
           "name": "베베앙 120 유아물티슈 캡형, 50g, 120매, 10개",
           "price": "9,600원",
           "discount_rate": 63,
@@ -1282,24 +1291,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-30/ade7ab0a-5ebe-489c-a02a-66196e0122ca.png",
           "url": "https://toss.im/_m/bYiJDbZ5",
           "_ts": 1787737815.809898
-        },
-        {
-          "name": "모노플랫 대왕 칫솔, 10개입, 1팩",
-          "price": "7,900원",
-          "discount_rate": 38,
-          "priceAt": "08.26 18:20",
-          "image": "https://shopping.toss.im/live/taca/ai/NDdmNWE5/QU1vT3RFT2VpWXA0UWNncG5MRVI4b0U1SENtNHdaVHdTSG9CSHdNWDRDUHc.png",
-          "url": "https://toss.im/_m/TjkvDRZ",
-          "_ts": 1787736037.632278
-        },
-        {
-          "name": "바다모아 김자반 돌자반볶음, 500g, 1개",
-          "price": "8,900원",
-          "discount_rate": 40,
-          "priceAt": "08.26 18:00",
-          "image": "https://shopping.toss.im/live/taca/ai/YjNmMDA0/QUkwR2ZPempSdG16UGZnMmE5YTVic3cyNjlMTnlaYVpzKzVFSnphd0JkYko.png",
-          "url": "https://toss.im/_m/lNXWwdgd",
-          "_ts": 1787734827.064748
         }
       ]
     },
