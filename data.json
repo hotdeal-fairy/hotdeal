@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "외갓집 진심 육개장 (냉동), 600g, 4개",
+          "price": "11,980원",
+          "discount_rate": 27,
+          "priceAt": "09.01 08:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/902189340593886-88364f3f-69fe-4ce0-bc27-d7c92eb95cd4.jpg",
+          "url": "https://link.coupang.com/a/gF3POlNGz6",
+          "_ts": 1788218655.752686
+        },
+        {
           "name": "앳킨스 초콜릿 캐러멜 무스 바 5개입, 170g, 1개, 170g × 1개",
           "price": "9,240원",
           "discount_rate": 35,
@@ -780,15 +789,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/9c3fa8fc-8c94-4602-99a7-829d68f5ef34_fixing_v2.png",
           "url": "https://link.coupang.com/a/gxOiuyAGQK",
           "_ts": 1787789159.5208828
-        },
-        {
-          "name": "팔도비빔면 컵 115g, 48개",
-          "price": "31,660원",
-          "discount_rate": 27,
-          "priceAt": "08.27 07:54",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/b72a40e9-f2b8-4d0e-90ad-0cb0e464a4d810501437374414649.png",
-          "url": "https://link.coupang.com/a/gxI9U9dyEK",
-          "_ts": 1787784845.0890691
         }
       ]
     },
