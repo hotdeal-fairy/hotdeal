@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "재로우 자로-도필러스 EPS 유산균 100억 베지 캡, 60정, 4개",
+          "price": "63,260원",
+          "discount_rate": 45,
+          "priceAt": "09.01 15:22",
+          "image": "https://image8.coupangcdn.com/image/vendor_inventory/23c8/e89259dfd43d47eb06cdd75957a6461bfc5ad9dea6c1b0c3d80e48825ecc.jpg",
+          "url": "https://link.coupang.com/a/gGxKopi48O",
+          "_ts": 1788243770.895712
+        },
+        {
           "name": "알텐바흐 헥사 통5중 스텐 궁중팬, 28cm, 1개",
           "price": "33,900원",
           "discount_rate": 57,
@@ -726,24 +735,6 @@
           "image": "https://image4.coupangcdn.com/image/rs_quotation_api/pnamnfwq/371b5ef0f5a74751ac6a67dfaecceca4.jpg",
           "url": "https://link.coupang.com/a/gykCjTM5V6",
           "_ts": 1787816295.8526201
-        },
-        {
-          "name": "이금기 팬더 굴소스 파우치, 2kg, 1개, 2kg × 1개",
-          "price": "6,100원",
-          "discount_rate": 45,
-          "priceAt": "08.27 14:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b800/cfae6080c1c60d3296df23fb4e6ea24737ca061ff3da5020e74df3abbd16.jpg",
-          "url": "https://link.coupang.com/a/gydzoMZo1Q",
-          "_ts": 1787810379.4072351
-        },
-        {
-          "name": "애경바세린 모이스처 버블 핸드워시 리필, 1.8L, 1개",
-          "price": "6,800원",
-          "discount_rate": 24,
-          "priceAt": "08.27 14:46",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/325669532346107-94ab0c7e-20f3-479b-a59b-f5be10d2a293.jpg",
-          "url": "https://link.coupang.com/a/gycCjyAffM",
-          "_ts": 1787809579.512568
         }
       ]
     },
@@ -1219,15 +1210,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-29/ea1cd943-4d59-4f87-84c8-c3fda89f144d.jpeg",
           "url": "https://toss.im/_m/dwm7yZsj",
           "_ts": 1787813754.498778
-        },
-        {
-          "name": "애슐리 시그니처 등심 스테이크, 소스포함, 200g, 4개",
-          "price": "26,460원",
-          "discount_rate": 43,
-          "priceAt": "08.27 14:31",
-          "image": "https://shopping.toss.im/live/temp/2025-03-31/bf2a76fe-35f2-4e35-8288-4bed9dc82c1b.jpeg",
-          "url": "https://toss.im/_m/drQNPEBn",
-          "_ts": 1787808670.2728
         }
       ]
     },
