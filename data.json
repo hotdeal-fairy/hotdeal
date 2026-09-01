@@ -744,6 +744,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "피죤 드릴펑, 1L, 3개 + 2L, 1개",
+          "price": "9,900원",
+          "discount_rate": 61,
+          "priceAt": "09.01 15:23",
+          "image": "https://shopping.toss.im/live/temp/2026-02-20/8967c0a1-3e5f-4929-a496-26d84cacbef8.jpeg",
+          "url": "https://toss.im/_m/XUEcLSdr",
+          "_ts": 1788243832.6167822
+        },
+        {
           "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
           "price": "16,500원",
           "discount_rate": 52,
