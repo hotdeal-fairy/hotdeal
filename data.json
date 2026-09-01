@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 본품, 4L, 1개",
+          "price": "12,750원",
+          "discount_rate": 49,
+          "priceAt": "09.01 18:34",
+          "image": "https://img3a.coupangcdn.com/image/retail/images/2880720212916693-651639b0-11c5-4c0d-9de4-42b19ad80ecc.jpg",
+          "url": "https://link.coupang.com/a/gGLsvFd3Xo",
+          "_ts": 1788255283.2745018
+        },
+        {
           "name": "히말라야 립 밤, 무색, 10g, 2개",
           "price": "3,730원",
           "discount_rate": 52,
@@ -1237,15 +1246,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-02-18/35194120-95c4-4aa4-a459-3bc9e119426a.jpeg",
           "url": "https://toss.im/_m/X9LgAwY",
           "_ts": 1787825088.5126731
-        },
-        {
-          "name": "교동 사골곰탕, 500g, 18개",
-          "price": "14,240원",
-          "discount_rate": 73,
-          "priceAt": "08.27 18:19",
-          "image": "https://shopping.toss.im/live/temp/2025-12-15/8c6380d4-abb8-4592-903b-3b022fa12cde.jpeg",
-          "url": "https://toss.im/_m/zegrcsBs",
-          "_ts": 1787822357.1993222
         }
       ]
     },
