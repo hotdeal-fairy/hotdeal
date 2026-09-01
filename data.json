@@ -771,24 +771,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/841212999236411-4135c792-cd16-41d6-8bb0-960c73306447.png",
           "url": "https://link.coupang.com/a/gxUooqWk0a",
           "_ts": 1787794276.8290539
-        },
-        {
-          "name": "시샘 스텐 사각 트레이, 24 x 19.5 x 5.5 cm, 트레이 + 커버, 2개",
-          "price": "9,200원",
-          "discount_rate": 29,
-          "priceAt": "08.27 10:26",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2705117866947974-c1eceb27-024f-4a86-9690-d8c87dbdba82.jpg",
-          "url": "https://link.coupang.com/a/gxT1FByGtw",
-          "_ts": 1787793970.223646
-        },
-        {
-          "name": "비비고 닭가슴살 김치만두 (냉동), 168g, 3개",
-          "price": "8,790원",
-          "discount_rate": 58,
-          "priceAt": "08.27 10:15",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9f9d0110-d554-46c6-bb42-dc16d43691f613291059309026863890.png",
-          "url": "https://link.coupang.com/a/gxTf6G89f2",
-          "_ts": 1787793325.7219598
         }
       ]
     },
@@ -797,6 +779,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+          "price": "9,900원",
+          "discount_rate": 43,
+          "priceAt": "09.01 10:28",
+          "image": "https://shopping.toss.im/live/taca/ai/ZWNlZWJm/YVhJMlN6dHlnM3kzSTNtRjdJM1NZMGJzRFp3eWF6SnovZFRzdFAyVTAwcz0.png",
+          "url": "https://toss.im/_m/X4a9035g",
+          "_ts": 1788226116.578248
+        },
         {
           "name": "사조 살코기 참치, 카놀라유, 100g, 10개",
           "price": "15,900원",
@@ -1273,15 +1264,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-06/51487c2b-8145-497d-9410-19c35936206c.jpeg",
           "url": "https://toss.im/_m/bvwb7Vjw",
           "_ts": 1787797009.703294
-        },
-        {
-          "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
-          "price": "18,900원",
-          "discount_rate": 24,
-          "priceAt": "08.27 09:56",
-          "image": "https://shopping.toss.im/live/taca/ai/ODdlMGY5/WnR6a3k4emJsWnJwa3pNZWJiT21NZWptS0dXa3pxR1RrUnpUWTNSWVljST0.png",
-          "url": "https://toss.im/_m/3dG91zF4",
-          "_ts": 1787792209.849004
         }
       ]
     },
