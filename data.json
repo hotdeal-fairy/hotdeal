@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "더미식 당진 백미밥, 200g, 24개",
+          "price": "19,170원",
+          "discount_rate": 59,
+          "priceAt": "09.01 09:09",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/03/12/17/8/7ca62500-2a24-490b-a12d-297ef5612449.jpg",
+          "url": "https://link.coupang.com/a/gF63DoxBfw",
+          "_ts": 1788221361.5361311
+        },
+        {
           "name": "외갓집 진심 육개장 (냉동), 600g, 4개",
           "price": "11,980원",
           "discount_rate": 27,
@@ -780,15 +789,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9f9d0110-d554-46c6-bb42-dc16d43691f613291059309026863890.png",
           "url": "https://link.coupang.com/a/gxTf6G89f2",
           "_ts": 1787793325.7219598
-        },
-        {
-          "name": "머슬팜 컴뱃 크런치 스포츠 프로틴 바 초콜릿 케이크 12개입, 684g, 1개",
-          "price": "24,880원",
-          "discount_rate": 43,
-          "priceAt": "08.27 09:05",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/9c3fa8fc-8c94-4602-99a7-829d68f5ef34_fixing_v2.png",
-          "url": "https://link.coupang.com/a/gxOiuyAGQK",
-          "_ts": 1787789159.5208828
         }
       ]
     },
