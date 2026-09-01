@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "서울우유 요구르트, 1개, 1개입, 1700ml",
+          "price": "2,370원",
+          "discount_rate": 37,
+          "priceAt": "09.01 15:58",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/jb0ceyms/2671b4718b5849d48fecd3bbab67fcbb.jpg",
+          "url": "https://link.coupang.com/a/gGAjV7jt1w",
+          "_ts": 1788245931.924865
+        },
+        {
           "name": "신선설농탕 신선왕만두 고소한맛 (냉동), 490g, 2개",
           "price": "7,900원",
           "discount_rate": 33,
@@ -1228,15 +1237,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-02-10/b5cbdae4-a8c5-45e2-8248-f8ec6f58edde.jpeg",
           "url": "https://toss.im/_m/Rob6AuTp",
           "_ts": 1787818062.208649
-        },
-        {
-          "name": "몸보신 문어 해신탕, 2kg, 1개",
-          "price": "23,590원",
-          "discount_rate": 40,
-          "priceAt": "08.27 15:55",
-          "image": "https://shopping.toss.im/live/temp/2026-06-29/ea1cd943-4d59-4f87-84c8-c3fda89f144d.jpeg",
-          "url": "https://toss.im/_m/dwm7yZsj",
-          "_ts": 1787813754.498778
         }
       ]
     },
