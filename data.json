@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "알텐바흐 헥사 통5중 스텐 궁중팬, 28cm, 1개",
+          "price": "33,900원",
+          "discount_rate": 57,
+          "priceAt": "09.01 13:55",
+          "image": "https://image10.coupangcdn.com/image/1025_amir_coupang_oct_80k/07d0/5d4bbcb79d051ed1b934a8609237a987a6a67e85ce0ef1c83b3ad6fc6960.jpg",
+          "url": "https://link.coupang.com/a/gGrwoFnJSe",
+          "_ts": 1788238543.8505511
+        },
+        {
           "name": "케라시스 케라마이드 극손상 헤어트리트먼트, 1L, 1개",
           "price": "5,980원",
           "discount_rate": 60,
@@ -1210,15 +1219,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-03-31/bf2a76fe-35f2-4e35-8288-4bed9dc82c1b.jpeg",
           "url": "https://toss.im/_m/drQNPEBn",
           "_ts": 1787808670.2728
-        },
-        {
-          "name": "또드림마켓 미니오이, 특품, 1kg, 1박스",
-          "price": "7,400원",
-          "discount_rate": 53,
-          "priceAt": "08.27 13:35",
-          "image": "https://shopping.toss.im/live/temp/2025-08-07/10537e27-0204-4622-94b5-c4341be8c51a.jpeg",
-          "url": "https://toss.im/_m/j7DoO4sc",
-          "_ts": 1787805310.121342
         }
       ]
     },
