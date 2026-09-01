@@ -762,6 +762,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "서서갈비, 1kg, 2팩",
+          "price": "17,900원",
+          "discount_rate": 40,
+          "priceAt": "09.01 19:19",
+          "image": "https://shopping.toss.im/live/temp/2026-08-04/e5977a29-cc54-45d4-9a35-20b18a0406dd.jpeg",
+          "url": "https://toss.im/_m/LO0hKu7l",
+          "_ts": 1788257988.55121
+        },
+        {
           "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
           "price": "9,990원",
           "discount_rate": 70,
