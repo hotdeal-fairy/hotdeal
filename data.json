@@ -753,24 +753,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/603635707696969-e3ae84a1-3930-41a5-becf-a4a9a0c7b5a0.jpg",
           "url": "https://link.coupang.com/a/gyBpqcn0YC",
           "_ts": 1787830394.3785138
-        },
-        {
-          "name": "샤오미 Xiaomi 67W 케이블 일체형 보조 배터리 20000mAh C타입, PB2067, 스카이블루",
-          "price": "29,200원",
-          "discount_rate": 36,
-          "priceAt": "08.27 19:10",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/201874820101799-0a8c2339-4c41-439b-b8db-417e34668587.jpg",
-          "url": "https://link.coupang.com/a/gyvvXjrbfE",
-          "_ts": 1787825444.463925
-        },
-        {
-          "name": "라이프란스 3중쿠션 면 층간소음 무소음 거실화, 블루, 핑크, 270mm, 250mm, 1세트",
-          "price": "10,280원",
-          "discount_rate": 52,
-          "priceAt": "08.27 18:35",
-          "image": "https://image5.coupangcdn.com/image/rs_quotation_api/lngriaws/408b2aedca044435b14fa90020f94cba.jpg",
-          "url": "https://link.coupang.com/a/gys06h0Qx2",
-          "_ts": 1787823348.236917
         }
       ]
     },
@@ -779,6 +761,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+          "price": "9,990원",
+          "discount_rate": 70,
+          "priceAt": "09.01 19:18",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/Y2VjZDA0/QU0zUE1sbU83WnJNYzlITWJKdE1PMndsdzBsdFdFeHprN1cwNWowT0xJM1Q.png",
+          "url": "https://toss.im/_m/HcEDASsr",
+          "_ts": 1788257939.168641
+        },
         {
           "name": "대숲맑은 담양쌀, 특등급, 10kg, 1개",
           "price": "32,900원",
@@ -1237,15 +1228,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/N2IxNWM2/VCtDWnNtMmJPeVNXTTN1enVaODVqemU3WVpzYmVPV200MEhFdEIxZ210QT0.png",
           "url": "https://toss.im/_m/rlY0gLGu",
           "_ts": 1787831627.725906
-        },
-        {
-          "name": "블랙앵거스 흑우 등심 구이&스테이크용, 500g, 2팩",
-          "price": "32,650원",
-          "discount_rate": 57,
-          "priceAt": "08.27 19:04",
-          "image": "https://shopping.toss.im/live/temp/2025-02-18/35194120-95c4-4aa4-a459-3bc9e119426a.jpeg",
-          "url": "https://toss.im/_m/X9LgAwY",
-          "_ts": 1787825088.5126731
         }
       ]
     },
