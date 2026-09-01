@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오비안 모던 규조토 욕실 주방 발매트 대형, 대형(120x40), 베이지스트라이프",
+          "price": "9,800원",
+          "discount_rate": 48,
+          "priceAt": "09.01 10:48",
+          "image": "https://static.coupangcdn.com/image/vendor_inventory/f54e/12762e3087612e60a5b12a8018c1083c87b0f73a70de9a9d084805403a05.png",
+          "url": "https://link.coupang.com/a/gGd7aNj8to",
+          "_ts": 1788227286.129848
+        },
+        {
           "name": "더미식 당진 백미밥, 200g, 24개",
           "price": "19,170원",
           "discount_rate": 59,
@@ -762,15 +771,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cded/19b39a6165c072844409ec1ea78e805bdfb074d41b3117b153743c0b5cd3.jpg",
           "url": "https://link.coupang.com/a/gxWiu0PiIS",
           "_ts": 1787795877.226068
-        },
-        {
-          "name": "삼립 초코블랑 쿠키, 14g, 60개",
-          "price": "10,980원",
-          "discount_rate": 32,
-          "priceAt": "08.27 10:31",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/841212999236411-4135c792-cd16-41d6-8bb0-960c73306447.png",
-          "url": "https://link.coupang.com/a/gxUooqWk0a",
-          "_ts": 1787794276.8290539
         }
       ]
     },
