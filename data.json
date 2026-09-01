@@ -762,15 +762,6 @@
           "image": "https://image5.coupangcdn.com/image/rs_quotation_api/lngriaws/408b2aedca044435b14fa90020f94cba.jpg",
           "url": "https://link.coupang.com/a/gys06h0Qx2",
           "_ts": 1787823348.236917
-        },
-        {
-          "name": "에뛰드 수분 가득 콜라겐 스킨케어 2종 세트, 1세트",
-          "price": "15,370원",
-          "discount_rate": 41,
-          "priceAt": "08.27 17:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/542751781287798-702c1f6d-d07c-4f81-96b0-5e23a00f6eaf.jpg",
-          "url": "https://link.coupang.com/a/gymDV0SCjI",
-          "_ts": 1787817996.7268841
         }
       ]
     },
@@ -779,6 +770,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "대숲맑은 담양쌀, 특등급, 10kg, 1개",
+          "price": "32,900원",
+          "discount_rate": 40,
+          "priceAt": "09.01 18:17",
+          "image": "https://shopping.toss.im/live/taca/ai/v2/MmE2ZjNi/THdaYTlIbXJsWVcwcitaYUMxWnB0dm1RM29WVUszSnBVNmVwMXFsVVZpaz0.png",
+          "url": "https://toss.im/_m/Pb9ctOkw",
+          "_ts": 1788254270.31632
+        },
         {
           "name": "풀무원샘물 라벨랜덤, 500ml, 20개",
           "price": "4,604원",
@@ -1246,15 +1246,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-12-15/8c6380d4-abb8-4592-903b-3b022fa12cde.jpeg",
           "url": "https://toss.im/_m/zegrcsBs",
           "_ts": 1787822357.1993222
-        },
-        {
-          "name": "떴닭 로스트 치킨, 1kg, 2개",
-          "price": "12,540원",
-          "discount_rate": 40,
-          "priceAt": "08.27 17:07",
-          "image": "https://shopping.toss.im/live/temp/2026-02-10/b5cbdae4-a8c5-45e2-8248-f8ec6f58edde.jpeg",
-          "url": "https://toss.im/_m/Rob6AuTp",
-          "_ts": 1787818062.208649
         }
       ]
     },
