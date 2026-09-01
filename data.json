@@ -744,24 +744,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/611413588396936-a09279e7-2ebd-43ff-b0c5-a68d708a41b5.jpg",
           "url": "https://link.coupang.com/a/gyGJaW29qC",
           "_ts": 1787834859.9148538
-        },
-        {
-          "name": "해태제과 구운감자, 24g, 2개",
-          "price": "670원",
-          "discount_rate": null,
-          "priceAt": "08.27 20:59",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/209799032595664-f29d6c61-d470-483d-8939-0a8a8cfafd45.jpg",
-          "url": "https://link.coupang.com/a/gyDgSWeAfc",
-          "_ts": 1787831958.59445
-        },
-        {
-          "name": "배홍동 막국수 114g, 12개",
-          "price": "9,000원",
-          "discount_rate": 24,
-          "priceAt": "08.27 20:33",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/603635707696969-e3ae84a1-3930-41a5-becf-a4a9a0c7b5a0.jpg",
-          "url": "https://link.coupang.com/a/gyBpqcn0YC",
-          "_ts": 1787830394.3785138
         }
       ]
     },
@@ -770,6 +752,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "흑돼지 일품삼겹, 구이용, 1kg, 1팩",
+          "price": "12,900원",
+          "discount_rate": 64,
+          "priceAt": "09.01 21:11",
+          "image": "https://shopping.toss.im/live/temp/2026-07-20/7b04afd4-2cee-48aa-b2ff-242c7f95039b.png",
+          "url": "https://toss.im/_m/h0fOoTcv",
+          "_ts": 1788264692.68261
+        },
         {
           "name": "서서갈비, 1kg, 2팩",
           "price": "17,900원",
@@ -1237,15 +1228,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/MzI1Yjk1/SjVxekV1RVNOell5Wk1XNjVadVhFOVNTVmxwelp0SENSS2xqcERnN2Z4Yz0.png",
           "url": "https://toss.im/_m/JxTO3G1g",
           "_ts": 1787834058.970828
-        },
-        {
-          "name": "페이보잇 치즈폭탄 스파게티 미트토마토, 340g, 4개",
-          "price": "19,900원",
-          "discount_rate": 49,
-          "priceAt": "08.27 20:53",
-          "image": "https://shopping.toss.im/live/taca/ai/N2IxNWM2/VCtDWnNtMmJPeVNXTTN1enVaODVqemU3WVpzYmVPV200MEhFdEIxZ210QT0.png",
-          "url": "https://toss.im/_m/rlY0gLGu",
-          "_ts": 1787831627.725906
         }
       ]
     },
