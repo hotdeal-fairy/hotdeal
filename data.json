@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "케라시스 케라마이드 극손상 헤어트리트먼트, 1L, 1개",
+          "price": "5,980원",
+          "discount_rate": 60,
+          "priceAt": "09.01 12:24",
+          "image": "https://image12.coupangcdn.com/image/retail/images/98679915779588-e71368f1-3826-4516-a88b-eaf771f2e839.jpg",
+          "url": "https://link.coupang.com/a/gGkZhlQ89k",
+          "_ts": 1788233056.483208
+        },
+        {
           "name": "오비안 모던 규조토 욕실 주방 발매트 대형, 대형(120x40), 베이지스트라이프",
           "price": "9,800원",
           "discount_rate": 48,
@@ -744,15 +753,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/430530046401509-3d012ce2-f13f-49fb-a357-b413d95b063a.jpg",
           "url": "https://link.coupang.com/a/gx6xdqsEF2",
           "_ts": 1787804472.495253
-        },
-        {
-          "name": "메종오브제 시에르 딜라잇 커트러리 샤틴 4인 수저세트, 실버, 숟가락 + 젓가락, 4세트",
-          "price": "7,360원",
-          "discount_rate": 40,
-          "priceAt": "08.27 12:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/27/14/8/6ba67c9c-6400-44e6-920c-77fc9a9b8664.jpg",
-          "url": "https://link.coupang.com/a/gx101B9YFo",
-          "_ts": 1787800678.2459111
         }
       ]
     },
