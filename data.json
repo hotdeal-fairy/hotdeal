@@ -753,6 +753,15 @@
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
+          "price": "16,500원",
+          "discount_rate": 52,
+          "priceAt": "09.01 14:27",
+          "image": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
+          "url": "https://toss.im/_m/flcjiNhh",
+          "_ts": 1788240454.543481
+        },
+        {
           "name": "맛장군 열무김치, 2kg, 1팩",
           "price": "10,900원",
           "discount_rate": 69,
