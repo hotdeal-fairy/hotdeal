@@ -753,24 +753,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/27/14/8/6ba67c9c-6400-44e6-920c-77fc9a9b8664.jpg",
           "url": "https://link.coupang.com/a/gx101B9YFo",
           "_ts": 1787800678.2459111
-        },
-        {
-          "name": "가쯔 심플쿡 냉동밥 전자레인지 용기 인디핑크, 400ml, 16개",
-          "price": "4,420원",
-          "discount_rate": 31,
-          "priceAt": "08.27 11:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/176189166793562-5b4286db-b03f-427d-a6d0-fce627fe7bd4.jpg",
-          "url": "https://link.coupang.com/a/gxWSdVEGhU",
-          "_ts": 1787796360.1466072
-        },
-        {
-          "name": "보노 콘스프, 57g, 10개, 57g × 10개",
-          "price": "15,220원",
-          "discount_rate": 33,
-          "priceAt": "08.27 10:57",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/cded/19b39a6165c072844409ec1ea78e805bdfb074d41b3117b153743c0b5cd3.jpg",
-          "url": "https://link.coupang.com/a/gxWiu0PiIS",
-          "_ts": 1787795877.226068
         }
       ]
     },
@@ -779,6 +761,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "리벤스 로얄플러스 물티슈, 캡형, 70매, 10팩",
+          "price": "9,800원",
+          "discount_rate": 68,
+          "priceAt": "09.01 11:51",
+          "image": "https://shopping.toss.im/live/taca/ai/ZDdjNzBj/TDJXKys3VE9kLy9hM3YrL3l0UC96NkY3M3Y0M0lXbjdKNkcyODFyVS8rMD0.png",
+          "url": "https://toss.im/_m/n8n3ctr2",
+          "_ts": 1788231098.557759
+        },
         {
           "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
           "price": "9,900원",
@@ -1255,15 +1246,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-12-16/7abc2a0c-20a3-4f5a-9cc2-757f64d5cf4a.jpeg",
           "url": "https://toss.im/_m/nKSuV7cq",
           "_ts": 1787801571.328356
-        },
-        {
-          "name": "스킨구하리 리바이브 테라피 엔에프 앰플, 30ml, 1개",
-          "price": "12,900원",
-          "discount_rate": 71,
-          "priceAt": "08.27 11:16",
-          "image": "https://shopping.toss.im/live/temp/2026-08-06/51487c2b-8145-497d-9410-19c35936206c.jpeg",
-          "url": "https://toss.im/_m/bvwb7Vjw",
-          "_ts": 1787797009.703294
         }
       ]
     },
