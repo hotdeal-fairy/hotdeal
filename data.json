@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "히말라야 립 밤, 무색, 10g, 2개",
+          "price": "3,730원",
+          "discount_rate": 52,
+          "priceAt": "09.01 17:01",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/388129544321648-3201fbd8-abf5-481d-8ba7-1f5e34f9c1ba.jpg",
+          "url": "https://link.coupang.com/a/gGELB2H3O8",
+          "_ts": 1788249664.356958
+        },
+        {
           "name": "스탠리 에브리데이 서버번 머그, 소프트 오키드, 473ml, 1개",
           "price": "24,220원",
           "discount_rate": 36,
@@ -762,15 +771,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/542751781287798-702c1f6d-d07c-4f81-96b0-5e23a00f6eaf.jpg",
           "url": "https://link.coupang.com/a/gymDV0SCjI",
           "_ts": 1787817996.7268841
-        },
-        {
-          "name": "조이펫 강아지 야채와 과일 동결건조 간식, 오리고기, 30g, 4개",
-          "price": "7,720원",
-          "discount_rate": 45,
-          "priceAt": "08.27 16:38",
-          "image": "https://image4.coupangcdn.com/image/rs_quotation_api/pnamnfwq/371b5ef0f5a74751ac6a67dfaecceca4.jpg",
-          "url": "https://link.coupang.com/a/gykCjTM5V6",
-          "_ts": 1787816295.8526201
         }
       ]
     },
