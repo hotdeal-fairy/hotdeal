@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "바겐슈타이거 연마제 없는 스텐 사각 트레이 세트, No.03(355 x 265 x 50 mm), 밧드 + 랙 + 트레이, 1세트",
+          "price": "10,900원",
+          "discount_rate": 64,
+          "priceAt": "09.02 10:54",
+          "image": "https://image11.coupangcdn.com/image/retail/images/50006596118834-576d072c-d091-4490-ab3e-4c358695b503.jpg",
+          "url": "https://link.coupang.com/a/gHTrE7IL00",
+          "_ts": 1788314045.1609862
+        },
+        {
           "name": "오뚜기 로열라면 120g, 4개",
           "price": "2,550원",
           "discount_rate": 36,
@@ -735,24 +744,6 @@
           "image": "https://img5a.coupangcdn.com/image/1025_amir_coupang_oct_80k/6309/07772975c72030f5b8abbec4a6cf31fa4b776cbdcff3ae4761a6bd2965ff.jpg",
           "url": "https://link.coupang.com/a/gzEodkcI44",
           "_ts": 1787884954.186126
-        },
-        {
-          "name": "나우푸드 울트라 오메가 3 500 EPA 250 DHA 소프트젤, 180정, 1개",
-          "price": "27,880원",
-          "discount_rate": 28,
-          "priceAt": "08.28 10:06",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b644/1ba79ee7ac43d1f92b0ac28c5ec5dba00551024b2a98ec91ec6306425752.jpg",
-          "url": "https://link.coupang.com/a/gzxv62hBTg",
-          "_ts": 1787879182.398605
-        },
-        {
-          "name": "오뚜기 X.O.교자 (냉동), 1.008kg, 1개, 1.008kg × 1개",
-          "price": "6,590원",
-          "discount_rate": 32,
-          "priceAt": "08.28 10:02",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6320027936479-72291c9f-0730-44f9-921c-6f9e23ee364c.jpg",
-          "url": "https://link.coupang.com/a/gzxeRlHb2G",
-          "_ts": 1787878949.021333
         }
       ]
     },
