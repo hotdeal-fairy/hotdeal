@@ -699,15 +699,6 @@
           "image": "https://image13.coupangcdn.com/image/vendor_inventory/image_audit/prod/99200944-08c7-4db5-844f-978cf336e1b3_fixing_v2.png",
           "url": "https://link.coupang.com/a/gz7EuPr6Fo",
           "_ts": 1787909523.3588128
-        },
-        {
-          "name": "센토 주니어 세이프 딥클린 초미세모 어린이 칫솔 스텝3, 혼합색상, 12개입, 2세트",
-          "price": "11,160원",
-          "discount_rate": 49,
-          "priceAt": "08.28 16:59",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/375119748023697-be7ce0a8-f6b5-44d4-a58e-820cf7d86556.jpg",
-          "url": "https://link.coupang.com/a/gz03kUfuRo",
-          "_ts": 1787903981.744694
         }
       ]
     },
@@ -716,6 +707,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "클리오 덴티메이트 오리지널 초극세모, 10개입, 3개",
+          "price": "9,900원",
+          "discount_rate": 33,
+          "priceAt": "09.02 18:03",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTlkNTg1/Y1F2bllTMGNoR1B5RFNabmQreWNMN09oNWhYQTVMbStVUk5lRkVIV00vbz0.png",
+          "url": "https://toss.im/_m/pMT83Tdr",
+          "_ts": 1788339784.469653
+        },
         {
           "name": "CJ제일제당 스팸 클래식, 340g, 10개",
           "price": "36,900원",
@@ -1174,15 +1174,6 @@
           "image": "https://shopping.toss.im/live/temp/2025-12-11/cd8e28fd-c3bf-4cf8-b210-8e62ff51fe68.jpeg",
           "url": "https://toss.im/_m/Fwi7rm9h",
           "_ts": 1787907825.819755
-        },
-        {
-          "name": "수입 대패삼겹, 1kg, 2팩",
-          "price": "15,040원",
-          "discount_rate": 62,
-          "priceAt": "08.28 17:07",
-          "image": "https://shopping.toss.im/live/temp/2026-08-04/900dfa86-ac6c-46b5-87fd-c1ad501781e8.jpeg",
-          "url": "https://toss.im/_m/3La36Dy3",
-          "_ts": 1787904436.178323
         }
       ]
     },
