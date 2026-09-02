@@ -681,24 +681,6 @@
           "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/15093778825607-2e5dde4a-56e0-427c-96b3-57d7f9e9f129.jpg",
           "url": "https://link.coupang.com/a/gAcVrpFxDg",
           "_ts": 1787913950.734752
-        },
-        {
-          "name": "모리나가 제과 포테롱 감자 스틱 45g 10개, 45g, 10개",
-          "price": "12,250원",
-          "discount_rate": 50,
-          "priceAt": "08.28 18:39",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2f2f/be619a4eb06c5d5a93f3807a551ff65c33025cec89d677b4f94647184371.jpg",
-          "url": "https://link.coupang.com/a/gz8cxeec2K",
-          "_ts": 1787909983.3893492
-        },
-        {
-          "name": "맑은내일 양파껍질차, 500ml, 24개",
-          "price": "24,150원",
-          "discount_rate": 65,
-          "priceAt": "08.28 18:32",
-          "image": "https://image13.coupangcdn.com/image/vendor_inventory/image_audit/prod/99200944-08c7-4db5-844f-978cf336e1b3_fixing_v2.png",
-          "url": "https://link.coupang.com/a/gz7EuPr6Fo",
-          "_ts": 1787909523.3588128
         }
       ]
     },
@@ -707,6 +689,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "펩시콜라 제로 슈거 업소용, 라임향, 500ml, 20개",
+          "price": "15,082원",
+          "discount_rate": 49,
+          "priceAt": "09.02 19:06",
+          "image": "https://shopping.toss.im/live/taca/ai/YjlmOThj/QU5tV3BqM3JWTG5VZnFQY28rNnYwZEN4eTdLTHVidE1WRTFVTGp6WjBOSEQ.png",
+          "url": "https://toss.im/_m/vEH13GJy",
+          "_ts": 1788343598.57841
+        },
         {
           "name": "클리오 덴티메이트 오리지널 초극세모, 10개입, 3개",
           "price": "9,900원",
@@ -1165,15 +1156,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-24/b785d96f-49c4-44e1-8e5f-da2020ca503f.png",
           "url": "https://toss.im/_m/bItn99Sp",
           "_ts": 1787911608.392446
-        },
-        {
-          "name": "한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
-          "price": "12,540원",
-          "discount_rate": 63,
-          "priceAt": "08.28 18:03",
-          "image": "https://shopping.toss.im/live/temp/2025-12-11/cd8e28fd-c3bf-4cf8-b210-8e62ff51fe68.jpeg",
-          "url": "https://toss.im/_m/Fwi7rm9h",
-          "_ts": 1787907825.819755
         }
       ]
     },
