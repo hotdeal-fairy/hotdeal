@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "벡셀 아이프라임 알카라인 AA건전지, 40개입, 1개",
+          "price": "11,150원",
+          "discount_rate": 49,
+          "priceAt": "09.02 13:50",
+          "image": "https://image7.coupangcdn.com/image/1025_amir_coupang_oct_80k/9da9/b1b09cb3158f4644b9423ebcaba4ccee0062cc011476a0da859e6a957ee5.jpg",
+          "url": "https://link.coupang.com/a/gH51jRISmO",
+          "_ts": 1788324600.883223
+        },
+        {
           "name": "테팔 인덕션 티타늄 1X 데일리 컴포트 프라이팬, 28cm, 1개",
           "price": "25,980원",
           "discount_rate": 73,
@@ -726,15 +735,6 @@
           "image": "https://img1a.coupangcdn.com/image/retail/images/2026/03/22/9/2/cee52b31-96e2-44c9-ac60-7b1b16e9e63c.jpg",
           "url": "https://link.coupang.com/a/gzPN0mh4yi",
           "_ts": 1787894538.804679
-        },
-        {
-          "name": "케라시스 히트 액티브 극손상 바르는 트리트먼트, 220ml, 3개",
-          "price": "10,470원",
-          "discount_rate": 33,
-          "priceAt": "08.28 12:55",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/84857876178922-d12ca807-5bd1-4374-9f72-fe27669c9985.png",
-          "url": "https://link.coupang.com/a/gzJA7LA1y8",
-          "_ts": 1787889326.391506
         }
       ]
     },
@@ -1210,15 +1210,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-06-21/49760286-df18-49af-9c70-2c27287f6b7c.jpeg",
           "url": "https://toss.im/_m/xLawfafc",
           "_ts": 1787892831.4345222
-        },
-        {
-          "name": "연안식당 부추꼬막비빔장, 150g, 3개",
-          "price": "14,540원",
-          "discount_rate": 51,
-          "priceAt": "08.28 13:26",
-          "image": "https://shopping.toss.im/live/temp/2026-02-20/91d47f63-0415-492b-a453-cf813c750c12.jpeg",
-          "url": "https://toss.im/_m/77zKRTV",
-          "_ts": 1787891205.289176
         }
       ]
     },
