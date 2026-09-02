@@ -672,15 +672,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/308440530851449-8abfc250-7183-4aa7-a080-26d63fb04168.png",
           "url": "https://link.coupang.com/a/gAi7l59lCe",
           "_ts": 1787919185.1955972
-        },
-        {
-          "name": "개성 왕만두 (냉동), 1.2kg, 2개",
-          "price": "13,620원",
-          "discount_rate": 41,
-          "priceAt": "08.28 19:45",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/15093778825607-2e5dde4a-56e0-427c-96b3-57d7f9e9f129.jpg",
-          "url": "https://link.coupang.com/a/gAcVrpFxDg",
-          "_ts": 1787913950.734752
         }
       ]
     },
@@ -689,6 +680,15 @@
       "name": "토스쇼핑",
       "disclosure": "• 이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
+        {
+          "name": "땡큐파머스 구운란, 대란, 30구, 1개",
+          "price": "12,400원",
+          "discount_rate": 40,
+          "priceAt": "09.02 20:03",
+          "image": "https://shopping.toss.im/live/taca/ai/ZTZmNjA3/ZlJrb2MvMlh3Y0tDOG05ZUZsQjIzTkF1SlBrSDZDZ2ovUUg5QnNBVzI3UT0.png",
+          "url": "https://toss.im/_m/nume4A77",
+          "_ts": 1788346992.469183
+        },
         {
           "name": "펩시콜라 제로 슈거 업소용, 라임향, 500ml, 20개",
           "price": "15,082원",
@@ -1147,15 +1147,6 @@
           "image": "https://shopping.toss.im/live/taca/ai/NmE0Yzk5/UkFySGthUFRZNlZsbUxKY1NWWGtyVnNpQ3I4SHZ3bTJsbkowbThTdm5RRT0.png",
           "url": "https://toss.im/_m/F4m1jcXy",
           "_ts": 1787916677.29199
-        },
-        {
-          "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
-          "price": "7,260원",
-          "discount_rate": 54,
-          "priceAt": "08.28 19:06",
-          "image": "https://shopping.toss.im/live/temp/2026-06-24/b785d96f-49c4-44e1-8e5f-da2020ca503f.png",
-          "url": "https://toss.im/_m/bItn99Sp",
-          "_ts": 1787911608.392446
         }
       ]
     },
