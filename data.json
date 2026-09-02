@@ -29,10 +29,10 @@
           "name": "테스트",
           "price": "9,900원",
           "discount_rate": 35,
-          "priceAt": "09.02 16:28",
+          "priceAt": "09.02 16:30",
           "image": "images/placeholder.svg",
           "url": "https://link.coupang.com/re/AFFSDP?lptag=AF123&pageKey=111&itemId=2&vendorItemId=3",
-          "_ts": 1788334127.017298
+          "_ts": 1788334257.953536
         },
         {
           "name": "테스트상품",
