@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "테스트상품",
+          "price": "9,900원",
+          "discount_rate": 35,
+          "priceAt": "09.02 16:01",
+          "image": "images/placeholder.svg",
+          "url": "https://link.coupang.com/re/AFFSDP?lptag=AF123&pageKey=7654321",
+          "_ts": 1788332465.759323
+        },
+        {
           "name": "웅진빅토리아 청포도 탄산음료, 500ml, 20개",
           "price": "8,600원",
           "discount_rate": 24,
@@ -717,33 +726,6 @@
           "image": "https://image12.coupangcdn.com/image/1025_amir_coupang_oct_80k/ff8a/c3f4a6c454da67b60a4e10c816ea365a79807b9ffbe5c1101416acce82ab.jpg",
           "url": "https://link.coupang.com/a/gz0isTxoqq",
           "_ts": 1787903347.708315
-        },
-        {
-          "name": "피죤 초고농축 섬유유연제 체리블라썸, 1.3L, 3개",
-          "price": "9,590원",
-          "discount_rate": 39,
-          "priceAt": "08.28 15:14",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/f2fdcfb8-46cd-4427-9ec9-2b52b3b6f9b65552488073457820738.png",
-          "url": "https://link.coupang.com/a/gzTvM8692i",
-          "_ts": 1787897650.52315
-        },
-        {
-          "name": "오레오 웨하스 스틱 초코, 510g, 1개",
-          "price": "10,720원",
-          "discount_rate": 17,
-          "priceAt": "08.28 15:04",
-          "image": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/983889761555206-bc10601f-3b3e-4879-9ae0-d8c5214104a6.jpg",
-          "url": "https://link.coupang.com/a/gzSO0kdTIi",
-          "_ts": 1787897070.1678941
-        },
-        {
-          "name": "굿데이 강아지 건강한 육포",
-          "price": "7,930원",
-          "discount_rate": 46,
-          "priceAt": "08.28 14:22",
-          "image": "https://img1a.coupangcdn.com/image/retail/images/2026/03/22/9/2/cee52b31-96e2-44c9-ac60-7b1b16e9e63c.jpg",
-          "url": "https://link.coupang.com/a/gzPN0mh4yi",
-          "_ts": 1787894538.804679
         }
       ]
     },
@@ -1210,15 +1192,6 @@
           "image": "https://shopping.toss.im/live/temp/2026-08-04/900dfa86-ac6c-46b5-87fd-c1ad501781e8.jpeg",
           "url": "https://toss.im/_m/3La36Dy3",
           "_ts": 1787904436.178323
-        },
-        {
-          "name": "혼카레 도쿄식 정통 민찌카레, 오리지널, 210g, 10개",
-          "price": "23,800원",
-          "discount_rate": 65,
-          "priceAt": "08.28 15:56",
-          "image": "https://shopping.toss.im/live/temp/2026-07-22/3ca6cfea-f863-4860-b14d-25134c831ee9.jpeg",
-          "url": "https://toss.im/_m/BnaXv3lh",
-          "_ts": 1787900189.717747
         }
       ]
     },
