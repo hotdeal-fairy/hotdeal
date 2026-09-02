@@ -26,6 +26,15 @@
       "disclosure": "• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n• 와우회원 카드할인/쿠폰적용가 기준입니다.\n• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!",
       "products": [
         {
+          "name": "오뚜기 로열라면 120g, 4개",
+          "price": "2,550원",
+          "discount_rate": 36,
+          "priceAt": "09.02 09:24",
+          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/14/11/5/67e07364-5ab8-4395-9886-ff97c08df661.jpg",
+          "url": "https://link.coupang.com/a/gHM13L6oma",
+          "_ts": 1788308660.284757
+        },
+        {
           "name": "가그린 오리지널 구강청결제, 1.2L, 2개",
           "price": "8,850원",
           "discount_rate": 63,
@@ -744,15 +753,6 @@
           "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6320027936479-72291c9f-0730-44f9-921c-6f9e23ee364c.jpg",
           "url": "https://link.coupang.com/a/gzxeRlHb2G",
           "_ts": 1787878949.021333
-        },
-        {
-          "name": "띵크유어도그티 강아지 딩고껌 중형 6P, 치킨, 240g, 2개",
-          "price": "3,700원",
-          "discount_rate": 65,
-          "priceAt": "08.28 09:17",
-          "image": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2022/12/28/17/4/7f0e19ca-0124-4988-9c49-b8e4c788b6b5.jpg",
-          "url": "https://link.coupang.com/a/gztZW0Q0Lk",
-          "_ts": 1787876227.318496
         }
       ]
     },
